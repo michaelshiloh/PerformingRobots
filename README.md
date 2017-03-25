@@ -1,4 +1,4 @@
-Experimental Robots for Theatrical Performance
+Performing Robots
 ==============================================
 (always subject to change)
 

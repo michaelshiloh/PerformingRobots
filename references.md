@@ -1,7 +1,6 @@
 ## History
 
-1. Karel Čapek. R.U.R. (Rossum's Universal Robots)
-Golem is described,  and the next is 
+1. Karel Čapek. R.U.R. (Rossum's Universal Robots) Golem is described
 
 2. Asimov's Runaround 
 

@@ -6,6 +6,9 @@
 
 3. Tinguely and the woman he collaborated with 
 
+4. [a history of cybernetic animals and early
+robots](http://cyberneticzoo.com/)
+
 ## Articles
 
 1. http://journals.sagepub.com/doi/pdf/10.5772/50644
@@ -23,6 +26,9 @@ Theatre](http://wustl.probablydavid.com/publications/ontology.pdf)
 6. [What is Theatre
 Robotics](http://bostoncommons.net/what-is-theater-robotics/)
 Robotics?](http://bostoncommons.net/what-is-theater-robotics/)
+
+7. Shannon, C. E. (1948). A mathematical theory of communication.  The Bell
+System Technical Journal, Vol. 27
 
 ## Troupes
 
@@ -57,7 +63,7 @@ Project](http://www.japansociety.org/event/seinendan-theater-company-osaka-unive
 
 4. [Ajay Kapur]( http://karmetik.com/publications)
 
-## Books 
+## Books
 
 3. The Glass Bees by Ernst Juenger
 
@@ -109,18 +115,26 @@ Movements](https://www.amazon.com/507-Mechanical-Movements-Henry-Brown/dp/161427
   whom I think he is still at UC Irvine but seems to have dropped
   off the Art Map.
 
+15. Industrial Culture Handbook www.researchpubs.com
+
+16. Pranks www.researchpubs.com
+
 ## Candidates for Reader
 
 1. Survey chapter from "Art and Electronic Media" by Edward A. Shanken
 
-2.  [A Spectacular
+2. [A Spectacular
 Simulacra](http://schip666.blogspot.com/2013/01/a-spectacular-simulacra.html)
 
-3.
-[this](http://www.etantdonnes.com/SystemsArt/cyberneticSerendipityCatalog.pdf)
+3. [this](http://www.etantdonnes.com/SystemsArt/cyberneticSerendipityCatalog.pdf)
 
-4.
-[this](http://www.etantdonnes.com/SystemsArt/Montfort2003_NewMediaReader_17-software-03.pdf)
+4. [this](http://www.etantdonnes.com/SystemsArt/Montfort2003_NewMediaReader_17-software-03.pdf)
+
+5. [Analysis](http://schip666.blogspot.com/2014/07/feeling-abandoned-meta-analysis.html)
+of an interactive autonomous robot. 
+
+15. [Cybernetics Or Control and Communication in the Animal and the
+Machine](https://www.amazon.com/Cybernetics-Second-Control-Communication-Machine/dp/1614275025/ref=sr_1_1?ie=UTF8&qid=1490657642&sr=8-1&keywords=Cybernetics+Or+Control+and+Communication+in+the+Animal+and+the+Machine)
 
 ## Unsorted
 
@@ -169,6 +183,9 @@ theater.
 
 8. Shannon's Information Theory
 
+9. [Grey
+Walter](http://cyberneticzoo.com/cyberneticanimals/w-grey-walter-and-his-tortoises/)
+
 
 ## Notes
 
@@ -180,3 +197,6 @@ are machines. Humans are present only as operators
 
 3. "Automata" vs. "Autonomous beings"
 
+4. What is interactive?
+
+5. Grey Walter

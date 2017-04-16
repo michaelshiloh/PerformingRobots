@@ -4,8 +4,6 @@
 
 2. Asimov's Runaround 
 
-3. Tinguely and the woman he collaborated with 
-
 4. [a history of cybernetic animals and early
 robots](http://cyberneticzoo.com/)
 
@@ -46,6 +44,8 @@ Project](http://www.japansociety.org/event/seinendan-theater-company-osaka-unive
 ## Artists
 
 1. [Simone Giertz](https://youtu.be/WcW70-6eQcY)
+
+3. Tinguely and the woman he collaborated with 
 
 6. [Kal Spelletich](http://www.kaltek.org)
 
@@ -119,6 +119,9 @@ Movements](https://www.amazon.com/507-Mechanical-Movements-Henry-Brown/dp/161427
 
 16. Pranks www.researchpubs.com
 
+15. [Cybernetics Or Control and Communication in the Animal and the
+Machine](https://www.amazon.com/Cybernetics-Second-Control-Communication-Machine/dp/1614275025/ref=sr_1_1?ie=UTF8&qid=1490657642&sr=8-1&keywords=Cybernetics+Or+Control+and+Communication+in+the+Animal+and+the+Machine)
+
 ## Candidates for Reader
 
 1. Survey chapter from "Art and Electronic Media" by Edward A. Shanken
@@ -132,9 +135,6 @@ Simulacra](http://schip666.blogspot.com/2013/01/a-spectacular-simulacra.html)
 
 5. [Analysis](http://schip666.blogspot.com/2014/07/feeling-abandoned-meta-analysis.html)
 of an interactive autonomous robot. 
-
-15. [Cybernetics Or Control and Communication in the Animal and the
-Machine](https://www.amazon.com/Cybernetics-Second-Control-Communication-Machine/dp/1614275025/ref=sr_1_1?ie=UTF8&qid=1490657642&sr=8-1&keywords=Cybernetics+Or+Control+and+Communication+in+the+Animal+and+the+Machine)
 
 ## Unsorted
 
@@ -198,5 +198,3 @@ are machines. Humans are present only as operators
 3. "Automata" vs. "Autonomous beings"
 
 4. What is interactive?
-
-5. Grey Walter

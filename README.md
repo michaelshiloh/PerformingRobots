@@ -1,7 +1,7 @@
-##New York University Abu Dhabi
-##Interactive Media
-###Course Number TBD: Performing Robots
-###Fall 2017  
+## New York University Abu Dhabi
+## Interactive Media
+### Course Number TBD: Performing Robots
+### Fall 2017  
 
 Credits Hours: 4
 Prerequisites: None
@@ -22,7 +22,7 @@ Office Hours: TBD
 Interactive Media lab anytime, or send me an email to set up an appointment at
 a particular time.)
 
-###Course Description
+### Course Description
 
 As new technologies are developed, artists are among the first to apply these
 technologies in ways that were unanticipated by the designers. Sometimes
@@ -57,7 +57,7 @@ Starting with electronic, programming, and mechanical projects, each student
 will finally design and construct their own performative robot.  The course
 will culminate with a performance using these robots.
 
-###Course Objectives: (TODO)
+### Course Objectives: (TODO)
 When the course is finished, students will:
 - Identify 
 - Have gained an understanding of how machines can be interactive and 
@@ -71,30 +71,30 @@ When the course is finished, students will:
 - Learn how to define and build a Minimum Viable Project, and how to adapt
 	dependencies (e.g. scripts) to changing abilities
 
-###Course Assignments
+### Course Assignments
 This course consists of theoretical readings and discussions,
 technical training in electronics, programming, and mechatronics,
 designing, fabricating, and programming a performing robot,
 and putting on a final performance.
 
-####Readings
+#### Readings
 Readings will include selections from books, essays, articles, and research
 papers both in print and in online form. The readings will introduce students
 to the history, current state, and critique of autonomous interactive
 robotic art, as well as covering technical topics.
 
-####Reading Response 
+#### Reading Response 
 Each student is expected to post a response to one of the readings of their
 choosing the day before the lecture. The response should be between 300 and
 500 words and should be posted on a public website (e.g. Tumblr, Blogger, 
 Wordpress, Github, the class website, or your own website). 
 
 
-####Projects
+#### Projects
 Class projects will consist of 2 short projects leading up to a major third
 project
 
-###Grading
+### Grading
 -------
 **10%** Attendance  
 **10%** Participation  
@@ -102,9 +102,9 @@ project
 **25%** Projects #1 & #2      
 **30%** Final Project    
 
-###Projects
+### Projects
 
-###Readings
+### Readings
 Readings will include selections from books, essays, articles, and research
 papers both in print and in online form. 
 
@@ -112,18 +112,18 @@ All required and recommended readings will be available electronically.
 
 Supplemental readings will be available on the class GitHub or in the library.
 
-####Required Textbooks
+#### Required Textbooks
 There are no required textbooks.
 
-####Recommended Textbooks
+#### Recommended Textbooks
 There are no recommended textbooks.
 
-####Supplemental Textbooks
+#### Supplemental Textbooks
 See section titled "Books" [here](references.md)
 
-###Attendance and Participation
+### Attendance and Participation
 
-####Attendance and late arrivals
+#### Attendance and late arrivals
 Attendance and arrival on time to all class sessions is required and
 expected. Two unexcused absences lower your final grade by a letter.  Each
 subsequent unexcused absence will lower another letter grade. Two late
@@ -134,7 +134,7 @@ If you will be missing a class due to illness or unavoidable personal
 circumstances, you must notify your professor in advance via email for the
 absence to be eligible to be excused.
 
-####Participation
+#### Participation
 Showing up on time, engaging in the class discussion, and offering advice and
 input during class is a major part of your grade. Participating in class is
 helpful for me to get to know you as an individual and keep track of your
@@ -156,19 +156,19 @@ an opportunity to learn.
 Ask questions. If you do not ask questions, I can only assume that you are not
 prepared for the lesson.
 
-####Laptops
+#### Laptops
 Laptop use will be expected in class, but should be focused on class-specific
 material, applications, and research. Whenever classmates are presenting
 please keep your laptop closed. The quality of the class depends in large part
 on your engagement and active participation, so please respect your fellow
 classmates and close your lid.
 
-####Mobile Phones
+#### Mobile Phones
  Please put them on vibrate or turn them off before you come to class. If you
 have an emergency that requires you to answer your phone during class, please
 let me know me ahead of time or quietly step out of class to take the call.
 
-####Communicate
+#### Communicate
 If you have any questions, would like extra help, or need further instruction,
 please reach out to me. You can communicate with me via e-mail, sign up for
 ofice hours, speak with me before class, after class or during break, but
@@ -176,7 +176,7 @@ please let me know if you have any concerns pertaining to the course. I am
 very willing to help, but you have to take the first step of reaching out to
 me.
 
-###Academic Integrity
+### Academic Integrity
 As set forth in NYU Abu Dhabi's Academic Integrity Policy, the relationship
 between students and 
 faculty at NYU Abu Dhabi is defined by a shared commitment to academic

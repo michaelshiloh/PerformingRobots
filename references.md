@@ -24,6 +24,10 @@ Theatre](http://wustl.probablydavid.com/publications/ontology.pdf)
 Robotics?](http://bostoncommons.net/what-is-theater-robotics/)
 
 7. Shannon, C. E. (1948). A mathematical theory of communication.  The Bell
+
+8. [Art and Technology: The Panacea That
+Failed](http://www.etantdonnes.com/SystemsArt/Burnham_Panacea_1980.pdf) Jack  Burnham, from _The
+Myths  of  Information_  edited by Kathleen  Woodward, Coda  Press,  1980  
 System Technical Journal, Vol. 27
 
 ## Troupes

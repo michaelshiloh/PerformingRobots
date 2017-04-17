@@ -1,6 +1,7 @@
 ## History
 
-1. Karel Čapek. R.U.R. (Rossum's Universal Robots) Golem is described
+1. Karel Čapek. [R.U.R. (Rossum's Universal
+Robots)](http://preprints.readingroo.ms/RUR/rur.pdf)
 
 2. Asimov's Runaround 
 
@@ -19,10 +20,7 @@ Performers](http://guyhoffman.com/publications/HoffmanRSS11Workshop.pdf)
 4. [Ontology of Robot
 Theatre](http://wustl.probablydavid.com/publications/ontology.pdf)
 
-5. [What is Theater
-
 6. [What is Theatre
-Robotics](http://bostoncommons.net/what-is-theater-robotics/)
 Robotics?](http://bostoncommons.net/what-is-theater-robotics/)
 
 7. Shannon, C. E. (1948). A mathematical theory of communication.  The Bell
@@ -122,6 +120,21 @@ Movements](https://www.amazon.com/507-Mechanical-Movements-Henry-Brown/dp/161427
 15. [Cybernetics Or Control and Communication in the Animal and the
 Machine](https://www.amazon.com/Cybernetics-Second-Control-Communication-Machine/dp/1614275025/ref=sr_1_1?ie=UTF8&qid=1490657642&sr=8-1&keywords=Cybernetics+Or+Control+and+Communication+in+the+Animal+and+the+Machine)
 
+16. Physical Computing: Sensing and Controlling the Physical
+World with Computers by Igoe/O'Sullivan
+
+17. Cabaret Mechanical Movement by Gary Alexander and Aidan Lawrence-Onn ISBN-13: 978-0952872931
+
+18. Making Simple Automata by Robert Race  ISBN-13: 978-1847977441
+
+19. "How to Build Simple Automata" book (PDF)
+
+20. "Making Things Move" 
+
+21. "Robots and Art: Exploring an Unlikely Symbiosis" Editors: Herath, Damith,
+Kroos, Christian, Stelarc (Eds.) ISBN 978-981-10-0319-6
+
+
 ## Candidates for Reader
 
 1. Survey chapter from "Art and Electronic Media" by Edward A. Shanken
@@ -139,10 +152,10 @@ of an interactive autonomous robot.
 ## Unsorted
 
 7. "Robots As Media"
-(syllabus)[http://www.peterasaro.org/courses/2016Robots.html]
+[syllabus](http://www.peterasaro.org/courses/2016Robots.html)
 from The New School's [Peter Asaro](https://twitter.com/PeterAsaro)
 
-3. [musical robots, the program at CalArts, ](http://karmetik.com/sites/default/files/publications/2010_nime_robot_0.pdf)
+3. [Musical robots program at CalArts, ](http://karmetik.com/sites/default/files/publications/2010_nime_robot_0.pdf)
 
 5. Mark Dery - documentary and books
 

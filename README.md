@@ -18,45 +18,44 @@ Instructor: Michael Shiloh
 Email: m.shiloh@nyu.edu  
 Office: Arts Center Room: TBD
 Office Hours: TBD
-(I maintain an open door policy. Feel free to stop by my office or the IM lab
-anytime, or send me an email to set up an appointment at a particular time.)
+(I maintain an open door policy. Feel free to stop by my office or the
+Interactive Media lab anytime, or send me an email to set up an appointment at
+a particular time.)
 
 ###Course Description
 
-In this course we will learn about and build Experimental Robots for
-Theatrical Performance. Consisting of both theory and practice studnets will
-learn about electronics, programming, robotics, and mechanical construction
-techniques, as well as the use of machines in theatrical performances, both
-historical and contemporary. We define robots very broadly, and consider a
-broad range of machines both autonomous and remote-controlled. 
+As new technologies are developed, artists are among the first to apply these
+technologies in ways that were unanticipated by the designers. Sometimes
+resulting in surprisingly practical new applications of the technology,
+artists also explore its meaning and significance to the human condition.
 
-Consisting of lecture, discussion, and hands-on construction, students will go
-through some electro-mechanical construction exercises before moving on to the
-major project of the course: building a robot. The course will culminate with
-a performance.
+What will be the effects of living among robots? What will it feel like to us
+humans? What will the robots look like? If the history of predictions has
+taught us anything, it's that predictions are often inaccurate. We don't
+expect that our future with robots will look very much like most science
+fiction depictions.
 
-TODO: flesh out the big ideas/questions that the class is addressing. Is it
-"How do you design an automated performance" or "How do we assign emotional
-characteristics to robots" or "How do behaviors convey meaning" or
-something(s) else?
+Students will learn about and build Experimental Robots for Theatrical
+Performance. Material covered includes the history, critique, and current
+state of robots (and related machines) in the context of art.  Questions we
+will attempt to address include: "Beyond the element of novelty, can robotic
+performances be compelling?", "Why make robotic performances?", "What can
+robotic performers do that human performers can't, and is that important for a
+performance?", "Using limited technology and tools, how can we create robots
+to convey meaning and emotion?" and "How can technology be used meaningfully,
+rather than just to rescue a weak artistic concept?". On a more technical
+level, we will learn about interactivity and autonomy, and explore the tension
+between these and remote controlled devices.
 
-TODO:  add a bit more language in both the "Course Description" section and
-the "Learning Objectives" list that speaks to the "big picture questions" that
-the course will address. The UCC is constantly asking us to keep the "liberal
-arts" in mind when we develop our courses, which, in their words, means - "why
-do we care about this" and "what does this have to do with the human
-condition".  They are fine with our classes being heavily project-based, but
-it really helps if we can clearly articulate why making these types of
-projects are relevant and meaningful.  This was one of the big notes we
-received when we first proposed IM to become a major in that our program read
-as being a bit too applied and that we needed to do a better job explaining
-the importance of learning through making. So, for example, adding language
-like "...from automated cars to home service assistants...intelligent
-robots/machines are steadily becoming our daily companions... How can we can
-make sense of these human-like machines...how can we manage our dependence on
-them...how can we leverage art and design to influence and steer the robots of
-our future..." or something ...  Depending on the questions we want to
-investigate.
+Consisting of theory and practice students will learn about electronics,
+programming, robotics, and mechanical construction techniques, as well as the
+use of machines in theatrical performances, both historical and contemporary.
+We define robots very broadly, and consider a broad range of machines both
+autonomous and remote-controlled.
+
+Starting with electronic, programming, and mechanical projects, each student
+will finally design and construct their own performative robot.  The course
+will culminate with a performance using these robots.
 
 ###Course Objectives: (TODO)
 When the course is finished, students will:
@@ -274,84 +273,147 @@ Schedule
 * **Individual robot construction**
 * **Performance**
 
-#### Classes 01 (08/xx) Introduction to Arduino, readings
+#### Class 01 (08/xx) Introduction to Arduino, readings
 - Overview + Syllabus
 - Examples
 - Resources
 - Student Introductions
+- Reading assignment: 
+	- Items 1 through 8 of [Basic Arduino
+	Resources](https://github.com/michaelshiloh/resourcesForClass/#basic-arduino-resources)
 
-#### Classes 02 (09/xx) Introduction to Arduino, readings
+	- Karel Čapek. [R.U.R. (Rossum's Universal
+Robots)](http://preprints.readingroo.ms/RUR/rur.pdf)
+
+
+#### Class 02 (09/xx) Introduction to Arduino, readings
 - Introduction to Electronics: Basic Arduino
+- Reading assignment:  
+	- [a history of cybernetic animals and early
+	robots](http://cyberneticzoo.com/)
 
-#### Classes 03 (09/06) 
-- Readings and discussion: Cybernetics, Automata, and Robotics
+	- [Cyber-Systems
+		Timeline](http://www.etantdonnes.com/SystemsArt/timeline.html)
 
-#### Classes 04 (09/08)
-- Sensors and Analog I/O; Conditionals
+	- ["Getting Started" Guide to
+		Cybernetics](http://www.pangaro.com/definition-cybernetics.html)
 
-#### Classes 05 (09/15) 
-- Readings and discussion: 
-	Kinetics, Cybernetics, Robotics, and Technology in Art
+	- [The Machine as Artist: An
+		Introduction](https://github.com/michaelshiloh/resourcesForClass/blob/master/doc/theMachineAsArtistIntroduction.pdf)
 
-#### Classes 06 (09/20)
-- Motors and Controllers
+#### Class 03 (09/xx) 
+- Discussion: Cybernetics and Robotics
+- Reading assignment:
+	- “Robot and Cyborg Art” chapter from "Beyond Modern Sculpture" 
+		by Jack Burnham
 
-#### Classes 07 (09/22) 
-- State information and complex circuits,
+	- [Cybernetics and Art](http://www.artexetra.com/CyberneticsArtCultConv.pdf)
+
+	- [The Future of Responsive Systems in
+		Art](http://www.etantdonnes.com/SystemsArt/Burnham2sculpture.pdf)
+
+#### Class 04 (09/xx)
+- Discussion: Robots and Art
+- Lecture: Sensors and Analog I/O; Conditionals
+- Reading assignment:
+	- On Stage: [Robots as
+	Performers](http://guyhoffman.com/publications/HoffmanRSS11Workshop.pdf)
+
+	- [Ontology of Robot
+	Theatre](http://wustl.probablydavid.com/publications/ontology.pdf)
+
+	- [What is Theatre
+	Robotics?](http://bostoncommons.net/what-is-theater-robotics/)
+
+	- Items 1 through 6 of [Motor
+		Resources](https://github.com/michaelshiloh/resourcesForClass#motors)
+
+#### Class 05 (09/xx) 
+- Discussion: Theatre Robotics
+- Lecture: Motors
+- Reading assignment:
+	- All readings in [Edge
+		Detection](https://github.com/michaelshiloh/resourcesForClass#edge-detection)
+		resources
+
+	- All readings in [Arduino
+		Multitasking](https://github.com/michaelshiloh/resourcesForClass#arduino-multitasking-resources)
+		resources
+
+#### Class 06 (09/xx)
+- Lecture: State information and complex circuits,
 - Project 1 assigned: System with at least 3 sensors and 3 actuators
+- Reading assignment:
+	- Autonomy and Remote Control  (TBD)
 
-#### Classes 08 (09/27) 
-- Readings and discussion: Autonomy and Remote Control
+	- All readings in
+		[Wireless Technologies](https://github.com/michaelshiloh/resourcesForClass#wireless-technologies) 
 
 
-#### Classes 09 (09/29) 
+#### Class 07 (09/xx) 
+- Lecture: Remote Control
+- Work time
+
+#### Class 08 (09/xx) 
 - Work session
 
-#### Classes 10 (10/04) 
+
+#### Class 09 (09/xx) 
+
+#### Class 10 (10/xx) 
 - Project 1 presentations
 - Project 2 assigned: 
   Interactive Performative Machine (Autonomous or Remote Controlled)
 
-#### Classes 11 (10/06)
+#### Class 11 (10/xx)
 - Readings and discussion: What is a Performance
 
-#### Classes 12 (10/11)
+#### Class 12 (10/xx)
 	- Loops and Arrays
 
-#### Classes 13 (10/13)
+#### Class 13 (10/xx)
 - Readings and discussion: Robots in performance:
 	- Broad creative roles 
 	- functional tasks such as servants or police officers
 
-#### Classes 14 (10/18)
+#### Class 14 (10/xx)
 - Project 2 presentation
-- Classes and Objects
+- Class and Objects
 
-#### Classes 15 (10/27)
+#### Class 15 (10/xx)
 - Readings and discussion: Creating a Script
 
-#### Classes 16 (11/01) 
+#### Class 16 (11/xx) 
 - Blink without Delay
 
-#### Classes 17 (11/03) 
+#### Class 17 (11/xx) 
 - Readings and discussion: Creating a Character
 
-#### Classes 18 (11/08)
+#### Class 18 (11/xx)
 - Project 3 assigned: 
 	- Short group skit with (possibly modified) Project 2 machine 
 
-#### Classes 19 (11/10) rough functional prototype due, readings
-#### Classes 20 (11/15) rough functional prototype due, readings
+#### Class 19 (11/xx) 
+- rough functional prototype due, readings
 
-#### Classes 21 (11/17) refine robots and story, readings
-#### Classes 22 (11/22) refine robots and story, readings
+#### Class 20 (11/xx) 
 
-#### Classes 23 (11/24) Minimal Viable Project due, readings
-#### Classes 24 (11/29) Minimal Viable Project due, readings
+#### Class 21 (11/xx) 
+- refine robots and story, readings
 
-#### Classes 25 (12/06) Rewrite script to available functionality
-#### Classes 26 (12/08) Rewrite script to available functionality
+#### Class 22 (11/xx) 
 
-#### Classes 27 (12/13) Practice and final performance
-#### Classes 28 (12/15) Practice and final performance
+#### Class 23 (11/xx) 
+- Minimal Viable Project due, readings
+
+#### Class 24 (11/xx) 
+
+#### Class 25 (12/xx) 
+- Rewrite script to available functionality
+
+#### Class 26 (12/xx) 
+
+#### Class 27 (12/xx) Practice 
+
+#### Class 28 (12/xx) Final performance
 

@@ -3,12 +3,12 @@
 ### Course Number TBD: Performing Robots
 ### Fall 2017  
 
-Credits Hours: 4
-Prerequisites: None
-Classroom: TBD
-Time: TBD
-Class Website: TBD
-(always subject to change)
+Credits Hours: 4  
+Prerequisites: None  
+Classroom: TBD  
+Time: TBD  
+Class Website: TBD  
+(always subject to change)  
 
 This course counts towards the following NYUAD degree requirement: TBD
 

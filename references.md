@@ -30,6 +30,21 @@ Failed](http://www.etantdonnes.com/SystemsArt/Burnham_Panacea_1980.pdf) Jack  Bu
 Myths  of  Information_  edited by Kathleen  Woodward, Coda  Press,  1980  
 System Technical Journal, Vol. 27
 
+9. [The Machine as Artist: An
+Introduction](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/theMachineAsArtistIntroduction.pdf) Glenn W. Smith 1 and Frederic Fol Leymarie 
+
+1. Survey chapter from "Art and Electronic Media" by Edward A. Shanken
+
+2. [A Spectacular
+Simulacra](http://schip666.blogspot.com/2013/01/a-spectacular-simulacra.html)
+
+3. _Cybernetics and Serendipity_ [catalog](http://www.etantdonnes.com/SystemsArt/cyberneticSerendipityCatalog.pdf)
+
+4. [this](http://www.etantdonnes.com/SystemsArt/Montfort2003_NewMediaReader_17-software-03.pdf)
+
+5. [Analysis](http://schip666.blogspot.com/2014/07/feeling-abandoned-meta-analysis.html)
+of an interactive autonomous robot. 
+
 ## Troupes
 
 1. [Ullanta Performance Robotics](http://www.ullanta.com/ullanta/) is a
@@ -139,19 +154,6 @@ World with Computers by Igoe/O'Sullivan
 Kroos, Christian, Stelarc (Eds.) ISBN 978-981-10-0319-6
 
 
-## Candidates for Reader
-
-1. Survey chapter from "Art and Electronic Media" by Edward A. Shanken
-
-2. [A Spectacular
-Simulacra](http://schip666.blogspot.com/2013/01/a-spectacular-simulacra.html)
-
-3. [this](http://www.etantdonnes.com/SystemsArt/cyberneticSerendipityCatalog.pdf)
-
-4. [this](http://www.etantdonnes.com/SystemsArt/Montfort2003_NewMediaReader_17-software-03.pdf)
-
-5. [Analysis](http://schip666.blogspot.com/2014/07/feeling-abandoned-meta-analysis.html)
-of an interactive autonomous robot. 
 
 ## Unsorted
 

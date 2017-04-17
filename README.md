@@ -394,7 +394,7 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf)
 - Readings and discussion: What is a Performance
 
 #### Class 12 (10/xx)
-	- Loops and Arrays
+- Loops and Arrays
 
 #### Class 13 (10/xx)
 - Readings and discussion: Robots in performance:

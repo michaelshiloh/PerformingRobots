@@ -46,7 +46,7 @@ will attempt to address include:
 * Using limited technology and tools, how can we create robots
 	to convey meaning and emotion?
 * How can technology be used meaningfully, rather than just to 
-	rescue a weak artistic concept? 
+	rescue a weak artistic concept?   
 On a more technical
 level, we will learn about interactivity and autonomy, and explore the tension
 between these and remote controlled devices.

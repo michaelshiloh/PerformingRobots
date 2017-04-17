@@ -18,9 +18,9 @@ Instructor: Michael Shiloh
 Email: m.shiloh@nyu.edu  
 Office: Arts Center Room: TBD
 Office Hours: TBD
-(I maintain an open door policy. Feel free to stop by my office or the
-Interactive Media lab anytime, or send me an email to set up an appointment at
-a particular time.)
+Availability outside of office hours: 
+* Stop by my office or the Interactive Media lab anytime
+* Send me email to set up an appointment 
 
 ### Course Description
 
@@ -38,12 +38,16 @@ fiction depictions.
 Students will learn about and build Experimental Robots for Theatrical
 Performance. Material covered includes the history, critique, and current
 state of robots (and related machines) in the context of art.  Questions we
-will attempt to address include: "Beyond the element of novelty, can robotic
-performances be compelling?", "Why make robotic performances?", "What can
-robotic performers do that human performers can't, and is that important for a
-performance?", "Using limited technology and tools, how can we create robots
-to convey meaning and emotion?" and "How can technology be used meaningfully,
-rather than just to rescue a weak artistic concept?". On a more technical
+will attempt to address include: 
+* Beyond the element of novelty, can robotic performances be compelling?
+* Why make robotic performances?
+* What can robotic performers do that human performers can't, 
+	and is that important for a performance?
+* Using limited technology and tools, how can we create robots
+	to convey meaning and emotion?
+* How can technology be used meaningfully, rather than just to 
+	rescue a weak artistic concept? 
+On a more technical
 level, we will learn about interactivity and autonomy, and explore the tension
 between these and remote controlled devices.
 

@@ -298,18 +298,20 @@ remote control or by some interaction with another "performer".
 * **Individual robot construction**
 * **Performance**
 
-#### Class 01 (08/xx) Introduction to Arduino, readings
+#### Class 01 (08/xx) Overview, introductions, and what is a robot?
 - Overview + Syllabus
 - Examples
 - Resources
 - Student Introductions
+- Lecture and demonstration: Introduction to Arduino
+- Discussion: What is a robot?
 - Reading assignment: 
 	- Items 1 through 8 of [Basic Arduino
-	Resources](https://github.com/michaelshiloh/resourcesForClass/#basic-arduino-resources)
 
 	- Karel Čapek. [R.U.R. (Rossum's Universal
-Robots)](http://preprints.readingroo.ms/RUR/rur.pdf)
-
+Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
+	Resources](https://github.com/michaelshiloh/resourcesForClass/#basic-arduino-resources)
+- Install the Arduino [software](arduino.cc) on your laptop
 
 #### Class 02 (09/xx) Introduction to Arduino, readings
 - Introduction to Electronics: Basic Arduino
@@ -366,7 +368,7 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf)
 		resources
 
 #### Class 06 (09/xx)
-- Lecture: State information and complex circuits,
+- Discussion and activity: State information, multitasking, and complex circuits
 - Project 1 assigned: System with at least 3 sensors and 3 actuators
 - Reading assignment:
 	- Autonomy and Remote Control  (TBD)
@@ -377,13 +379,25 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf)
 
 #### Class 07 (09/xx) 
 - Lecture: Remote Control
+- Discussion: 
+	A robot or machine can be autonomous, that is, its behavior is entirely
+	determined by its program and possibily input from its environment, it can
+	be interactive, reacting to events in its environment, or it can be a
+	combination of the two. What considerations help us chose?
 - Work time
+- Reading assignment:
+	- Interactivity (TBD)
 
 #### Class 08 (09/xx) 
+- Discussion: 
+	Performing robots can perform fixed, or recorded,
+	sequences, they can be interactive, reacting to events in their
+	environment, or they can have a 
+	combination of the two. What considerations help us chose?
 - Work session
 
-
 #### Class 09 (09/xx) 
+- Work session
 
 #### Class 10 (10/xx) 
 - Project 1 presentations
@@ -411,7 +425,6 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf)
 - Readings and discussion: Creating a Script
 
 #### Class 16 (11/xx) 
-- Blink without Delay
 
 #### Class 17 (11/xx) 
 - Readings and discussion: Creating a Character

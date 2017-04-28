@@ -24,43 +24,44 @@ Availability outside of office hours:
 
 ### Course Description
 
-As new technologies are developed, artists are among the first to apply these
-technologies in ways that were unanticipated by the designers. Sometimes
-resulting in surprisingly practical new applications of the technology,
-artists also explore its meaning and significance to the human condition.
+Intelligent robots living amongst ordinary people used to be a storyline
+relegated to the world of science-fiction. However, from military and
+manufacturing to mobile devices and maid services, the 21st century has
+witnessed a rapid adoption of automated machinery in both the private and
+public sector.  
 
-What will be the effects of living among robots? What will it feel like to us
-humans? What will the robots look like? If the history of predictions has
-taught us anything, it's that predictions are often inaccurate. We don't
-expect that our future with robots will look very much like most science
-fiction depictions.
+Assuming robotic technology continues to proliferate, what will it mean for us
+to live amongst robots? What will these robots look like and how will they
+behave? How can we meaningfully effect their development and impact? If the
+history of predicting the future has taught us anything, it's that predictions
+are often inaccurate. We shouldn't expect that our future with robots will
+look or act very much like most science-fiction depictions. However, as new
+technologies are developed, it tends to be artists who are the first to apply
+these technologies in surprising, unanticipated, and often enlightening
+fashions.
 
-Students will learn about and build Experimental Robots for Theatrical
-Performance. Material covered includes the history, critique, and current
-state of robots (and related machines) in the context of art.  Questions we
-will attempt to address include: 
-* Beyond the element of novelty, can robotic performances be compelling?
-* Why make robotic performances?
-* What can robotic performers do that human performers can't, 
-	and is that important for a performance?
-* Using limited technology and tools, how can we create robots
-	to convey meaning and emotion?
-* How can technology be used meaningfully, rather than just to 
-	rescue a weak artistic concept?   
+Thus, In this course, students will explore the significance of robots through
+the context of art by learning about and building experimental robots for
+theatrical performance. We will define robots broadly and consider a wide
+range of machines, both autonomous and remote-controlled, for the purpose of
+creative expression and performance. Fundamental questions we will attempt to
+address include:
 
-On a more technical
-level, we will learn about interactivity and autonomy, and explore the tension
-between these and remote controlled devices.
+- Why make robotic performances?
+- Beyond the element of novelty, can robotic performances be compelling?
+- How can we create robots that convey meaning and emotion?
+- What can robotic performers do that human performers can't? And is that
+	important for a performance?
 
-Consisting of theory and practice students will learn about electronics,
-programming, robotics, and mechanical construction techniques, as well as the
-use of machines in theatrical performances, both historical and contemporary.
-We define robots very broadly, and consider a broad range of machines both
-autonomous and remote-controlled.
+Course material will incorporate both theoretical and practical components.
+Students will be exposed to critical analysis regarding the historical and
+contemporary use of machines in the context of art and theatrical
+performance. In parallel, students will also learn about electronics,
+programming, robotics and mechanical construction techniques. Over the
+course of the semester, students will iterate through multiple robotic
+projects culminating with their own performative robot. The course will
+finish with a public performance by the robots.
 
-Starting with electronic, programming, and mechanical projects, each student
-will finally design and construct their own performative robot.  The course
-will culminate with a performance using these robots.
 
 ### Course Objectives: (TODO)
 When the course is finished, students will:

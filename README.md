@@ -7,7 +7,7 @@
 **Classroom:** TBD  
 **Time:** TBD  
 **Class Website:** TBD  
-Prerequisites:** *Introduction to Interactive Media*
+**Prerequisites:** *Introduction to Interactive Media*
 or equivalent with teacher's approval  
 (always subject to change)  
 
@@ -15,10 +15,10 @@ or equivalent with teacher's approval
 
 [Room Access Form](http://goo.gl/forms/Mge02MPoCb)
 
-**Instructor:** Michael Shiloh
+**Instructor:** Michael Shiloh  
 **Email:** m.shiloh@nyu.edu  
-**Office:** Arts Center Room: TBD
-**Office Hours:** TBD
+**Office:** Arts Center Room: TBD  
+**Office Hours:** TBD  
 **Availability outside of office hours:** 
 * Stop by my office or the Interactive Media lab anytime
 * Send me email to set up an appointment 
@@ -107,7 +107,7 @@ project
 **10%** Attendance  
 **10%** Participation  
 **20%** Homework Assignments + Online Journal  
-**30%** Projects 1, 2, and 3
+**30%** Projects 1, 2, and 3  
 **30%** Final Project    
 
 #### Attendance
@@ -121,7 +121,7 @@ If you will be missing a class due to illness or unavoidable personal
 circumstances, you must notify your professor in advance via email for the
 absence to be eligible to be excused.
 
-Grade for attendance:
+**Grade for Attendance**
 
 A - One excused absence  
 B - Two excused absences  
@@ -151,7 +151,7 @@ an opportunity to learn.
 Ask questions. If you do not ask questions, I can only assume that you are not
 prepared for the lesson.
 
-Grade for participation:
+**Grades for Participation**
 
 A - Almost always prepared for class including: 
 seated and settled, with notebook and assignment ready, at the
@@ -159,15 +159,12 @@ beginning of each lesson, ready to engage in class discussion. Has questions
 or observations prepared, and ready to answer questions from instructor. 
 If encountered difficulty
 with assignment, can clearly describe the unexpected behavior and what paths
-were taken to try to resolve them. 
+were taken to try to resolve them. Asks questions in class.
 Almost always engages in discussion with instructor and other students. 
-Frequently offers assistance to other students.
-
-B - Occassionally prepared in most of the ways indicated above.
-
-C - Infrequently prepared in most of the ways indicated above.
-
-D - Rarely or never prepared in most of the ways indicated above.
+Frequently offers assistance to other students.  
+B - Occassionally prepared in most of the ways indicated above.  
+C - Infrequently prepared in most of the ways indicated above.  
+D - Rarely or never prepared in most of the ways indicated above.  
 
 ### Readings
 Readings will include selections from books, essays, articles, and research
@@ -187,15 +184,16 @@ There are no recommended textbooks.
 See section titled "Books" [here](references.md)
 
 #### Laptops
-Bring your laptop to every class, but save it for class-specific work.
-Whenever classmates are presenting please keep your laptop closed. The quality
-of the class depends in large part on your engagement and active
-participation, so please respect your fellow classmates and close your lid.
+Bring your laptop to every class, but save it for class-specific work.  During
+presentations, lectures, and discussions please keep your laptop closed
+(unless necessary for the discussion). The quality of the class depends in
+large part on your engagement and active participation, so please respect your
+fellow classmates and close your lid.
 
 #### Mobile Phones
  Please put them on vibrate or turn them off before you come to class. If you
 have an emergency that requires you to answer your phone during class, please
-let me know me ahead of time or quietly step out of class to take the call.
+let me know me ahead of time and quietly step out of class to take the call.
 
 #### Communicate
 If you have any questions, would like extra help, or need further instruction,
@@ -300,19 +298,20 @@ small number of pre-programmed sequences on "cues"
 Assignment: Design and construct a simple interactive device that can be used
 for performance. Your machine must have at least 3 "sequences" or "activities"
 that it will perform on demand. These sequences can be triggered either by
-remote control or by some interaction with another "performer".
+remote control or by some interaction with another "performer". You may use 
+some or all of the circuit and/or the mechanism you built for Project 1.
 
 ### Final Project
 
 ## Schedule
 
 #### Overview
-* **Historical and contemporary examples of robotics for theatrical
-	performance**
-* **Basic electronics, programming, and mechatronics techniques**
-* **Building mechanisms practice**
-* **Individual robot construction**
-* **Performance**
+* Historical and contemporary examples of robotics for theatrical
+	performance  
+* Basic electronics, programming, and mechatronics techniques  
+* Building mechanisms practice  
+* Individual robot construction  
+* Performance
 
 #### Class 01 (08/xx) Overview, introductions, and what is a robot?
 - Overview + Syllabus

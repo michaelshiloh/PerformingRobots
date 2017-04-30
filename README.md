@@ -3,22 +3,23 @@
 ### Course Number TBD: Performing Robots
 ### Fall 2017  
 
-Credits Hours: 4  
-Prerequisites: None  
-Classroom: TBD  
-Time: TBD  
-Class Website: TBD  
+**Credits Hours:** 4  
+**Classroom:** TBD  
+**Time:** TBD  
+**Class Website:** TBD  
+Prerequisites:** *Introduction to Interactive Media*
+or equivalent with teacher's approval  
 (always subject to change)  
 
-This course counts towards the following NYUAD degree requirement: TBD
+**This course counts towards the following NYUAD degree requirement:** TBD
 
 [Room Access Form](http://goo.gl/forms/Mge02MPoCb)
 
-Instructor: Michael Shiloh
-Email: m.shiloh@nyu.edu  
-Office: Arts Center Room: TBD
-Office Hours: TBD
-Availability outside of office hours: 
+**Instructor:** Michael Shiloh
+**Email:** m.shiloh@nyu.edu  
+**Office:** Arts Center Room: TBD
+**Office Hours:** TBD
+**Availability outside of office hours:** 
 * Stop by my office or the Interactive Media lab anytime
 * Send me email to set up an appointment 
 
@@ -69,6 +70,8 @@ When the course is finished, students will:
 	- Discuss the history, critique, and state of the art of robotic performers
 	- Compare and contrast interactivity, autonomy, and remote control
 	- Discuss the relevance of technology to the performing arts
+	- develop a conceptual model for the role/significance of robots in daily
+		life
 - Practice
 	- Develop a basic understanding of electronics, programming, and mechatronics
 	- Develop a basic understanding of the principles of simple robotics
@@ -82,13 +85,6 @@ This course consists of theoretical readings and discussions, technical
 training in electronics, programming, and mechatronics, designing,
 fabricating, and programming a performing robot, and putting on a final
 performance.
-
-#### Readings
-Readings will include selections from books, essays, articles, and research
-papers both in print and in online form. The readings will introduce students
-to the history, current state, and critique of autonomous interactive
-robotic art, as well as covering technical topics. All readings will be
-available as PDFs or other electronic means.
 
 #### Reading Response 
 Each student is expected to post a short response to one of the readings of
@@ -114,30 +110,7 @@ project
 **30%** Projects 1, 2, and 3
 **30%** Final Project    
 
-### Projects
-
-### Readings
-Readings will include selections from books, essays, articles, and research
-papers both in print and in online form. 
-
-All required and recommended readings will be available electronically.
-
-Supplemental readings will be available electronically or in the library.
-
-#### Required Textbooks
-A kit of parts required for this class will be available in the bookstore.
-(TODO: Verify with Craig that this is the best way to do provide parts)
-There are no required textbooks.
-
-#### Recommended Textbooks
-There are no recommended textbooks.
-
-#### Supplemental Textbooks
-See section titled "Books" [here](references.md)
-
-### Attendance and Participation
-
-#### Attendance and late arrivals
+#### Attendance
 Attendance and arrival on time to all class sessions is required and
 expected. Two unexcused absences lower your final grade by a letter.  Each
 subsequent unexcused absence will lower another letter grade. Two late
@@ -148,10 +121,17 @@ If you will be missing a class due to illness or unavoidable personal
 circumstances, you must notify your professor in advance via email for the
 absence to be eligible to be excused.
 
+Grade for attendance:
+
+A - One excused absence  
+B - Two excused absences  
+C - Three excused absences  
+D - One unexcused absence  
+
 #### Participation
 Showing up on time, engaging in the class discussion, asking questions and
 offering answers and in general participating in lessons and discussions
-during class is a major part of your grade. Participation in class is
+during class is an important part of your grade. Participation in class is
 important to deepen your understanding and is helpful for me to get to know
 you as an individual and keep track of your progress, and, it provides you and
 your classmates the opportunity to share successes, failures, and insights
@@ -170,6 +150,41 @@ an opportunity to learn.
 
 Ask questions. If you do not ask questions, I can only assume that you are not
 prepared for the lesson.
+
+Grade for participation:
+
+A - Almost always prepared for class including: 
+seated and settled, with notebook and assignment ready, at the
+beginning of each lesson, ready to engage in class discussion. Has questions
+or observations prepared, and ready to answer questions from instructor. 
+If encountered difficulty
+with assignment, can clearly describe the unexpected behavior and what paths
+were taken to try to resolve them. 
+Almost always engages in discussion with instructor and other students. 
+Frequently offers assistance to other students.
+
+B - Occassionally prepared in most of the ways indicated above.
+
+C - Infrequently prepared in most of the ways indicated above.
+
+D - Rarely or never prepared in most of the ways indicated above.
+
+### Readings
+Readings will include selections from books, essays, articles, and research
+papers both in print and in online form. 
+
+All required and recommended readings will be available electronically.
+
+Supplemental readings will be available electronically or in the library.
+
+#### Required Textbooks
+[SparkFun Inventor's Kit for Arduino 101](https://www.sparkfun.com/products/13844)
+
+#### Recommended Textbooks
+There are no recommended textbooks.
+
+#### Supplemental Textbooks
+See section titled "Books" [here](references.md)
 
 #### Laptops
 Bring your laptop to every class, but save it for class-specific work.

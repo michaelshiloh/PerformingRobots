@@ -7,8 +7,9 @@
 **Classroom:** TBD  
 **Time:** TBD  
 **Class Website:** TBD  
-**Prerequisites:** *Introduction to Interactive Media*
-or equivalent with teacher's approval  
+**Prerequisites:** *Experience with physical computing through Introduction to
+Interactive Media or a course equivalent is highly encouraged.*
+or equivalent highly recommended
 (always subject to change)  
 
 **This course counts towards the following NYUAD degree requirement:** TBD
@@ -26,8 +27,9 @@ or equivalent with teacher's approval
 ### Course Description
 
 Intelligent robots living amongst ordinary people used to be a storyline
-relegated to the world of science-fiction. However, from military and
-manufacturing to mobile devices and maid services, the 21st century has
+relegated to the world of science-fiction. 
+However, from military organizations and manufacturing companies to
+mobile devices and maid services, the 21st century has
 witnessed a rapid adoption of automated machinery in both the private and
 public sector.  
 
@@ -41,7 +43,7 @@ technologies are developed, it tends to be artists who are the first to apply
 these technologies in surprising, unanticipated, and often enlightening
 fashions.
 
-Thus, In this course, students will explore the significance of robots through
+Thus, in this course, students will explore the significance of robots through
 the context of art by learning about and building experimental robots for
 theatrical performance. We will define robots broadly and consider a wide
 range of machines, both autonomous and remote-controlled, for the purpose of
@@ -64,7 +66,7 @@ projects culminating with their own performative robot. The course will
 finish with a public performance by the robots.
 
 
-### Course Objectives: (TODO)
+### Learning Outcomes: (TODO)
 When the course is finished, students will:
 - Theory
 	- Discuss the history, critique, and state of the art of robotic performers
@@ -300,6 +302,16 @@ for performance. Your machine must have at least 3 "sequences" or "activities"
 that it will perform on demand. These sequences can be triggered either by
 remote control or by some interaction with another "performer". You may use 
 some or all of the circuit and/or the mechanism you built for Project 1.
+
+### Project 3: Prototype of Final Project
+Date Assigned: Class 14
+Date Due: Class 20
+
+Purpose: TODO
+find problems sooner than later, while there is still time to change the
+design
+
+Assignment: TODO
 
 ### Final Project
 

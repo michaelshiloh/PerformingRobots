@@ -308,8 +308,15 @@ Date Assigned: Class 14
 Date Due: Class 20
 
 Purpose: TODO
-find problems sooner than later, while there is still time to change the
-design
+The final project will be a robot (broadly defined) that is capable
+of participating, or performing, (broadly defined) in a performance
+(broadly defined) that the class will design (TODO: leave time for designing
+performance) 
+The goal of this project is to build a very crude prototype, or
+proof-of-concept, of the robot that will be used in the performance, so that
+the performance can be rehearsed and so that problems can be identified
+while there is still plenty of time to redesign the robot, before the final
+project is started.
 
 Assignment: TODO
 

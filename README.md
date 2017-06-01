@@ -309,7 +309,7 @@ remote control or by some interaction with another "performer". You may use
 some or all of the circuit and/or the mechanism you built for Project 1.
 
 ### Project 3: Prototype of Final Project
-Date Assigned: Class 14
+Date Assigned: Class 14  
 Date Due: Class 20
 
 **Purpose**
@@ -345,7 +345,8 @@ relevant cue, and then in turn issuing cues to the robot responsible for the
 next action.   
 
 ### Final Project
-Date Assigned: Class 20
+Date Assigned: Class 20  
+Date due: 
 The project will be due in class in week 14. Students will then stage a
 live performance at 
 the End of Semester Showcase 

@@ -1,10 +1,10 @@
 ## New York University Abu Dhabi
 ## Interactive Media
-### Course Number TBD: Performing Robots
+### Course Number 200 level: Performing Robots
 ### Fall 2017  
 
 **Credits Hours:** 4  
-**Classroom:** TBD  
+**Classroom:** C3-029 (Art Center, Interactive Media lab)  
 **Time:** TBD  
 **Class Website:** TBD  
 **Prerequisites:** *Experience with physical computing through Introduction to
@@ -12,13 +12,14 @@ Interactive Media or a course equivalent is highly encouraged.*
 or equivalent highly recommended
 (always subject to change)  
 
-**This course counts towards the following NYUAD degree requirement:** TBD
+**This course counts towards the following NYUAD degree requirement:** 
+Minor in Interactive Media
 
 [Room Access Form](http://goo.gl/forms/Mge02MPoCb)
 
 **Instructor:** Michael Shiloh  
 **Email:** m.shiloh@nyu.edu  
-**Office:** Arts Center Room: TBD  
+**Office:** Arts Center Room:   
 **Office Hours:** TBD  
 **Availability outside of office hours:** 
 * Stop by my office or the Interactive Media lab anytime
@@ -66,7 +67,7 @@ projects culminating with their own performative robot. The course will
 finish with a public performance by the robots.
 
 
-### Learning Outcomes: (TODO)
+### Learning Outcomes: 
 When the course is finished, students will:
 * Develop a conceptual model for the role and significance of robots in
 daily life 
@@ -88,7 +89,7 @@ training in electronics, programming, and mechatronics, designing,
 fabricating, and programming a performing robot, and putting on a final
 performance.
 
-#### Reading Response 
+#### Reading Responses 
 Each student is expected to post a short response to one of the readings of
 their choosing the day before the lecture. The response should be about 300
 words and should be posted on a public website (e.g. Tumblr, Blogger,
@@ -101,11 +102,10 @@ familiarity with technical material such as electronics and programming. All
 material will be provided in the required course kit.
 
 #### Projects
-Class projects will consist of 3 short projects leading up to a major final
+Class projects will consist of 3 minor projects leading up to a major final
 project
 
 ### Grading
--------
 **10%** Attendance  
 **10%** Participation  
 **20%** Homework Assignments + Online Journal  
@@ -164,7 +164,7 @@ with assignment, can clearly describe the unexpected behavior and what paths
 were taken to try to resolve them. Asks questions in class.
 Almost always engages in discussion with instructor and other students. 
 Frequently offers assistance to other students.  
-B - Occassionally prepared in most of the ways indicated above.  
+B - Occasionally prepared in most of the ways indicated above.  
 C - Infrequently prepared in most of the ways indicated above.  
 D - Rarely or never prepared in most of the ways indicated above.  
 
@@ -177,7 +177,8 @@ All required and recommended readings will be available electronically.
 Supplemental readings will be available electronically or in the library.
 
 #### Required Textbooks
-[SparkFun Inventor's Kit for Arduino 101](https://www.sparkfun.com/products/13844)
+[SparkFun Inventor's Kit for Arduino
+101](https://www.sparkfun.com/products/13844) (kit version subject to change)
 
 #### Recommended Textbooks
 There are no recommended textbooks.
@@ -307,9 +308,9 @@ some or all of the circuit and/or the mechanism you built for Project 1.
 Date Assigned: Class 14
 Date Due: Class 20
 
-Purpose: TODO
-The final project will be a robot (broadly defined) that is capable
-of participating, or performing, (broadly defined) in a performance
+Purpose: 
+The final project will be a "robot" that is capable
+of participating, or "performing", in a "performance"
 (broadly defined) that the class will design (TODO: leave time for designing
 performance) 
 The goal of this project is to build a very crude prototype, or
@@ -318,9 +319,29 @@ the performance can be rehearsed and so that problems can be identified
 while there is still plenty of time to redesign the robot, before the final
 project is started.
 
+emphasize cues
+keep in mind the terms robot performance is broadly defined and open to
+creative interpretation implementation and expression
+
 Assignment: TODO
 
 ### Final Project
+Date Assigned: Class 20
+The project will be due in class in week 14. Students will then stage a
+live performance at the End of Semester Showcase that will happen at the end
+of week 14.
+
+Assignment: TODO
+
+along with earlier projects and semester readings
+
+Learning from Project 3 and taking into account the lessons learned and 
+feedback received, students will design, build, and debug a robot to play a
+role in the final performance
+
+Purpose: 
+
+expectations: will perform its tasks in front of a live audience
 
 ## Schedule
 

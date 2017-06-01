@@ -275,11 +275,13 @@ available in the hopes that others might benefit.
 Date assigned: Class 6  
 Date due: Class 10
 
-Purpose: Having learned the basics of electronics, Arduino, sensors and
+**Purpose**
+Having learned the basics of electronics, Arduino, sensors and
 actuators, and programming, this project is an exercise in the understanding
 and application of the technical material we have covered. 
 
-Assignment: Design and construct a simple interactive system with at least 3
+**Assignment**
+Design and construct a simple interactive system with at least 3
 sensors and 3 actuators. The system must contain some sort of state
 information so that its behavior depends on its inputs (sensor readings) as
 well as its previous state. The system must react promptly to changes at its
@@ -292,13 +294,15 @@ project.
 Date assigned: Class 10  
 Date due: Class 14
 
-Purpose: In a performance, an actor must respond to cues from other actors.
+**Purpose**
+In a performance, an actor must respond to cues from other actors.
 Similarly, unless entirely controlled by a master sequencer, a robotic
 performer must wait for an appropriate "trigger" before performing its
 action. In this project students will develop machines that can "perform" a
 small number of pre-programmed sequences on "cues"
 
-Assignment: Design and construct a simple interactive device that can be used
+**Assignment**
+Design and construct a simple interactive device that can be used
 for performance. Your machine must have at least 3 "sequences" or "activities"
 that it will perform on demand. These sequences can be triggered either by
 remote control or by some interaction with another "performer". You may use 
@@ -308,40 +312,58 @@ some or all of the circuit and/or the mechanism you built for Project 1.
 Date Assigned: Class 14
 Date Due: Class 20
 
-Purpose: 
+**Purpose**
 The final project will be a "robot" that is capable
 of participating, or "performing", in a "performance"
-(broadly defined) that the class will design (TODO: leave time for designing
-performance) 
+that the class will create.   
+(Keep in mind that the terms "robot" and "performance" are broadly defined 
+and that creative interpretation, implementation, and expression are permitted
+and encouraged.)  
 The goal of this project is to build a very crude prototype, or
 proof-of-concept, of the robot that will be used in the performance, so that
 the performance can be rehearsed and so that problems can be identified
 while there is still plenty of time to redesign the robot, before the final
-project is started.
+project is started.   
+In the performance, robots will have to perform on cue,
+i.e. when some event occurs that signals that it is now time for their piece.
+The purpose of this project is also to test and develop that capability while
+practising the performance with the other robots.
 
-emphasize cues
-keep in mind the terms robot performance is broadly defined and open to
-creative interpretation implementation and expression
-
-Assignment: TODO
+**Assignment**
+Design, build, and debug a very crude prototype, or
+proof-of-concept, of the robot that will be used in the performance, so that
+the performance can be rehearsed and so that problems can be identified
+while there is still plenty of time to redesign the robot, before the final
+project is started.   
+The robot must be capable of performing the various sequences that will be 
+needed for the performance, so the class will be coming up with a rough
+version of the performance and deciding, as a group, which robot will play
+what roles. Each robot builder is then responsible for a robot that is 
+capable of the actions required by that role.    
+The robot must be capable of performing those actions when it receives the
+relevant cue, and then in turn issuing cues to the robot responsible for the
+next action.   
 
 ### Final Project
 Date Assigned: Class 20
 The project will be due in class in week 14. Students will then stage a
-live performance at the End of Semester Showcase that will happen at the end
-of week 14.
+live performance at 
+the End of Semester Showcase 
+that will happen at the end of week 14.
 
-Assignment: TODO
-
-along with earlier projects and semester readings
-
+**Purpose**
 Learning from Project 3 and taking into account the lessons learned and 
 feedback received, students will design, build, and debug a robot to play a
 role in the final performance
 
-Purpose: 
-
-expectations: will perform its tasks in front of a live audience
+**Assignment**
+Inspired by earlier projects and semester readings and discussions,
+Design, build, and debug a polished robot that will be used in the 
+final performance. The robot must be capable of performing on cue, and issuing 
+cues to other robot performers.  
+Your robot will then be required to perform its task in front of a 
+live audience during 
+the End of Semester Showcase.
 
 ## Schedule
 

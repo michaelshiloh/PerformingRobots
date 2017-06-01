@@ -1,16 +1,17 @@
 ## New York University Abu Dhabi
 ## Interactive Media
-### Course Number 200 level: Performing Robots
+### Course Number: 200 level 
+
+# Performing Robots
 ### Fall 2017  
 
 **Credits Hours:** 4  
 **Classroom:** C3-029 (Art Center, Interactive Media lab)  
 **Time:** TBD  
 **Class Website:** TBD  
-**Prerequisites:** *Experience with physical computing through Introduction to
+**Recommended Prerequisites:**
+*Experience with physical computing through Introduction to
 Interactive Media or a course equivalent is highly encouraged.*
-or equivalent highly recommended
-(always subject to change)  
 
 **This course counts towards the following NYUAD degree requirement:** 
 Minor in Interactive Media
@@ -319,28 +320,30 @@ that the class will create.
 (Keep in mind that the terms "robot" and "performance" are broadly defined 
 and that creative interpretation, implementation, and expression are permitted
 and encouraged.)  
-The goal of this project is to build a very crude prototype, or
+One purpose of this project is to build a rough prototype, or
 proof-of-concept, of the robot that will be used in the performance, so that
 the performance can be rehearsed and so that problems can be identified
 while there is still plenty of time to redesign the robot, before the final
 project is started.   
 In the performance, robots will have to perform on cue,
 i.e. when some event occurs that signals that it is now time for their piece.
-The purpose of this project is also to test and develop that capability while
-practising the performance with the other robots.
+A second purpose of this project is also to develop and test that capability 
+while practising portions of the performance with the other robots.
 
 **Assignment**
-Design, build, and debug a very crude prototype, or
+Design, build, and debug a rough prototype, or
 proof-of-concept, of the robot that will be used in the performance, so that
 the performance can be rehearsed and so that problems can be identified
 while there is still plenty of time to redesign the robot, before the final
 project is started.   
-The robot must be capable of performing the various sequences that will be 
-needed for the performance, so the class will be coming up with a rough
+The robot must be capable of performing one or two of the sequences that will 
+be needed for the performance, so the class will be coming up with a rough
 version of the performance and deciding, as a group, which robot will play
-what roles. Each robot builder is then responsible for a robot that is 
-capable of the actions required by that role.    
-The robot must be capable of performing those actions when it receives the
+what roles. In the final project, each robot builder will be responsible 
+for a robot that is 
+capable of all the actions required by that role.    
+The robot must be capable of performing these one or two 
+actions when it receives the
 relevant cue, and then in turn issuing cues to the robot responsible for the
 next action.   
 

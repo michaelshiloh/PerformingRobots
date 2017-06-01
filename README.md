@@ -68,19 +68,19 @@ finish with a public performance by the robots.
 
 ### Learning Outcomes: (TODO)
 When the course is finished, students will:
-- Theory
-	- Discuss the history, critique, and state of the art of robotic performers
-	- Compare and contrast interactivity, autonomy, and remote control
-	- Discuss the relevance of technology to the performing arts
-	- develop a conceptual model for the role/significance of robots in daily
-		life
-- Practice
-	- Develop a basic understanding of electronics, programming, and mechatronics
-	- Develop a basic understanding of the principles of simple robotics
-	- Be able to conceptualize, design, construct, and debug a performing robot
-	- Be able to program a simple robot to perform various tasks
-	- Learn how to define and build a Minimum Viable Project, and how to adapt
-		dependencies (e.g. scripts) to changing abilities
+* Develop a conceptual model for the role and significance of robots in
+daily life 
+* Develop a critical understanding of the historical and contemporary
+use of robots in the performing arts
+* Establish a basic understanding of electronics, programming,
+mechatronics, and simple robotics
+* Gain the ability to identify, compare, and contrast  examples
+of robotic interactivity, autonomy, and remote control
+* Gain the ability to conceptualize, design, construct,
+program, and debug a performing robot
+* Become empowered to produce a Minimum Viable Project
+(MVP) and adapt product dependencies (e.g. scripts) to
+changing abilities
 
 ### Course Assignments
 This course consists of theoretical readings and discussions, technical

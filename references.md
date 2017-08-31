@@ -148,10 +148,21 @@ World with Computers by Igoe/O'Sullivan
 
 19. "How to Build Simple Automata" book (PDF)
 
-20. "Making Things Move" 
-
 21. "Robots and Art: Exploring an Unlikely Symbiosis" Editors: Herath, Damith,
 Kroos, Christian, Stelarc (Eds.) ISBN 978-981-10-0319-6
+
+22. "The Future of the Internet and How to Stop it" by Jonathan Zittrain
+
+23. "Robotics: A Very Short Introduction" by Alan Winfield ISBN-13:
+978-0199695980
+especially pg. 39 and 79
+
+24.  "Robo Sapiens: Evolution of a New Species" by Peter Menzel ISBN-13:
+978-0262632454
+
+25. "The Robot in the Garden: Telerobotics and Telepistemology in the Age of
+the Internet" by Ken Goldberg ISBN-13: 978-0262571548
+
 
 
 

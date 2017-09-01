@@ -7,7 +7,7 @@
 
 **Credits Hours:** 4  
 **Classroom:** C3-029 (Art Center, Interactive Media lab)  
-**Time:** TBD  
+**Time:** Tuesday 9-10:15 Thursday 9-11:40
 **Class Website:** TBD  
 **Recommended Prerequisites:**
 *Experience with physical computing through Introduction to
@@ -19,7 +19,7 @@ Minor in Interactive Media
 [Room Access Form](http://goo.gl/forms/Mge02MPoCb)
 
 **Instructor:** Michael Shiloh  
-**Email:** m.shiloh@nyu.edu  
+**Email:** mshiloh@nyu.edu  
 **Office:** Arts Center Room:   
 **Office Hours:** TBD  
 **Availability outside of office hours:** 

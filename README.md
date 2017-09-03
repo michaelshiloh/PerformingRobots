@@ -178,14 +178,14 @@ All required and recommended readings will be available electronically.
 Supplemental readings will be available electronically or in the library.
 
 #### Required Textbooks
-[SparkFun Inventor's Kit for Arduino
-101](https://www.sparkfun.com/products/13844) (kit version subject to change)
+[SparkFun Inventor's Kit for Arduino](https://www.sparkfun.com/products/13844) (kit version subject to change)
 
 #### Recommended Textbooks
 There are no recommended textbooks.
 
 #### Supplemental Textbooks
-See section titled "Books" [here](references.md)
+[Here](https://github.com/michaelshiloh/PerformingRobots/blob/master/references.md#books)
+[foo](references.md#books)
 
 #### Laptops
 Bring your laptop to every class, but save it for class-specific work.  During

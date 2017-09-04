@@ -5,6 +5,9 @@
 # Performing Robots
 ### Fall 2017  
 
+This syllabus is subject to change. The official syllabus is always at
+[https://github.com/michaelshiloh/PerformingRobots/README.md](https://github.com/michaelshiloh/PerformingRobots/README.md)
+
 **Credits Hours:** 4  
 **Classroom:** C3-029 (Art Center, Interactive Media lab)  
 **Time:** Tuesday 9-10:15 Thursday 9-11:40  

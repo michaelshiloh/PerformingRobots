@@ -176,22 +176,18 @@ D - Rarely or never prepared in most of the ways indicated above.
 Readings will include selections from books, essays, articles, and research
 papers both in print and in online form. 
 
-All required and recommended readings will be available electronically.
+All required readings will be available electronically.
 
-Supplemental readings will be available electronically or in the library.
+Supplemental texts will be available electronically or in the library.
 
 #### Required Textbooks
-[SparkFun Inventor's Kit for Arduino](https://www.sparkfun.com/products/13844) (kit version subject to change)
-
-#### Recommended Textbooks
-There are no recommended textbooks.
+Kit for Performing Robots (available in the bookstore)
 
 #### Supplemental Textbooks
-[Here](https://github.com/michaelshiloh/PerformingRobots/blob/master/references.md#books)
-[foo](references.md#books)
+[Here](references.md#books)
 
 #### Laptops
-Bring your laptop to every class, but save it for class-specific work.  During
+Bring your laptop to every class, but save it for class-specific work. During
 presentations, lectures, and discussions please keep your laptop closed
 (unless necessary for the discussion). The quality of the class depends in
 large part on your engagement and active participation, so please respect your
@@ -374,30 +370,42 @@ the End of Semester Showcase.
 
 ## Schedule
 
-#### Overview
-* Historical and contemporary examples of robotics for theatrical
-	performance  
-* Basic electronics, programming, and mechatronics techniques  
-* Building mechanisms practice  
-* Individual robot construction  
-* Performance
+#### Class 01 Tuesday September 5
+#### Overview, discussion
+* Review syllabus
+* Announcements
+	* IM Open House Wednesday from 6:30pm – 7:30pm in the IM Lab, there will be
+	* food, probably pizza
+	* Sign up for the Announcements List [nyuad.im/updates](nyuad.im/updates)
+	* Follow our Facebook Group [https://www.facebook.com/groups/IMNYUAD/](https://www.facebook.com/groups/IMNYUAD/)
+	* We will be hiring Lab Monitors for the Fall semester and posting the job
+		listing on the CareerNet portal shortly. If you are interested, speak with
+		James & Ume.
+* What is a robot?
+	* Frankenstein?
+	* Terminator?
+	* [Skeletal Reflections](http://amorphicrobotworks.org/skeletal-reflections/)
+	* [Snout](http://www.flong.com/projects/snout/)
+* What are robots for performance?
+	* [Apetechnology](https://www.youtube.com/watch?v=vb7gSYecjrs&t=47s)
+	* [Slendrotron](https://vimeo.com/189366071)
+	* [Bot and Dolly](https://www.youtube.com/watch?v=lX6JcybgDFo)
+	* [Hell](https://www.youtube.com/watch?v=weP3JKC-IRI&feature=youtu.be)
+	* [Survival Research Labs](srl.org)
+* Autonomy vs. remote control
+* Basic Arduino review
+* Review of transistors and motor control
+* Soldering review
+* Solder pins to motor shield
 
-#### Class 01 (08/xx) Overview, introductions, and what is a robot?
-- Overview + Syllabus
-- Examples
-- Resources
-- Student Introductions
-- Lecture and demonstration: Introduction to Arduino
-- Discussion: What is a robot?
-- Reading assignment: 
-	- Items 1 through 8 of [Basic Arduino
 
+- Reading assignment: (pending sorting out library system)
 	- Karel Čapek. [R.U.R. (Rossum's Universal
 Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
 	Resources](https://github.com/michaelshiloh/resourcesForClass/#basic-arduino-resources)
-- Install the Arduino [software](arduino.cc) on your laptop
 
-#### Class 02 (09/xx) Introduction to Arduino, readings
+#### Class 02 Thursday September 7
+#### readings
 - Introduction to Electronics: Basic Arduino
 - Reading assignment:  
 	- [a history of cybernetic animals and early
@@ -412,7 +420,7 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
 	- [The Machine as Artist: An
 		Introduction](https://github.com/michaelshiloh/resourcesForClass/blob/master/doc/theMachineAsArtistIntroduction.pdf)
 
-#### Class 03 (09/xx) 
+#### Class 03 Tuesday September 12
 - Discussion: Cybernetics and Robotics
 - Reading assignment:
 	- “Robot and Cyborg Art” chapter from "Beyond Modern Sculpture" 
@@ -423,7 +431,7 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
 	- [The Future of Responsive Systems in
 		Art](http://www.etantdonnes.com/SystemsArt/Burnham2sculpture.pdf)
 
-#### Class 04 (09/xx)
+#### Class 04 Thursday September 14
 - Discussion: Robots and Art
 - Lecture: Sensors and Analog I/O; Conditionals
 - Reading assignment:
@@ -439,7 +447,7 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
 	- Items 1 through 6 of [Motor
 		Resources](https://github.com/michaelshiloh/resourcesForClass#motors)
 
-#### Class 05 (09/xx) 
+#### Class 05 Tuesday September 19
 - Discussion: Theatre Robotics
 - Lecture: Motors
 - Reading assignment:
@@ -451,7 +459,7 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
 		Multitasking](https://github.com/michaelshiloh/resourcesForClass#arduino-multitasking-resources)
 		resources
 
-#### Class 06 (09/xx)
+#### Class 06 Thursday September 21
 - Discussion and activity: State information, multitasking, and complex circuits
 - Project 1 assigned: System with at least 3 sensors and 3 actuators
 - Reading assignment:
@@ -461,7 +469,7 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
 		[Wireless Technologies](https://github.com/michaelshiloh/resourcesForClass#wireless-technologies) 
 
 
-#### Class 07 (09/xx) 
+#### Class 07 Tuesday September 26
 - Lecture: Remote Control
 - Discussion: 
 	A robot or machine can be autonomous, that is, its behavior is entirely
@@ -472,7 +480,7 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
 - Reading assignment:
 	- Interactivity (TBD)
 
-#### Class 08 (09/xx) 
+#### Class 08 Thursday September 28
 - Discussion: 
 	Performing robots can perform fixed, or recorded,
 	sequences, they can be interactive, reacting to events in their
@@ -480,66 +488,71 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
 	combination of the two. What considerations help us chose?
 - Work session
 
-#### Class 09 (09/xx) 
+#### Class 09 Tuesday October 3
 - Work session
 
-#### Class 10 (10/xx) 
+#### Class 10 Thursday October 5
 - Project 1 presentations
 - Project 2 assigned: 
   Interactive Performative Machine (Autonomous or Remote Controlled)
 
-#### Class 11 (10/xx)
+#### Class 11 Tuesday October 10
 - Readings and discussion: What is a Performance
 
-#### Class 12 (10/xx)
+#### Class 12 Thursday October 12
 - Loops and Arrays
 
-#### Class 13 (10/xx)
+#### Class 13 Tuesday October 17
 - Readings and discussion: Robots in performance:
 	- Broad creative roles 
 	- functional tasks such as servants or police officers
 
-#### Class 14 (10/xx)
+#### Class 14 Thursday October 19
 - Project 2 presentation
 - Project 3 assigned: 
 	- Short group skit with (possibly modified) Project 2 machine 
 - Class and Objects
 
-#### Class 15 (10/xx)
+#### 7 Week final exams and Fall Break
+October 24 and 26
+
+#### Class 15 Tuesday October 31
 - Readings and discussion: Creating a Script
 
-#### Class 16 (11/xx) 
+#### Class 16 Thursday November 2
 
-#### Class 17 (11/xx) 
+#### Class 17 Tuesday November 7
 - Readings and discussion: Creating a Character
 - Project 3 presentation 
 - Final project assigned
 
-#### Class 18 (11/xx)
+#### Class 18 Thursday November 9
 
-#### Class 19 (11/xx) 
+#### Class 19 Tuesday November 14
 - rough functional prototype due, readings
 
-#### Class 20 (11/xx) 
+#### Class 20 Thursday November 16
 
-#### Class 21 (11/xx) 
+#### Class 21 Tuesday November 21
 - refine robots and story, readings
 
-#### Class 22 (11/xx) 
+#### Class 22 Thursday November 23
 
-#### Class 23 (11/xx) 
+#### Class 23 Tuesday November 28
 - Minimal Viable Project due, readings
 
-#### Class 24 (11/xx) 
+#### Class 24 Thursday November 30
 
-#### Class 25 (12/xx) 
+#### Class 25 Tuesday December 5
 - Rewrite script to available functionality
 
-#### Class 26 (12/xx) 
+#### Class 26 Thursday December 7
 
-#### Class 27 (12/xx) Practice 
+#### Class 27 Tuesday December 12
 
-#### Class 28 (12/xx) Final performance
+#### Class 28 Thursday December 14
+
+Final performance during Fall Show
 
 
 The source for this document is at github.com/michaelshiloh/PerformingRobots

@@ -8,6 +8,8 @@
 This syllabus is subject to change. The official syllabus is always at
 [https://github.com/michaelshiloh/PerformingRobots/blob/master/README.md](https://github.com/michaelshiloh/PerformingRobots/blob/master/README.md)
 
+[Current homework assignment](#current-homework-assignment)
+
 **Credits Hours:** 4  
 **Classroom:** C3-029 (Art Center, Interactive Media lab)  
 **Time:** Tuesday 9-10:15 Thursday 9-11:40  
@@ -395,6 +397,7 @@ the End of Semester Showcase.
 	* [Survival Research Labs](https://www.youtube.com/watch?v=L6iNxj7djco)
 * Autonomy vs. remote control
 * Basic Arduino review
+### current-homework-assignment
 * Homework assignments due Thursday September 7
 	1. I fixed the link to the SRL video above. Worth checking out.
 	1. Browse the 

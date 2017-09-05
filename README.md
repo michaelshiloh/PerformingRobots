@@ -395,22 +395,49 @@ the End of Semester Showcase.
 	* [Survival Research Labs](srl.org)
 * Autonomy vs. remote control
 * Basic Arduino review
-* Review of transistors and motor control
-* Soldering review
-* Solder pins to motor shield
+* Homework assignments due Thursday September 7
+	1. Browse the 
+	[Robots in Art
+	Timeline](http://cyberneticzoo.com/robots-in-art-time-line/) 
+	and select one
+	to discuss in class. Prepare a short introduction to your choice.
+	2. Read the [Adafruit Guide to Excellent
+	Soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all)
+	3. Read the
+	[tutorial](https://learn.adafruit.com/adafruit-motor-shield-v2-for-arduino/using-dc-motors?view=all)
+	for the Adafruit Motor Shield
+	4. Read 
+	[Analog
+	Output](https://itp.nyu.edu/physcomp/lessons/microcontrollers/analog-output/),
+	[Analog
+	Input](https://itp.nyu.edu/physcomp/lessons/microcontrollers/analog-input/),
+	and [If Statement Tutorial](https://www.arduino.cc/en/Tutorial/ifStatementConditional)
+	5. Read 
+	Chapter 1 "Introduction to Mechanisms and Machines"
+	in "Making Things Move"
+	which is available in the Resources folder in NYUClasses for this course
+* Homework assignments due Tuesday September 12
+	1. Browse the [Cyber-Systems
+	Timeline](http://www.etantdonnes.com/SystemsArt/timeline.html)
+	and select one
+	to discuss in class. Prepare a short introduction to your choice.
+	2. Read
+	Chapter 7: "Machines/Mechanicals" in 
+	"Entangled: Technology and the Transformation of Performance"
+	which is available in the Resources folder in NYUClasses for this course
 
 
-- Reading assignment: (pending sorting out library system)
-	- Karel Čapek. [R.U.R. (Rossum's Universal
-Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
-	Resources](https://github.com/michaelshiloh/resourcesForClass/#basic-arduino-resources)
 
 #### Class 02 Thursday September 7
 #### readings
+* Review of transistors and motor control
+* Solder pins to motor shield
 - Introduction to Electronics: Basic Arduino
 - Reading assignment:  
-	- [a history of cybernetic animals and early
-	robots](http://cyberneticzoo.com/)
+
+	- Karel Čapek. [R.U.R. (Rossum's Universal
+Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
+	Resources](https://github.com/michaelshiloh/resourcesForClasses/#basic-arduino-resources)
 
 	- [Cyber-Systems
 		Timeline](http://www.etantdonnes.com/SystemsArt/timeline.html)
@@ -419,7 +446,7 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
 		Cybernetics](http://www.pangaro.com/definition-cybernetics.html)
 
 	- [The Machine as Artist: An
-		Introduction](https://github.com/michaelshiloh/resourcesForClass/blob/master/doc/theMachineAsArtistIntroduction.pdf)
+		Introduction](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/theMachineAsArtistIntroduction.pdf)
 
 #### Class 03 Tuesday September 12
 - Discussion: Cybernetics and Robotics
@@ -446,18 +473,22 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
 	Robotics?](http://bostoncommons.net/what-is-theater-robotics/)
 
 	- Items 1 through 6 of [Motor
-		Resources](https://github.com/michaelshiloh/resourcesForClass#motors)
+		Resources](https://github.com/michaelshiloh/resourcesForClasses#motors)
+
+	- Read [Robot Building
+		Lessons](https://www.cs.cmu.edu/~chuck/infopg/roboinfo.html)
+		and select one item you'd like to learn more about
 
 #### Class 05 Tuesday September 19
 - Discussion: Theatre Robotics
 - Lecture: Motors
 - Reading assignment:
 	- All readings in [Edge
-		Detection](https://github.com/michaelshiloh/resourcesForClass#edge-detection)
+		Detection](https://github.com/michaelshiloh/resourcesForClasses#edge-detection)
 		resources
 
 	- All readings in [Arduino
-		Multitasking](https://github.com/michaelshiloh/resourcesForClass#arduino-multitasking-resources)
+		Multitasking](https://github.com/michaelshiloh/resourcesForClasses#arduino-multitasking-resources)
 		resources
 
 #### Class 06 Thursday September 21
@@ -467,7 +498,8 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
 	- Autonomy and Remote Control  (TBD)
 
 	- All readings in
-		[Wireless Technologies](https://github.com/michaelshiloh/resourcesForClass#wireless-technologies) 
+		[Wireless
+		Technologies](https://github.com/michaelshiloh/resourcesForClasses#wireless-technologies) 
 
 
 #### Class 07 Tuesday September 26

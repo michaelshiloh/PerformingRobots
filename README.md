@@ -550,7 +550,7 @@ October 24 and 26
 
 #### Class 27 Tuesday December 12
 
-#### Class 28 Thursday December 14
+#### Class 28 ?
 
 Final performance during Fall Show
 

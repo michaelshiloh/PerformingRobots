@@ -392,10 +392,11 @@ the End of Semester Showcase.
 	* [Slendrotron](https://vimeo.com/189366071)
 	* [Bot and Dolly](https://www.youtube.com/watch?v=lX6JcybgDFo)
 	* [Hell](https://www.youtube.com/watch?v=weP3JKC-IRI&feature=youtu.be)
-	* [Survival Research Labs](srl.org)
+	* [Survival Research Labs](https://www.youtube.com/watch?v=L6iNxj7djco)
 * Autonomy vs. remote control
 * Basic Arduino review
 * Homework assignments due Thursday September 7
+	2. I fixed the link to the SRL video above. Worth checking out.
 	1. Browse the 
 	[Robots in Art
 	Timeline](http://cyberneticzoo.com/robots-in-art-time-line/) 
@@ -425,6 +426,11 @@ the End of Semester Showcase.
 	Chapter 7: "Machines/Mechanicals" in 
 	"Entangled: Technology and the Transformation of Performance"
 	which is available in the Resources folder in NYUClasses for this course
+	3. Create a GitHub account and create a repository for this class. 
+	[Here](https://github.com/michaelshiloh/resourcesForClasses#github-resources)
+	are some instructions
+	3. Find a link to something you consider to be a robotic performance. Post a
+	short description and the link in the README file of your GitHub repository
 
 
 

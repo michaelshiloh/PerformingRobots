@@ -395,7 +395,7 @@ the End of Semester Showcase.
 	* [Survival Research Labs](https://www.youtube.com/watch?v=L6iNxj7djco)
 * Autonomy vs. remote control
 * Basic Arduino review
-* Homework assignments due Thursday September 7
+* Homework assignments due Thursday September 7  
 	2. I fixed the link to the SRL video above. Worth checking out.
 	1. Browse the 
 	[Robots in Art

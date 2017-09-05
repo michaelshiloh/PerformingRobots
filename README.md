@@ -12,7 +12,7 @@ This syllabus is subject to change. The official syllabus is always at
 **Classroom:** C3-029 (Art Center, Interactive Media lab)  
 **Time:** Tuesday 9-10:15 Thursday 9-11:40  
 **Class Website:**
-[github.com/michaelshiloh/PerformingRobots](github.com/michaelshiloh/PerformingRobots)
+[github.com/michaelshiloh/PerformingRobots](github.com/michaelshiloh/PerformingRobots)  
 **Recommended Prerequisites:**
 *Experience with physical computing through Introduction to
 Interactive Media or a course equivalent is highly encouraged.*

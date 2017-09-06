@@ -437,8 +437,10 @@ the End of Semester Showcase.
 
 
 #### Class 02 Thursday September 7 9-11:40 AM
-* Lecture: Review of Voltage and Current
-* Lecture: Review of transistors, H-bridge, and motor control
+* Lecture: Review 
+	* Schematics
+	* Voltage and Current
+	* Transistors, H-bridge, and motor control
 * Demo: Review of soldering
 * Activity: 
 	* Solder pins to motor shield

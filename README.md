@@ -436,13 +436,16 @@ the End of Semester Showcase.
 	short description and the link in the README file of your GitHub repository
 
 
-
-#### Class 02 Thursday September 7
+#### Class 02 Thursday September 7 9-11:40 AM
 #### readings
-* Review of transistors and motor control
-* Solder pins to motor shield
-- Introduction to Electronics: Basic Arduino
-- Reading assignment:  
+* Lecture: Review of Voltage and Current
+* Lecture: Review of transistors, H-bridge, and motor control
+* Demo: Review of soldering
+* Activity: Solder pins to motor shield
+* Discussion: motors, wires, soldering challenge, strain relief
+
+
+- assignment (not ready yet)
 
 	- Karel Čapek. [R.U.R. (Rossum's Universal
 Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)

@@ -440,9 +440,12 @@ the End of Semester Showcase.
 * Lecture: Review of Voltage and Current
 * Lecture: Review of transistors, H-bridge, and motor control
 * Demo: Review of soldering
-* Activity: Solder pins to motor shield
-* Activity: Experiment with motor and motor shield. Add sensor, do something
-	different
+* Activity: 
+	* Solder pins to motor shield
+	* Solder headers to motor shield
+	* Experiment with motor and motor shield.
+* Lecture: Review analog input and conditional statement
+* Activity: Add sensor, do something different with motor
 * Discussion: motors, wires, soldering challenge, strain relief
 * Activity: Solder wires to second motor
 * Activity: Control both motors differently

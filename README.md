@@ -444,52 +444,66 @@ the End of Semester Showcase.
 * Activity: 
 	* Solder feed-through pins to motor shield
 
-### current-homework-assignment
+### current-homework-assignment (not ready yet)
 * Homework assignments due Tuesday September 12
 	1. Install the library for your motor shield:
+
 		1.1. In Arduino, select **Sketch**, **Include Library**, and then **Manage
 		Libraries**
+
 		1.2. In the search space type **adafruit motor shield v2**
+
 		1.3. Click in the "Adafruit Motor Shield V2 Library" line and an **Install**
 		button will appear. Click the **Install** button.
+
 		1.4. Close the Library Manager window
 
 	2. Test that the library installed properly
+
 		1.1 In Arduino, select **File** and then **Examples**. Scroll down to the
 		bottom where it says **Examples from Custom Libraries**. Select **Adafruit
 		Motor Shield V2 Library** and then select **DCMotorTest**
+
 		1.2 In the DCMotorTest example, Click the **Verify** button. This is the
 		button immediately to the left of the **Upload** button. What this does is
 		it checks that it can *compile* the program, which means to translate the
 		program into commands that Arduino understands. If this fails, it means 
 		the library isn't installed properly.
 
+	3. Read [On Stage: Robots as
+	Performers](http://guyhoffman.com/publications/HoffmanRSS11Workshop.pdf)
 
-	* Experiment with motor and motor shield.
-* Lecture: Review analog input and conditional statement
-* Activity: Add sensor, do something different with motor
-* Discussion: motors, wires, soldering challenge, strain relief
-* Activity: Solder wires to second motor
-* Activity: Control both motors differently
-* Activity: Build simple moving chassis
+	4. Read  [Ontology of Robot
+	Theatre](http://wustl.probablydavid.com/publications/ontology.pdf)
 
+	5. Read [What is Theatre
+	Robotics?](http://bostoncommons.net/what-is-theater-robotics/)
 
-- assignment (not ready yet)
+	5. Read Items 1 through 6 of [Motor
+		Resources](https://github.com/michaelshiloh/resourcesForClasses#motors)
 
-	- Karel Čapek. [R.U.R. (Rossum's Universal
-Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
-	Resources](https://github.com/michaelshiloh/resourcesForClasses/#basic-arduino-resources)
+	5. Read [Robot Building
+		Lessons](https://www.cs.cmu.edu/~chuck/infopg/roboinfo.html)
+		and select one item you'd like to learn more about
 
-	- [Cyber-Systems
-		Timeline](http://www.etantdonnes.com/SystemsArt/timeline.html)
-
-	- ["Getting Started" Guide to
-		Cybernetics](http://www.pangaro.com/definition-cybernetics.html)
-
-	- [The Machine as Artist: An
-		Introduction](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/theMachineAsArtistIntroduction.pdf)
 
 #### Class 03 Tuesday September 12
+Tentative lesson plan
+* Activity: Test motor and motor shield.
+* Lecture: Stranded wire and wire colors, soldering challenge, strain relief
+* Demonstration: Soldering wire to motors
+* Demonstration: Control both motors differently
+* Lecture: Review analog input and conditional statement
+* Discuss homework from last week
+
+Tentative homework
+* Solder wires to second motor
+* Build simple moving chassis
+* Add sensor, do something different with motor
+
+
+
+
 - Discussion: Cybernetics and Robotics
 - Reading assignment:
 	- “Robot and Cyborg Art” chapter from "Beyond Modern Sculpture" 
@@ -503,22 +517,6 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
 #### Class 04 Thursday September 14
 - Discussion: Robots and Art
 - Lecture: Sensors and Analog I/O; Conditionals
-- Reading assignment:
-	- On Stage: [Robots as
-	Performers](http://guyhoffman.com/publications/HoffmanRSS11Workshop.pdf)
-
-	- [Ontology of Robot
-	Theatre](http://wustl.probablydavid.com/publications/ontology.pdf)
-
-	- [What is Theatre
-	Robotics?](http://bostoncommons.net/what-is-theater-robotics/)
-
-	- Items 1 through 6 of [Motor
-		Resources](https://github.com/michaelshiloh/resourcesForClasses#motors)
-
-	- Read [Robot Building
-		Lessons](https://www.cs.cmu.edu/~chuck/infopg/roboinfo.html)
-		and select one item you'd like to learn more about
 
 #### Class 05 Tuesday September 19
 - Discussion: Theatre Robotics
@@ -553,6 +551,20 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
 - Work time
 - Reading assignment:
 	- Interactivity (TBD)
+
+	- Karel Čapek. [R.U.R. (Rossum's Universal
+Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
+	Resources](https://github.com/michaelshiloh/resourcesForClasses/#basic-arduino-resources)
+
+	- [Cyber-Systems
+		Timeline](http://www.etantdonnes.com/SystemsArt/timeline.html)
+
+	- ["Getting Started" Guide to
+		Cybernetics](http://www.pangaro.com/definition-cybernetics.html)
+
+	- [The Machine as Artist: An
+		Introduction](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/theMachineAsArtistIntroduction.pdf)
+
 
 #### Class 08 Thursday September 28
 - Discussion: 

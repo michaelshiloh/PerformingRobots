@@ -430,7 +430,7 @@ the End of Semester Showcase.
 * Activity: 
 	* Solder feed-through pins to motor shield
 
-### current-homework-assignment (not ready yet)
+### current-homework-assignment
 * Homework assignments due Tuesday September 12
 
 	1. Install the library for your motor shield:

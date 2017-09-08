@@ -432,6 +432,7 @@ the End of Semester Showcase.
 
 ### current-homework-assignment
 * Homework assignments due Tuesday September 12
+* If you have trouble accessing any of the readings please let me know
 
 	1. Install the library for your motor shield:
 

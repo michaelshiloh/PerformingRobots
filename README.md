@@ -419,20 +419,6 @@ the End of Semester Showcase.
 	Chapter 1 "Introduction to Mechanisms and Machines"
 	in "Making Things Move"
 	which is available in the Resources folder in NYUClasses for this course
-* Homework assignments due Tuesday September 12
-	1. Browse the [Cyber-Systems
-	Timeline](http://www.etantdonnes.com/SystemsArt/timeline.html)
-	and select one
-	to discuss in class. Prepare a short introduction to your choice.
-	2. Read
-	Chapter 7: "Machines/Mechanicals" in 
-	"Entangled: Technology and the Transformation of Performance"
-	which is available in the Resources folder in NYUClasses for this course
-	3. Create a GitHub account and create a repository for this class. 
-	[Here](https://github.com/michaelshiloh/resourcesForClasses#github-resources)
-	are some instructions
-	3. Find a link to something you consider to be a robotic performance. Post a
-	short description and the link in the README file of your GitHub repository
 
 
 #### Class 02 Thursday September 7 9-11:40 AM
@@ -486,6 +472,19 @@ the End of Semester Showcase.
 	5. Read [Robot Building
 		Lessons](https://www.cs.cmu.edu/~chuck/infopg/roboinfo.html)
 		and select one item you'd like to learn more about
+	1. Browse the [Cyber-Systems
+	Timeline](http://www.etantdonnes.com/SystemsArt/timeline.html)
+	and select one
+	to discuss in class. Prepare a short introduction to your choice.
+	2. Read
+	Chapter 7: "Machines/Mechanicals" in 
+	"Entangled: Technology and the Transformation of Performance"
+	which is available in the Resources folder in NYUClasses for this course
+	3. Create a GitHub account and create a repository for this class. 
+	[Here](https://github.com/michaelshiloh/resourcesForClasses#github-resources)
+	are some instructions
+	3. Find a link to something you consider to be a robotic performance. Post a
+	short description and the link in the README file of your GitHub repository
 
 
 #### Class 03 Tuesday September 12

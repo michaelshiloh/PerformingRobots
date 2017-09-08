@@ -446,13 +446,19 @@ the End of Semester Showcase.
 
 ### current-homework-assignment (not ready yet)
 * Homework assignments due Tuesday September 12
+
 	1. Install the library for your motor shield:
+
 		1.1. In Arduino, select **Sketch**, **Include Library**, and then **Manage
 		Libraries**
+
 		1.2. In the search space type **adafruit motor shield v2**
+
 		1.3. Click in the "Adafruit Motor Shield V2 Library" line and an **Install**
 		button will appear. Click the **Install** button.
+
 		1.4. Close the Library Manager window
+
 	2. Test that the library installed properly:
 
 		1.1 In Arduino, select **File** and then **Examples**. Scroll down to the

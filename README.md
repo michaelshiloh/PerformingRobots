@@ -447,11 +447,11 @@ the End of Semester Showcase.
 
 	2. Test that the library installed properly:
 
-		1.1 In Arduino, select **File** and then **Examples**. Scroll down to the
+		2.1 In Arduino, select **File** and then **Examples**. Scroll down to the
 		bottom where it says **Examples from Custom Libraries**. Select **Adafruit
 		Motor Shield V2 Library** and then select **DCMotorTest**
 
-		1.2 In the DCMotorTest example, Click the **Verify** button. This is the
+		2.2 In the DCMotorTest example, Click the **Verify** button. This is the
 		button immediately to the left of the **Upload** button. What this does is
 		it checks that it can *compile* the program, which means to translate the
 		program into commands that Arduino understands. If this fails, it means 

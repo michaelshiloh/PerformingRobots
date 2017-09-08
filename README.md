@@ -397,7 +397,6 @@ the End of Semester Showcase.
 	* [Survival Research Labs](https://www.youtube.com/watch?v=L6iNxj7djco)
 * Autonomy vs. remote control
 * Basic Arduino review
-### current-homework-assignment
 * Homework assignments due Thursday September 7
 	1. I fixed the link to the SRL video above. Worth checking out.
 	1. Browse the 
@@ -443,8 +442,29 @@ the End of Semester Showcase.
 	* Transistors, H-bridge, and motor control
 * Demo: Review of soldering
 * Activity: 
-	* Solder pins to motor shield
-	* Solder headers to motor shield
+	* Solder feed-through pins to motor shield
+
+### current-homework-assignment
+* Homework assignments due Tuesday September 12
+	1. Install the library for your motor shield:
+		1.1. In Arduino, select **Sketch**, **Include Library**, and then **Manage
+		Libraries**
+		1.2. In the search space type **adafruit motor shield v2**
+		1.3. Click in the "Adafruit Motor Shield V2 Library" line and an **Install**
+		button will appear. Click the **Install** button.
+		1.4. Close the Library Manager window
+
+	2. Test that the library installed properly
+		1.1 In Arduino, select **File** and then **Examples**. Scroll down to the
+		bottom where it says **Examples from Custom Libraries**. Select **Adafruit
+		Motor Shield V2 Library** and then select **DCMotorTest**
+		1.2 In the DCMotorTest example, Click the **Verify** button. This is the
+		button immediately to the left of the **Upload** button. What this does is
+		it checks that it can *compile* the program, which means to translate the
+		program into commands that Arduino understands. If this fails, it means 
+		the library isn't installed properly.
+
+
 	* Experiment with motor and motor shield.
 * Lecture: Review analog input and conditional statement
 * Activity: Add sensor, do something different with motor

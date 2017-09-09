@@ -489,18 +489,25 @@ the End of Semester Showcase.
 
 
 #### Class 03 Tuesday September 12
-Tentative lesson plan
-* Activity: Test motor and motor shield.
-* Lecture: Stranded wire and wire colors, soldering challenge, strain relief
-* Demonstration: Soldering wire to motors
-* Demonstration: Control both motors differently
-* Lecture: Review analog input and conditional statement
-* Discuss homework from last week
-
-Tentative homework
-* Solder wires to second motor
-* Build simple moving chassis
-* Add sensor, do something different with motor
+* Lesson plan
+	* Activity: Test motor and motor shield.
+	* Lecture: Stranded wire and wire colors, soldering challenge, strain relief
+	* Demonstration: Soldering wire to motors
+	* Demonstration: Control both motors differently
+	* Lecture: Review analog input and conditional statement
+	* Homework review
+		1. On Stage: Robots as Performers
+		1. Ontology of Robot Theatre
+		1. What is Theatre Robotics?
+		1. Motor Resources
+		1. Robot Building Lessons 
+		1. Cyber-Systems Timeline 
+		1. Robotic Performance links in GitHub accounts
+		1. Machines/Mechanicals
+* Tentative homework assignment
+	* Solder wires to second motor
+	* Build simple moving chassis
+	* Add sensor, do something interesting
 
 
 

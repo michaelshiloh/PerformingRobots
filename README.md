@@ -511,20 +511,19 @@ the End of Semester Showcase.
 
 
 
-
-- Discussion: Cybernetics and Robotics
-- Reading assignment:
-	- “Robot and Cyborg Art” chapter from "Beyond Modern Sculpture" 
-		by Jack Burnham
-
-	- [Cybernetics and Art](http://www.artexetra.com/CyberneticsArtCultConv.pdf)
-
-	- [The Future of Responsive Systems in
-		Art](http://www.etantdonnes.com/SystemsArt/Burnham2sculpture.pdf)
-
 #### Class 04 Thursday September 14
-- Discussion: Robots and Art
-- Lecture: Sensors and Analog I/O; Conditionals
+
+* Tentative Lesson plan
+	- Discussion: Cybernetics and Robotics
+	- Discussion: Robots and Art
+* Tentative homework assignment
+	- Reading assignment:
+		1. “Robot and Cyborg Art” chapter from "Beyond Modern Sculpture" 
+			by Jack Burnham
+		1. [Cybernetics and Art](http://www.artexetra.com/CyberneticsArtCultConv.pdf)
+		1. [The Future of Responsive Systems in
+			Art](http://www.etantdonnes.com/SystemsArt/Burnham2sculpture.pdf)
+
 
 #### Class 05 Tuesday September 19
 - Discussion: Theatre Robotics

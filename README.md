@@ -464,8 +464,9 @@ the End of Semester Showcase.
 	4. Read  [Ontology of Robot
 	Theatre](http://wustl.probablydavid.com/publications/ontology.pdf)
 
-	5. Read [What is Theatre
-	Robotics?](http://bostoncommons.net/what-is-theater-robotics/)
+	5. Do not read [What is Theatre
+	Robotics?](http://bostoncommons.net/what-is-theater-robotics/) as the link
+	is broken. I will repair and assign at a later date.
 
 	5. Read Items 1 through 6 of [Motor
 		Resources](https://github.com/michaelshiloh/resourcesForClasses#motors)

@@ -495,6 +495,7 @@ the End of Semester Showcase.
 	* Lecture: Stranded wire and wire colors, soldering challenge, strain relief
 	* Demonstration: Soldering wire to motors
 	* Demonstration: Control both motors differently
+	  [example](src/terriblySimpleRobot/terriblySimpleRobot.ino)
 	* Lecture: Review analog input and conditional statement
 	* Homework review
 		1. On Stage: Robots as Performers

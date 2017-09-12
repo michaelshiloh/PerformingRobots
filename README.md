@@ -506,6 +506,18 @@ the End of Semester Showcase.
 		need to be finished by Thursday, but I want to see some progress,
 		and I want you to come to class with problems that we can then discuss.
 	* I will leave my "robot" on the wire shelves for your reference
+	* If you don't know where to start, you are welcome to keep it very
+		simple and just copy mine. 
+	* You are welcome to turn on my device
+		and even experiment with different code. You can always return it to the
+		original state by uploading the code that is in the class repository. Just
+		remember to turn off BOTH batteries when you are done:
+			1. Turn off the 9V battery by pulling the power connector out 
+			   of the Arduino
+			2.  Turn of the 4 x AA battery pack by removing any one of the
+				batteries
+	* The wheels are in the "Entrance Cubby" below the two monitors 
+		as you walk into the lab
 	* Please note that this Saturday we have a Legislative day!
 
 #### Class 04 Thursday September 14 9-11:40 AM

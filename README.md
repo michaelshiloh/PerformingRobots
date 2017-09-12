@@ -430,7 +430,6 @@ the End of Semester Showcase.
 * Activity: 
 	* Solder feed-through pins to motor shield
 
-### current-homework-assignment
 * Homework assignments due Tuesday September 12
 * If you have trouble accessing any of the readings please let me know
 
@@ -489,15 +488,39 @@ the End of Semester Showcase.
 	short description and the link in the README file of your GitHub repository
 
 
-#### Class 03 Tuesday September 12
+#### Class 03 Tuesday September 12 9-10:15 AM
 * Lesson plan
 	* Activity: Test motor and motor shield.
 	* Lecture: Stranded wire and wire colors, soldering challenge, strain relief
 	* Demonstration: Soldering wire to motors
 	* Demonstration: Control both motors differently
 	  [example](src/terriblySimpleRobot/terriblySimpleRobot.ino)
-	* Lecture: Review analog input and conditional statement
-	* Homework review
+### current-homework-assignment
+* Homework assignment due Thursday September 14
+	* Solder wires to your motors. Be careful not to melt the plastic on the
+	  motors, and not to break the little copper terminals. Remember to use
+	  stranded wire and to loop the wire through the motor bracket as strain
+	  relief.
+	* Start to build a simple moving chassis using your
+		two motors, your Arduino, and your motor controller. It doesn't 
+		need to be finished by Thursday, but I want to see some progress,
+		and I want you to come to class with problems that we can then discuss.
+	* I will leave my "robot" on the wire shelves for your reference
+	* Please note that this Saturday we have a Legislative day!
+
+#### Class 04 Thursday September 14 9-11:40 AM
+
+* Tentative Lesson plan
+	- Lecture: Power distribution with Arduino and Motor Shield
+	- Discussion: Cybernetics and Robotics
+			remote control, autonomy, feedback
+	- Discussion: What did I do wrong on robot?		
+		- Too much exposed metal in connections
+		- solid wire 
+		- no switch on motor battery
+	- Discussion: Robots and Art
+	- Lecture: Review analog input and conditional statement
+	- Homework review
 		1. On Stage: Robots as Performers
 		1. Ontology of Robot Theatre
 		1. What is Theatre Robotics?
@@ -506,18 +529,6 @@ the End of Semester Showcase.
 		1. Cyber-Systems Timeline 
 		1. Robotic Performance links in GitHub accounts
 		1. Machines/Mechanicals
-* Tentative homework assignment
-	* Solder wires to second motor
-	* Build simple moving chassis
-	* Add sensor, do something interesting
-
-
-
-#### Class 04 Thursday September 14
-
-* Tentative Lesson plan
-	- Discussion: Cybernetics and Robotics
-	- Discussion: Robots and Art
 * Tentative homework assignment
 	- Reading assignment:
 		1. “Robot and Cyborg Art” chapter from "Beyond Modern Sculpture" 

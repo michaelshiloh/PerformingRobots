@@ -523,16 +523,29 @@ the End of Semester Showcase.
 #### Class 04 Thursday September 14 9-11:40 AM
 
 * Tentative Lesson plan
-	- Lecture: Power distribution with Arduino and Motor Shield
+	- On Wednesday Oct. 4 7pm-10pm we will have the opportunity to 
+	  have our robots interact with the work of 
+		"Farfalle with Compagnia TPO"
+		in the BlackBox Theatre.
+	  [Here](https://www.youtube.com/watch?v=h3EsG83czvM&t=80s) 
+	  is a video showing their work.
+		There is a camera above
+		the floor pointing down at the floor tracking people (or robots), 
+		and using a program (made by students in other classes) will interact with
+		the projected video.
+		(The two side screens are all prerendered, and not interactive.)
+	- What is the state of your robot?
+		- Problems?
+	- Discussion: What did I do wrong on my robot?		
+		- Too much exposed metal in connections
+		- Solid wire 
+		- No switch on motor battery
+	- Lecture
+		- Power distribution with Arduino and Motor Shield
+		- Review analog input and conditional statement
 	- Discussion: Cybernetics and Robotics
 			remote control, autonomy, feedback
-	- Discussion: What did I do wrong on robot?		
-		- Too much exposed metal in connections
-		- solid wire 
-		- no switch on motor battery
-	- Discussion: Robots and Art
-	- Lecture: Review analog input and conditional statement
-	- Homework review
+	- Discussion: 
 		1. On Stage: Robots as Performers
 		1. Ontology of Robot Theatre
 		1. What is Theatre Robotics?

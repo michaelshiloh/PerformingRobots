@@ -689,5 +689,9 @@ October 24 and 26
 
 Final performance during Fall Show
 
+#### Student repositories
+
+- [Grace Huang](https://github.com/thatgracehuang/Performing-Robots)
+
 
 The source for this document is at github.com/michaelshiloh/PerformingRobots

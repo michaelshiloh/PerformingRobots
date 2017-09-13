@@ -543,9 +543,9 @@ the End of Semester Showcase.
 	- Lecture
 		- Power distribution with Arduino and Motor Shield
 		- Review analog input and conditional statement
-	- Discussion: Cybernetics and Robotics
-			remote control, autonomy, feedback
-	- Discussion: 
+	- Discussion
+		1. Discussion: Cybernetics and Robotics  
+			1.1. Remote control, autonomy, feedback
 		1. On Stage: Robots as Performers
 		1. Ontology of Robot Theatre
 		1. What is Theatre Robotics?
@@ -555,6 +555,10 @@ the End of Semester Showcase.
 		1. Robotic Performance links in GitHub accounts
 		1. Machines/Mechanicals
 * Tentative homework assignment
+	- Make your robot more interesting
+		1. By adding sensors?
+		1. By programming interesting behaviors?
+		1. By providing some way to tell it what you want it to do?
 	- Reading assignment:
 		1. “Robot and Cyborg Art” chapter from "Beyond Modern Sculpture" 
 			by Jack Burnham

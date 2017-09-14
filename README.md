@@ -495,7 +495,6 @@ the End of Semester Showcase.
 	* Demonstration: Soldering wire to motors
 	* Demonstration: Control both motors differently
 	  [example](src/terriblySimpleRobot/terriblySimpleRobot.ino)
-### current-homework-assignment
 * Homework assignment due Thursday September 14
 	* Solder wires to your motors. Be careful not to melt the plastic on the
 	  motors, and not to break the little copper terminals. Remember to use
@@ -522,7 +521,7 @@ the End of Semester Showcase.
 
 #### Class 04 Thursday September 14 9-11:40 AM
 
-* Tentative Lesson plan
+* Lesson plan
 	- On Wednesday Oct. 4 7pm-10pm we will have the opportunity to 
 	  have our robots interact with the work of 
 		"Farfalle with Compagnia TPO"
@@ -554,11 +553,21 @@ the End of Semester Showcase.
 		1. Cyber-Systems Timeline 
 		1. Robotic Performance links in GitHub accounts
 		1. Machines/Mechanicals
-* Tentative homework assignment
+
+### current-homework-assignment
+* Homework assignment due Saturday September 16
+	- Get your robots built and capable of moving. You can use my program
+		or write your own.
+
+#### Class 05 Saturday September 16
+- Lesson plan
 	- Make your robot more interesting
 		1. By adding sensors?
 		1. By programming interesting behaviors?
 		1. By providing some way to tell it what you want it to do?
+		1. Remote control? Wired? Bluetooth?
+
+* Tentative Homework assignment due Tuesday September 19
 	- Reading assignment:
 		1. “Robot and Cyborg Art” chapter from "Beyond Modern Sculpture" 
 			by Jack Burnham
@@ -567,7 +576,7 @@ the End of Semester Showcase.
 			Art](http://www.etantdonnes.com/SystemsArt/Burnham2sculpture.pdf)
 
 
-#### Class 05 Tuesday September 19
+#### Class 06 Tuesday September 21
 - Discussion: Theatre Robotics
 - Lecture: Motors
 - Reading assignment:
@@ -579,7 +588,12 @@ the End of Semester Showcase.
 		Multitasking](https://github.com/michaelshiloh/resourcesForClasses#arduino-multitasking-resources)
 		resources
 
-#### Class 06 Thursday September 21
+#### Class 07 Thursday September 23
+
+No class - Al Hijra
+
+
+#### Class 08 Tuesday September 26
 - Discussion and activity: State information, multitasking, and complex circuits
 - Project 1 assigned: System with at least 3 sensors and 3 actuators
 - Reading assignment:
@@ -590,7 +604,6 @@ the End of Semester Showcase.
 		Technologies](https://github.com/michaelshiloh/resourcesForClasses#wireless-technologies) 
 
 
-#### Class 07 Tuesday September 26
 - Lecture: Remote Control
 - Discussion: 
 	A robot or machine can be autonomous, that is, its behavior is entirely
@@ -615,7 +628,7 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
 		Introduction](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/theMachineAsArtistIntroduction.pdf)
 
 
-#### Class 08 Thursday September 28
+#### Class 09 Thursday September 28
 - Discussion: 
 	Performing robots can perform fixed, or recorded,
 	sequences, they can be interactive, reacting to events in their
@@ -623,26 +636,26 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
 	combination of the two. What considerations help us chose?
 - Work session
 
-#### Class 09 Tuesday October 3
+#### Class 10 Tuesday October 3
 - Work session
 
-#### Class 10 Thursday October 5
+#### Class 11 Thursday October 5
 - Project 1 presentations
 - Project 2 assigned: 
   Interactive Performative Machine (Autonomous or Remote Controlled)
 
-#### Class 11 Tuesday October 10
+#### Class 12 Tuesday October 10
 - Readings and discussion: What is a Performance
 
-#### Class 12 Thursday October 12
+#### Class 13 Thursday October 12
 - Loops and Arrays
 
-#### Class 13 Tuesday October 17
+#### Class 14 Tuesday October 17
 - Readings and discussion: Robots in performance:
 	- Broad creative roles 
 	- functional tasks such as servants or police officers
 
-#### Class 14 Thursday October 19
+#### Class 15 Thursday October 19
 - Project 2 presentation
 - Project 3 assigned: 
 	- Short group skit with (possibly modified) Project 2 machine 
@@ -651,41 +664,41 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
 #### 7 Week final exams and Fall Break
 October 24 and 26
 
-#### Class 15 Tuesday October 31
+#### Class 16 Tuesday October 31
 - Readings and discussion: Creating a Script
 
-#### Class 16 Thursday November 2
+#### Class 17 Thursday November 2
 
-#### Class 17 Tuesday November 7
+#### Class 18 Tuesday November 7
 - Readings and discussion: Creating a Character
 - Project 3 presentation 
 - Final project assigned
 
-#### Class 18 Thursday November 9
+#### Class 19 Thursday November 9
 
-#### Class 19 Tuesday November 14
+#### Class 20 Tuesday November 14
 - rough functional prototype due, readings
 
-#### Class 20 Thursday November 16
+#### Class 21 Thursday November 16
 
-#### Class 21 Tuesday November 21
+#### Class 22 Tuesday November 21
 - refine robots and story, readings
 
-#### Class 22 Thursday November 23
+#### Class 23 Thursday November 23
 
-#### Class 23 Tuesday November 28
+#### Class 24 Tuesday November 28
 - Minimal Viable Project due, readings
 
-#### Class 24 Thursday November 30
+#### Class 25 Thursday November 30
 
-#### Class 25 Tuesday December 5
+#### Class 26 Tuesday December 5
 - Rewrite script to available functionality
 
-#### Class 26 Thursday December 7
+#### Class 27 Thursday December 7
 
-#### Class 27 Tuesday December 12
+#### Class 28 Tuesday December 12
 
-#### Class 28 ?
+#### Class 29 ?
 
 Final performance during Fall Show
 

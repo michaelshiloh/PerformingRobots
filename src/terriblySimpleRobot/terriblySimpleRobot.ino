@@ -1,8 +1,10 @@
 /*
   Terribly simple robot
-  Based on Adafruit DCMotorTest
+  Based on Adafruit DCMotorTest - thanks Adafruit!
 
   11 Sept 2017 - Michael Shiloh - Program creation
+  12 Sept 2017 - Michael Shiloh - Added comments explaining
+                                  what some of the functions do
 */
 
 #include <Wire.h>
@@ -33,19 +35,19 @@ void setup() {
   stop();
   delay (250);
 
-  turnRight(300);
- 
+  turnRight(300); // 300 is the argument
+
   goForward();
   delay (2000);
   stop();
   delay (250);
 
   turnRight(300);
-  
+
   goForward();
   delay (2000);
   stop();
-  delay (250);
+  delay (250); // totally unnecessary
 }
 
 
@@ -53,6 +55,9 @@ void setup() {
 void loop() {
 }
 
+// Function to make the robot go forward
+// This function does not stop the motor
+// Note that this function takes no parameters
 void goForward() {
   Serial.println("goForward");
   leftMotor->setSpeed(150);
@@ -61,19 +66,27 @@ void goForward() {
   rightMotor->run(FORWARD);
 }
 
+// stop both motors
 void stop() {
   Serial.println("stop");
   leftMotor->run(RELEASE);
   rightMotor->run(RELEASE);
 }
 
-void turnRight(int amount) {
+// Function to make the robot turn right
+// for a certain amount of time
+// This function stops the motor once the
+// time is up
+// Note that this function takes one parameter,
+// namely, the amount of time in millliseconds
+// to turn
+void turnRight(int amount) { // amount is the parameter
   Serial.println("turnRight");
   leftMotor->setSpeed(250);
   leftMotor->run(FORWARD);
   rightMotor->setSpeed(50);
   rightMotor->run(BACKWARD);
-  delay (amount);
+  delay (amount); // here we are using the parameter
   stop();
   delay (250);
 }
@@ -86,6 +99,12 @@ void turnLeft() {
   rightMotor->run(FORWARD);
 }
 
+// I used this function at the begining to test the
+// motors and confirm that they were turning in the
+// right direction, but once I was done I didn't
+// need this anymore; however I'm keeping it in here
+// (a) as more examples and (b) in case I need to use
+// it again
 void testRobot() {
   // do a little test:
   // Go forward for a bit

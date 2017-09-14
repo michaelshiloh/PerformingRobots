@@ -556,11 +556,18 @@ the End of Semester Showcase.
 
 ### current-homework-assignment
 * Homework assignment due Saturday September 16
-	- Get your robots built and capable of moving. You can use my program
-		or write your own.
+	As we discussed in class, et your robots built and capable of moving. Simplify
+	as much as you need in order to get something finished. Remember what I
+	described as the Minimal Viable Project - just get it working.
+
+	You can use my program or write your own.
+
+	I will be available on Friday if you need help. If I'm not in the lab send me
+	email and I'll respond as quickly as I can.
 
 #### Class 05 Saturday September 16
 - Lesson plan
+	- Give me your radio modules
 	- Make your robot more interesting
 		1. By adding sensors?
 		1. By programming interesting behaviors?

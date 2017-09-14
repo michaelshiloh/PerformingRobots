@@ -692,6 +692,12 @@ Final performance during Fall Show
 #### Student repositories
 
 - [Grace Huang](https://github.com/thatgracehuang/Performing-Robots)
+- [Claire Neel](https://github.com/ClaireNeel)
+- [Lateefa Almazroeei](https://github.com/Lateefa/PerformingRobots)
+- [Reine N Defranco](https://github.com/reineydays/reine-performing-robots)
+- [Zi Yuan Huang](https://github.com/Hoyiki/PerformingRobots)
+- [Kate Howard](https://github.com/kh2233)
+- [Brooke Hopkins](https://github.com/bnhopkins/Robotics)
 
 
 The source for this document is at github.com/michaelshiloh/PerformingRobots

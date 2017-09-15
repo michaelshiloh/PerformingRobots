@@ -567,12 +567,14 @@ the End of Semester Showcase.
 
 #### Class 05 Saturday September 16
 - Lesson plan
+	- Reminder about cellphones and laptops in class
 	- Give me your radio modules
+	- Share what our robots can do
 	- Make your robot more interesting
-		1. By adding sensors?
-		1. By programming interesting behaviors?
-		1. By providing some way to tell it what you want it to do?
-		1. Remote control? Wired? Bluetooth?
+		1. Sensors?
+		1. Programming interesting behaviors?
+		1. Control? Remote control? Wired? Bluetooth?
+		1. Servo motors?
 
 * Tentative Homework assignment due Tuesday September 19
 	- Reading assignment:

@@ -569,6 +569,7 @@ the End of Semester Showcase.
 - Lesson plan
 	- Reminder about cellphones and laptops in class
 	- Give me your radio modules
+	- Who has not yet sent me their Github link?
 	- Share what our robots can do
 	- Make your robot more interesting
 		1. Sensors?

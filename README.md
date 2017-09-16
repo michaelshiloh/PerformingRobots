@@ -596,9 +596,12 @@ the End of Semester Showcase.
 		1. Install Fritzing from fritzing.org
 
 
-#### Class 06 Tuesday September 21
-- Discussion: Theatre Robotics
-- Lecture: Motors
+#### Class 06 Tuesday September 21 (Tentative)
+* Lecture
+	* How to wire up your Bluetooth 
+
+
+
 - Reading assignment:
 	- All readings in [Edge
 		Detection](https://github.com/michaelshiloh/resourcesForClasses#edge-detection)
@@ -612,6 +615,7 @@ the End of Semester Showcase.
 
 No class - Al Hijra
 
+- Discussion: Theatre Robotics
 		1. “Robot and Cyborg Art” chapter from "Beyond Modern Sculpture" 
 			by Jack Burnham
 

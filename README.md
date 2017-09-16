@@ -555,7 +555,7 @@ the End of Semester Showcase.
 		1. Machines/Mechanicals
 
 ### current-homework-assignment
-* Homework assignment due Saturday September 16
+* Homework assignment due Saturday September 16  
 	As we discussed in class, et your robots built and capable of moving. Simplify
 	as much as you need in order to get something finished. Remember what I
 	described as the Minimal Viable Project - just get it working.

@@ -726,6 +726,8 @@ Final performance during Fall Show
 - [Zi Yuan Huang](https://github.com/Hoyiki/PerformingRobots)
 - [Kate Howard](https://github.com/kh2233)
 - [Brooke Hopkins](https://github.com/bnhopkins/Robotics)
+- [Arb Mehmeti](https://github.com/ArbMehmeti)
+- [Siba Siddique](https://github.com/siba987/Performing-Robots)
 
 
 The source for this document is at github.com/michaelshiloh/PerformingRobots

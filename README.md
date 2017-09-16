@@ -554,7 +554,6 @@ the End of Semester Showcase.
 		1. Robotic Performance links in GitHub accounts
 		1. Machines/Mechanicals
 
-### current-homework-assignment
 * Homework assignment due Saturday September 16  
 	As we discussed in class, et your robots built and capable of moving. Simplify
 	as much as you need in order to get something finished. Remember what I
@@ -577,17 +576,23 @@ the End of Semester Showcase.
 		1. Control? Remote control? Wired? Bluetooth?
 		1. Servo motors?
 
-* Tentative Homework assignment due Tuesday September 19
-	- Reading assignment:
-		1. “Robot and Cyborg Art” chapter from "Beyond Modern Sculpture" 
-			by Jack Burnham
+### current-homework-assignment
+* Homework assignment due Tuesday September 19
+	- Reading assignment
 		1. [Cybernetics and Art](http://www.artexetra.com/CyberneticsArtCultConv.pdf)
 		1. [The Future of Responsive Systems in
 			Art](http://www.etantdonnes.com/SystemsArt/Burnham2sculpture.pdf)
-		1. Intro to Fritzing
-		1. Intro to Othermill
-		1. How to use Adafruit Bluefruit LE and Motor shield
-	- Doing assignments:
+		1. Fritzing
+			1.1 Read all 4 items in [Fritzing
+			Resources](https://github.com/michaelshiloh/resourcesForClasses#fritzing-and-othermill)
+			1.2 Download and install Fritzing
+		1. Read
+		[this](https://support.bantamtools.com/hc/en-us/articles/115003204926-Bantam-Tools-PCB-Badge?_ga=2.58472298.155727304.1505578847-2121842163.1504886768)
+		tutorial using the Othermill. We won't be using exactly the same workflow,
+		but get the general picture
+		1. Read the Adafruit Bluefruit LE SPI Friend
+		[Introduction](https://learn.adafruit.com/introducing-the-adafruit-bluefruit-spi-breakout?view=all)
+	- Doing assignment
 		1. Install Fritzing from fritzing.org
 
 
@@ -607,6 +612,8 @@ the End of Semester Showcase.
 
 No class - Al Hijra
 
+		1. “Robot and Cyborg Art” chapter from "Beyond Modern Sculpture" 
+			by Jack Burnham
 
 #### Class 08 Tuesday September 26
 - Discussion and activity: State information, multitasking, and complex circuits

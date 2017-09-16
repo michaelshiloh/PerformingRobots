@@ -584,6 +584,10 @@ the End of Semester Showcase.
 		1. [Cybernetics and Art](http://www.artexetra.com/CyberneticsArtCultConv.pdf)
 		1. [The Future of Responsive Systems in
 			Art](http://www.etantdonnes.com/SystemsArt/Burnham2sculpture.pdf)
+		1. Intro to Fritzing
+		1. Intro to Othermill
+	- Doing assignments:
+		1. Install Fritzing from fritzing.org
 
 
 #### Class 06 Tuesday September 21

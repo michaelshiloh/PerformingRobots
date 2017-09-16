@@ -586,6 +586,7 @@ the End of Semester Showcase.
 			Art](http://www.etantdonnes.com/SystemsArt/Burnham2sculpture.pdf)
 		1. Intro to Fritzing
 		1. Intro to Othermill
+		1. How to use Adafruit Bluefruit LE and Motor shield
 	- Doing assignments:
 		1. Install Fritzing from fritzing.org
 

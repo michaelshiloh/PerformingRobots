@@ -600,7 +600,8 @@ the End of Semester Showcase.
 * Administrative
 	* Photos
 		* I would like to take pictures of you working. 
-		*	If you don't want your picture taken please tell me or James
+		*	If you don't want your picture public please tell myself, Ume, 
+			James, or any other IM instructor
 		* Please take pictures of your own work and each other's (with permission)
 	* Budget time for cleanup
 	* Model good behavior
@@ -613,7 +614,14 @@ the End of Semester Showcase.
 	* Start creating a program with at least two different sequences that can be 
 		controlled via bluetooth
 - Tentative Homework due Tuesday September 28
-	- Reading assignment due Tuesday September 28
+	- Doing assignment 
+		* Finish wiring your Bluetooth module
+		* Test
+		* Create a program with at least two different sequences that can be 
+			controlled via bluetooth. In addition to your two sequences, include the
+			ability to do nothing (you might consider this a third sequence or a
+			state in which none of the other sequences is performed)
+	- Reading assignment 
 		- All readings in [Edge
 			Detection](https://github.com/michaelshiloh/resourcesForClasses#edge-detection)
 			resources

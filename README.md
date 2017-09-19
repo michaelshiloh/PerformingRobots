@@ -599,8 +599,8 @@ the End of Semester Showcase.
 #### Class 06 Tuesday September 19 9-10:15 AM
 * Administrative
 	* Photos
-		* I would like to take pictures of you working
-			if you don't want please tell me or james
+		* I would like to take pictures of you working. 
+		*	If you don't want your picture taken please tell me or James
 		* Please take pictures of your own work and each other's (with permission)
 	* Budget time for cleanup
 	* Model good behavior

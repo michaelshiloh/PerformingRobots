@@ -604,20 +604,22 @@ the End of Semester Showcase.
 		* Please take pictures of your own work and each other's (with permission)
 	* Budget time for cleanup
 	* Model good behavior
+	* Class this Thursday
 * Lecture
-	* How to wire up your Bluetooth 
+	* How to wire up your Bluetooth Modules
 		* Instructions to follow
 * Tentative Homework assignment due Thursday September 21
 	* Start wiring your Bluetooth module
 	* Start creating a program with at least two different sequences that can be 
 		controlled via bluetooth
-- Tentative Homework Reading assignment due Tuesday September 28
-	- All readings in [Edge
-		Detection](https://github.com/michaelshiloh/resourcesForClasses#edge-detection)
-		resources
-	- All readings in [Arduino
-		Multitasking](https://github.com/michaelshiloh/resourcesForClasses#arduino-multitasking-resources)
-		resources
+- Tentative Homework due Tuesday September 28
+	- Reading assignment due Tuesday September 28
+		- All readings in [Edge
+			Detection](https://github.com/michaelshiloh/resourcesForClasses#edge-detection)
+			resources
+		- All readings in [Arduino
+			Multitasking](https://github.com/michaelshiloh/resourcesForClasses#arduino-multitasking-resources)
+			resources
 
 #### Class 07 Thursday September 23 9-11:40 AM
 

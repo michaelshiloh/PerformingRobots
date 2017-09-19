@@ -576,7 +576,6 @@ the End of Semester Showcase.
 		1. Control? Remote control? Wired? Bluetooth?
 		1. Servo motors?
 
-### current-homework-assignment
 * Homework assignment due Tuesday September 19
 	- Reading assignment
 		1. [Cybernetics and Art](http://www.artexetra.com/CyberneticsArtCultConv.pdf)
@@ -609,6 +608,9 @@ the End of Semester Showcase.
 * Lecture
 	* How to wire up your Bluetooth Modules
 		* Instructions to follow
+
+### current-homework-assignment
+
 - Homework due Tuesday September 28
 	* Nahil has kindly offered her email address for those of you wish to 
 		contact her for help: nam432@nyu.edu

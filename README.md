@@ -614,7 +614,8 @@ the End of Semester Showcase.
 - Homework due Tuesday September 28
 	* Nahil has kindly offered her email address for those of you wish to 
 		contact her for help: nam432@nyu.edu
-	* Wire up your Bluetooth module as shown in class
+	* Wire up your Bluetooth module as shown in class.
+		Test using the Serial Monitor. Details will be in the wiring instructions
 	* Create a program with at least two different sequences that can be 
 		controlled via bluetooth. In addition to your two sequences, include the
 		ability to do nothing (you might consider this a third sequence or a

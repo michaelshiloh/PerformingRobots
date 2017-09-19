@@ -609,18 +609,14 @@ the End of Semester Showcase.
 * Lecture
 	* How to wire up your Bluetooth Modules
 		* Instructions to follow
-* Tentative Homework assignment due Thursday September 21
-	* Start wiring your Bluetooth module
-	* Start creating a program with at least two different sequences that can be 
-		controlled via bluetooth
-- Tentative Homework due Tuesday September 28
-	- Doing assignment 
-		* Finish wiring your Bluetooth module
-		* Test
-		* Create a program with at least two different sequences that can be 
-			controlled via bluetooth. In addition to your two sequences, include the
-			ability to do nothing (you might consider this a third sequence or a
-			state in which none of the other sequences is performed)
+- Homework due Tuesday September 28
+	* Nahil has kindly offered her email address for those of you wish to 
+		contact her for help: nam432@nyu.edu
+	* Wire up your Bluetooth module as shown in class
+	* Create a program with at least two different sequences that can be 
+		controlled via bluetooth. In addition to your two sequences, include the
+		ability to do nothing (you might consider this a third sequence or a
+		state in which none of the other sequences is performed)
 	- Reading assignment 
 		- All readings in [Edge
 			Detection](https://github.com/michaelshiloh/resourcesForClasses#edge-detection)

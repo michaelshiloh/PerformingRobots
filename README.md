@@ -611,7 +611,7 @@ the End of Semester Showcase.
 
 ### current-homework-assignment
 
-- Homework due Tuesday September 28
+- Homework due Tuesday September 26
 	* Nahil has kindly offered her email address for those of you wish to 
 		contact her for help: nam432@nyu.edu
 	* Wire up your Bluetooth module as shown in class.
@@ -631,46 +631,49 @@ the End of Semester Showcase.
 			Multitasking](https://github.com/michaelshiloh/resourcesForClasses#arduino-multitasking-resources)
 			resources
 
-#### Class 07 Thursday September 23 9-11:40 AM
+#### Class 07 Thursday September 21 9-11:40 AM
 
 No class - Al Hijra
 
-#### Class 08 Tuesday September 26
-- Topics
-	- State information, multitasking, and complex circuits
-	- Classes and Objects
-- Discussion: 
-	- Theatre Robotics
-		1. “Robot and Cyborg Art” chapter from "Beyond Modern Sculpture" 
+#### Class 08 Tuesday September 26 9-10:15 AM
+- Homework review
+	- Demonstrate your robots being controlled by Bluetooth
+	- Discuss in pairs:
+		- What problems did you have?
+		- How did you verify that your circuit was correct?
+		- How did you verify that your program was correct?
+		- If your project didn’t work, how did you figure out if the
+		  problem was in the program or the circuit?
+		- How did you debug (find what was wrong) in your circuit?  Your program?
+	- Look at code for a couple of projects
+- Discussion
+	- What happens if you want to stop your robot in the middle of a sequence?
+		- Why?
+		- What do we need to do to solve this problem?
+- Analysis
+	- Adafruit Multitasking
+		[Tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
+- Tentative Homework due Thursday September 28
+	1. “Robot and Cyborg Art” chapter from "Beyond Modern Sculpture" 
 			by Jack Burnham
-- Reading assignment:
-	- Autonomy and Remote Control  (TBD)
-	- Classes and Objects
-	- All readings in
+	1. Classes and Objects
+	1. All readings in
 		[Wireless
 		Technologies](https://github.com/michaelshiloh/resourcesForClasses#wireless-technologies) 
-
-
-- Lecture: Remote Control
-- Work time
+#### Class 09 Thursday September 28 (Tentative)
 - Reading assignment:
 	- Interactivity (TBD)
-
 	- Karel Čapek. [R.U.R. (Rossum's Universal
 Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
 	Resources](https://github.com/michaelshiloh/resourcesForClasses/#basic-arduino-resources)
-
 	- [Cyber-Systems
 		Timeline](http://www.etantdonnes.com/SystemsArt/timeline.html)
-
 	- ["Getting Started" Guide to
 		Cybernetics](http://www.pangaro.com/definition-cybernetics.html)
-
 	- [The Machine as Artist: An
 		Introduction](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/theMachineAsArtistIntroduction.pdf)
 
 
-#### Class 09 Thursday September 28
 - Discussion: 
 	Performing robots can perform fixed, or recorded,
 	sequences, they can be interactive, reacting to events in their

@@ -635,27 +635,23 @@ the End of Semester Showcase.
 
 No class - Al Hijra
 
-- Discussion: Theatre Robotics
+#### Class 08 Tuesday September 26
+- Topics
+	- State information, multitasking, and complex circuits
+	- Classes and Objects
+- Discussion: 
+	- Theatre Robotics
 		1. “Robot and Cyborg Art” chapter from "Beyond Modern Sculpture" 
 			by Jack Burnham
-
-#### Class 08 Tuesday September 26
-- Discussion and activity: State information, multitasking, and complex circuits
-- Project 1 assigned: System with at least 3 sensors and 3 actuators
 - Reading assignment:
 	- Autonomy and Remote Control  (TBD)
-
+	- Classes and Objects
 	- All readings in
 		[Wireless
 		Technologies](https://github.com/michaelshiloh/resourcesForClasses#wireless-technologies) 
 
 
 - Lecture: Remote Control
-- Discussion: 
-	A robot or machine can be autonomous, that is, its behavior is entirely
-	determined by its program and possibily input from its environment, it can
-	be interactive, reacting to events in its environment, or it can be a
-	combination of the two. What considerations help us chose?
 - Work time
 - Reading assignment:
 	- Interactivity (TBD)

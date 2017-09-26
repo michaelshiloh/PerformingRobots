@@ -636,6 +636,9 @@ the End of Semester Showcase.
 No class - Al Hijra
 
 #### Class 08 Tuesday September 26 9-10:15 AM
+- Alarms: 
+	- 9:30 Pictures?
+	- 10:05 cleanup
 - Homework review
 	- Demonstrate your robots being controlled by Bluetooth
 	- Discuss in pairs:

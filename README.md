@@ -609,8 +609,6 @@ the End of Semester Showcase.
 	* How to wire up your Bluetooth Modules
 		* Instructions to follow
 
-### current-homework-assignment
-
 - Homework due Tuesday September 26
 	* Nahil has kindly offered her email address for those of you wish to 
 		contact her for help: nam432@nyu.edu
@@ -656,14 +654,35 @@ No class - Al Hijra
 - Analysis
 	- Adafruit Multitasking
 		[Tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
-- Tentative Homework due Thursday September 28
-	1. “Robot and Cyborg Art” chapter from "Beyond Modern Sculpture" 
-			by Jack Burnham
-	1. Classes and Objects
-	1. All readings in
-		[Wireless
-		Technologies](https://github.com/michaelshiloh/resourcesForClasses#wireless-technologies) 
+
+### current-homework-assignment
+
+- Homework due Thursday September 28
+	- Readings
+		- Review the Adafruit Multitasking
+		[Tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
+		- If you need a refresher on Classes and Objects, 
+		look at
+		[Classes and
+			Objects](https://github.com/michaelshiloh/resourcesForClasses#classes-and-objects)
+			resources. The two Processing tutorials are excellent, even though 
+			it's a little different in Arduino. If you are having trouble 
+			understanding Classes and Objects, I highly recommend these.
+	- Doing
+		- If you have not already done so, finish the assignment that was due
+			today (September 26).
+
+
 #### Class 09 Thursday September 28 (Tentative)
+- Lecture
+	- How to make a class to control our robot to avoid delays
+- Lab time
+	- Implement a class to control your robot so that it is able to respond
+		immediately
+- Discussion
+	- How do we want to interact with the Farfalle system?
+
+- Tentative assignment:
 - Reading assignment:
 	- Interactivity (TBD)
 	- Karel Čapek. [R.U.R. (Rossum's Universal
@@ -683,6 +702,12 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
 	environment, or they can have a 
 	combination of the two. What considerations help us chose?
 - Work session
+	1. “Robot and Cyborg Art” chapter from "Beyond Modern Sculpture" 
+			by Jack Burnham
+	1. Classes and Objects
+	1. All readings in
+		[Wireless
+		Technologies](https://github.com/michaelshiloh/resourcesForClasses#wireless-technologies) 
 
 #### Class 10 Tuesday October 3
 - Work session

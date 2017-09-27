@@ -680,7 +680,8 @@ No class - Al Hijra
 * You're going to work with another class 
 	(Pierre's Software Art: Image and Software Art: Text) classes
 	to stage a performance at the end of semester show 
-	(and at the Echo festival in Dubai- stay tuned for details of this festival)
+	(and at the [Echo Festival](http://echodubai.com/)
+	in Dubai- stay tuned for details of this festival)
 	* The performance will consist of 
 		* images projected onto a stage (Software Art: Image)
 		* text to be "spoken" by actors (Software Art: Text) 

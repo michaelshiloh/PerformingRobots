@@ -710,8 +710,9 @@ No class - Al Hijra
 			other students to explore your ideas and interests. 
 			This will be a highly collaborative event and the more
 			you talk the better it will be
-		* On Thursday October 19 each student in both classes are to
-			provide the names of two students from the other class
+		* On Thursday October 19 each student in both classes will
+			provide to their teacher
+			the names of two students from the other class
 			that they would want to work with. 
 
 * What will we do for the next 2 weeks

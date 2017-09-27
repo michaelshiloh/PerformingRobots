@@ -700,9 +700,12 @@ No class - Al Hijra
 	*	Next week and the week after, Pierre's class will meet 
 		early so they can overlap with us from 10:50-11:40
 		* On Thursday October 5 we will visit Software Art to see
-			what images they have created and to start a dialog
+			what images they have created and to start a dialog. Use
+			this opportunity to see what visuals and personalities
+			resonate with you.
 		* On Thursday October 12 Software Art will visit us to
-			see our first prototypes of our actors
+			see our first prototypes of our actors. Continue 
+			evaluating potential good fits for collaboration.
 		* Between now and October 19 you are encourage to meet the
 			other students to explore your ideas and interests. 
 			This will be a highly collaborative event and the more

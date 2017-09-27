@@ -735,10 +735,10 @@ No class - Al Hijra
 			can not? 
 			If you could give your robot super powers, what would they be?
 
-* Discuss, sketch, prototype, evaluate, repeat
+	* Discuss, sketch, prototype, evaluate, repeat
 
 
-
+* Much of the rest is very tentative as we readjust to our new agenda
 
 
 

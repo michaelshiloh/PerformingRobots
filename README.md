@@ -673,14 +673,66 @@ No class - Al Hijra
 			today (September 26).
 
 
-#### Class 09 Thursday September 28 (Tentative)
-- Lecture
-	- How to make a class to control our robot to avoid delays
-- Lab time
-	- Implement a class to control your robot so that it is able to respond
-		immediately
-- Discussion
-	- How do we want to interact with the Farfalle system?
+#### Class 09 Thursday September 28 9-11:40 AM
+
+* Anyone who did not demonstrate their robot on Tuesday will do so today
+
+* You're going to work with another class 
+	(Pierre's Software Art: Image and Software Art: Text) classes
+	to stage a performance at the end of semester show 
+	(and at the Echo festival in Dubai- stay tuned for details of this festival)
+	* The performance will consist of 
+		* images projected onto a stage (Software Art: Image)
+		* text to be "spoken" by actors (Software Art: Text) 
+		* actors (Performing Robots)
+	* You will each be paired with someone from the other class 
+		(7 pairs and one team of 3)
+	* Each team will produce a 3-5 minute vignette
+	* The stage will be a simple static stage, flat surface 
+		backed by a rear projection screen
+	* There will be a sound system so that your robots can "speak"
+	* Sound might be an offstage computer and sound system, or a sound
+		system on each robot
+
+* How will we do this
+	* On Thursdays, Pierre's class meets from 11:50 - 13:05
+	*	Next week and the week after, Pierre's class will meet 
+		early so they can overlap with us from 10:50-11:40
+		* On Thursday October 5 we will visit Software Art to see
+			what images they have created and to start a dialog
+		* On Thursday October 12 Software Art will visit us to
+			see our first prototypes of our actors
+		* Between now and October 19 you are encourage to meet the
+			other students to explore your ideas and interests. 
+			This will be a highly collaborative event and the more
+			you talk the better it will be
+		* On Thursday October 19 each student in both classes are to
+			provide the names of two students from the other class
+			that they would want to work with. 
+
+* What will we do for the next 2 weeks
+	* Make a prototype of an actor. 
+		* Rapid, low-fidelity techniques are the only way to accomplish
+			this rather ambitious goal in 2 weeks. On the other had, you 
+			must use reliable, robust construction techniques: good soldering,
+			good wiring management, fault tolerant programs, etc.
+	* Discuss: 
+		* We is an actor? 
+		* Do actors have to be mobile? Can a stationary device be an actor? Does
+		  it have to have movement at all? It certainly can, we now have plenty
+			of motors, but are there other ways to act?
+		* Does an actor have to be modeled after life forms as we know them?
+		* How might sensors be used in your actor?
+		* Do you want your actor to be fully autonomous, fully remote controlled,
+		  or some hybrid?
+
+* Discuss, sketch, prototype, evaluate, repeat
+
+
+
+
+
+
 
 - Tentative assignment:
 - Reading assignment:
@@ -696,11 +748,7 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
 		Introduction](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/theMachineAsArtistIntroduction.pdf)
 
 
-- Discussion: 
-	Performing robots can perform fixed, or recorded,
-	sequences, they can be interactive, reacting to events in their
-	environment, or they can have a 
-	combination of the two. What considerations help us chose?
+	- How to make a class to control our robot to avoid delays
 - Work session
 	1. “Robot and Cyborg Art” chapter from "Beyond Modern Sculpture" 
 			by Jack Burnham

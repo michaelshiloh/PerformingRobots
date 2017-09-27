@@ -743,8 +743,6 @@ No class - Al Hijra
 
 
 
-- Tentative assignment:
-- Reading assignment:
 	- Interactivity (TBD)
 	- Karel Čapek. [R.U.R. (Rossum's Universal
 Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)

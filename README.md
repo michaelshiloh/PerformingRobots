@@ -727,9 +727,13 @@ No class - Al Hijra
 		  it have to have movement at all? It certainly can, we now have plenty
 			of motors, but are there other ways to act?
 		* Does an actor have to be modeled after life forms as we know them?
-		* How might sensors be used in your actor?
+		* How might sensors be used in your actor? (optional)
 		* Do you want your actor to be fully autonomous, fully remote controlled,
 		  or some hybrid?
+		* Do you want to emulate a human actor in some way?
+		* Do you want your robot to be able to express itself in ways humans 
+			can not? 
+			If you could give your robot super powers, what would they be?
 
 * Discuss, sketch, prototype, evaluate, repeat
 

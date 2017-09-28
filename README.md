@@ -744,6 +744,8 @@ No class - Al Hijra
 * Overall philosophy:
 	* Discuss, sketch, prototype, evaluate, repeat
 
+* Farfelle update
+
 
 * Much of the rest is very tentative as we readjust to our new agenda
 

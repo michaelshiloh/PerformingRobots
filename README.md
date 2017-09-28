@@ -721,20 +721,27 @@ No class - Al Hijra
 			this rather ambitious goal in 2 weeks. On the other had, you 
 			must use reliable, robust construction techniques: good soldering,
 			good wiring management, fault tolerant programs, etc.
-	* Discuss: 
-		* We is an actor? 
-		* Do actors have to be mobile? Can a stationary device be an actor? Does
-		  it have to have movement at all? It certainly can, we now have plenty
-			of motors, but are there other ways to act?
-		* Does an actor have to be modeled after life forms as we know them?
-		* How might sensors be used in your actor? (optional)
-		* Do you want your actor to be fully autonomous, fully remote controlled,
-		  or some hybrid?
-		* Do you want to emulate a human actor in some way?
-		* Do you want your robot to be able to express itself in ways humans 
-			can not? 
-			If you could give your robot super powers, what would they be?
 
+* Discussion to start today and to continue throughout:
+	* Before designing the "actor" 
+		ask yourselves to what kind of WORLD does
+	  the actor/robot belong? Is it a real/fictionalal/human/machine world?
+		(Maybe this develops in parallel with the actor.)
+	* What is an actor? 
+	* Do actors have to be mobile? Can a stationary device be an actor? Does
+		it have to have movement at all? It certainly can, we now have plenty
+		of motors, but are there other ways to act?
+	* Does an actor have to be modelled after life forms as we know them?
+	* How might (optional) sensors be used in your actor?
+	* Do you want your actor to be fully autonomous, fully remote controlled,
+		or some hybrid?
+	* Do you want to emulate a human actor in some way?
+	* Do you want your robot to be able to express itself in ways humans 
+		can not? 
+		To think of it another way, 
+		if you could give your actor super powers, what would they be?
+
+* Overall philosophy:
 	* Discuss, sketch, prototype, evaluate, repeat
 
 

@@ -655,8 +655,6 @@ No class - Al Hijra
 	- Adafruit Multitasking
 		[Tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
 
-### current-homework-assignment
-
 - Homework due Thursday September 28
 	- Readings
 		- Review the Adafruit Multitasking
@@ -753,6 +751,9 @@ No class - Al Hijra
 		[Linsey Bostwick](linsey.bostwick@nyu.edu)
 		your name and the date/time you want to go
 	* Workshop takes place 7-10 pm Wednesday October 4 
+		Friends and family welcome
+
+### current-homework-assignment
 
 * Homework assignment due Tuesday October 3
 
@@ -770,7 +771,7 @@ No class - Al Hijra
 		* Pictures from internet or magazines
 		* photographs
 		* [food
-		* sculpture](https://i.pinimg.com/originals/6a/5a/1d/6a5a1d1d4c94464737ee884330e4c32d.jpg)  
+		  sculpture](https://i.pinimg.com/originals/6a/5a/1d/6a5a1d1d4c94464737ee884330e4c32d.jpg)  
 		whatever conveys your ideas. As always,
 		bring to class and put on your Github repository.
 	* Start creating 1 very low-fidelity draft. Cardboard and masking tape

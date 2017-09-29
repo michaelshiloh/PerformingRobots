@@ -784,7 +784,8 @@ No class - Al Hijra
 		build something by October 12 that will convey to 
 		students in Software Art something about the direction you might take.  
 		This will not necessarily be the actor you create for the final project.  
-		This project **must** must be functional by October 12 (more on this later).
+		This project **must** must be functional by October 12 
+		(more on this later).  
 		As always, bring this to class so we can discuss.
 
 

@@ -179,18 +179,56 @@ void loop(void)
       Serial.println(" released");
     }
 
+    if (buttnum == 5) {
+      if (pressed) {
+        leftMotor->setSpeed(255);
+        leftMotor->run(FORWARD);
+        rightMotor->setSpeed(255);
+        rightMotor->run(FORWARD);
+      } else stop();
+    }
+
+    if (buttnum == 6) {
+      if (pressed) {
+        leftMotor->setSpeed(255);
+        leftMotor->run(BACKWARD);
+        rightMotor->setSpeed(255);
+        rightMotor->run(BACKWARD);
+      } else stop();
+    }
+
+    // right, I think
+    if (buttnum == 7) {
+      if (pressed) {
+        leftMotor->setSpeed(255);
+        leftMotor->run(FORWARD);
+        rightMotor->setSpeed(255);
+        rightMotor->run(BACKWARD);
+      } else stop();
+    }
+
+    // left, I think
+    if (buttnum == 8) {
+      if (pressed) {
+        leftMotor->setSpeed(255);
+        leftMotor->run(BACKWARD);
+        rightMotor->setSpeed(255);
+        rightMotor->run(FORWARD);
+      } else stop();
+    }
+
     if (buttnum == 1 && pressed == true) {
       robotDoSquare();
     }
 
-    if (buttnum == 5 && pressed == true) {
+    if (buttnum == 2 && pressed == true) {
       // increase the right turn time
       rightTurnTime90Degrees += 10;
       Serial.print("rightTurnTime90Degrees increased to ");
       Serial.print(rightTurnTime90Degrees);
       Serial.println();
     }
-    if (buttnum == 6 && pressed == true) {
+    if (buttnum == 4 && pressed == true) {
       // decrease the right turn time
       rightTurnTime90Degrees -= 10;
       Serial.print("rightTurnTime90Degrees decreased to ");

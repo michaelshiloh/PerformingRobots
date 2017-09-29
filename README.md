@@ -775,9 +775,9 @@ No class - Al Hijra
 		  sculpture](https://i.pinimg.com/originals/6a/5a/1d/6a5a1d1d4c94464737ee884330e4c32d.jpg)  
 	whatever conveys your ideas. As always,
 		bring to class and put on your Github repository.
-	* Start creating **one** very low-fidelity draft. Cardboard and masking tape
+	* Start creating **one** low-fidelity prototype. Cardboard and masking tape
 	  is fine. It does not need to be
-		finished, and it does not need to be fully functional, but you should
+		finished yet, nor does it have to be fully functional yet, but you should
 		have a pretty good idea of what sensors and actuators you want to use 
 		and where they and the rest of the electronics and batteries will go.  
 		The purpose of this exercise is to 

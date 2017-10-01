@@ -751,7 +751,8 @@ No class - Al Hijra
 		[Linsey Bostwick](linsey.bostwick@nyu.edu)
 		your name and the date/time you want to go
 	* Workshop takes place 7-10 pm Wednesday October 4 
-		Friends and family welcome
+		in the Black Box theater.
+		Friends and family welcome.
 
 ### current-homework-assignment
 

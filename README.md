@@ -805,6 +805,21 @@ No class - Al Hijra
 
 #### Class 10 Tuesday October 3 9-10:15 AM
 
+* Discussion:
+	* Put your 3 sketches and the start of your low-fidelity prototype.
+		Share and discuss.
+	* What do you need in order to finish a prototype of your actor
+		by Thursday October 12? You will need to create realistic plans
+		and make sure that you are on schedule. What will you do
+		if things take longer than you anticipate? Backup 
+		plans and Minimal Viable Projects.
+		Is there any new material you need me to cover for your actors?
+* Review: What is the difference between the 5 servo motors in your kits?
+
+
+
+
+
 * Much of the rest is very tentative as we readjust to our new agenda
 
 

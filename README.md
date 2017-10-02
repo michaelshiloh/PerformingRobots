@@ -822,8 +822,11 @@ No class - Al Hijra
 		What will you do
 		if things take longer than you anticipate, if things break,
 		if things don't work the way you expect? 
-		I make multiple backup 
-		plans and always work first on my Minimal Viable Project.
+		I make multiple backup plans,
+		try to identify areas of greatest risk and solve those first,
+		and try to make sure that I have much more time than necessary
+		to finish my Minimal Viable Project if all else fails. (Part of
+		the backup plan.)
 	* Is there any new material you need me to cover for your actors?
 * Review: What is the difference between the 5 servo motors in your kits?
 

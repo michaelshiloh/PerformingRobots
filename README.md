@@ -753,9 +753,6 @@ No class - Al Hijra
 	* Workshop takes place 7-10 pm Wednesday October 4 
 		in the Black Box theater.
 		Friends and family welcome.
-
-### current-homework-assignment
-
 * Homework assignment due Tuesday October 3
 
 	I've struggled to find the right words to convey the goal of this
@@ -830,10 +827,22 @@ No class - Al Hijra
 	* Is there any new material you need me to cover for your actors?
 * Review: What is the difference between the 5 servo motors in your kits?
 
+### current-homework-assignment
+
+* Homework assignment due Thursday October 5
+	* Choose one concept to develop further. Most of you had 
+	  pretty solid ideas. Some of you had concepts that were still quite
+		far from solid ideas. I want you all to make progress 
+		you have something ready to show the other students.
+		Many of you might need appointments with me to help move
+		your concept to something concrete. It is your responsibility 
+		to reach out to me if this is the case.
 
 
 
 
+
+#### Class 11 Thursday October 5
 * Much of the rest is very tentative as we readjust to our new agenda
 
 
@@ -861,7 +870,6 @@ Robots)](http://preprints.readingroo.ms/RUR/rur.pdf) (selections TBD)
 		Technologies](https://github.com/michaelshiloh/resourcesForClasses#wireless-technologies) 
 
 
-#### Class 11 Thursday October 5
 - Project 1 presentations
 - Project 2 assigned: 
   Interactive Performative Machine (Autonomous or Remote Controlled)

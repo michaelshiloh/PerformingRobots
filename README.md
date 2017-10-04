@@ -837,12 +837,13 @@ No class - Al Hijra
 		Many of you might need appointments with me to help move
 		your concept to something concrete. It is your responsibility 
 		to reach out to me if this is the case.
-
-
-
-
-
 #### Class 11 Thursday October 5
+	* Work session with individual help as needed
+	* Visit from (Pierre's Software Art: Image class to show 
+		us what they have
+
+
+
 * Much of the rest is very tentative as we readjust to our new agenda
 
 

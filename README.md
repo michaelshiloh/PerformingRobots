@@ -838,8 +838,10 @@ No class - Al Hijra
 		your concept to something concrete. It is your responsibility 
 		to reach out to me if this is the case.
 #### Class 11 Thursday October 5
+	* Short motor overview
+	* Quick debugging review
 	* Work session with individual help as needed
-	* Visit from (Pierre's Software Art: Image class to show 
+	* 10:25 Visit from Pierre's Software Art: Image class to show 
 		us what they have
 
 

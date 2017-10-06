@@ -839,6 +839,7 @@ No class - Al Hijra
 		to reach out to me if this is the case.
 
 #### Class 11 Thursday October 5
+
 	* Short motor overview
 	* Quick debugging review
 	* Work session with individual help as needed

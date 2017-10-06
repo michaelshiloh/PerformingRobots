@@ -827,8 +827,6 @@ No class - Al Hijra
 	* Is there any new material you need me to cover for your actors?
 * Review: What is the difference between the 5 servo motors in your kits?
 
-### current-homework-assignment
-
 * Homework assignment due Thursday October 5
 	* Choose one concept to develop further. Most of you had 
 	  pretty solid ideas. Some of you had concepts that were still quite
@@ -846,10 +844,11 @@ No class - Al Hijra
 	* 10:25 Visit from Pierre's Software Art: Image class to show 
 		us what they have
 
+### current-homework-assignment
 
 * Homework assignment due Tuesday October 10
 
-	* This assignment does not be your final project.
+	* This assignment does not need to be your final project.
 		This project is an exploration, a sketch, and a practice exercise.
 		There are two primary goals here:
 

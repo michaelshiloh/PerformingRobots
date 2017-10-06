@@ -837,12 +837,38 @@ No class - Al Hijra
 		Many of you might need appointments with me to help move
 		your concept to something concrete. It is your responsibility 
 		to reach out to me if this is the case.
+
 #### Class 11 Thursday October 5
 	* Short motor overview
 	* Quick debugging review
 	* Work session with individual help as needed
 	* 10:25 Visit from Pierre's Software Art: Image class to show 
 		us what they have
+
+
+* Homework assignment due Tuesday October 10
+
+	* This assignment does not be your final project.
+		This project is an exploration, a sketch, and a practice exercise.
+		There are two primary goals here:
+
+		1. Convey your creativity to your potential partner(s) for the
+			final project
+		2. A chance to try something different from our first robot
+			project and to learn from this experience. You might be learning
+			about a new (to you) technology or you might be learning some
+			new mechanical or construction technique
+
+	* This assignment does not need to work perfectly but does need to
+		work well enough to:
+
+		1. Convey your creativity
+
+		2. Convince me that all risky technical issues have been addressed,
+			if not implemented
+
+	* Your project should be mostly done on Tuesday so that it can 
+		be finished by Thursday
 
 
 #### Student repositories

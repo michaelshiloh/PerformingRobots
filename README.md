@@ -870,6 +870,12 @@ No class - Al Hijra
 	* Your project should be mostly done on Tuesday so that it can 
 		be finished by Thursday
 
+#### Tuesday October 10 9-10:15 AM
+
+* Assignment status report
+* Problem solving advice
+* Discussion: Knowing what you know now, what do you think a robotic performance
+	might look like?
 
 #### Student repositories
 

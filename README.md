@@ -874,8 +874,13 @@ No class - Al Hijra
 
 * Assignment status report
 * Problem solving advice
+
+#### Thursday October 12 9-11:40 AM
+
 * Discussion: Knowing what you know now, what do you think a robotic performance
 	might look like?
+* 10:25 Visit from Pierre's Software Art: Image class:
+	We show them what we have
 
 #### Student repositories
 

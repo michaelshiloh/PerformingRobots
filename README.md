@@ -844,8 +844,6 @@ No class - Al Hijra
 	* 10:25 Visit from Pierre's Software Art: Image class to show 
 		us what they have
 
-### current-homework-assignment
-
 * Homework assignment due Tuesday October 10
 
 	* This assignment does not need to be your final project.
@@ -881,6 +879,20 @@ No class - Al Hijra
 	might look like?
 * 10:25 Visit from Pierre's Software Art: Image class:
 	We show them what we have
+
+### current-homework-assignment
+
+* Homework assignment due Tuesday October 17
+	* Download and install [Fritzing](fritzing.org)
+	* Read or watch resources 2-3 of the [Fritzing 
+	  Resources](https://github.com/michaelshiloh/resourcesForClasses#fritzing-resources)
+	* Experiment with Fritzing. Try to create your own simple schematic. You can
+	 start from scratch, 
+	 start with an example you find online, 
+	 or start with one of my
+	 [examples](https://github.com/michaelshiloh/Fritzing). Your schematic
+	 doesn't need to be correct, I just want you to have some experience with
+	 the program.
 
 #### Student repositories
 

@@ -894,10 +894,10 @@ No class - Al Hijra
 	 doesn't need to be correct, I just want you to have some experience with
 	 the program.
 	* Partner Preferences for collaboration between Software Art and Performing
-	* Robots
+	  Robots
 
 		* Please indicate whether you would like to be on a team with two people 
-			(one from each class) or three people( one from Software Art and two 
+			(one from each class) or three people (one from Software Art and two 
 				from Performing Robots).
 
 		* If you prefer to be on a team of two, submit the names of two people from
@@ -905,7 +905,7 @@ No class - Al Hijra
 
 		* If you prefer to be on a team of three, submit the names of four other
 			people you would like to partner with: 
-			Two from your class and two from the
+			two from your class and two from the
 			other class.
 
 #### Student repositories

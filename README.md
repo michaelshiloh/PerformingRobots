@@ -908,6 +908,8 @@ No class - Al Hijra
 			two from your class and two from the
 			other class.
 
+		* Send this to me via email (not on your Github page)
+
 #### Student repositories
 
 - [Grace Huang](https://github.com/thatgracehuang/Performing-Robots)

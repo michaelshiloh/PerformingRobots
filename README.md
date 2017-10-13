@@ -893,6 +893,20 @@ No class - Al Hijra
 	 [examples](https://github.com/michaelshiloh/Fritzing). Your schematic
 	 doesn't need to be correct, I just want you to have some experience with
 	 the program.
+	* Partner Preferences for collaboration between Software Art and Performing
+	* Robots
+
+		* Please indicate whether you would like to be on a team with two people 
+			(one from each class) or three people( one from Software Art and two 
+				from Performing Robots).
+
+		* If you prefer to be on a team of two, submit the names of two people from
+			the other class you would like to partner with.
+
+		* If you prefer to be on a team of three, submit the names of four other
+			people you would like to partner with: 
+			Two from your class and two from the
+			other class.
 
 #### Student repositories
 

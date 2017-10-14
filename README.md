@@ -910,6 +910,35 @@ No class - Al Hijra
 
 		* Send this to me via email (not on your Github page)
 
+		* Here are links to the other class as well as
+			each student's individual blog, 
+			along with a reminder of their projects:
+
+			* Software Arts [GitHub
+			  repository(https://github.com/pierredepaz/software-art-image/wiki/blogs)
+				(blog page) 
+
+			*	[Luize](https://luizerieksta.tumblr.com) (constellations and stars)
+
+			*	[Mei](https://mei2885.tumblr.com) (randomized moving black lines)
+
+			*	[Xiuai](https://xiu-ai.tumblr.com) (butterflies)
+
+			*	[Reine](https://reinesoftwareart.tumblr.com) (black static) 
+
+			*	[Andrija](https://theaestheticsofnarcissism.wordpress.com) (pulsating
+				colorful rectangles)
+
+			*	[Arantza](https://arantzardzm.tumblr.com) (3D colorful moving dots) 
+
+			*	[Ali](https://alialdhaheri96.tumblr.com) (orbiting dots on grey
+				background) 
+
+			*	[Mateo](https://www.instagram.com/explore/tags/softwareart_image/)
+				(purple rotating cube with slants)
+
+
+
 #### Student repositories
 
 - [Grace Huang](https://github.com/thatgracehuang/Performing-Robots)

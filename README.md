@@ -915,7 +915,7 @@ No class - Al Hijra
 			along with a reminder of their projects:
 
 			* Software Arts [GitHub
-			  repository(https://github.com/pierredepaz/software-art-image/wiki/blogs)
+			  repository](https://github.com/pierredepaz/software-art-image/wiki/blogs)
 				(blog page) 
 
 			*	[Luize](https://luizerieksta.tumblr.com) (constellations and stars)

@@ -912,7 +912,8 @@ No class - Al Hijra
 
 		* Here are links to the other class as well as
 			each student's individual blog, 
-			along with a reminder of their projects:
+			along with a reminder of their projects. You are encouraged to 
+			explore all these sites, not just the pages linked:
 
 			* Software Arts [GitHub
 			  repository](https://github.com/pierredepaz/software-art-image/wiki/blogs)

@@ -910,8 +910,8 @@ No class - Al Hijra
 
 		* Send this to me via email (not on your Github page)
 
-		* Here are links to the other class as well as
-			each student's individual blog, 
+		* Here are links to the other class as well as to
+			each students' individual blog, 
 			along with a reminder of their projects. You are encouraged to 
 			explore all these sites, not just the pages linked:
 

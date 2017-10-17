@@ -880,8 +880,6 @@ No class - Al Hijra
 * 10:25 Visit from Pierre's Software Art: Image class:
 	We show them what we have
 
-### current-homework-assignment
-
 * Homework assignment due Tuesday October 17
 	* Download and install [Fritzing](fritzing.org)
 	* Read or watch resources 2-3 of the [Fritzing 
@@ -937,6 +935,24 @@ No class - Al Hijra
 
 			*	[Mateo](https://www.instagram.com/explore/tags/softwareart_image/)
 				(purple rotating cube with slants)
+
+#### Tuesday October 17 9-10:15 AM
+*	Fritzing
+
+### current-homework-assignment
+* Homework assignment due Thursday October 19
+	1. Read the Bantam Tools PCB Badge
+	[tutorial](https://support.bantamtools.com/hc/en-us/articles/115003204926-Bantam-Tools-PCB-Badge?_ga=2.21286776.250633702.1508235447-2121842163.1504886768) 
+		which will walk you through the steps required to mill a circuit board
+	2. Try to create a PCB layout in Fritzing that we can mill. You might start
+		with my design and modify it e.g. additional servos, some other sensor, one
+		or more transistors for controlling solenoids, etc.
+	3. Software Art will present their final projects on Wednesday October 18 at
+		6PM in room 155. You are invited to attend if you wish.
+	4. The Interactive Media program will be participating in the Open Studios
+		on November 6. I would like to demonstrate as many of the robots as
+		possible. If you have time and need parts to bring your robots back to life,
+		please contact me.
 
 
 

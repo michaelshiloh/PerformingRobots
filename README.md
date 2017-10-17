@@ -948,11 +948,14 @@ No class - Al Hijra
 		with my design and modify it e.g. additional servos, some other sensor, one
 		or more transistors for controlling solenoids, etc.
 	3. Software Art will present their final projects on Wednesday October 18 at
-		6PM in room 155. You are invited to attend if you wish.
+		6PM in room 155. You are invited and encouraged to attend.
 	4. The Interactive Media program will be participating in the Open Studios
 		on November 6. I would like to demonstrate as many of the robots as
-		possible. If you have time and need parts to bring your robots back to life,
+		possible. If you need parts to bring your robots back to life,
 		please contact me.
+	5. Remember to put your names on your rechargeable batteries, 
+		and remember not to take batteries belonging to someone else.
+
 
 
 

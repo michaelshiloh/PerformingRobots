@@ -956,6 +956,13 @@ No class - Al Hijra
 	5. Remember to put your names on your rechargeable batteries, 
 		and remember not to take batteries belonging to someone else.
 
+#### Thursday October 19 9-11:40 AM
+
+* [Collaboration
+  schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline)
+
+* Othermill
+* [instructions](https://github.com/michaelshiloh/fritzingAndOthermill) (under construction)
 
 
 

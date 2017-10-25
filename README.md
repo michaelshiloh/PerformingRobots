@@ -962,7 +962,7 @@ No class - Al Hijra
   schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline)
 
 * Othermill
-* [instructions](https://github.com/michaelshiloh/fritzingAndOthermill) (under construction)
+	[instructions](https://github.com/michaelshiloh/fritzingAndOthermill) (under construction)
 
 
 

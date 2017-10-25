@@ -971,8 +971,9 @@ No class - Al Hijra
 		and have some progress to report. 
 		Although your full presentation is not due until Thursday,
 		you are to report roughly on the technical concepts you are discussing. 
-		Document the following in the README.md file 
-		in your Github repository, either in words or images:
+		Document the following in your Github repository, 
+		either in the README.md file or in a new .md file,
+		either in words or images:
 		* Concept
 		* Size 
 		* Mechanical structure 

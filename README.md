@@ -970,7 +970,7 @@ No class - Al Hijra
 		You have already started the conversation with your teammates 
 		and have some progress to report. 
 		Although your full presentation is not due until Thursday,
-		You are to report roughly on the technical concepts you are discussing. 
+		you are to report roughly on the technical concepts you are discussing. 
 		Document the following in the README.md file 
 		in your Github repository, either in words or images:
 		* Concept
@@ -993,7 +993,7 @@ No class - Al Hijra
 * Homework assignment due Thursday November 2 (tentative):
 	1. Design sprint: What can you make in 1 week to add to the robotic chassis?
 	1. Prepare for team presentation (see 
-		[schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline)
+		[schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline))
 
 #### Thursday November 2 9-11:40 AM
 * Start building your robotic chassis add-on
@@ -1022,7 +1022,7 @@ No class - Al Hijra
 		* Electronics
 		* Software
 		* Power
-		* Parts list (as best as possible)
+		* Parts list 
 		* Schedule
 
 #### Thursday November 9 9-11:40 AM
@@ -1030,7 +1030,7 @@ No class - Al Hijra
 * Work time
 
 * Homework assignment due Tuesday November 14 (tentative):
-	1. Revised plan based on work accomplished so far
+	1. Revised plan based on work accomplished so far.
 		Communicate with your team regarding technical challenges
 		that might require a change to the project. 
 		You must be vigorously realistic and not be swayed by optimisim.
@@ -1040,17 +1040,19 @@ No class - Al Hijra
 * Work time
 
 * Homework assignment due Thursday November 16 (tentative):
-	1. Revised plan based on work accomplished so far
+	1. Revised plan based on work accomplished so far.
 		Communicate with your team regarding technical challenges
 		that might require a change to the project. 
 		You must be vigorously realistic and not be swayed by optimisim.
 
 #### Thursday November 16 9-11:40 AM
 * Project reports
+* Critical feedback as to whether your plan is sufficiently realistic
+	resulting in itemized list of modifications to be made
 * Work time
 
 * Homework assignment due Tuesday November 21 (tentative):
-	1. Revised plan based on work accomplished so far
+	1. Revised plan based on work accomplished so far.
 		Communicate with your team regarding technical challenges
 		that might require a change to the project. 
 		You must be vigorously realistic and not be swayed by optimisim.
@@ -1058,17 +1060,17 @@ No class - Al Hijra
 #### Tuesday November 21 9-10:15 AM
 * Project reports
 * Critical feedback as to whether your plan is sufficiently realistic
-	with itemized list of modifications to be made
+	resulting in itemized list of modifications to be made
 * Work time
 
 * Homework assignment due Thursday November 23 (tentative):
-	1. Revised plan based on work accomplished so far
+	1. Revised plan based on work accomplished so far.
 		Communicate with your team regarding technical challenges
 		that might require a change to the project. 
 		You must be vigorously realistic and not be swayed by optimisim.
 	1. Demonstrate that critical feedback items have been addressed
 	1. Prepare for team presentation (see 
-		[schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline)
+		[schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline))
 	1. Reminder that we have class on Saturday November 25
 
 #### Thursday November 23 9-11:40 AM
@@ -1076,12 +1078,12 @@ No class - Al Hijra
 * 10:25 Team presentation: Demonstrate internal aspects of vignette
 
 * Homework assignment due Saturday November 25 (tentative):
-	1. Revised plan based on work accomplished so far
+	1. Revised plan based on work accomplished so far.
 		Communicate with your team regarding technical challenges
 		that might require a change to the project. 
 		You must be vigorously realistic and not be swayed by optimisim.
 	1. Prepare for team presentation (see 
-		[schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline)
+		[schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline))
 
 #### Saturday November 25 9-11:40 AM
 * Work time
@@ -1097,7 +1099,7 @@ No class - Al Hijra
 * Report on how the team concept can be realized with your actor
 	in its current state
 * Critical feedback as to whether your plan is sufficiently realistic
-	with itemized list of modifications to plan (not to actor) to be made
+	resulting in itemized list of modifications to plan (not to actor) to be made
 
 * Homework assignment due Tuesday December 5 (tentative):
 	1. Address itemized critical feedback
@@ -1111,7 +1113,7 @@ No class - Al Hijra
 
 * Homework assignment due Thursday December 7 (tentative):
 	1. Prepare for team presentation (see 
-		[schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline)
+		[schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline))
 	1. Practice with your teammate(s)
 	1. Practice
 	1. Practice

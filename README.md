@@ -696,7 +696,7 @@ No class - Al Hijra
 * How will we do this
 	* On Thursdays, Pierre's class meets from 11:50 - 13:05
 	*	Next week and the week after, Pierre's class will meet 
-		early so they can overlap with us from 10:50-11:40
+		early so they can overlap with us from 10:25-11:40
 		* On Thursday October 5 we will visit Software Art to see
 			what images they have created and to start a dialog. Use
 			this opportunity to see what visuals and personalities
@@ -939,7 +939,6 @@ No class - Al Hijra
 #### Tuesday October 17 9-10:15 AM
 *	Fritzing
 
-### current-homework-assignment
 * Homework assignment due Thursday October 19
 	1. Read the Bantam Tools PCB Badge
 	[tutorial](https://support.bantamtools.com/hc/en-us/articles/115003204926-Bantam-Tools-PCB-Badge?_ga=2.21286776.250633702.1508235447-2121842163.1504886768) 
@@ -964,6 +963,168 @@ No class - Al Hijra
 * Othermill
 	[instructions](https://github.com/michaelshiloh/fritzingAndOthermill) (under construction)
 
+### current-homework-assignment
+* Homework assignment due Tuesday October 31 
+
+	* Welcome Back! 
+		You have already started the conversation with your teammates 
+		and have some progress to report. 
+		Although your full presentation is not due until Thursday,
+		You are to report roughly on the technical concepts you are discussing. 
+		Document the following in the README.md file 
+		in your Github repository, either in words or images:
+		* Concept
+		* Size 
+		* Mechanical structure 
+		* Electrical and electronics
+		* Identify any unusual components or items that might need to be purchased
+			immediately
+
+#### Tuesday October 31 9-10:15 AM
+* Brief review of your project report
+
+* Demo
+	* Inspect robotic chassis
+	* Working with aluminum (probably pushed to Thursday)
+		* Cutting
+		* Drilling
+		* Fastening
+
+* Homework assignment due Thursday November 2 (tentative):
+	1. Design sprint: What can you make in 1 week to add to the robotic chassis?
+	1. Prepare for team presentation (see 
+		[schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline)
+
+#### Thursday November 2 9-11:40 AM
+* Start building your robotic chassis add-on
+		utilizing stronger mechanical and more robust electronic
+		construction techniques
+
+* 10:25 Team presentation: Present concept
+
+* Homework assignment due **Monday November 6** (tentative):
+	1. Finish your robotic chassis add-on
+	1. Repair (if necessary) your earlier robot 
+* Homework assignment due Thursday November 9 (tentative):
+	* See below
+
+#### Monday November 6 6-9 PM
+* Art Center Open Studios
+	* Invite family and friends and proudly show off your work
+
+#### Tuesday November 7 9-10:15 AM
+* Design and construction sprint critical analysis: What did you learn?
+
+* Homework assignment due Thursday November 9 (tentative):
+	1. Detailed plan for your actor, addressing
+		* Areas of greatest risk or uncertainty
+		* Mechanical 
+		* Electronics
+		* Software
+		* Power
+		* Parts list (as best as possible)
+		* Schedule
+
+#### Thursday November 9 9-11:40 AM
+* Project reports
+* Work time
+
+* Homework assignment due Tuesday November 14 (tentative):
+	1. Revised plan based on work accomplished so far
+		Communicate with your team regarding technical challenges
+		that might require a change to the project. 
+		You must be vigorously realistic and not be swayed by optimisim.
+
+#### Tuesday November 14 9-10:15 AM
+* Project reports
+* Work time
+
+* Homework assignment due Thursday November 16 (tentative):
+	1. Revised plan based on work accomplished so far
+		Communicate with your team regarding technical challenges
+		that might require a change to the project. 
+		You must be vigorously realistic and not be swayed by optimisim.
+
+#### Thursday November 16 9-11:40 AM
+* Project reports
+* Work time
+
+* Homework assignment due Tuesday November 21 (tentative):
+	1. Revised plan based on work accomplished so far
+		Communicate with your team regarding technical challenges
+		that might require a change to the project. 
+		You must be vigorously realistic and not be swayed by optimisim.
+
+#### Tuesday November 21 9-10:15 AM
+* Project reports
+* Critical feedback as to whether your plan is sufficiently realistic
+	with itemized list of modifications to be made
+* Work time
+
+* Homework assignment due Thursday November 23 (tentative):
+	1. Revised plan based on work accomplished so far
+		Communicate with your team regarding technical challenges
+		that might require a change to the project. 
+		You must be vigorously realistic and not be swayed by optimisim.
+	1. Demonstrate that critical feedback items have been addressed
+	1. Prepare for team presentation (see 
+		[schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline)
+	1. Reminder that we have class on Saturday November 25
+
+#### Thursday November 23 9-11:40 AM
+* Work time
+* 10:25 Team presentation: Demonstrate internal aspects of vignette
+
+* Homework assignment due Saturday November 25 (tentative):
+	1. Revised plan based on work accomplished so far
+		Communicate with your team regarding technical challenges
+		that might require a change to the project. 
+		You must be vigorously realistic and not be swayed by optimisim.
+	1. Prepare for team presentation (see 
+		[schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline)
+
+#### Saturday November 25 9-11:40 AM
+* Work time
+* 10:25 Team presentation: Demonstrate external aspects of vignette
+
+* Homework assignment due Tuesday November 28 (tentative):
+	1. Aggressive adjustment of team concept to meet abilities of your actor
+		Assume no further repairs can be made. 
+		You must be vigorously realistic and not be swayed by optimisim.
+		Communicate with your team regarding the new reality.
+
+#### Tuesday November 28 9-10:15 AM
+* Report on how the team concept can be realized with your actor
+	in its current state
+* Critical feedback as to whether your plan is sufficiently realistic
+	with itemized list of modifications to plan (not to actor) to be made
+
+* Homework assignment due Tuesday December 5 (tentative):
+	1. Address itemized critical feedback
+	1. Refine your project so that it can perform its task reliably.
+		No new features, only improvements to reliability and robustness
+
+
+#### Tuesday December 5 9-10:15 AM
+	* Demonstrate that critical feedback items have been addressed
+	* Demonstrate your actors role in the vignette
+
+* Homework assignment due Thursday December 7 (tentative):
+	1. Prepare for team presentation (see 
+		[schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline)
+	1. Practice with your teammate(s)
+	1. Practice
+	1. Practice
+
+#### Thursday December 7 9-11:40 AM
+* 10:25 Team presentation: Tech rehearsal
+* Itemized to-do list
+
+#### Tuesday December 12 9-10:15 AM
+* 10:25 Team presentation: Dress rehearsal
+
+#### Wednesday December 13 5:30-7:30 PM
+IM + Visual Arts End of Semester Show
 
 
 #### Student repositories
@@ -977,6 +1138,12 @@ No class - Al Hijra
 - [Brooke Hopkins](https://github.com/bnhopkins/Robotics)
 - [Arb Mehmeti](https://github.com/ArbMehmeti/Performing-Robots)
 - [Siba Siddique](https://github.com/siba987/Performing-Robots)
+
+
+#### [Collaboration
+  schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline)
+	which is on Software Art Github
+	[repository](https://github.com/pierredepaz/software-art-image)
 
 
 The source for this document is at github.com/michaelshiloh/PerformingRobots

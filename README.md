@@ -970,7 +970,8 @@ No class - Al Hijra
 		You have already started the conversation with your teammates 
 		and have some progress to report. 
 		Although your full presentation is not due until Thursday,
-		you are to report roughly on the technical concepts you are discussing. 
+		at our next meeting on Tuesday I want
+		you to report roughly on the technical concepts you are discussing. 
 		Document the following in your Github repository, 
 		either in the README.md file or in a new .md file,
 		either in words or images:

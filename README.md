@@ -1142,6 +1142,7 @@ IM + Visual Arts End of Semester Show
 - [Brooke Hopkins](https://github.com/bnhopkins/Robotics)
 - [Arb Mehmeti](https://github.com/ArbMehmeti/Performing-Robots)
 - [Siba Siddique](https://github.com/siba987/Performing-Robots)
+- [Nahil Memon](https://github.com/nahilmemon/Performing-Robots)
 
 
 #### [Collaboration schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline)

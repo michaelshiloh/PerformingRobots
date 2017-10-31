@@ -1144,8 +1144,7 @@ IM + Visual Arts End of Semester Show
 - [Siba Siddique](https://github.com/siba987/Performing-Robots)
 
 
-#### [Collaboration
-  schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline)
+#### [Collaboration schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline)
 	which is on Software Art Github
 	[repository](https://github.com/pierredepaz/software-art-image)
 

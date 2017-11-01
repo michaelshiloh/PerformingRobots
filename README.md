@@ -985,6 +985,13 @@ No class - Al Hijra
 #### Tuesday October 31 9-10:15 AM
 * Brief review of your project report
 
+* Homework assignment due Thursday November 2 (tentative):
+	1. Design sprint: What can you make in 1 week to add to the robotic chassis?
+	1. Prepare for team presentation (see 
+		[schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline))
+
+#### Thursday November 2 9-11:40 AM
+
 * Demo
 	* Inspect robotic chassis
 	* Working with aluminum (probably pushed to Thursday)
@@ -992,13 +999,8 @@ No class - Al Hijra
 		* Drilling
 		* Fastening
 
-* Homework assignment due Thursday November 2 (tentative):
-	1. Design sprint: What can you make in 1 week to add to the robotic chassis?
-	1. Prepare for team presentation (see 
-		[schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline))
-
-#### Thursday November 2 9-11:40 AM
 * Start building your robotic chassis add-on
+	or repair one of your previous projects
 		utilizing stronger mechanical and more robust electronic
 		construction techniques
 

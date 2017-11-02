@@ -963,7 +963,6 @@ No class - Al Hijra
 * Othermill
 	[instructions](https://github.com/michaelshiloh/fritzingAndOthermill) (under construction)
 
-### current-homework-assignment
 * Homework assignment due Tuesday October 31 
 
 	* Welcome Back! 
@@ -1006,6 +1005,7 @@ No class - Al Hijra
 
 * 10:25 Team presentation: Present concept
 
+### current-homework-assignment
 * Homework assignments **Please note that the first assignment is due Friday
 	November 3 at 4pm**
 	* Our goal this weekend is to prepare for Open Studios. We have to do this

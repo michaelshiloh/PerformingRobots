@@ -44,8 +44,8 @@
 Adafruit_MotorShield AFMS = Adafruit_MotorShield();
 
 // Create pointers to two motor objects from the Adafruit_DCMotor class
-Adafruit_DCMotor * rightMotor = AFMS.getMotor(1);
-Adafruit_DCMotor * leftMotor = AFMS.getMotor(2);
+Adafruit_DCMotor * rightMotor = AFMS.getMotor(2);
+Adafruit_DCMotor * leftMotor = AFMS.getMotor(3);
 
 /* See original Bluefruit controller example for an explanation */
 // turning this off to avoid losing the firmware update every time.

@@ -1006,11 +1006,24 @@ No class - Al Hijra
 
 * 10:25 Team presentation: Present concept
 
-* Homework assignment due **Monday November 6** (tentative):
-	1. Finish your robotic chassis add-on
-	1. Repair (if necessary) your earlier robot 
-* Homework assignment due Thursday November 9 (tentative):
-	* See below
+* Homework assignments **Please note that the first assignment is due Friday
+	November 3 at 4pm**
+	* Our goal this weekend is to prepare for Open Studios. We have to do this
+		during the weekend as I'm teaching on Monday. I will be working in the
+		Art Center all weekend, mostly in the lab, but sometimes installing work
+		at other sites.
+	1. Due **Friday November 3** at 4pm
+		* Send me email indicating what you plan to bring to Open Studios.
+		* If you are installing something on the large robot, or if you need my
+			help, send me email telling me when you want to come.
+	2. Due **Sunday November 5** at 9pm
+		* If you are adding something to the robot chassis, it must be installed
+			by Sunday at 9pm
+		* If you need my help for any of your projects, you must get it 
+			by Sunday at 9pm as I will not be available on Monday
+	2. Due **Monday November 6** at noon
+		* Your project must be finished as we will be setting up the lab at this
+		time
 
 #### Monday November 6 6-9 PM
 * Art Center Open Studios
@@ -1018,6 +1031,7 @@ No class - Al Hijra
 
 #### Tuesday November 7 9-10:15 AM
 * Design and construction sprint critical analysis: What did you learn?
+* Critical discussion of Iinteraction
 
 * Homework assignment due Thursday November 9 (tentative):
 	1. Detailed plan for your actor, addressing

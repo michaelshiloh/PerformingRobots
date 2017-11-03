@@ -1032,10 +1032,11 @@ No class - Al Hijra
 	1. Nahil 
 		1.2. First robot in the white box with the Apple logo 
 		1.3. Dragon attached to large robot
-	1. Siba - Flower waving robot
+	1. Siba - Flower waving attachment
 	1. Grace - Animatronic tail 
-	1. Brooke - Robot
+	1. Brooke - First robot
 	1. Lateefa - Panda robot
+	1. Kate - First robot
 
 #### Tuesday November 7 9-10:15 AM
 * Design and construction sprint critical analysis: What did you learn?

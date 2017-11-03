@@ -1015,11 +1015,12 @@ No class - Al Hijra
 	1. Due **Friday November 3** at 4pm
 		* Send me email indicating what you plan to bring to Open Studios.
 		* If you are installing something on the large robot, or if you need my
-			help, send me email telling me when you want to come.
+			help, send me email telling me when, before Sunday at 6pm, 
+			you want to come.
 	2. Due **Sunday November 5** at 9pm
 		* If you are adding something to the robot chassis, it must be installed
 			by Sunday at 9pm
-		* If you need my help for any of your projects, you must get it 
+		* If you need my help for any of your projects, we must be done
 			by Sunday at 9pm as I will not be available on Monday
 	2. Due **Monday November 6** at noon
 		* Your project must be finished as we will be setting up the lab at this
@@ -1028,6 +1029,12 @@ No class - Al Hijra
 #### Monday November 6 6-9 PM
 * Art Center Open Studios
 	* Invite family and friends and proudly show off your work
+	1. Nahil 
+		1.2. First robot in the white box with the Apple logo 
+		1.3. Dragon attached to large robot
+	1. Siba - Flower waving robot
+	1. Grace - Animatronic tail 
+	1. Brooke - Robot
 
 #### Tuesday November 7 9-10:15 AM
 * Design and construction sprint critical analysis: What did you learn?

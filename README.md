@@ -1035,6 +1035,7 @@ No class - Al Hijra
 	1. Siba - Flower waving robot
 	1. Grace - Animatronic tail 
 	1. Brooke - Robot
+	1. Lateefa - Panda robot
 
 #### Tuesday November 7 9-10:15 AM
 * Design and construction sprint critical analysis: What did you learn?

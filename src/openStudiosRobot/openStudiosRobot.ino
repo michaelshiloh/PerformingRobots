@@ -34,10 +34,10 @@ Adafruit_MotorShield AFMS_60 = Adafruit_MotorShield();
 Adafruit_MotorShield AFMS_61 = Adafruit_MotorShield();
 
 // Create pointers to two motor objects from the Adafruit_DCMotor class
-Adafruit_DCMotor * rightMotor = AFMS_60.getMotor(3);
-Adafruit_DCMotor * leftMotor = AFMS_60.getMotor(4);
-Adafruit_DCMotor * drum = AFMS_60.getMotor(1);
-Adafruit_DCMotor * dragon = AFMS_60.getMotor(2);
+Adafruit_DCMotor * leftMotor = AFMS_60.getMotor(3);
+Adafruit_DCMotor * rightMotor = AFMS_60.getMotor(4);
+Adafruit_DCMotor * drum = AFMS_61.getMotor(1);
+Adafruit_DCMotor * dragon = AFMS_61.getMotor(2);
 
 /* See original Bluefruit controller example for an explanation */
 // turning this off to avoid losing the firmware update every time.
@@ -102,10 +102,10 @@ const int PIXEL_BLE_LED = 2;
 const int PIXEL_SERIAL_LED = 1;
 const int PIXEL_NEO_PIXEL_LED = 0;
 
-const int PIXEL_COLOR_RED = pixels.Color(150, 0, 0);
-const int PIXEL_COLOR_GREEN = pixels.Color(0, 150, 0);
-const int PIXEL_COLOR_BLUE = pixels.Color(0, 0, 150);
-const int PIXEL_COLOR_YELLOW = pixels.Color(252, 235, 3);
+const int PIXEL_COLOR_RED = pixels.Color(10, 0, 0);
+const int PIXEL_COLOR_GREEN = pixels.Color(0, 50, 0);
+const int PIXEL_COLOR_BLUE = pixels.Color(0, 0, 10);
+const int PIXEL_COLOR_YELLOW = pixels.Color(50, 50, 10);
 const int PIXEL_COLOR_PRESSED = PIXEL_COLOR_BLUE;
 const int PIXEL_COLOR_RELEASED = PIXEL_COLOR_YELLOW;
 
@@ -184,12 +184,12 @@ void setup(void)
 
   /* Wait for connection */
   while (! ble.isConnected()) {
-  pixels.setPixelColor(PIXEL_BLE_LED, PIXEL_COLOR_RED); 
+    pixels.setPixelColor(PIXEL_BLE_LED, PIXEL_COLOR_RED);
     pixels.show();
     delay(500);
   }
   // Change BLE LED to BLUE when connected
-  pixels.setPixelColor(PIXEL_BLE_LED, PIXEL_COLOR_BLUE); 
+  pixels.setPixelColor(PIXEL_BLE_LED, PIXEL_COLOR_BLUE);
   pixels.show();
 
   Serial.println(F("******************************"));
@@ -212,13 +212,13 @@ void setup(void)
   // also dragon and drum
   AFMS_60.begin();  // create with the default frequency 1.6KHz
   // LED 3 means the first motor shield has been begun
-  pixels.setPixelColor(PIXEL_AFMS_60_LED, PIXEL_COLOR_GREEN); 
+  pixels.setPixelColor(PIXEL_AFMS_60_LED, PIXEL_COLOR_GREEN);
   pixels.show();
 
   // Initialize the Motor Shield for stepper motor
   AFMS_61.begin();  // create with the default frequency 1.6KHz
   // LED 4 means the second motor shield has been begun
-  pixels.setPixelColor(PIXEL_AFMS_61_LED, PIXEL_COLOR_GREEN); 
+  pixels.setPixelColor(PIXEL_AFMS_61_LED, PIXEL_COLOR_GREEN);
   pixels.show();
 
 }
@@ -252,6 +252,8 @@ void loop(void)
   if (packetbuffer[1] == 'B') {
     uint8_t buttnum = packetbuffer[2] - '0';
     boolean pressed = packetbuffer[3] - '0';
+
+    // Print button event for debugging
     Serial.print ("Button "); Serial.print(buttnum);
     if (pressed) {
       Serial.println(" pressed");
@@ -259,95 +261,290 @@ void loop(void)
       Serial.println(" released");
     }
 
-    // decrease speed of the dragon's wings flapping and the drumming
-    if (buttnum == 1 ) {
-			if (pressed == true) {
-				pixels.setPixelColor(PIXEL_BUTTON_1_LED, PIXEL_COLOR_PRESSED);
-				pixels.show();
-				if (dragonSpeed >= 5) {
-					drumSpeed -= 5;
-					dragonSpeed -= 5;
-				} else {
-					drumSpeed = 0;
-					dragonSpeed = 0;
-				}
-			} else {
-				pixels.setPixelColor(PIXEL_BUTTON_1_LED, PIXEL_COLOR_RELEASED);
-				pixels.show();
-			}
-    }
+    // Take button actions
+    doButtonActions(buttnum, pressed);
+  } // end of Button packet
+} // end of loop already!
 
-    // increase speed of the dragon's wings flapping and the drumming
-    if (buttnum == 2 ) {
-			if (pressed == true) {
-				pixels.setPixelColor(PIXEL_BUTTON_1_LED, PIXEL_COLOR_PRESSED);
-				pixels.show();
-				if (dragonSpeed <= 250) {
-					drumSpeed += 5;
-					dragonSpeed += 5;
-				} else {
-					drumSpeed = 255;
-					dragonSpeed = 255;
-				}
-				} else {
-				pixels.setPixelColor(PIXEL_BUTTON_1_LED, PIXEL_COLOR_RELEASED);
-				pixels.show();
-				}
-    }
 
-    if (buttnum == 3 && pressed == true) {
-      // do something
-    }
+// Depending on the button number, call the appropriate function
+//
+void doButtonActions(int buttnum, int pressed) {
+  switch (buttnum) {
+    case 1:
+      doButton1Actions(pressed);
+      break;
+    case 2:
+      doButton2Actions(pressed);
+      break;
+    case 3:
+      doButton3Actions(pressed);
+      break;
+    case 4:
+      doButton4Actions(pressed);
+      break;
+    case 5:
+      doButton5Actions(pressed);
+      break;
+    case 6:
+      doButton6Actions(pressed);
+      break;
+    case 7:
+      doButton7Actions(pressed);
+      break;
+    case 8:
+      doButton8Actions(pressed);
+      break;
+  } // end of selecting based on button number
+} // end of do Button
 
-    if (buttnum == 4 && pressed == true) {
-      // do something
-    }
 
-    if (buttnum == 5) {
-      if (pressed) {
-        leftMotor->setSpeed(255);
-        leftMotor->run(FORWARD);
-        rightMotor->setSpeed(255);
-        rightMotor->run(FORWARD);
-        pixels.setPixelColor(5, pixels.Color(150, 0, 0)); // AFMS init
-        pixels.show();
-      } else {
-        pixels.setPixelColor(4, pixels.Color(0, 0, 0)); // AFMS init
-        pixels.show();
-        stop();
-      }
-    }
-
-    if (buttnum == 6) {
-      if (pressed) {
-        leftMotor->setSpeed(255);
-        leftMotor->run(BACKWARD);
-        rightMotor->setSpeed(255);
-        rightMotor->run(BACKWARD);
-      } else stop();
-    }
-
-    // right, I think
-    if (buttnum == 7) {
-      if (pressed) {
-        leftMotor->setSpeed(255);
-        leftMotor->run(FORWARD);
-        rightMotor->setSpeed(255);
-        rightMotor->run(BACKWARD);
-      } else stop();
-    }
-
-    // left, I think
-    if (buttnum == 8) {
-      if (pressed) {
-        leftMotor->setSpeed(255);
-        leftMotor->run(BACKWARD);
-        rightMotor->setSpeed(255);
-        rightMotor->run(FORWARD);
-      } else stop();
-    }
+void doButton1Actions(boolean pressed)
+{
+  if (pressed) {
+    doButton1PressedActions();
+  } else {
+    doButton1ReleasedActions();
   }
 }
+
+void doButton2Actions(boolean pressed)
+{
+  if (pressed) {
+    doButton2PressedActions();
+  } else {
+    doButton2ReleasedActions();
+  }
+}
+
+void doButton3Actions(boolean pressed)
+{
+  if (pressed) {
+    doButton3PressedActions();
+  } else {
+    doButton3ReleasedActions();
+  }
+}
+
+void doButton4Actions(boolean pressed)
+{
+  if (pressed) {
+    doButton4PressedActions();
+  } else {
+    doButton4ReleasedActions();
+  }
+}
+
+void doButton5Actions(boolean pressed)
+{
+  if (pressed) {
+    doButton5PressedActions();
+  } else {
+    doButton5ReleasedActions();
+  }
+}
+
+void doButton6Actions(boolean pressed)
+{
+  if (pressed) {
+    doButton6PressedActions();
+  } else {
+    doButton6ReleasedActions();
+  }
+}
+
+void doButton7Actions(boolean pressed)
+{
+  if (pressed) {
+    doButton7PressedActions();
+  } else {
+    doButton7ReleasedActions();
+  }
+}
+
+void doButton8Actions(boolean pressed)
+{
+  if (pressed) {
+    doButton8PressedActions();
+  } else {
+    doButton8ReleasedActions();
+  }
+}
+
+void doButton1PressedActions() {
+
+  pixels.setPixelColor(PIXEL_BUTTON_1_LED, PIXEL_COLOR_PRESSED);
+  pixels.show();
+
+  // decrease speed of the dragon's wings flapping and the drumming
+
+  if (dragonSpeed >= 5) {
+    drumSpeed -= 5;
+    dragonSpeed -= 5;
+  } else {
+    drumSpeed = 0;
+    dragonSpeed = 0;
+  }
+}
+
+void doButton1ReleasedActions() {
+  pixels.setPixelColor(PIXEL_BUTTON_1_LED, PIXEL_COLOR_RELEASED);
+  pixels.show();
+}
+
+void doButton2PressedActions() {
+  pixels.setPixelColor(PIXEL_BUTTON_2_LED, PIXEL_COLOR_PRESSED);
+  pixels.show();
+
+  // increase speed of the dragon's wings flapping and the drumming
+
+  if (dragonSpeed <= 250) {
+    drumSpeed += 5;
+    dragonSpeed += 5;
+  } else {
+    drumSpeed = 255;
+    dragonSpeed = 255;
+  }
+}
+
+void doButton2ReleasedActions() {
+  pixels.setPixelColor(PIXEL_BUTTON_2_LED, PIXEL_COLOR_RELEASED);
+  pixels.show();
+}
+
+void doButton3PressedActions() {
+  pixels.setPixelColor(PIXEL_BUTTON_3_LED, PIXEL_COLOR_PRESSED);
+  pixels.show();
+}
+
+void doButton3ReleasedActions() {
+  pixels.setPixelColor(PIXEL_BUTTON_3_LED, PIXEL_COLOR_RELEASED);
+  pixels.show();
+}
+void doButton4PressedActions() {
+  pixels.setPixelColor(PIXEL_BUTTON_4_LED, PIXEL_COLOR_PRESSED);
+  pixels.show();
+}
+
+void doButton4ReleasedActions() {
+  pixels.setPixelColor(PIXEL_BUTTON_4_LED, PIXEL_COLOR_RELEASED);
+  pixels.show();
+}
+
+void doButton5PressedActions() {
+  pixels.setPixelColor(PIXEL_BUTTON_5_LED, PIXEL_COLOR_PRESSED);
+  pixels.show();
+
+  goForward();
+}
+
+void doButton5ReleasedActions() {
+  pixels.setPixelColor(PIXEL_BUTTON_5_LED, PIXEL_COLOR_RELEASED);
+  pixels.show();
+
+  stop();
+}
+
+void doButton6PressedActions() {
+  pixels.setPixelColor(PIXEL_BUTTON_6_LED, PIXEL_COLOR_PRESSED);
+  pixels.show();
+
+  goBackward();
+}
+
+void doButton6ReleasedActions() {
+  pixels.setPixelColor(PIXEL_BUTTON_6_LED, PIXEL_COLOR_RELEASED);
+  pixels.show();
+
+  stop();
+}
+
+void doButton7PressedActions() {
+  pixels.setPixelColor(PIXEL_BUTTON_7_LED, PIXEL_COLOR_PRESSED);
+  pixels.show();
+
+  turnLeft();
+}
+
+void doButton7ReleasedActions() {
+  pixels.setPixelColor(PIXEL_BUTTON_7_LED, PIXEL_COLOR_RELEASED);
+  pixels.show();
+
+  stop();
+}
+
+void doButton8PressedActions() {
+  pixels.setPixelColor(PIXEL_BUTTON_8_LED, PIXEL_COLOR_PRESSED);
+  pixels.show();
+
+  turnRight();
+}
+
+void doButton8ReleasedActions() {
+  pixels.setPixelColor(PIXEL_BUTTON_8_LED, PIXEL_COLOR_RELEASED);
+  pixels.show();
+
+  stop();
+}
+
+void goForward() {
+  Serial.println("goForward");
+
+  leftMotor->setSpeed(255);
+  leftMotor->run(FORWARD);
+  rightMotor->setSpeed(255);
+  rightMotor->run(FORWARD);
+}
+
+void goBackward() {
+  Serial.println("goBackward");
+
+  leftMotor->setSpeed(255);
+  leftMotor->run(BACKWARD);
+  rightMotor->setSpeed(255);
+  rightMotor->run(BACKWARD);
+}
+
+void turnLeft () {
+  Serial.println("turnLeft");
+
+  leftMotor->setSpeed(50);
+  leftMotor->run(BACKWARD);
+  rightMotor->setSpeed(250);
+  rightMotor->run(FORWARD);
+}
+
+void turnRight() {
+  Serial.println("turnRight");
+
+  leftMotor->setSpeed(250);
+  leftMotor->run(FORWARD);
+  rightMotor->setSpeed(50);
+  rightMotor->run(BACKWARD);
+}
+
+// stop both motors
+void stop() {
+  Serial.println("stop");
+
+  leftMotor->run(RELEASE);
+  rightMotor->run(RELEASE);
+}
+
+
+// Go forward for a certain amount of time, stopping
+// motors when the time is up
+void goForwardTimed(int amount) {
+  Serial.print("goForward for ");
+  Serial.print(amount);
+  Serial.print("milliseconds");
+  Serial.println();
+  goForward();
+  delay (amount); // here we are using the parameter
+  stop();
+  delay (250);
+}
+
 
 // Function to make the robot turn right
 // for a certain amount of time
@@ -356,62 +553,15 @@ void loop(void)
 // Note that this function takes one parameter,
 // namely, the amount of time in millliseconds
 // to turn
-void turnRight(int amount) { // amount is the parameter
+void turnRightTimed(int amount) { // amount is the parameter
   Serial.print("turnRight for ");
   Serial.print(amount);
   Serial.print("milliseconds");
   Serial.println();
-  leftMotor->setSpeed(250);
-  leftMotor->run(FORWARD);
-  rightMotor->setSpeed(50);
-  rightMotor->run(BACKWARD);
+
+  turnRight();
   delay (amount); // here we are using the parameter
   stop();
   delay (250);
 }
 
-// stop both motors
-void stop() {
-  Serial.println("stop");
-  leftMotor->run(RELEASE);
-  rightMotor->run(RELEASE);
-}
-
-// Go forward for a certain amount of time, stopping
-// motors when the time is up
-void goForward(int amount) {
-  Serial.print("goForward for ");
-  Serial.print(amount);
-  Serial.print("milliseconds");
-  Serial.println();
-
-  leftMotor->setSpeed(150);
-  leftMotor->run(FORWARD);
-  rightMotor->setSpeed(150);
-  rightMotor->run(FORWARD);
-  delay (amount); // here we are using the parameter
-  stop();
-  delay (250);
-}
-
-
-// Try to do a square:
-void robotDoSquare() {
-
-  Serial.println("I will try to make a square");
-
-  goForward(2000);
-
-  turnRight(rightTurnTime90Degrees); // turn right for this much time
-
-  goForward(2000);
-
-  turnRight(rightTurnTime90Degrees); // rightTurnTime90Degrees is the argument
-
-  goForward(2000);
-
-  turnRight(rightTurnTime90Degrees);
-
-  goForward(2000);
-  stop();
-}

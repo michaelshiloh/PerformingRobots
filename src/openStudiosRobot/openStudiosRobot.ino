@@ -30,11 +30,14 @@
 #endif
 
 // Create the motor shield object from the Adafruit_MotorShield class
-Adafruit_MotorShield AFMS = Adafruit_MotorShield();
+Adafruit_MotorShield AFMS_60 = Adafruit_MotorShield();
+Adafruit_MotorShield AFMS_61 = Adafruit_MotorShield();
 
 // Create pointers to two motor objects from the Adafruit_DCMotor class
-Adafruit_DCMotor * rightMotor = AFMS.getMotor(2);
-Adafruit_DCMotor * leftMotor = AFMS.getMotor(3);
+Adafruit_DCMotor * rightMotor = AFMS.getMotor(3);
+Adafruit_DCMotor * leftMotor = AFMS.getMotor(4);
+Adafruit_DCMotor * drum = AFMS.getMotor(1);
+Adafruit_DCMotor * dragon = AFMS.getMotor(2);
 
 /* See original Bluefruit controller example for an explanation */
 // turning this off to avoid losing the firmware update every time.
@@ -114,7 +117,7 @@ void setup(void)
   pixels.setPixelColor(1, pixels.Color(0, 150, 0)); // indicates Serial init
   pixels.show();
 
-  /* Initialise the module */
+  /* Initialise Bluetooth module */
   Serial.print(F("Initialising the Bluefruit LE module: "));
 
   if ( !ble.begin(VERBOSE_MODE) )
@@ -151,6 +154,7 @@ void setup(void)
   while (! ble.isConnected()) {
     delay(500);
   }
+	// Change BLE LED to BLUE when connected
   pixels.setPixelColor(2, pixels.Color(0, 0, 150)); // BLE connected
   pixels.show();
 
@@ -170,13 +174,18 @@ void setup(void)
 
   Serial.println(F("******************************"));
 
-  // Initialize the Adafruit Motor Shield
-  AFMS.begin();  // create with the default frequency 1.6KHz
+  // Initialize the Motor Shield for the wheels
+	// also dragon and drum
+  AFMS_60.begin();  // create with the default frequency 1.6KHz
+	// LED 3 means the first motor shield has been begun
   pixels.setPixelColor(3, pixels.Color(0, 0, 150)); // AFMS init
   pixels.show();
 
-  // a guess at what might be a right turn
-  rightTurnTime90Degrees = 300;
+  // Initialize the Motor Shield for stepper motor
+  AFMS_61.begin();  // create with the default frequency 1.6KHz
+	// LED 4 means the second motor shield has been begun
+  pixels.setPixelColor(4, pixels.Color(0, 0, 150)); // AFMS init
+  pixels.show();
 
 }
 
@@ -201,12 +210,28 @@ void loop(void)
     Serial.print ("Button "); Serial.print(buttnum);
     if (pressed) {
       Serial.println(" pressed");
-      pixels.setPixelColor(4, pixels.Color(150, 0, 0)); // AFMS init
+      pixels.setPixelColor(4, pixels.Color(150, 0, 0)); // any button pressed
       pixels.show();
     } else {
       Serial.println(" released");
-      pixels.setPixelColor(4, pixels.Color(0, 0, 0)); // AFMS init
+      pixels.setPixelColor(4, pixels.Color(0, 0, 0)); // button released
       pixels.show();
+    }
+
+    if (buttnum == 1 && pressed == true) {
+      // do something
+    }
+
+    if (buttnum == 2 && pressed == true) {
+      // do something
+    }
+
+    if (buttnum == 3 && pressed == true) {
+      // do something
+    }
+
+    if (buttnum == 4 && pressed == true) {
+      // do something
     }
 
     if (buttnum == 5) {
@@ -251,25 +276,6 @@ void loop(void)
         rightMotor->setSpeed(255);
         rightMotor->run(FORWARD);
       } else stop();
-    }
-
-    if (buttnum == 1 && pressed == true) {
-      robotDoSquare();
-    }
-
-    if (buttnum == 2 && pressed == true) {
-      // increase the right turn time
-      rightTurnTime90Degrees += 10;
-      Serial.print("rightTurnTime90Degrees increased to ");
-      Serial.print(rightTurnTime90Degrees);
-      Serial.println();
-    }
-    if (buttnum == 4 && pressed == true) {
-      // decrease the right turn time
-      rightTurnTime90Degrees -= 10;
-      Serial.print("rightTurnTime90Degrees decreased to ");
-      Serial.print(rightTurnTime90Degrees);
-      Serial.println();
     }
   }
 }

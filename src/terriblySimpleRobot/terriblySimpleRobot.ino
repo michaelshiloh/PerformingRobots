@@ -1,4 +1,4 @@
-/*
+/******************************
   Terribly simple robot
   Based on Adafruit DCMotorTest - thanks Adafruit!
 

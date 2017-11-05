@@ -2,7 +2,7 @@
   Robot control for Open Studios
 
   Drawing on examples from:
-  - Adafruit DCMotorTest 
+  - Adafruit DCMotorTest
   - Adafruit StepperTest
   - Adafruit Bluefruit controller
 *********************************************************************/
@@ -34,10 +34,10 @@ Adafruit_MotorShield AFMS_60 = Adafruit_MotorShield();
 Adafruit_MotorShield AFMS_61 = Adafruit_MotorShield();
 
 // Create pointers to two motor objects from the Adafruit_DCMotor class
-Adafruit_DCMotor * rightMotor = AFMS.getMotor(3);
-Adafruit_DCMotor * leftMotor = AFMS.getMotor(4);
-Adafruit_DCMotor * drum = AFMS.getMotor(1);
-Adafruit_DCMotor * dragon = AFMS.getMotor(2);
+Adafruit_DCMotor * rightMotor = AFMS_60.getMotor(3);
+Adafruit_DCMotor * leftMotor = AFMS_60.getMotor(4);
+Adafruit_DCMotor * drum = AFMS_60.getMotor(1);
+Adafruit_DCMotor * dragon = AFMS_60.getMotor(2);
 
 /* See original Bluefruit controller example for an explanation */
 // turning this off to avoid losing the firmware update every time.
@@ -60,6 +60,9 @@ Adafruit_BluefruitLE_SPI ble(BLUEFRUIT_SPI_CS, BLUEFRUIT_SPI_IRQ, BLUEFRUIT_SPI_
 // and have it survive loops, but in general global variables like this are a bad
 // idea. What's a better way to do this?
 int rightTurnTime90Degrees;
+// To control the speeds of the drumming and the dragon's wings flapping
+int dragonSpeed = 100;
+int drumSpeed = 100;
 
 
 /**************************************************************
@@ -152,9 +155,11 @@ void setup(void)
 
   /* Wait for connection */
   while (! ble.isConnected()) {
+    pixels.setPixelColor(2, pixels.Color(150, 0, 0)); // BLE connected
+    pixels.show();
     delay(500);
   }
-	// Change BLE LED to BLUE when connected
+  // Change BLE LED to BLUE when connected
   pixels.setPixelColor(2, pixels.Color(0, 0, 150)); // BLE connected
   pixels.show();
 
@@ -175,15 +180,15 @@ void setup(void)
   Serial.println(F("******************************"));
 
   // Initialize the Motor Shield for the wheels
-	// also dragon and drum
+  // also dragon and drum
   AFMS_60.begin();  // create with the default frequency 1.6KHz
-	// LED 3 means the first motor shield has been begun
+  // LED 3 means the first motor shield has been begun
   pixels.setPixelColor(3, pixels.Color(0, 0, 150)); // AFMS init
   pixels.show();
 
   // Initialize the Motor Shield for stepper motor
   AFMS_61.begin();  // create with the default frequency 1.6KHz
-	// LED 4 means the second motor shield has been begun
+  // LED 4 means the second motor shield has been begun
   pixels.setPixelColor(4, pixels.Color(0, 0, 150)); // AFMS init
   pixels.show();
 
@@ -196,6 +201,17 @@ void setup(void)
 /**************************************************************************/
 void loop(void)
 {
+
+  // Tell the drum motor and dragon motor to spin
+  drum->setSpeed(drumSpeed);
+  drum->run(FORWARD);
+  dragon->setSpeed(dragonSpeed);
+  dragon->run(FORWARD);
+  Serial.print("Drum Speed: ");
+  Serial.print(drumSpeed);
+  Serial.print(" Dragon Speed: ");
+  Serial.println(dragonSpeed);
+
   /* Wait for new data to arrive */
   uint8_t len = readPacket(&ble, BLE_READPACKET_TIMEOUT);
   if (len == 0) return;
@@ -218,12 +234,26 @@ void loop(void)
       pixels.show();
     }
 
+    // decrease speed of the dragon's wings flapping and the drumming
     if (buttnum == 1 && pressed == true) {
-      // do something
+      if (dragonSpeed >= 5) {
+        drumSpeed -= 5;
+        dragonSpeed -= 5;
+      } else {
+        drumSpeed = 0;
+        dragonSpeed = 0;
+      }
     }
 
+    // increase speed of the dragon's wings flapping and the drumming
     if (buttnum == 2 && pressed == true) {
-      // do something
+      if (dragonSpeed <= 250) {
+        drumSpeed += 5;
+        dragonSpeed += 5;
+      } else {
+        drumSpeed = 255;
+        dragonSpeed = 255;
+      }
     }
 
     if (buttnum == 3 && pressed == true) {

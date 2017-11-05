@@ -31,7 +31,7 @@
 
 // Create the motor shield object from the Adafruit_MotorShield class
 Adafruit_MotorShield AFMS_60 = Adafruit_MotorShield();
-Adafruit_MotorShield AFMS_61 = Adafruit_MotorShield();
+Adafruit_MotorShield AFMS_61 = Adafruit_MotorShield(0x61);
 
 // Create pointers to two motor objects from the Adafruit_DCMotor class
 Adafruit_DCMotor * leftMotor = AFMS_60.getMotor(3);
@@ -231,15 +231,7 @@ void setup(void)
 void loop(void)
 {
 
-  // Tell the drum motor and dragon motor to spin
-  drum->setSpeed(drumSpeed);
-  drum->run(FORWARD);
-  dragon->setSpeed(dragonSpeed);
-  dragon->run(FORWARD);
-  Serial.print("Drum Speed: ");
-  Serial.print(drumSpeed);
-  Serial.print(" Dragon Speed: ");
-  Serial.println(dragonSpeed);
+  runDragonAndDrum();
 
   /* Wait for new data to arrive */
   uint8_t len = readPacket(&ble, BLE_READPACKET_TIMEOUT);
@@ -563,5 +555,17 @@ void turnRightTimed(int amount) { // amount is the parameter
   delay (amount); // here we are using the parameter
   stop();
   delay (250);
+}
+
+void runDragonAndDrum() {
+  // Tell the drum motor and dragon motor to spin
+  drum->setSpeed(drumSpeed);
+  drum->run(FORWARD);
+  dragon->setSpeed(dragonSpeed);
+  dragon->run(FORWARD);
+  Serial.print("Drum Speed: ");
+  Serial.print(drumSpeed);
+  Serial.print(" Dragon Speed: ");
+  Serial.println(dragonSpeed);
 }
 

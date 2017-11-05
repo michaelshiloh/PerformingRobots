@@ -54,7 +54,7 @@ Adafruit_BluefruitLE_SPI ble(BLUEFRUIT_SPI_CS, BLUEFRUIT_SPI_IRQ, BLUEFRUIT_SPI_
 
 /**************************************************************
    Global Variables
- **************************************************************/
+*/
 
 // The amount of time to turn right. I made this global so that I could adjust
 // and have it survive loops, but in general global variables like this are a bad
@@ -63,11 +63,15 @@ int rightTurnTime90Degrees;
 // To control the speeds of the drumming and the dragon's wings flapping
 int dragonSpeed = 100;
 int drumSpeed = 100;
+/**************************************************************/
+
+
 
 
 /**************************************************************
    Global Constants and Pin Usage
- **************************************************************/
+*/
+
 /*
     Bluefruit uses pins 13, 12, 11, 8, 7, and 4 (check)
 */
@@ -76,13 +80,38 @@ int drumSpeed = 100;
    Motor shield uses pins A5 and A6 (I2C)
 */
 
+/*
+  NeoPixels
+*/
 const int NEO_PIXEL_PIN = 6;
 const int NEO_PIXEL_COUNT = 26; // How many NeoPixels are attached to the Arduino?
-
 // When we setup the NeoPixel library, we tell it how many pixels, and which pin to use to send signals.
-// Note that for older NeoPixel strips you might need to change the third parameter--see the strandtest
-// example for more information on possible values.
 Adafruit_NeoPixel pixels = Adafruit_NeoPixel(NEO_PIXEL_COUNT, NEO_PIXEL_PIN, NEO_GRB + NEO_KHZ800);
+
+const int PIXEL_BUTTON_8_LED = 17;
+const int PIXEL_BUTTON_7_LED = 16;
+const int PIXEL_BUTTON_6_LED = 15;
+const int PIXEL_BUTTON_5_LED = 14;
+const int PIXEL_BUTTON_4_LED = 13;
+const int PIXEL_BUTTON_3_LED = 12;
+const int PIXEL_BUTTON_2_LED = 11;
+const int PIXEL_BUTTON_1_LED = 10;
+const int PIXEL_AFMS_61_LED = 4;
+const int PIXEL_AFMS_60_LED = 3;
+const int PIXEL_BLE_LED = 2;
+const int PIXEL_SERIAL_LED = 1;
+const int PIXEL_NEO_PIXEL_LED = 0;
+
+const int PIXEL_COLOR_RED = pixels.Color(150, 0, 0);
+const int PIXEL_COLOR_GREEN = pixels.Color(0, 150, 0);
+const int PIXEL_COLOR_BLUE = pixels.Color(0, 0, 150);
+const int PIXEL_COLOR_YELLOW = pixels.Color(252, 235, 3);
+const int PIXEL_COLOR_PRESSED = PIXEL_COLOR_BLUE;
+const int PIXEL_COLOR_RELEASED = PIXEL_COLOR_YELLOW;
+
+/**************************************************************/
+
+
 
 // A small helper
 void error(const __FlashStringHelper*err) {
@@ -111,13 +140,13 @@ void setup(void)
   delay(500);
 
   pixels.begin(); // This initializes the NeoPixel library.
-  pixels.setPixelColor(0, pixels.Color(0, 150, 0)); // indicates NeoPixel init
+  pixels.setPixelColor(PIXEL_NEO_PIXEL_LED, PIXEL_COLOR_GREEN);
   pixels.show(); // This sends the updated pixel color to the hardware.
 
   Serial.begin(115200);
   Serial.println(F("Adafruit Bluefruit App Controller Example"));
   Serial.println(F("-----------------------------------------"));
-  pixels.setPixelColor(1, pixels.Color(0, 150, 0)); // indicates Serial init
+  pixels.setPixelColor(PIXEL_SERIAL_LED, PIXEL_COLOR_GREEN);
   pixels.show();
 
   /* Initialise Bluetooth module */
@@ -128,7 +157,7 @@ void setup(void)
     error(F("Couldn't find Bluefruit, make sure it's in CoMmanD mode & check wiring?"));
   }
   Serial.println( F("OK!") );
-  pixels.setPixelColor(2, pixels.Color(0, 150, 0)); // BLE init
+  pixels.setPixelColor(PIXEL_BLE_LED, PIXEL_COLOR_GREEN); // BLE init
   pixels.show();
 
   if ( FACTORYRESET_ENABLE )
@@ -155,12 +184,12 @@ void setup(void)
 
   /* Wait for connection */
   while (! ble.isConnected()) {
-    pixels.setPixelColor(2, pixels.Color(150, 0, 0)); // BLE connected
+  pixels.setPixelColor(PIXEL_BLE_LED, PIXEL_COLOR_RED); 
     pixels.show();
     delay(500);
   }
   // Change BLE LED to BLUE when connected
-  pixels.setPixelColor(2, pixels.Color(0, 0, 150)); // BLE connected
+  pixels.setPixelColor(PIXEL_BLE_LED, PIXEL_COLOR_BLUE); 
   pixels.show();
 
   Serial.println(F("******************************"));
@@ -183,13 +212,13 @@ void setup(void)
   // also dragon and drum
   AFMS_60.begin();  // create with the default frequency 1.6KHz
   // LED 3 means the first motor shield has been begun
-  pixels.setPixelColor(3, pixels.Color(0, 0, 150)); // AFMS init
+  pixels.setPixelColor(PIXEL_AFMS_60_LED, PIXEL_COLOR_GREEN); 
   pixels.show();
 
   // Initialize the Motor Shield for stepper motor
   AFMS_61.begin();  // create with the default frequency 1.6KHz
   // LED 4 means the second motor shield has been begun
-  pixels.setPixelColor(4, pixels.Color(0, 0, 150)); // AFMS init
+  pixels.setPixelColor(PIXEL_AFMS_61_LED, PIXEL_COLOR_GREEN); 
   pixels.show();
 
 }
@@ -226,34 +255,44 @@ void loop(void)
     Serial.print ("Button "); Serial.print(buttnum);
     if (pressed) {
       Serial.println(" pressed");
-      pixels.setPixelColor(4, pixels.Color(150, 0, 0)); // any button pressed
-      pixels.show();
     } else {
       Serial.println(" released");
-      pixels.setPixelColor(4, pixels.Color(0, 0, 0)); // button released
-      pixels.show();
     }
 
     // decrease speed of the dragon's wings flapping and the drumming
-    if (buttnum == 1 && pressed == true) {
-      if (dragonSpeed >= 5) {
-        drumSpeed -= 5;
-        dragonSpeed -= 5;
-      } else {
-        drumSpeed = 0;
-        dragonSpeed = 0;
-      }
+    if (buttnum == 1 ) {
+			if (pressed == true) {
+				pixels.setPixelColor(PIXEL_BUTTON_1_LED, PIXEL_COLOR_PRESSED);
+				pixels.show();
+				if (dragonSpeed >= 5) {
+					drumSpeed -= 5;
+					dragonSpeed -= 5;
+				} else {
+					drumSpeed = 0;
+					dragonSpeed = 0;
+				}
+			} else {
+				pixels.setPixelColor(PIXEL_BUTTON_1_LED, PIXEL_COLOR_RELEASED);
+				pixels.show();
+			}
     }
 
     // increase speed of the dragon's wings flapping and the drumming
-    if (buttnum == 2 && pressed == true) {
-      if (dragonSpeed <= 250) {
-        drumSpeed += 5;
-        dragonSpeed += 5;
-      } else {
-        drumSpeed = 255;
-        dragonSpeed = 255;
-      }
+    if (buttnum == 2 ) {
+			if (pressed == true) {
+				pixels.setPixelColor(PIXEL_BUTTON_1_LED, PIXEL_COLOR_PRESSED);
+				pixels.show();
+				if (dragonSpeed <= 250) {
+					drumSpeed += 5;
+					dragonSpeed += 5;
+				} else {
+					drumSpeed = 255;
+					dragonSpeed = 255;
+				}
+				} else {
+				pixels.setPixelColor(PIXEL_BUTTON_1_LED, PIXEL_COLOR_RELEASED);
+				pixels.show();
+				}
     }
 
     if (buttnum == 3 && pressed == true) {

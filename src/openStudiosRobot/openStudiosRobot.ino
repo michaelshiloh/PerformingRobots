@@ -39,6 +39,10 @@ Adafruit_DCMotor * rightMotor = AFMS_60.getMotor(4);
 Adafruit_DCMotor * drum = AFMS_61.getMotor(1);
 Adafruit_DCMotor * dragon = AFMS_61.getMotor(2);
 
+// Stepper motor with 200 steps per revolution (1.8 degree)
+// to motor port #2 (M3 and M4)
+Adafruit_StepperMotor *myMotor = AFMS_61.getStepper(200, 2);
+
 /* See original Bluefruit controller example for an explanation */
 // turning this off to avoid losing the firmware update every time.
 #define FACTORYRESET_ENABLE         0
@@ -231,7 +235,6 @@ void setup(void)
 void loop(void)
 {
 
-  runDragonAndDrum();
 
   /* Wait for new data to arrive */
   uint8_t len = readPacket(&ble, BLE_READPACKET_TIMEOUT);
@@ -255,6 +258,15 @@ void loop(void)
 
     // Take button actions
     doButtonActions(buttnum, pressed);
+
+    // do some stepper action
+
+
+    Serial.println("Double coil steps");
+    myMotor->step(10, FORWARD, DOUBLE);
+    myMotor->step(10, BACKWARD, DOUBLE);
+
+
   } // end of Button packet
 } // end of loop already!
 
@@ -407,15 +419,18 @@ void doButton2ReleasedActions() {
 void doButton3PressedActions() {
   pixels.setPixelColor(PIXEL_BUTTON_3_LED, PIXEL_COLOR_PRESSED);
   pixels.show();
+  noiseOn();
 }
 
 void doButton3ReleasedActions() {
   pixels.setPixelColor(PIXEL_BUTTON_3_LED, PIXEL_COLOR_RELEASED);
   pixels.show();
+  noiseOff();
 }
 void doButton4PressedActions() {
   pixels.setPixelColor(PIXEL_BUTTON_4_LED, PIXEL_COLOR_PRESSED);
   pixels.show();
+  doStepperAction();
 }
 
 void doButton4ReleasedActions() {
@@ -557,6 +572,16 @@ void turnRightTimed(int amount) { // amount is the parameter
   delay (250);
 }
 
+void noiseOn() {
+  runDragonAndDrum();
+}
+
+void noiseOff() {
+  runDragonAndDrum();
+  drum->run(RELEASE);
+  dragon->run(RELEASE);
+}
+
 void runDragonAndDrum() {
   // Tell the drum motor and dragon motor to spin
   drum->setSpeed(drumSpeed);
@@ -567,5 +592,15 @@ void runDragonAndDrum() {
   Serial.print(drumSpeed);
   Serial.print(" Dragon Speed: ");
   Serial.println(dragonSpeed);
+}
+
+void doStepperAction() {
+  Serial.println("Interleave coil steps");
+  myMotor->step(10, FORWARD, INTERLEAVE);
+  myMotor->step(10, BACKWARD, INTERLEAVE);
+
+  Serial.println("Microstep steps");
+  myMotor->step(5, FORWARD, MICROSTEP);
+  myMotor->step(5, BACKWARD, MICROSTEP);
 }
 

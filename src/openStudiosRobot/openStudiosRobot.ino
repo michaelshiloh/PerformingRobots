@@ -6,7 +6,7 @@
   - Adafruit StepperTest
   - Adafruit Bluefruit controller
 *********************************************************************/
-
+#include <Servo.h>
 #include <string.h>
 #include <Arduino.h>
 #include <SPI.h>
@@ -36,8 +36,8 @@ Adafruit_MotorShield AFMS_61 = Adafruit_MotorShield(0x61);
 // Create pointers to two motor objects from the Adafruit_DCMotor class
 Adafruit_DCMotor * leftMotor = AFMS_60.getMotor(3);
 Adafruit_DCMotor * rightMotor = AFMS_60.getMotor(4);
-Adafruit_DCMotor * drum = AFMS_61.getMotor(1);
-Adafruit_DCMotor * dragon = AFMS_61.getMotor(2);
+Adafruit_DCMotor * drum = AFMS_60.getMotor(1);
+Adafruit_DCMotor * dragon = AFMS_60.getMotor(2);
 
 // Stepper motor with 200 steps per revolution (1.8 degree)
 // to motor port #2 (M3 and M4)
@@ -65,8 +65,9 @@ Adafruit_BluefruitLE_SPI ble(BLUEFRUIT_SPI_CS, BLUEFRUIT_SPI_IRQ, BLUEFRUIT_SPI_
 // idea. What's a better way to do this?
 int rightTurnTime90Degrees;
 // To control the speeds of the drumming and the dragon's wings flapping
-int dragonSpeed = 100;
+int dragonSpeed = 150;
 int drumSpeed = 100;
+int angle=0;
 /**************************************************************/
 
 
@@ -114,7 +115,63 @@ const int PIXEL_COLOR_PRESSED = PIXEL_COLOR_BLUE;
 const int PIXEL_COLOR_RELEASED = PIXEL_COLOR_YELLOW;
 
 /**************************************************************/
+/*!
+(SIBA) Added classes for the Servo swwep functions
+*/ 
+/**************************************************************/
 
+class Sweeper
+{
+    Servo servo;              // the servo
+    int pos;              // current servo position
+    int increment;        // increment to move for each interval
+    int lowIncrement;
+    int highIncrement;
+    int  updateInterval;      // interval between updates
+    unsigned long lastUpdate; // last update of position
+
+  public:
+    Sweeper(int interval)
+    {
+      updateInterval = interval;
+      lowIncrement = 1;
+      highIncrement = 5;
+    }
+
+    void Attach(int pin)
+    {
+      servo.attach(pin);
+    }
+
+    void Detach()
+    {
+      servo.detach();
+    }
+
+    void Update()
+    {
+      if ((millis() - lastUpdate) > updateInterval) // time to update
+      {
+        lastUpdate = millis();
+        //increment=1;
+        pos += increment;
+        servo.write(pos);
+        //Serial.println(pos);
+        if (pos >= 135) 
+        {
+          increment = - lowIncrement;
+        }
+        else if ((pos <= 0)) // end of sweep
+        {
+          // reverse direction
+          //servo.write(0);
+          increment = highIncrement;
+        }
+      }
+    }
+};
+
+Sweeper swee(15);
 
 
 // A small helper
@@ -224,7 +281,9 @@ void setup(void)
   // LED 4 means the second motor shield has been begun
   pixels.setPixelColor(PIXEL_AFMS_61_LED, PIXEL_COLOR_GREEN);
   pixels.show();
-
+  
+  //Attach servo motor
+  swee.Attach(10);
 }
 
 /**************************************************************************/
@@ -235,7 +294,12 @@ void setup(void)
 void loop(void)
 {
 
+  // Always turn the dragon and drum on
+  noiseOn();
 
+// (SIBA) Add robot arm function
+  swee.Update();
+  
   /* Wait for new data to arrive */
   uint8_t len = readPacket(&ble, BLE_READPACKET_TIMEOUT);
   if (len == 0) return;
@@ -419,7 +483,7 @@ void doButton2ReleasedActions() {
 void doButton3PressedActions() {
   pixels.setPixelColor(PIXEL_BUTTON_3_LED, PIXEL_COLOR_PRESSED);
   pixels.show();
-  noiseOn();
+  //noiseOn();
 }
 
 void doButton3ReleasedActions() {
@@ -585,7 +649,7 @@ void noiseOff() {
 void runDragonAndDrum() {
   // Tell the drum motor and dragon motor to spin
   drum->setSpeed(drumSpeed);
-  drum->run(FORWARD);
+  drum->run(BACKWARD);
   dragon->setSpeed(dragonSpeed);
   dragon->run(FORWARD);
   Serial.print("Drum Speed: ");

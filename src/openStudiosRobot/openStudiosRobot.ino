@@ -36,8 +36,8 @@ Adafruit_MotorShield AFMS_61 = Adafruit_MotorShield(0x61);
 // Create pointers to two motor objects from the Adafruit_DCMotor class
 Adafruit_DCMotor * leftMotor = AFMS_60.getMotor(3);
 Adafruit_DCMotor * rightMotor = AFMS_60.getMotor(4);
-Adafruit_DCMotor * drum = AFMS_61.getMotor(1);
-Adafruit_DCMotor * dragon = AFMS_61.getMotor(2);
+Adafruit_DCMotor * drum = AFMS_60.getMotor(1);
+Adafruit_DCMotor * dragon = AFMS_60.getMotor(2);
 
 // Stepper motor with 200 steps per revolution (1.8 degree)
 // to motor port #2 (M3 and M4)
@@ -65,7 +65,7 @@ Adafruit_BluefruitLE_SPI ble(BLUEFRUIT_SPI_CS, BLUEFRUIT_SPI_IRQ, BLUEFRUIT_SPI_
 // idea. What's a better way to do this?
 int rightTurnTime90Degrees;
 // To control the speeds of the drumming and the dragon's wings flapping
-int dragonSpeed = 100;
+int dragonSpeed = 150;
 int drumSpeed = 100;
 int angle=0;
 /**************************************************************/
@@ -156,7 +156,7 @@ class Sweeper
         //increment=1;
         pos += increment;
         servo.write(pos);
-        Serial.println(pos);
+        //Serial.println(pos);
         if (pos >= 135) 
         {
           increment = - lowIncrement;
@@ -293,6 +293,9 @@ void setup(void)
 /**************************************************************************/
 void loop(void)
 {
+
+  // Always turn the dragon and drum on
+  noiseOn();
 
 // (SIBA) Add robot arm function
   swee.Update();
@@ -480,7 +483,7 @@ void doButton2ReleasedActions() {
 void doButton3PressedActions() {
   pixels.setPixelColor(PIXEL_BUTTON_3_LED, PIXEL_COLOR_PRESSED);
   pixels.show();
-  noiseOn();
+  //noiseOn();
 }
 
 void doButton3ReleasedActions() {
@@ -646,7 +649,7 @@ void noiseOff() {
 void runDragonAndDrum() {
   // Tell the drum motor and dragon motor to spin
   drum->setSpeed(drumSpeed);
-  drum->run(FORWARD);
+  drum->run(BACKWARD);
   dragon->setSpeed(dragonSpeed);
   dragon->run(FORWARD);
   Serial.print("Drum Speed: ");

@@ -1031,7 +1031,7 @@ No class - Al Hijra
 	* Invite family and friends and proudly show off your work
 	* Class Robots
 		1.1. Nahil's dragon 
-		1.1. Grace's tail
+		1.1. Grace's animatronic tail
 		1.1. Jennifer's drum
 		1.1. Siba's flower presenter
 		1.1. Lateefa's graphics

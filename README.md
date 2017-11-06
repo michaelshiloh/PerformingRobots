@@ -1029,14 +1029,20 @@ No class - Al Hijra
 #### Monday November 6 6-9 PM
 * Art Center Open Studios
 	* Invite family and friends and proudly show off your work
-	1. Nahil 
-		1.2. First robot in the white box with the Apple logo 
-		1.3. Dragon attached to large robot
-	1. Siba - Flower waving attachment
-	1. Grace - Animatronic tail 
-	1. Brooke - First robot
-	1. Lateefa - Panda robot
+	* Class Robots
+		1.1. Nahil's dragon 
+		1.1. Grace's tail
+		1.1. Jennifer's drum
+		1.1. Siba's flower presenter
+		1.1. Lateefa's graphics
 	1. Kate - First robot
+	* Individual Robots
+		1.1. Nahil's first robot in the white box with the Apple logo 
+		1.1. Brooke - First robot
+		1.1. Arb - First robot
+	* Installations
+		1.1 Claire - Rotating tree
+
 
 #### Tuesday November 7 9-10:15 AM
 * Design and construction sprint critical analysis: What did you learn?

@@ -116,7 +116,7 @@ const int PIXEL_COLOR_RELEASED = PIXEL_COLOR_YELLOW;
 
 /**************************************************************/
 /*!
-(SIBA) Added classes for the Servo swwep functions
+(SIBA) Added classes for the Servo sweep functions
 */ 
 /**************************************************************/
 
@@ -444,14 +444,26 @@ void doButton1PressedActions() {
   pixels.setPixelColor(PIXEL_BUTTON_1_LED, PIXEL_COLOR_PRESSED);
   pixels.show();
 
-  // decrease speed of the dragon's wings flapping and the drumming
+  // decrease speed of the dragon's wings flapping
+  int dragonSpeedMin = 0;
+  int dragonSpeedIncrement = 5;
 
-  if (dragonSpeed >= 5) {
-    drumSpeed -= 5;
-    dragonSpeed -= 5;
+  if (dragonSpeed >= dragonSpeedMin + dragonSpeedIncrement) {
+    drumSpeed -= dragonSpeedIncrement;
+    dragonSpeed -= dragonSpeedIncrement;
   } else {
-    drumSpeed = 0;
-    dragonSpeed = 0;
+    drumSpeed = dragonSpeedMin;
+    dragonSpeed = dragonSpeedMin;
+  }
+
+  // decrease speed of the drumming
+  int drumSpeedMin = 70;
+  int drumSpeedIncrement = 5;
+
+  if (drumSpeed >= drumSpeedMin + drumSpeedIncrement) {
+    drumSpeed -= drumSpeedIncrement;
+  } else {
+    drumSpeed = drumSpeedMin;
   }
 }
 
@@ -464,14 +476,24 @@ void doButton2PressedActions() {
   pixels.setPixelColor(PIXEL_BUTTON_2_LED, PIXEL_COLOR_PRESSED);
   pixels.show();
 
-  // increase speed of the dragon's wings flapping and the drumming
+  // increase speed of the dragon's wings flapping
+  int dragonSpeedMax = 255;
+  int dragonSpeedIncrement = 5;
 
-  if (dragonSpeed <= 250) {
-    drumSpeed += 5;
-    dragonSpeed += 5;
+  if (dragonSpeed <= dragonSpeedMax - dragonSpeedIncrement) {
+    dragonSpeed += dragonSpeedIncrement;
   } else {
-    drumSpeed = 255;
-    dragonSpeed = 255;
+    dragonSpeed = dragonSpeedMax - dragonSpeedIncrement;
+  }
+
+  // increase speed of the drumming
+  int drumSpeedMax = 165;
+  int drumSpeedIncrement = 5;
+
+  if (drumSpeed <= drumSpeedMax) {
+    drumSpeed += drumSpeedIncrement;
+  } else {
+    drumSpeed = drumSpeedMax - drumSpeedIncrement;
   }
 }
 
@@ -649,7 +671,7 @@ void noiseOff() {
 void runDragonAndDrum() {
   // Tell the drum motor and dragon motor to spin
   drum->setSpeed(drumSpeed);
-  drum->run(BACKWARD);
+  drum->run(FORWARD);
   dragon->setSpeed(dragonSpeed);
   dragon->run(FORWARD);
   Serial.print("Drum Speed: ");

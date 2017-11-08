@@ -1038,17 +1038,26 @@ No class - Al Hijra
 	1. Kate - First robot
 	* Individual Robots
 		1.1. Nahil's first robot in the white box with the Apple logo 
-		1.1. Brooke - First robot
-		1.1. Arb - First robot
+		1.1. Brooke - First robot ??
+		1.1. Arb - First robot ??
+		1.1. Kate's - First robot
 	* Installations
 		1.1 Claire - Rotating tree
 
-
 #### Tuesday November 7 9-10:15 AM
-* Design and construction sprint critical analysis: What did you learn?
-* Critical discussion of Iinteraction
 
-* Homework assignment due Thursday November 9 (tentative):
+* Homework assignment due Thursday November 9 
+	* Study Fritz and see how many things you can identify that are either
+		mistakes or things that could be done better
+
+#### Thursday November 9 9-11:40 AM
+* Fritz improvements
+* Design and construction sprint critical analysis: What did you learn?
+* Critical discussion of Interaction
+* Start working on homework, using me as a resource 
+
+* Homework assignment due Tuesday November 14
+
 	1. Detailed plan for your actor, addressing
 		* Areas of greatest risk or uncertainty
 		* Mechanical 
@@ -1057,16 +1066,6 @@ No class - Al Hijra
 		* Power
 		* Parts list 
 		* Schedule
-
-#### Thursday November 9 9-11:40 AM
-* Project reports
-* Work time
-
-* Homework assignment due Tuesday November 14 (tentative):
-	1. Revised plan based on work accomplished so far.
-		Communicate with your team regarding technical challenges
-		that might require a change to the project. 
-		You must be vigorously realistic and not be swayed by optimisim.
 
 #### Tuesday November 14 9-10:15 AM
 * Project reports

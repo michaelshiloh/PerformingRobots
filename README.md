@@ -1005,7 +1005,6 @@ No class - Al Hijra
 
 * 10:25 Team presentation: Present concept
 
-### current-homework-assignment
 * Homework assignments **Please note that the first assignment is due Friday
 	November 3 at 4pm**
 	* Our goal this weekend is to prepare for Open Studios. We have to do this
@@ -1046,6 +1045,7 @@ No class - Al Hijra
 
 #### Tuesday November 7 9-10:15 AM
 
+### current-homework-assignment
 * Homework assignment due Thursday November 9 
 	* Study Fritz and see how many things you can identify that are either
 		mistakes or things that could be done better

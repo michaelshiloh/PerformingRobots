@@ -1048,12 +1048,12 @@ No class - Al Hijra
 ### current-homework-assignment
 * Homework assignment due Thursday November 9 
 	* Study Fritz and see how many things you can identify that are either
-		mistakes or things that could be done better
+		mistakes or that could be done better
 
 #### Thursday November 9 9-11:40 AM
 * Fritz improvements
 * Design and construction sprint critical analysis: What did you learn?
-* Critical discussion of Interaction
+* Review of updated instructions
 * Start working on homework, using me as a resource 
 
 * Homework assignment due Tuesday November 14

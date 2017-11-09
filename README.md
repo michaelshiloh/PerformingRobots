@@ -1053,7 +1053,8 @@ No class - Al Hijra
 #### Thursday November 9 9-11:40 AM
 * Fritz improvements
 * Design and construction sprint critical analysis: What did you learn?
-* Review of updated instructions
+* Review of [updated
+* instructions](https://github.com/pierredepaz/software-art-image/wiki/creative-constraints)
 * Start working on homework, using me as a resource 
 
 * Homework assignment due Tuesday November 14

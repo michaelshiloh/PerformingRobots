@@ -1045,7 +1045,6 @@ No class - Al Hijra
 
 #### Tuesday November 7 9-10:15 AM
 
-### current-homework-assignment
 * Homework assignment due Thursday November 9 
 	* Study Fritz and see how many things you can identify that are either
 		mistakes or that could be done better
@@ -1057,6 +1056,7 @@ No class - Al Hijra
  instructions](https://github.com/pierredepaz/software-art-image/wiki/creative-constraints)
 * Start working on homework, using me as a resource 
 
+### current-homework-assignment
 * Homework assignment due Tuesday November 14
 
 	1. Detailed plan for your actor, addressing

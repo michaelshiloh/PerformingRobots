@@ -1105,8 +1105,10 @@ No class - Al Hijra
 		that might require a change to the project. 
 		You must be vigorously realistic and not be swayed by optimisim.
 	1. Demonstrate that critical feedback items have been addressed
-	1. Prepare for team presentation (see 
-		[schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline))
+	1. Prepare for team presentation:
+		Demonstrate the internal aspect of your vignette. what
+		is the performer thinking? what is she/he/it feeling? how does its
+		physical expression complement its verbal expression?
 	1. Reminder that we have class on Saturday November 25
 
 #### Thursday November 23 9-11:40 AM
@@ -1118,8 +1120,13 @@ No class - Al Hijra
 		Communicate with your team regarding technical challenges
 		that might require a change to the project. 
 		You must be vigorously realistic and not be swayed by optimisim.
-	1. Prepare for team presentation (see 
-		[schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline))
+	1. Prepare for team presentation:
+	Demonstrate the external aspect of your vignette. How is
+	the actor moving? how is she/he/it reacting to its visual environment? What
+	kind of space is suggested by the stage design (software art images) and how
+	is the performer a part of it? At this point, you should also prepare a
+	pre-mortem, concluding with what is he bare minimum you would like to
+	achieve.
 
 #### Saturday November 25 9-11:40 AM
 * Work time
@@ -1142,14 +1149,15 @@ No class - Al Hijra
 	1. Refine your project so that it can perform its task reliably.
 		No new features, only improvements to reliability and robustness
 
-
 #### Tuesday December 5 9-10:15 AM
 	* Demonstrate that critical feedback items have been addressed
 	* Demonstrate your actors role in the vignette
 
 * Homework assignment due Thursday December 7 (tentative):
-	1. Prepare for team presentation (see 
-		[schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline))
+	1. Prepare for Tech Rehearsal: 
+	All groups will get together for a first run-through of all the vignettes.
+	By the end of the rehearsal, everybody should have a to-do list with things
+	they need to change or fix in order of priority.
 	1. Practice with your teammate(s)
 	1. Practice
 	1. Practice
@@ -1157,6 +1165,13 @@ No class - Al Hijra
 #### Thursday December 7 9-11:40 AM
 * 10:25 Team presentation: Tech rehearsal
 * Itemized to-do list
+
+* Homework due Tuesday December 12:
+	1. Prepare for Dress Rehearsal
+	which will be the class
+	before the IM show. It will be the last opportunity to test any changes and
+	improvements you've made and make sure that your vignette is a coherent,
+	compelling whole which runs smoothly.
 
 #### Tuesday December 12 9-10:15 AM
 * 10:25 Team presentation: Dress rehearsal

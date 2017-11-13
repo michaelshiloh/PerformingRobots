@@ -1069,8 +1069,11 @@ No class - Al Hijra
 		* Schedule
 
 #### Tuesday November 14 9-10:15 AM
-* Project reports
-* Work time
+* You're going to have to start building your actor even if you haven't
+  fully decided what you and your partner are doing. Similar to the ways
+  we find order in random patterns, your audience will make connections
+ 	between your actor and the story.
+* Work time while I check in with each of you individually
 
 * Homework assignment due Thursday November 16 (tentative):
 	1. Revised plan based on work accomplished so far.

@@ -1056,7 +1056,6 @@ No class - Al Hijra
  instructions](https://github.com/pierredepaz/software-art-image/wiki/creative-constraints)
 * Start working on homework, using me as a resource 
 
-### current-homework-assignment
 * Homework assignment due Tuesday November 14
 
 	1. Detailed plan for your actor, addressing
@@ -1075,11 +1074,22 @@ No class - Al Hijra
  	between your actor and the story.
 * Work time while I check in with each of you individually
 
-* Homework assignment due Thursday November 16 (tentative):
-	1. Revised plan based on work accomplished so far.
-		Communicate with your team regarding technical challenges
-		that might require a change to the project. 
-		You must be vigorously realistic and not be swayed by optimisim.
+### current-homework-assignment
+* Updates:
+	1. The projector on the back screen will be in front of the stage, 
+		not in bank. It will be mounted high enough so as not to interfere
+		with robots and other items on the stage.
+	2. The stage might be lowered, almost to floor level. This has two 
+	advantages: 
+		1.1. Greater distance between ceiling and floor allows a regular projector 
+			to project a larger image
+		1.1. Greater audience density (some on the floor, one row of 
+			seats, then a couple of standing rows)
+	3. I will explore getting a custom stage built
+* Homework assignment due Thursday November 16 
+	1. Write, in the README.md file of your Github repository, 
+		what you intend to accomplish by Thursday November 16
+		and by Tuesday November 21 
 
 #### Thursday November 16 9-11:40 AM
 * Project reports

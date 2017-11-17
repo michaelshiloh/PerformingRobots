@@ -1122,75 +1122,79 @@ No class - Al Hijra
 
 		* Block diagram of the electronics
 
-		* Outline of program(s). If you have more than one processor
+		* Outline of program(s). This is a very high level view and does not need
+		  to include any details of how you implement things, only what it needs
+		  to do. For example, the simple Bluetooth motor controller might be
+		  described as 1. Wait for Bluetooth keypress 2. Activate the appropriate
+		  motor based on the key pressed. If you have more than one processor
 			(Arduino program, laptop, small computers such as Raspberry Pi or Yun)
 			you must create an outline for each one and indicate how they interact
-			(if they do).
+			(if they do). 
 
-	* Remember that any interactive elements of your performance 
-		must have a manual override. This could be a switch wired to your actor
-		onstage, a Bluetooth interface that you control, or a key that is
-		pressed
-		on the presentation laptop. For each interactive element you have,
-		explain your manual override method.
+		* Remember that any interactive elements of your performance 
+			must have a manual override. This could be a switch wired to your actor
+			onstage, a Bluetooth interface that you control, or a key that is
+			pressed
+			on the presentation laptop. For each interactive element you have,
+			explain your manual override method.
 
-	*	Organize your Github repository so that I can more easily find
-		information about your final projects:
+		*	Organize your Github repository so that I can more easily find
+			information about your final projects:
 		
-		* Transfer any text from Microsoft Word documents to Github. 
-				Give your files .md extensions so that github recognizes them as
-				markdown files, allowing minimal formatting. You can read about the 
-				markdown formatting
+			* Transfer any text from Microsoft Word documents to Github. 
+					Give your files .md extensions so that github recognizes them as
+					markdown files, allowing minimal formatting. You can read about the 
+					markdown formatting
 			[here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
-				and you can look at the files that I have made
-				(view them RAW to see the literal text) as examples.
+					and you can look at the files that I have made
+					(view them RAW to see the literal text) as examples.
 
-		* Create a new folder for your final project and move all 
-					files related to your final project there. 
+			* Create a new folder for your final project and move all 
+						files related to your final project there. 
 
-		* In your new folder the main file should be named README.md. That
-				will cause it to be displayed automatically whenever you go into
-				that folder.
-					
-		*	Entries in your main README.md file can remain as they are.
+			* In your new folder the main file should be named README.md. That
+					will cause it to be displayed automatically whenever you go into
+					that folder.
+						
+			*	Entries in your main README.md file can remain as they are.
 
-		1.1. Many of you seem to be quite committed to interactive performances.
+		Many of you seem to be quite committed to interactive performances.
 		This is not required and
 		in many cases this complicates your project immensly for very little
 		gain that I can see. I want to make sure you are aware of this.
 		Did I give you the impression that interaction was required?
 
-	1. Claire and Arb (and Reine)
+	* **Claire and Arb (and Reine)**
 		(Three rotating hexagons with mirrors)
 
-		1.1. Create 3D model. Include motors, wheels, Arduino, motor shield, and
+		* Create 3D model. Include motors, wheels, Arduino, motor shield, and
 		batteries. Consider how the motor is going to be mounted to the metal
 		frame 
 
-		1.1. Get the base millled. Talk to Andrew, Dustin, or Dano to get access 
+		* Get the base millled. Talk to Andrew, Dustin, or Dano to get access 
 		to the mill. This is going to take time, so I suggest you start
 		immediately.
 
-		1.1. Build any two of the chassis and mount the motors, wheels, and
+		* Build any two of the chassis and mount the motors, wheels, and
 		batteries. 
 		Don't worry about Arduino or control electronics.
 
-		1.1. Test whether the chassis can rotate properly by driving in the base
+		* Test whether the chassis can rotate properly by driving in the base
 
-		1.1. Complete the homework assignment 
+		* Complete the homework assignment 
 		that was due on Tuesday November 14.
 
-		1.1. Further detailed plan:
-			1.1.1. Identify single greatest risk or uncertainty
-			1.1.1. Mechanical drawing, either by hand or CAD. 
+		* Further detailed plan:
+			* Identify single greatest risk or uncertainty
+			* Mechanical drawing, either by hand or CAD. 
 				Include motors, wheels, Arduino, motor shield, and
 				batteries. Show how any motor(s) are mounted to the frame.
-			1.1.1. Block diagram of the electronics
-			1.1.1. Detailed parts list
-			1.1.1. Identify any electronic and electromechanical items you haven't
+			* Block diagram of the electronics
+			* Detailed parts list
+			* Identify any electronic and electromechanical items you haven't
 			figured out yet
 
-	1. Siba (and Mei)
+	* **Siba (and Mei)**
 		(self balancing robot navigating a virtual world. Video shows robot-eye
 		view of landscape)
 
@@ -1217,7 +1221,7 @@ No class - Al Hijra
 			1.1.1. Identify any electronic and electromechanical items you haven't
 			figured out yet
 
-	1. Grace (and Isabella)
+	* **Grace (and Isabella)**
 	(Romantic love of robot. Audience listens to stories, cassette recorder
 	records, human assists.)
 
@@ -1240,7 +1244,7 @@ No class - Al Hijra
 			1.1.1. Identify any electronic and electromechanical items you haven't
 			figured out yet
 
-	1. Jennifer (and Mateo)
+	* **Jennifer (and Mateo)**
 
 		1.1 You need much more detailed information. In particular:
 
@@ -1274,7 +1278,7 @@ No class - Al Hijra
 			1.1.1. Identify any electronic and electromechanical items you haven't
 			figured out yet
 
-	1. Reine (and Arantza)
+	* **Reine (and Arantza)**
 	(rotating magnets)
 
 		1.1. You need to speed up the construction so that you can make sure 
@@ -1303,7 +1307,7 @@ No class - Al Hijra
 			1.1.1. Assemble
 			1.1.1. Bring the assembled device to class on Thursday November 23
 
-	1. Kate and Brooke (and )
+	* **Kate and Brooke (and )**
 	(dying puppet)
 
 	You need to get some puppetry mechanisms working so we can see whether 
@@ -1323,7 +1327,7 @@ No class - Al Hijra
 	Based on your results, sketch out all the robots you want to make and 
 	show all the movements you want them to have.
 
-	1. Lateefa (and Ali)
+	* **Lateefa (and Ali)**
 
 		1.1. Detailed sketch of robot chassis showing placement of all components
 			including LCD

@@ -1099,45 +1099,45 @@ No class - Al Hijra
 ### current-homework-assignment
 
 * Homework assignment due Tuesday November 21
-1. **All teams** 
+	* **All teams** 
 
-1.1. With some execptions, I was quite dissappointed at your 
-recent homework assignments. Most of you described your projects
-in extremely vague terms which will not translate well into 
-actions.
+		With some exceptions, I was quite dissappointed at your 
+		recent homework assignments. Most of you described your projects
+		in extremely vague terms which will not translate well into 
+		actions.
 
-If you don't know what to do, ask me for help. If you don't ask for help,
-and you don't meet my standards on Tuesday, you will earn a failing grade
-for this assignment.
+		If you don't know what to do, ask me for help. If you don't ask for help,
+		and you don't meet my standards on Tuesday, you will earn a failing grade
+		for this assignment.
 
-I would like all of you to submit the following, in addition to individual
-assignments below:
+		I would like all of you to submit the following, 
+		in addition to individual assignments below:
 
-1.1.1. Hand drawn sketch or CAD model. 
-You must show that you have considered the mechanical assemblies,
-what electronic and electromechanic components you need, 
-and where things will
-go. I realize that you don't know all the answers yet, but you need
-to have many more details than what you have done so far. 
+		* Hand drawn sketch or CAD model. 
+			You must show that you have considered the mechanical assemblies,
+			what electronic and electromechanic components you need, 
+			and where things will
+			go. I realize that you don't know all the answers yet, but you need
+			to have many more details than what you have done so far. 
 
-1.1.1 Block diagram of the electronics
+		* Block diagram of the electronics
 
-	1.1.1 Outline of program(s). If you have more than one processor
+		* Outline of program(s). If you have more than one processor
 			(Arduino program, laptop, small computers such as Raspberry Pi or Yun)
 			you must create an outline for each one and indicate how they interact
 			(if they do).
 
-			1.1.1. Remember that any interactive elements of your performance 
-			must have a manual override. This could be a switch wired to your actor
-			onstage, a Bluetooth interface that you control, or a key that is
-			pressed
-			on the presentation laptop. For each interactive element you have,
-			explain your manual override method.
+	* Remember that any interactive elements of your performance 
+		must have a manual override. This could be a switch wired to your actor
+		onstage, a Bluetooth interface that you control, or a key that is
+		pressed
+		on the presentation laptop. For each interactive element you have,
+		explain your manual override method.
 
-		1.1. Organize your Github repository so that I can more easily find
+	*	Organize your Github repository so that I can more easily find
 		information about your final projects:
 		
-			1.1.1. Transfer any text from Microsoft Word documents to Github. 
+		* Transfer any text from Microsoft Word documents to Github. 
 				Give your files .md extensions so that github recognizes them as
 				markdown files, allowing minimal formatting. You can read about the 
 				markdown formatting
@@ -1145,16 +1145,19 @@ to have many more details than what you have done so far.
 				and you can look at the files that I have made
 				(view them RAW to see the literal text) as examples.
 
-			1.1.1. Create a new folder for your final project and move all 
+		* Create a new folder for your final project and move all 
 					files related to your final project there. 
 
-			1.1.1. In your new folder the main file should be named README.md. That
+		* In your new folder the main file should be named README.md. That
 				will cause it to be displayed automatically whenever you go into
 				that folder.
 					
-			1.1.1		Entries in your main README.md file can remain as they are.
+		*	Entries in your main README.md file can remain as they are.
 
 		1.1. Many of you seem to be quite committed to interactive performances.
+		This is not required and
+		in many cases this complicates your project immensly for very little
+		gain that I can see. I want to make sure you are aware of this.
 		Did I give you the impression that interaction was required?
 
 	1. Claire and Arb (and Reine)

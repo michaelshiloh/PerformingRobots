@@ -1099,29 +1099,30 @@ No class - Al Hijra
 ### current-homework-assignment
 
 * Homework assignment due Tuesday November 21
-	1. All teams
-		1.1. With some execptions, I was quite dissappointed at your 
-		recent homework assignments. Most of you described your projects
-		in extremely vague terms which will not translate well into 
-		actions.
+1. **All teams** 
 
-		If you don't know what to do, ask me for help. If you don't ask for help,
-		and you don't meet my standards on Tuesday, you will earn a failing grade
-		for this assignment.
+1.1. With some execptions, I was quite dissappointed at your 
+recent homework assignments. Most of you described your projects
+in extremely vague terms which will not translate well into 
+actions.
 
-		I would like all of you to submit the following, in addition to individual
-		assignments below:
+If you don't know what to do, ask me for help. If you don't ask for help,
+and you don't meet my standards on Tuesday, you will earn a failing grade
+for this assignment.
 
-			1.1.1. Hand drawn sketch or CAD model. 
-			You must show that you have considered the mechanical assemblies,
-			what electronic and electromechanic components you need, 
-			and where things will
-			go. I realize that you don't know all the answers yet, but you need
-			to have many more details than what you have done so far. 
+I would like all of you to submit the following, in addition to individual
+assignments below:
 
-			1.1.1 Block diagram of the electronics
+1.1.1. Hand drawn sketch or CAD model. 
+You must show that you have considered the mechanical assemblies,
+what electronic and electromechanic components you need, 
+and where things will
+go. I realize that you don't know all the answers yet, but you need
+to have many more details than what you have done so far. 
 
-			1.1.1 Outline of program(s). If you have more than one processor
+1.1.1 Block diagram of the electronics
+
+	1.1.1 Outline of program(s). If you have more than one processor
 			(Arduino program, laptop, small computers such as Raspberry Pi or Yun)
 			you must create an outline for each one and indicate how they interact
 			(if they do).

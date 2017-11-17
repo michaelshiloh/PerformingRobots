@@ -1113,12 +1113,21 @@ No class - Al Hijra
 		I would like all of you to submit the following, 
 		in addition to individual assignments below:
 
+		* Identify single greatest risk or uncertainty
+
+		* Detailed parts list
+
+		* Identify any electronic and electromechanical items you haven't
+			figured out yet
+
 		* Hand drawn sketch or CAD model. 
 			You must show that you have considered the mechanical assemblies,
 			what electronic and electromechanic components you need, 
 			and where things will
 			go. I realize that you don't know all the answers yet, but you need
 			to have many more details than what you have done so far. 
+			Include motors, wheels, Arduino, motor shield, and
+			batteries. Show how any motor(s) are mounted to the frame.
 
 		* Block diagram of the electronics
 
@@ -1171,7 +1180,7 @@ No class - Al Hijra
 		batteries. Consider how the motor is going to be mounted to the metal
 		frame 
 
-		* Get the base millled. Talk to Andrew, Dustin, or Dano to get access 
+		* Get the base milled. Talk to Andrew, Dustin, or Dano to get access 
 		to the mill. This is going to take time, so I suggest you start
 		immediately.
 
@@ -1184,48 +1193,28 @@ No class - Al Hijra
 		* Complete the homework assignment 
 		that was due on Tuesday November 14.
 
-		* Further detailed plan:
-			* Identify single greatest risk or uncertainty
-			* Mechanical drawing, either by hand or CAD. 
-				Include motors, wheels, Arduino, motor shield, and
-				batteries. Show how any motor(s) are mounted to the frame.
-			* Block diagram of the electronics
-			* Detailed parts list
-			* Identify any electronic and electromechanical items you haven't
-			figured out yet
-
 	* **Siba (and Mei)**
 		(self balancing robot navigating a virtual world. Video shows robot-eye
 		view of landscape)
 
-		1.1. Pierre, Aaron and I tested the IR LED beacon idea. 
+		* Pierre, Aaron and I tested the IR LED beacon idea. 
 		Pierre was able to locate it pretty quickly in Processing.
 		I need to make a Printed Circuit Board for the beacon and then we can 
 		make a few of them. Check in with me on Sunday and I hope to have one to
 		give you.
 
-		1.1. Check with your Engineering instructor as to whether you can use 
+		* Check with your Engineering instructor as to whether you can use 
 		the robots from his class or whether you have to make your own. If you
 		have to make your own, get the chassis built by our next meeting. 
 
-		1.1. Complete the homework assignment 
+		* Complete the homework assignment 
 		that was due on Tuesday November 14.
-
-		1.1. Further detailed plan:
-			1.1.1. Identify single greatest risk or uncertainty
-			1.1.1. Mechanical drawing, either by hand or CAD. 
-				Include motors, wheels, Arduino, motor shield, and
-				batteries. Show how any motor(s) are mounted to the frame.
-			1.1.1. Block diagram of the electronics
-			1.1.1. Detailed parts list
-			1.1.1. Identify any electronic and electromechanical items you haven't
-			figured out yet
 
 	* **Grace (and Isabella)**
 	(Romantic love of robot. Audience listens to stories, cassette recorder
 	records, human assists.)
 
-		1.1. Time to build the robot! Is the printer enough? I think
+		* Time to build the robot! Is the printer enough? I think
 		you should put up some fliers asking for donations of discarded electronics:
 		printers, toasters, electronic toys, the older the better. I would be happy
 		to post on Saadiyat Swap but you must write a short sentence or two
@@ -1234,21 +1223,11 @@ No class - Al Hijra
 		Although you probably won't have all the parts by Tuesday, start 
 		building your robot chassis with whatever you do have. 
 
-		1.1. Further detailed plan:
-			1.1.1. Identify single greatest risk or uncertainty
-			1.1.1. Mechanical drawing, either by hand or CAD. 
-				Include motors, wheels, Arduino, motor shield, and
-				batteries. Show how any motor(s) are mounted to the frame.
-			1.1.1. Block diagram of the electronics
-			1.1.1. Detailed parts list
-			1.1.1. Identify any electronic and electromechanical items you haven't
-			figured out yet
-
 	* **Jennifer (and Mateo)**
 
-		1.1 You need much more detailed information. In particular:
+		* You need much more detailed information. In particular:
 
-		    1.1.1. You say "Areas of greatest risk or uncertainty: 
+		    * You say "Areas of greatest risk or uncertainty: 
 					audience interaction and robot movement"
 					As I understand it, the audience interaction is the responsibility
 					of Mateo.
@@ -1256,56 +1235,46 @@ No class - Al Hijra
 					basics of how to make a robot move, so you must describe in detail
 					the kind of movement you want and what your concerns are. Does the
 					robot move around on the stage or stay in one place?
-				1.1.1. You say "Electronics: arduino yun, servomotor,"
+				* You say "Electronics: arduino yun, servomotor,"
 					Describe in detail what is supposed to run on the Yun. 
 					Is this Mateo's code or yours?
-				1.1.1 You say "Software: a local network; audiences' interface;"
+				*You say "Software: a local network; audiences' interface;"
 					Is this on the Yun? Explain in a fairly detailed block diagram 
 					what programs
 					are running where (Yun Arduino section, Yun Linux section, and
 					laptop) and how they interact
-				1.1.1. You say "Power: portable battery". I don't know what you mean
+				* You say "Power: portable battery". I don't know what you mean
 					by that. All batteries are portable, although some are very heavy
 					You say "9v for motors/servos" **Servos must never run above 6 V**
-
-		1.1. Further detailed plan:
-			1.1.1. Identify single greatest risk or uncertainty
-			1.1.1. Mechanical drawing, either by hand or CAD. 
-				Include motors, wheels, Arduino, motor shield, and
-				batteries. Show how any motor(s) are mounted to the frame.
-			1.1.1. Block diagram of the electronics
-			1.1.1. Detailed parts list
-			1.1.1. Identify any electronic and electromechanical items you haven't
-			figured out yet
 
 	* **Reine (and Arantza)**
 	(rotating magnets)
 
-		1.1. You need to speed up the construction so that you can make sure 
+		* You need to speed up the construction so that you can make sure 
 		things work. I propose:
-			1.1.1. Before class on Tuesday November 21
-				1.1.1.1. Cut all the acrylic 
-				1.1.1.1. Buy some Krazy Glue to 
+			* Before class on Tuesday November 21
+				* Cut all the acrylic 
+				* Buy some Krazy Glue to 
 					assemble the acrylic. I have ordered some
 					but it's not here yet. Check in with me before shopping in case it's 
 					arrived.
-				1.1.1.1. Get the iron filings. I have some leads but I don't have time
+				* Get the iron filings. I have some leads but I don't have time
 					to follow up on all so you'll have to do it: 
-						1.1.1.1.1. Andrew in the Scenery Workshop will be holding a metal
+						* Andrew in the Scenery Workshop will be holding a metal
 							working training session on Monday 1:30pm - 4pm in which they will
 							be grinding steel. Coordinate with him as to when you can come
 							over with a magnet before they clean up - you can drag the magnet
 							around on the floor and get all the iron fillings you need.
-						1.1.1.1.1. I am following up on two contacts at ERB. Check in 
+						* I am following up with two contacts at ERB. Check in 
 							with me on Sunday and see if I've had any suceess.
-						1.1.1.1.1. Find an empty laser toner cartridge. The powder is 
+						* Find an empty laser toner cartridge. The powder is 
 							ferrous. I think I've seen a box in the IT office for used
 							cartridges, or as Caitlin if she knows where they go.
 
-			1.1.1. In class on Tuesday November 21 get the motors, clamps,
+			* In class on Tuesday November 21 get the motors, clamps,
 				and hubs.
-			1.1.1. Assemble
-			1.1.1. Bring the assembled device to class on Thursday November 23
+			* Assemble the motors and the acrylic you have prepared
+			* Bring the assembled device to class on Thursday November 23
 
 	* **Kate and Brooke (and )**
 	(dying puppet)
@@ -1329,13 +1298,13 @@ No class - Al Hijra
 
 	* **Lateefa (and Ali)**
 
-		1.1. Detailed sketch of robot chassis showing placement of all components
+		* Detailed sketch of robot chassis showing placement of all components
 			including LCD
 
-		1.1. Start construction of chassis. Have the wheels and motors 
+		* Start construction of chassis. Have the wheels and motors 
 			installed. Arduino and other electronics can wait.
 
-		1.1. Explain why you need a distance sensor 
+		* Explain why you need a distance sensor 
 
 #### Tuesday November 21 9-10:15 AM
 * Project reports

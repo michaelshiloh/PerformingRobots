@@ -1074,7 +1074,6 @@ No class - Al Hijra
  	between your actor and the story.
 * Work time while I check in with each of you individually
 
-### current-homework-assignment
 * Updates:
 	1. The projector on the back screen will be in front of the stage, 
 		not in bank. It will be mounted high enough so as not to interfere
@@ -1097,11 +1096,238 @@ No class - Al Hijra
 	resulting in itemized list of modifications to be made
 * Work time
 
-* Homework assignment due Tuesday November 21 (tentative):
-	1. Revised plan based on work accomplished so far.
-		Communicate with your team regarding technical challenges
-		that might require a change to the project. 
-		You must be vigorously realistic and not be swayed by optimisim.
+### current-homework-assignment
+
+* Homework assignment due Tuesday November 21
+	1. All teams
+		1.1. With some execptions, I was quite dissappointed at your 
+		recent homework assignments. Most of you described your projects
+		in extremely vague terms which will not translate well into 
+		actions.
+
+		If you don't know what to do, ask me for help. If you don't ask for help,
+		and you don't meet my standards on Tuesday, you will earn a failing grade
+		for this assignment.
+
+		I would like all of you to submit the following, in addition to individual
+		assignments below:
+
+			1.1.1. Hand drawn sketch or CAD model. 
+			You must show that you have considered the mechanical assemblies,
+			what electronic and electromechanic components you need, 
+			and where things will
+			go. I realize that you don't know all the answers yet, but you need
+			to have many more details than what you have done so far. 
+
+			1.1.1 Block diagram of the electronics
+
+			1.1.1 Outline of program(s). If you have more than one processor
+			(Arduino program, laptop, small computers such as Raspberry Pi or Yun)
+			you must create an outline for each one and indicate how they interact
+			(if they do).
+
+			1.1.1. Remember that any interactive elements of your performance 
+			must have a manual override. This could be a switch wired to your actor
+			onstage, a Bluetooth interface that you control, or a key that is
+			pressed
+			on the presentation laptop. For each interactive element you have,
+			explain your manual override method.
+
+		1.1. Organize your Github repository so that I can more easily find
+		information about your final projects:
+		
+			1.1.1. Transfer any text from Microsoft Word documents to Github. 
+				Give your files .md extensions so that github recognizes them as
+				markdown files, allowing minimal formatting. You can read about the 
+				markdown formatting
+			[here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+				and you can look at the files that I have made
+				(view them RAW to see the literal text) as examples.
+
+			1.1.1. Create a new folder for your final project and move all 
+					files related to your final project there. 
+
+			1.1.1. In your new folder the main file should be named README.md. That
+				will cause it to be displayed automatically whenever you go into
+				that folder.
+					
+			1.1.1		Entries in your main README.md file can remain as they are.
+
+		1.1. Many of you seem to be quite committed to interactive performances.
+		Did I give you the impression that interaction was required?
+
+	1. Claire and Arb (and Reine)
+		(Three rotating hexagons with mirrors)
+
+		1.1. Create 3D model. Include motors, wheels, Arduino, motor shield, and
+		batteries. Consider how the motor is going to be mounted to the metal
+		frame 
+
+		1.1. Get the base millled. Talk to Andrew, Dustin, or Dano to get access 
+		to the mill. This is going to take time, so I suggest you start
+		immediately.
+
+		1.1. Build any two of the chassis and mount the motors, wheels, and
+		batteries. 
+		Don't worry about Arduino or control electronics.
+
+		1.1. Test whether the chassis can rotate properly by driving in the base
+
+		1.1. Complete the homework assignment 
+		that was due on Tuesday November 14.
+
+		1.1. Further detailed plan:
+			1.1.1. Identify single greatest risk or uncertainty
+			1.1.1. Mechanical drawing, either by hand or CAD. 
+				Include motors, wheels, Arduino, motor shield, and
+				batteries. Show how any motor(s) are mounted to the frame.
+			1.1.1. Block diagram of the electronics
+			1.1.1. Detailed parts list
+			1.1.1. Identify any electronic and electromechanical items you haven't
+			figured out yet
+
+	1. Siba (and Mei)
+		(self balancing robot navigating a virtual world. Video shows robot-eye
+		view of landscape)
+
+		1.1. Pierre, Aaron and I tested the IR LED beacon idea. 
+		Pierre was able to locate it pretty quickly in Processing.
+		I need to make a Printed Circuit Board for the beacon and then we can 
+		make a few of them. Check in with me on Sunday and I hope to have one to
+		give you.
+
+		1.1. Check with your Engineering instructor as to whether you can use 
+		the robots from his class or whether you have to make your own. If you
+		have to make your own, get the chassis built by our next meeting. 
+
+		1.1. Complete the homework assignment 
+		that was due on Tuesday November 14.
+
+		1.1. Further detailed plan:
+			1.1.1. Identify single greatest risk or uncertainty
+			1.1.1. Mechanical drawing, either by hand or CAD. 
+				Include motors, wheels, Arduino, motor shield, and
+				batteries. Show how any motor(s) are mounted to the frame.
+			1.1.1. Block diagram of the electronics
+			1.1.1. Detailed parts list
+			1.1.1. Identify any electronic and electromechanical items you haven't
+			figured out yet
+
+	1. Grace (and Isabella)
+	(Romantic love of robot. Audience listens to stories, cassette recorder
+	records, human assists.)
+
+		1.1. Time to build the robot! Is the printer enough? I think
+		you should put up some fliers asking for donations of discarded electronics:
+		printers, toasters, electronic toys, the older the better. I would be happy
+		to post on Saadiyat Swap but you must write a short sentence or two
+		describing what you want and send to me.
+
+		Although you probably won't have all the parts by Tuesday, start 
+		building your robot chassis with whatever you do have. 
+
+		1.1. Further detailed plan:
+			1.1.1. Identify single greatest risk or uncertainty
+			1.1.1. Mechanical drawing, either by hand or CAD. 
+				Include motors, wheels, Arduino, motor shield, and
+				batteries. Show how any motor(s) are mounted to the frame.
+			1.1.1. Block diagram of the electronics
+			1.1.1. Detailed parts list
+			1.1.1. Identify any electronic and electromechanical items you haven't
+			figured out yet
+
+	1. Jennifer (and Mateo)
+
+		1.1 You need much more detailed information. In particular:
+
+		    1.1.1. You say "Areas of greatest risk or uncertainty: 
+					audience interaction and robot movement"
+					As I understand it, the audience interaction is the responsibility
+					of Mateo.
+					What exactly do you mean by "robot movement"? You know the 
+					basics of how to make a robot move, so you must describe in detail
+					the kind of movement you want and what your concerns are. Does the
+					robot move around on the stage or stay in one place?
+				1.1.1. You say "Electronics: arduino yun, servomotor,"
+					Describe in detail what is supposed to run on the Yun. 
+					Is this Mateo's code or yours?
+				1.1.1 You say "Software: a local network; audiences' interface;"
+					Is this on the Yun? Explain in a fairly detailed block diagram 
+					what programs
+					are running where (Yun Arduino section, Yun Linux section, and
+					laptop) and how they interact
+				1.1.1. You say "Power: portable battery". I don't know what you mean
+					by that. All batteries are portable, although some are very heavy
+					You say "9v for motors/servos" **Servos must never run above 6 V**
+
+		1.1. Further detailed plan:
+			1.1.1. Identify single greatest risk or uncertainty
+			1.1.1. Mechanical drawing, either by hand or CAD. 
+				Include motors, wheels, Arduino, motor shield, and
+				batteries. Show how any motor(s) are mounted to the frame.
+			1.1.1. Block diagram of the electronics
+			1.1.1. Detailed parts list
+			1.1.1. Identify any electronic and electromechanical items you haven't
+			figured out yet
+
+	1. Reine (and Arantza)
+	(rotating magnets)
+
+		1.1. You need to speed up the construction so that you can make sure 
+		things work. I propose:
+			1.1.1. Before class on Tuesday November 21
+				1.1.1.1. Cut all the acrylic 
+				1.1.1.1. Buy some Krazy Glue to 
+					assemble the acrylic. I have ordered some
+					but it's not here yet. Check in with me before shopping in case it's 
+					arrived.
+				1.1.1.1. Get the iron filings. I have some leads but I don't have time
+					to follow up on all so you'll have to do it: 
+						1.1.1.1.1. Andrew in the Scenery Workshop will be holding a metal
+							working training session on Monday 1:30pm - 4pm in which they will
+							be grinding steel. Coordinate with him as to when you can come
+							over with a magnet before they clean up - you can drag the magnet
+							around on the floor and get all the iron fillings you need.
+						1.1.1.1.1. I am following up on two contacts at ERB. Check in 
+							with me on Sunday and see if I've had any suceess.
+						1.1.1.1.1. Find an empty laser toner cartridge. The powder is 
+							ferrous. I think I've seen a box in the IT office for used
+							cartridges, or as Caitlin if she knows where they go.
+
+			1.1.1. In class on Tuesday November 21 get the motors, clamps,
+				and hubs.
+			1.1.1. Assemble
+			1.1.1. Bring the assembled device to class on Thursday November 23
+
+	1. Kate and Brooke (and )
+	(dying puppet)
+
+	You need to get some puppetry mechanisms working so we can see whether 
+	the motors and cables we discussed will work. 
+
+	Your homework for Tuesday November 21 is to build a puppet with 3 movements
+	you can control with motors. You will need motors (ask me) and you will need
+	to make the spools for the wire. Talk to Grace about where she got that wire
+	and whether she has any suggestions for working with it. 
+
+	For the three movements, I'd like to see one a compound joint (if you intend
+	to have any in your actor) that is a shoulder and an elbow, so the cables
+	for the elbow have to pass through the shoulder. That will be quite tricky
+	and if you can't figure out how to make that work you will have to change
+	your plan.
+
+	Based on your results, sketch out all the robots you want to make and 
+	show all the movements you want them to have.
+
+	1. Lateefa (and Ali)
+
+		1.1. Detailed sketch of robot chassis showing placement of all components
+			including LCD
+
+		1.1. Start construction of chassis. Have the wheels and motors 
+			installed. Arduino and other electronics can wait.
+
+		1.1. Explain why you need a distance sensor 
 
 #### Tuesday November 21 9-10:15 AM
 * Project reports

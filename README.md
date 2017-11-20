@@ -1307,17 +1307,15 @@ No class - Al Hijra
 		* Explain why you need a distance sensor 
 
 #### Tuesday November 21 9-10:15 AM
-* Project reports
-* Critical feedback as to whether your plan is sufficiently realistic
-	resulting in itemized list of modifications to be made
+* Take apart your old projects and either reuse or return your components
+* Return to me items I gave you that you no longer need
+* To whom did I give a metal motor?
+* One-on-one checkin: 
+	1. Assignment completion
+	1. What do I think is your next riskiest thing?
 * Work time
 
 * Homework assignment due Thursday November 23 (tentative):
-	1. Revised plan based on work accomplished so far.
-		Communicate with your team regarding technical challenges
-		that might require a change to the project. 
-		You must be vigorously realistic and not be swayed by optimisim.
-	1. Demonstrate that critical feedback items have been addressed
 	1. Prepare for team presentation:
 		Demonstrate the internal aspect of your vignette. what
 		is the performer thinking? what is she/he/it feeling? how does its

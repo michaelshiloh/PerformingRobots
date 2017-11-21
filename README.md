@@ -1321,7 +1321,56 @@ No class - Al Hijra
 		is the performer thinking? what is she/he/it feeling? how does its
 		physical expression complement its verbal expression?
 	1. Reminder that we have class on Saturday November 25
-
+	1. Some of you wanted to work with a stepper motor. I have one
+		so that you can test your concepts. I forget who wanted this: Grace?
+		Brooke and Kate? Jennifer? Please email me and I can give you a quick 
+		lesson so you can test it.
+	1. Individual assignments
+	* **Claire and Arb (and Reine)**
+		* Complete the homework assignment 
+		that was due on Tuesday November 21
+	* **Siba (and Mei)**
+		* Get the self-balancing robot from your engineering class working
+		* Build your robot
+		* Copy the code to your robot and get it to balance
+		* Figure out how to get your robot to move (by the weekend)
+	* **Grace (and Isabella)**
+		* Complete the homework assignment 
+		that was due on Tuesday November 21
+		* Prototype the mechanism that will move the arm and the cassette player
+		* Get together with me to learn about stepper motors or
+			do change your design to use gearmotors
+	* **Jennifer (and Mateo)**
+		* Build your robot arm and test that it can grip and pick up the phone
+		* Design and prototype the base
+	* **Reine (and Arantza)**
+		* Create the new folder and upload all the required documentation
+		* Build the primary part of your machine, solder wires to the motors,
+			and mount the motors. See me if you need any parts.
+		* Build the base that will attach to the first motor, and make sure
+			it can spin the primary disk
+		* I visited the Scene Workshop today and found plenty of 
+			metal bits in the corners, if you are not picky because not all 
+			are find powder.
+			There are all sorts of sizes and shapes, some are sharp, 
+			and some are curled from the drill. Personally I think the variety
+			will be quite interesting. Either way, I think you should gather
+			this so that you have something to test with, and then you can
+			try to find something finer if you want.
+			Send me a calendar invite and chose
+			a time to go over there with me. Bring a magnet and a strong plastic
+			bag to collect the bits.
+	* **Kate and Brooke (and Andrija)**
+		* Prototype the rack and pinion mechanism for the pipes and the work
+			station
+		* Build the stamping mechanism snail cam 
+		* Get together with me to learn about stepper motors or
+			change your design to use gearmotors
+	* **Lateefa (and Ali)**
+		* Complete the homework assignment 
+			that was due on Tuesday November 21
+		* Finish constructing chassis
+		* Get the LCD panel working
 #### Thursday November 23 9-11:40 AM
 * Work time
 * 10:25 Team presentation: Demonstrate internal aspects of vignette

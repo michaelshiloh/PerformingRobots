@@ -1096,8 +1096,6 @@ No class - Al Hijra
 	resulting in itemized list of modifications to be made
 * Work time
 
-### current-homework-assignment
-
 * Homework assignment due Tuesday November 21
 	* **All teams** 
 
@@ -1315,7 +1313,9 @@ No class - Al Hijra
 	1. What do I think is your next riskiest thing?
 * Work time
 
-* Homework assignment due Thursday November 23 (tentative):
+### current-homework-assignment
+
+* Homework assignment due Thursday November 23:
 	1. Prepare for team presentation:
 		Demonstrate the internal aspect of your vignette. what
 		is the performer thinking? what is she/he/it feeling? how does its

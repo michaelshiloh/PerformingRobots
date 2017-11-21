@@ -1316,11 +1316,8 @@ No class - Al Hijra
 ### current-homework-assignment
 
 * Homework assignment due Thursday November 23:
-	1. Prepare for team presentation:
-		Demonstrate the internal aspect of your vignette. what
-		is the performer thinking? what is she/he/it feeling? how does its
-		physical expression complement its verbal expression?
-	1. Reminder that we have class on Saturday November 25
+	1. Be prepared for the team presentation
+	1. Remember that we have class on Saturday November 25
 	1. Some of you wanted to work with a stepper motor. I have one
 		so that you can test your concepts. I forget who wanted this: Grace?
 		Brooke and Kate? Jennifer? Please email me and I can give you a quick 

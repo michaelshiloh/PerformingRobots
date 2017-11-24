@@ -1384,10 +1384,13 @@ No class - Al Hijra
 	entitled to one of the wire shelves. We have a couple of spare shelves so if
 	you need more space let me know. Please put your name on all your shelves.
 - I have two stepper motors that seem pretty powerful but they will probably
-	need gears. If we discussed stepper motors please take a look at
+	need gears. If you think you need a stepper motor please take a look at
 	[Mechatronic
 	Resources](https://github.com/michaelshiloh/resourcesForClasses#mechatronic-resources)
 	especially [this](https://makezine.com/projects/make-your-own-gears/) one.
+	We can meet again so that I can show you how to use the bigger motors, 
+	limit switches, and appropriate software to create reliable controllable
+	motion.
 #### Saturday November 25 9-11:40 AM
 * Work time
 * 10:25 Team presentation: 

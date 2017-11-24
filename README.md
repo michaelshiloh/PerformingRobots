@@ -1313,8 +1313,6 @@ No class - Al Hijra
 	1. What do I think is your next riskiest thing?
 * Work time
 
-### current-homework-assignment
-
 * Homework assignment due Thursday November 23:
 	1. Be prepared for the team presentation
 	1. Remember that we have class on Saturday November 25
@@ -1368,26 +1366,37 @@ No class - Al Hijra
 			that was due on Tuesday November 21
 		* Finish constructing chassis
 		* Get the LCD panel working
+	* **Nahil (and Luize)
+		* Build navigator
+		* Test that a blow dryer or other fan can move the navigator
 #### Thursday November 23 9-11:40 AM
-* Work time
-* 10:25 Team presentation: Demonstrate internal aspects of vignette
+* Quick status reports  
+* 10:25 Team presentation: Demonstrate internal aspects of vignette  
 
-* Homework assignment due Saturday November 25 (tentative):
-	1. Revised plan based on work accomplished so far.
-		Communicate with your team regarding technical challenges
-		that might require a change to the project. 
-		You must be vigorously realistic and not be swayed by optimisim.
-	1. Prepare for team presentation:
+### current-homework-assignment
+	- Read the notes below and work hard on your actors
+
+- I purchased hose clamps, brackets, casters, and hinges. If you were waiting
+	for any of those look in the usual places or ask me
+- I found a motor hub in the wrong place. These hubs are expensive and rare so
+	please do not do this. If you don't need yours hand it back to me.
+- As we make more stuff, spaces to store them will become rare. Each of you is
+	entitled to one of the wire shelves. We have a couple of spare shelves so if
+	you need more space let me know. Please put your name on all your shelves.
+- I have two stepper motors that seem pretty powerful but they will probably
+	need gears. If we discussed stepper motors please take a look at
+	[Mechatronic
+	Resources](https://github.com/michaelshiloh/resourcesForClasses#mechatronic-resources)
+	especially [this](https://makezine.com/projects/make-your-own-gears/) one.
+#### Saturday November 25 9-11:40 AM
+* Work time
+* 10:25 Team presentation: 
 	Demonstrate the external aspect of your vignette. How is
 	the actor moving? how is she/he/it reacting to its visual environment? What
 	kind of space is suggested by the stage design (software art images) and how
 	is the performer a part of it? At this point, you should also prepare a
 	pre-mortem, concluding with what is he bare minimum you would like to
 	achieve.
-
-#### Saturday November 25 9-11:40 AM
-* Work time
-* 10:25 Team presentation: Demonstrate external aspects of vignette
 
 * Homework assignment due Tuesday November 28 (tentative):
 	1. Aggressive adjustment of team concept to meet abilities of your actor

@@ -1410,8 +1410,8 @@ No class - Al Hijra
 		  ability to complete. 
 			Work hard before Tuesday to catch up.
 		* Finish the chassis and mount the motors, wheels, and batteries. 
-		* Build the laser effect unit: buy some laser pointers and makeup mirrors,
-			glue mirrors to motors. 
+		* Build the laser effect unit: buy laser pointers and makeup mirrors,
+			glue mirrors to motors, test unit. 
 	* **Siba (and Mei)**
 		* Get the IR line following sensor working or abandon 
 		* Test the new IR beacon

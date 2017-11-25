@@ -1402,7 +1402,7 @@ No class - Al Hijra
 	achieve.
 
 ### current-homework-assignment
-* Homework assignment due Tuesday November 28 
+* Homework assignment due Tuesday November 28   
 	Almost all of you are quite far behind in the mechanical construction of
 	your actors. You have to work hard to catch up
 	* **Claire and Arb (and Reine)**

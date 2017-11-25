@@ -1417,9 +1417,11 @@ No class - Al Hijra
 		* Test the new IR beacon
 		* Build your robot
 	* **Grace (and Isabella)**
+		* I'm concerned that we haven't seen much function yet. 
 		* Build the mechanism that will move the arm and the cassette player
-		* I'm concerned that we haven't seen much function yet. Hopefully today
-		  you will demonstrate something and I will revise your assignment.
+			This mechanism needs to be strong enough that when the assistant
+			interacts with the cassette player it does not break
+		* Build the mechanism that drops the panel
 	* **Jennifer (and Mateo)**
 		* I'm concerned that we haven't seen the arm function yet.
 			Work hard before Tuesday to catch up.

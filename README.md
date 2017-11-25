@@ -1403,7 +1403,7 @@ No class - Al Hijra
 
 ### current-homework-assignment
 * Homework assignment due Tuesday November 28   
-	Almost all of you are quite far behind in the mechanical construction of
+*	Almost all of you are quite far behind in the mechanical construction of
 	your actors. You have to work hard to catch up
 	* **Claire and Arb (and Reine)**
 		* Your devices are extremely past due. I'm deeply concerned about your

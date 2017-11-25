@@ -1445,9 +1445,12 @@ No class - Al Hijra
 	* **Lateefa (and Ali)**
 		* Get the LCD panel working
 		* Fix the wheels of your robot
-	* **Nahil (and Luize)
+	* **Nahil (and Luize)**
 		* Get the fan and sail working, or abandon that and install
-			motors in the navigator
+			motors in the navigator. If you need an assistant to drive two
+			robots reach out now to identify who that will be. Have a replacement
+			plan in case that person withdraws. You will have to train both the
+			assistant and the second assistant.
 
 #### Tuesday November 28 9-10:15 AM
 * Report on how the team concept can be realized with your actor

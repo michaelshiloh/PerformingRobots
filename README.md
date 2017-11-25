@@ -1406,6 +1406,9 @@ No class - Al Hijra
 	Almost all of you are quite far behind in the mechanical construction of
 	your actors. You have to work hard to catch up
 	* **Claire and Arb (and Reine)**
+		* Your devices are extremely past due. I'm deeply concerned about your
+		  ability to complete. 
+			Work hard before Tuesday to catch up.
 		* Finish the chassis and mount the motors, wheels, and batteries. 
 		* Build the laser effect unit: buy some laser pointers and makeup mirrors,
 			glue mirrors to motors. 
@@ -1415,7 +1418,11 @@ No class - Al Hijra
 		* Build your robot
 	* **Grace (and Isabella)**
 		* Build the mechanism that will move the arm and the cassette player
+		* I'm concerned that we haven't seen much function yet. Hopefully today
+		  you will demonstrate something and I will revise your assignment.
 	* **Jennifer (and Mateo)**
+		* I'm concerned that we haven't seen the arm function yet.
+			Work hard before Tuesday to catch up.
 		* Build your robot arm so that it can grip and pick up the phone
 		* Build the robot base
 	* **Reine (and Arantza)**
@@ -1424,6 +1431,8 @@ No class - Al Hijra
 		* Build a stable base 
 		* Figure out what you're going to do with the front piece of acrylic
 	* **Kate and Brooke (and Andrija)**
+		* I'm concerned that we haven't seen much function yet.
+			Work hard before Tuesday to catch up.
 		* Build the rack and pinion mechanism for the pipes and the work
 			station
 		* Build the stamping mechanism (snail cam or other)

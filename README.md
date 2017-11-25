@@ -1373,7 +1373,7 @@ No class - Al Hijra
 * Quick status reports  
 * 10:25 Team presentation: Demonstrate internal aspects of vignette  
 
-### current-homework-assignment
+* Homework assignment Saturday November 25 9-11:40 AM
 	- Read the notes below and work hard on your actors
 
 - I purchased hose clamps, brackets, casters, and hinges. If you were waiting
@@ -1401,11 +1401,42 @@ No class - Al Hijra
 	pre-mortem, concluding with what is he bare minimum you would like to
 	achieve.
 
-* Homework assignment due Tuesday November 28 (tentative):
-	1. Aggressive adjustment of team concept to meet abilities of your actor
-		Assume no further repairs can be made. 
-		You must be vigorously realistic and not be swayed by optimisim.
-		Communicate with your team regarding the new reality.
+### current-homework-assignment
+* Homework assignment due Tuesday November 28 
+	Almost all of you are quite far behind in the mechanical construction of
+	your actors. You have to work hard to catch up
+	* **Claire and Arb (and Reine)**
+		* Finish the chassis and mount the motors, wheels, and batteries. 
+		* Build the laser effect unit: buy some laser pointers and makeup mirrors,
+			glue mirrors to motors. 
+	* **Siba (and Mei)**
+		* Get the IR line following sensor working or abandon 
+		* Test the new IR beacon
+		* Build your robot
+	* **Grace (and Isabella)**
+		* Build the mechanism that will move the arm and the cassette player
+	* **Jennifer (and Mateo)**
+		* Build your robot arm so that it can grip and pick up the phone
+		* Build the robot base
+	* **Reine (and Arantza)**
+		* Replace the motor with a slower motor that has more torque
+		* Strengthen and balance your actor
+		* Build a stable base 
+		* Figure out what you're going to do with the front piece of acrylic
+	* **Kate and Brooke (and Andrija)**
+		* Build the rack and pinion mechanism for the pipes and the work
+			station
+		* Build the stamping mechanism (snail cam or other)
+		* Get the parts for the boss robot (luckily no moving parts)
+		* Build the worker
+		* Build the desk
+		* Build the clock
+	* **Lateefa (and Ali)**
+		* Get the LCD panel working
+		* Fix the wheels of your robot
+	* **Nahil (and Luize)
+		* Get the fan and sail working, or abandon that and install
+			motors in the navigator
 
 #### Tuesday November 28 9-10:15 AM
 * Report on how the team concept can be realized with your actor

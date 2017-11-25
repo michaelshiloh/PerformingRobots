@@ -1405,6 +1405,9 @@ No class - Al Hijra
 * Homework assignment due Tuesday November 28   
 *	Almost all of you are quite far behind in the mechanical construction of
 	your actors. You have to work hard to catch up
+* I forgot to copy my notes from the board before they were erased for the
+  next class. Please let me know of anything I forgot, especially things I
+	said I would do for you.
 	* **Claire and Arb (and Reine)**
 		* Your devices are extremely past due. I'm deeply concerned about your
 		  ability to complete. 

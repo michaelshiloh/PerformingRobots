@@ -1418,12 +1418,13 @@ No class - Al Hijra
 			assistant and the second assistant.
 
 #### Tuesday November 28 9-10:15 AM
-* Cleanup
-* schedule
-* Plan to finish actor in 1 week (allow last two days only for refinement)
+	* Plan to finish actor in 1 week (allow last two days only for refinement)
+	* Cleanup
+	* Who needs what from me?
+	* schedule
 
 * Homework assignment due Tuesday December 5 (tentative):
-* Finish actor 
+	* **Finish** actor 
 
 #### Tuesday December 5 9-10:15 AM
 

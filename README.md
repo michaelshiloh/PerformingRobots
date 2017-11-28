@@ -1363,7 +1363,6 @@ No class - Al Hijra
 	pre-mortem, concluding with what is he bare minimum you would like to
 	achieve.
 
-### current-homework-assignment
 * Homework assignment due Tuesday November 28   
 *	Almost all of you are quite far behind in the mechanical construction of
 	your actors. You have to work hard to catch up
@@ -1423,7 +1422,8 @@ No class - Al Hijra
 	* Who needs what from me?
 	* schedule
 
-* Homework assignment due Tuesday December 5 (tentative):
+### current-homework-assignment
+* Homework assignment due Tuesday December 5 
 	* **Finish** actor 
 
 #### Tuesday December 5 9-10:15 AM

@@ -274,88 +274,50 @@ Third, we all make extensive use of online resources generously created by
 others. By sharing our own work, we pay forward, making what we learned
 available in the hopes that others might benefit.
 
-### Project 1: A system with at least 3 sensors and 3 actuators
-Date assigned: Class 6  
-Date due: Class 10
+### Project 1: Basic motorized chassis, autonomous
+Date assigned: Class 3 (September 12)  
+Date due: Class 5 (September 16)
 
 **Purpose**
-Having learned the basics of electronics, Arduino, sensors and
-actuators, and programming, this project is an exercise in the understanding
-and application of the technical material we have covered. 
+* Mechanical construction of chassis
+* Soldering wires to motors
+* Using and programming Arduino + Motor Shield
+* Wheels, gears, traction, friction
 
 **Assignment**
-Design and construct a simple interactive system with at least 3
-sensors and 3 actuators. The system must contain some sort of state
-information so that its behavior depends on its inputs (sensor readings) as
-well as its previous state. The system must react promptly to changes at its
-sensors, i.e. the Arduino delay() function must not be used.
+Autonomous motorized chassis using Arduino, Motor Shield, two geared DC
+motors, laser cut (or other) wheels. Construction is entirely up to you.
 
-Additional information: There is no need to address any artistic topic in this
-project.
-
-### Project 2: Interactive Performative Machine (Autonomous or Remote Controlled)
-Date assigned: Class 10  
-Date due: Class 14
+### Project 2: Remote controlled motorized chassis
+Date assigned: Class 06 Tuesday September 19
+Date due: Class 08 Tuesday September 26
 
 **Purpose**
-In a performance, an actor must respond to cues from other actors.
-Similarly, unless entirely controlled by a master sequencer, a robotic
-performer must wait for an appropriate "trigger" before performing its
-action. In this project students will develop machines that can "perform" a
-small number of pre-programmed sequences on "cues"
+* Wiring sockets to prototyping area of Motor Shield
+* Use Bluetooth radio module 
+* Learn how to initiate functions based on received commands 
 
 **Assignment**
-Design and construct a simple interactive device that can be used
-for performance. Your machine must have at least 3 "sequences" or "activities"
-that it will perform on demand. These sequences can be triggered either by
-remote control or by some interaction with another "performer". You may use 
-some or all of the circuit and/or the mechanism you built for Project 1.
+Add the Bluetooth radio module to your chassis and write a program
+with at least two different sequences that can be selected via Bluetooth.
 
-### Project 3: Prototype of Final Project
-Date Assigned: Class 14  
-Date Due: Class 20
+### Project 3: Prototype of Actor
+Date Assigned: Class 09 Thursday September 28
+Date Due: Thursday October 12
 
 **Purpose**
-The final project will be a "robot" that is capable
-of participating, or "performing", in a "performance"
-that the class will create.   
-(Keep in mind that the terms "robot" and "performance" are broadly defined 
-and that creative interpretation, implementation, and expression are permitted
-and encouraged.)  
-One purpose of this project is to build a rough prototype, or
-proof-of-concept, of the robot that will be used in the performance, so that
-the performance can be rehearsed and so that problems can be identified
-while there is still plenty of time to redesign the robot, before the final
-project is started.   
-In the performance, robots will have to perform on cue,
-i.e. when some event occurs that signals that it is now time for their piece.
-A second purpose of this project is also to develop and test that capability 
-while practising portions of the performance with the other robots.
+* Learn to develop prototype quickly to demonstrate or illustrate a concept
+* Learn to use robust construction techniques
 
 **Assignment**
-Design, build, and debug a rough prototype, or
-proof-of-concept, of the robot that will be used in the performance, so that
-the performance can be rehearsed and so that problems can be identified
-while there is still plenty of time to redesign the robot, before the final
-project is started.   
-The robot must be capable of performing one or two of the sequences that will 
-be needed for the performance, so the class will be coming up with a rough
-version of the performance and deciding, as a group, which robot will play
-what roles. In the final project, each robot builder will be responsible 
-for a robot that is 
-capable of all the actions required by that role.    
-The robot must be capable of performing these one or two 
-actions when it receives the
-relevant cue, and then in turn issuing cues to the robot responsible for the
-next action.   
+Rapid, low-fidelity techniques are the only way to accomplish this rather
+ambitious goal in 2 weeks. On the other had, you must use reliable, robust
+construction techniques: good soldering, good wiring management, fault
+tolerant programs, etc.
 
-### Final Project
-Date Assigned: Class 20  
-Date due: 
-The project will be due in class in week 14. Students will then stage a
-live performance at 
-the End of Semester Showcase 
-that will happen at the end of week 14.
+### Final Project: Complete Actor
+Date Assigned: Class 18 Thursday November 9
+Date due: Thursday December 7
 
 **Purpose**
 Learning from Project 3 and taking into account the lessons learned and 
@@ -868,12 +830,12 @@ No class - Al Hijra
 	* Your project should be mostly done on Tuesday so that it can 
 		be finished by Thursday
 
-#### Tuesday October 10 9-10:15 AM
+#### Class 12 Tuesday October 10 9-10:15 AM
 
 * Assignment status report
 * Problem solving advice
 
-#### Thursday October 12 9-11:40 AM
+#### Class 13 Thursday October 12 9-11:40 AM
 
 * Discussion: Knowing what you know now, what do you think a robotic performance
 	might look like?
@@ -936,7 +898,7 @@ No class - Al Hijra
 			*	[Mateo](https://www.instagram.com/explore/tags/softwareart_image/)
 				(purple rotating cube with slants)
 
-#### Tuesday October 17 9-10:15 AM
+#### Class 14 Tuesday October 17 9-10:15 AM
 *	Fritzing
 
 * Homework assignment due Thursday October 19
@@ -981,7 +943,7 @@ No class - Al Hijra
 		* Identify any unusual components or items that might need to be purchased
 			immediately
 
-#### Tuesday October 31 9-10:15 AM
+#### Class 15 Tuesday October 31 9-10:15 AM
 * Brief review of your project report
 
 * Homework assignment due Thursday November 2 (tentative):
@@ -989,7 +951,7 @@ No class - Al Hijra
 	1. Prepare for team presentation (see 
 		[schedule](https://github.com/pierredepaz/software-art-image/wiki/Performing-Robots-x-Software-Art---timeline))
 
-#### Thursday November 2 9-11:40 AM
+#### Class 16 Thursday November 2 9-11:40 AM
 
 * Demo
 	* Inspect robotic chassis
@@ -1043,13 +1005,13 @@ No class - Al Hijra
 	* Installations
 		1.1 Claire - Rotating tree
 
-#### Tuesday November 7 9-10:15 AM
+#### Class 17 Tuesday November 7 9-10:15 AM
 
 * Homework assignment due Thursday November 9 
 	* Study Fritz and see how many things you can identify that are either
 		mistakes or that could be done better
 
-#### Thursday November 9 9-11:40 AM
+#### Class 18 Thursday November 9 9-11:40 AM
 * Fritz improvements
 * Design and construction sprint critical analysis: What did you learn?
 * Review of [updated
@@ -1067,7 +1029,7 @@ No class - Al Hijra
 		* Parts list 
 		* Schedule
 
-#### Tuesday November 14 9-10:15 AM
+#### Class 19 Tuesday November 14 9-10:15 AM
 * You're going to have to start building your actor even if you haven't
   fully decided what you and your partner are doing. Similar to the ways
   we find order in random patterns, your audience will make connections
@@ -1456,19 +1418,14 @@ No class - Al Hijra
 			assistant and the second assistant.
 
 #### Tuesday November 28 9-10:15 AM
-* Report on how the team concept can be realized with your actor
-	in its current state
-* Critical feedback as to whether your plan is sufficiently realistic
-	resulting in itemized list of modifications to plan (not to actor) to be made
+* Cleanup
+* schedule
+* Plan to finish actor in 1 week (allow last two days only for refinement)
 
 * Homework assignment due Tuesday December 5 (tentative):
-	1. Address itemized critical feedback
-	1. Refine your project so that it can perform its task reliably.
-		No new features, only improvements to reliability and robustness
+* Finish actor 
 
 #### Tuesday December 5 9-10:15 AM
-	* Demonstrate that critical feedback items have been addressed
-	* Demonstrate your actors role in the vignette
 
 * Homework assignment due Thursday December 7 (tentative):
 	1. Prepare for Tech Rehearsal: 

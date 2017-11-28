@@ -1,3 +1,5 @@
+[Current homework assignment](#current-homework-assignment)
+
 ## New York University Abu Dhabi
 ## Interactive Media
 ### Course Number: IM-UH2117
@@ -7,8 +9,6 @@
 
 This syllabus is subject to change. The official syllabus is always at
 [https://github.com/michaelshiloh/PerformingRobots/blob/master/README.md](https://github.com/michaelshiloh/PerformingRobots/blob/master/README.md)
-
-[Current homework assignment](#current-homework-assignment)
 
 **Credits Hours:** 4  
 **Classroom:** C3-029 (Art Center, Interactive Media lab)  

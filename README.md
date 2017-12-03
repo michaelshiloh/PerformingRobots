@@ -198,7 +198,7 @@ fellow classmates and close your lid.
 
 #### Mobile Phones
 Texting and other uses are prohibited during class.
- Please silence and disable all calls and notifications.
+Please silence and disable all calls and notifications.
 If you
 have an emergency that requires you to answer your phone during class, please
 let me know me ahead of time and quietly step out of class to take the call.

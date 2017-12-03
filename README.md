@@ -197,7 +197,9 @@ large part on your engagement and active participation, so please respect your
 fellow classmates and close your lid.
 
 #### Mobile Phones
- Please put them on vibrate or turn them off before you come to class. If you
+Texting and other uses are prohibited during class.
+ Please silence and disable all calls and notifications.
+If you
 have an emergency that requires you to answer your phone during class, please
 let me know me ahead of time and quietly step out of class to take the call.
 

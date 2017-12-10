@@ -1,4 +1,4 @@
-[Current homework assignment](#current-homework-assignment)
+[Current homework assignment](#current-homework-assignment)  
 [Robot Liberation Theatre](https://github.com/pierredepaz/robot-liberation-theater)
 
 ## New York University Abu Dhabi

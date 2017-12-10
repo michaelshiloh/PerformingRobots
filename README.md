@@ -1490,7 +1490,7 @@ always on stage running around. You will take turns.
 [schedule](https://github.com/pierredepaz/robot-liberation-theater).
 	- Mark with blue tape the staging location of each robot
 	- Create stage duty schedule
-- 9:45 Other class arrives
+- 9:45 Software Art arrives
 - 9:50 Dress rehearsal starts
 	- (Grace and Isabella go third)
 - 10:15 Those who have a class leave (Brooke, Grace, anyone else?)

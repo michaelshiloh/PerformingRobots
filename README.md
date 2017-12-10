@@ -1,4 +1,5 @@
 [Current homework assignment](#current-homework-assignment)
+[Robot Liberation Theatre](https://github.com/pierredepaz/robot-liberation-theater)
 
 ## New York University Abu Dhabi
 ## Interactive Media
@@ -1468,7 +1469,10 @@ During the tech rehearsal last week, moving robots on-stage and off-stage was
 disorganized. To remedy this, we will have a staging area for the robots in the order
 of the [schedule](https://github.com/pierredepaz/robot-liberation-theater).
 If you will need help moving your robot you should arrange now with specific people 
-and coordinate who is doing what so you don't drop anything. Plan for both
+and coordinate who is doing what so you don't drop anything or run into each
+other. 
+
+Plan for both
 moving robots onto the stage before your performance and then moving them off
 afterwards. Some of you have large and heavy robots: plan which side
 each person holds and the order in which you get on-stage and off-stage.
@@ -1483,6 +1487,7 @@ always on stage running around. You will take turns.
 - 9-9:15 course evaluation time
 - 9:15 
 	- Figure out the order of the robots in staging area according to the
+[schedule](https://github.com/pierredepaz/robot-liberation-theater).
 	- Mark with blue tape the staging location of each robot
 	- Create stage duty schedule
 - 10:30 dress rehearsal starts
@@ -1490,16 +1495,16 @@ always on stage running around. You will take turns.
 
 **Wednesday**
 - 2PM: Assume that I will be unavailable for the rest of the day
-- 5:30pm: Most robots in staging area, some robots playing on stage (according
-	to schedule)
+- 5:30pm: Most robots in staging area, some robots playing on stage 
 - 7:45: Robots move off stage and into staging area in proper order. First
 	robots on stage.
 - 9PM: After the show, I will be packing up your robots and taking them to the
 	Echo festival in Dubai. 
 	
 **Thursday, Friday**
-	We will be displaying our work on Thursday and
-	Friday. You are welcome to come with if you want, but be warned: we leave at
+	I will be displaying your work on Thursday and
+	Friday at the [Echo Art Design and Technology](http://echodubai.com/) event in Dubai. 
+	You are welcome to come with if you want, but be warned: we leave at
 	4:30 AM on Thursday morning and return late at night. Friday start will be
 	somewhat later. Schedule to be determined.
 

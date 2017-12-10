@@ -1457,7 +1457,20 @@ Hello everyone!
 
 We have a busy schedule in the next 3 days.
 
-As discussed, your robots must be operational by Tuesday at 9am for the dress
+Our original schedule called for all robots to be functionally complete by
+last Thursday's class. As you are well aware almost every one of you fell far
+short of that requirement. I had expected you all to work hard over this
+weekend to catch up but have seen remarkably little progress. 
+I've had a long career of building robots for performances, and being this far
+behind this close to the show is extremely concerning. 
+
+Your grade for the class is based on having a working performing robot, and
+currently very few of you have met this requirement.
+
+However, I think you can still put together a good performance. I will be available
+to help you tomorrow all day, except during my Intro class (2:40-3:55).
+
+Your robots must be operational by Tuesday at 9am for the dress
 rehearsal.
 
 Room 006 is available starting now for working on projects and for project

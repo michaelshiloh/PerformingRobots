@@ -1484,13 +1484,17 @@ always on stage running around. You will take turns.
 
 **Tuesday**
 - We will meet at 9am in 006
-- 9-9:15 course evaluation time
-- 9:15 
+- 9 - 9:15 course evaluation time
+- 9:15 - 9:45
 	- Figure out the order of the robots in staging area according to the
 [schedule](https://github.com/pierredepaz/robot-liberation-theater).
 	- Mark with blue tape the staging location of each robot
 	- Create stage duty schedule
-- 10:30 dress rehearsal starts
+- 9:45 Other class arrives
+- 9:50 Dress rehearsal starts
+	- (Grace and Isabella go third)
+- 10:15 Those who have a class leave (Brooke, Grace, anyone else?)
+- 11 (or sooner) Rehearsal ends
 - After the rehearsal, charge your batteries!!
 
 **Wednesday**

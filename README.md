@@ -1424,7 +1424,6 @@ No class - Al Hijra
 	* Who needs what from me?
 	* schedule
 
-### current-homework-assignment
 * Homework assignment due Tuesday December 5 
 	* **Finish** actor 
 
@@ -1450,11 +1449,67 @@ No class - Al Hijra
 	improvements you've made and make sure that your vignette is a coherent,
 	compelling whole which runs smoothly.
 
+### current-homework-assignment
+Performing Robots Update
+
+Hello everyone!
+
+We have a busy schedule in the next 3 days.
+
+As discussed, your robots must be operational by Tuesday at 9am for the dress
+rehearsal.
+
+Room 006 is available starting now for working on projects and for project
+installation. You are encouraged to move your work there even if you are still working on
+your project, as the lab is already very crowded and will be getting much
+worse.
+
+During the tech rehearsal last week, moving robots on-stage and off-stage was
+disorganized. To remedy this, we will have a staging area for the robots in the order
+of the [schedule](https://github.com/pierredepaz/robot-liberation-theater).
+If you will need help moving your robot you should arrange now with specific people 
+and coordinate who is doing what so you don't drop anything. Plan for both
+moving robots onto the stage before your performance and then moving them off
+afterwards. Some of you have large and heavy robots: plan which side
+each person holds and the order in which you get on-stage and off-stage.
+
+During the exhibition most robots will be in the staging area, with 3 robots
+always on stage running around. You will take turns.
+
+#### Schedule
+
+**Tuesday**
+- We will meet at 9am in 006
+- 9-9:15 course evaluation time
+- 9:15 
+	- Figure out the order of the robots in staging area according to the
+	- Mark with blue tape the staging location of each robot
+	- Create stage duty schedule
+- 10:30 dress rehearsal starts
+- After the rehearsal, charge your batteries!!
+
+**Wednesday**
+- 2PM: Assume that I will be unavailable for the rest of the day
+- 5:30pm: Most robots in staging area, some robots playing on stage (according
+	to schedule)
+- 7:45: Robots move off stage and into staging area in proper order. First
+	robots on stage.
+- 9PM: After the show, I will be packing up your robots and taking them to the
+	Echo festival in Dubai. 
+	
+**Thursday, Friday**
+	We will be displaying our work on Thursday and
+	Friday. You are welcome to come with if you want, but be warned: we leave at
+	4:30 AM on Thursday morning and return late at night. Friday start will be
+	somewhat later. Schedule to be determined.
+
 #### Tuesday December 12 9-10:15 AM
 * 10:25 Team presentation: Dress rehearsal
 
-#### Wednesday December 13 5:30-7:30 PM
+#### Wednesday December 13 
 IM + Visual Arts End of Semester Show
+6 PM - 8 PM Exhibition
+8 - 9 PM Robot Liberation Theatre performance
 
 
 #### Student repositories

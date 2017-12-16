@@ -1536,6 +1536,8 @@ IM + Visual Arts End of Semester Show
 
 #### Final project writeup assignment
 
+This assignment is due on Thursday December 21 at 11:40 AM
+
 Document the following 
 in the README.md file of your final project folder:
 * Concept: What personality did you want to portray in your actor? 

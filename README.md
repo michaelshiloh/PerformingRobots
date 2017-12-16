@@ -1536,29 +1536,29 @@ IM + Visual Arts End of Semester Show
 
 #### Final project writeup assignment
 
-		Document the following 
-		in the README.md file of your final project folder:
-		* Concept
-		* Hand drawn sketch, computer drawing, or a photograph of the overall
-		  project
-		* If your project had a physical component, discuss the 
-			materials and construction techniques. Why did you chose these? Knowing
-			what you know now, would you have chosen different materials or 
-			techniques?
-		* What did you have to learn in order to complete your project? 
-		  How did you learn this?
-		* Describe the electronic and electrical part of your project
-			* Overview, describing the general operation
-			* Schematic 
-		* Describe the software part of your project
-			* Overview, describing the general operation
-			* Upload your program(s)
-    * What were the 3 most difficult parts of your project? 
-		* Knowing what you know now, what would you have done differently?
-		* Extra photographs 
-		  (can be a link to your own album)
-		* Videos if you have any
-		  (can be a link to your own album)
+Document the following 
+in the README.md file of your final project folder:
+* Concept
+* Hand drawn sketch, computer drawing, or a photograph of the overall
+	project
+* If your project had a physical component, discuss the 
+	materials and construction techniques. Why did you chose these? Knowing
+	what you know now, would you have chosen different materials or 
+	techniques?
+* What did you have to learn in order to complete your project? 
+	How did you learn this?
+* Describe the electronic and electrical part of your project
+	* Overview, describing the general operation
+	* Schematic 
+* Describe the software part of your project
+	* Overview, describing the general operation
+	* Upload your program(s)
+* What were the 3 most difficult parts of your project? 
+* Knowing what you know now, what would you have done differently?
+* Extra photographs 
+	(can be a link to your own album)
+* Videos if you have any
+		(can be a link to your own album)
 
 
 

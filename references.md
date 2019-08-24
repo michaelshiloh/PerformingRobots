@@ -228,3 +228,139 @@ are machines. Humans are present only as operators
 3. "Automata" vs. "Autonomous beings"
 
 4. What is interactive?
+
+
+
+
+TODO
+
+
+
+#### Bibliography
+
+Kris Verdonck A Two Dog Company
+
+Peter Eckersall CUNY
+
+Noh Theatre
+Samuel Becket
+Brecht
+"Hey Joe" actor waits for voiceover to define him
+Normally, objects represent themselves. With high tech, objects have 2nd agenda
+
+** Marco Donnarumma and Kristina Anderson
+Can theatre be a site for practice at the future?
+Kristina (Technical University Eindhoven)
+This work is situated in a grey zone: academia, art, theatre, music, design
+Intelligence is a human word and might be inapplicable to machines
+"Human" and "Machine" are neither defined nor static
+
+
+Post-human: thinking humanness through robotics
+Julie-Michelle Morin
+** Jennifer Rhee book "amigdala"
+** Karen Barad: analyze humanness through robotics (get book)
+theatre space is perfect for deconstructing Mori's idealized humanness
+design driven by normative vision of humanness, or can challenge this
+
+Robot Performance
+The staging of techo-vulnerability
+Ruowen Xu Utrecht University r.xu@uu.nl
+entanglement of critique and technophilia
+
+Chico's broken robots: threatening and strong vs. weak and pathetic
+Mirja: agent solitude
+"Human Being at Risk" Mark Coelkelbergh
+
+isaac asimov
+
+morse cups
+
+schipp's robot
+
+video of squares, triangles, and circle
+
+list of questions for students
+
+android theatre video
+
+michael.rau@stanford.edu (or is it rav)
+viewpoints as a vocabulary for robots
+mary overlie viewpoints
+viewpoints ai (git)
+luminos ai (revised)
+
+
+
+https://www.youtube.com/watch?v=t2t4BALBmxg
+robotic theatre
+robot theatre
+https://www.sau.edu/news_and_events/n170404_robot-theatre.html
+https://www.youtube.com/watch?v=Uo-4RQPEHIk
+https://robohub.org/robots-robotics-in-theatre-film-and-television/
+https://theatre.uta.edu/emotional-robotics-living-lab/
+https://www.robottheatre.co.uk/publications
+https://www.robottheatre.co.uk/
+http://techandlaw.net/robots-become-art-interview-mr-yi-wei-keng/
+http://www.seinendan.org/eng/oriza/
+https://nuclear-news.net/2019/06/17/a-theater-play-forgetting-the-future/
+https://mercatflors.cat/en/espectacle/les-tres-germanes-versio-androide-3/
+https://thetheatretimes.com/the-gaze-of-the-robot/
+robots.ieee.org/robots
+
+
+will we arrive at a place where the fridge worries when the toaster goes
+missing?
+When interact with a robot, we have a model of the robot, but the robot
+has no model of us
+https://en.wikipedia.org/wiki/Theory_of_mind
+
+thomas riccio ut dallas
+thomasriccio.com
+hanson robotics
+https://www.hansonrobotics.com/sophia/
+robot personalities 
+viseme
+frubber
+in-character responses to failure modes
+
+louise lepage
+university of york
+hirata, humanoid theatre, three sisters and sayonara
+robots don't need to feel, they just need to give the impression they do
+
+helen root
+irene echeverria - altuna
+gemanoid f
+
+gobsquat collective
+
+thomas melle
+rimini protokoll
+https://www.rimini-protokoll.de/website/en/project/unheimliches-tal-uncanny-valley
+manipulation, seduction - programming the audience
+using low tech to give the impression of high tech
+(also did walking berlin and abu dhabi)
+
+petra goyeinboeck
+creative robotics lab university of new south wales
+rob saunders
+university of sydney
+machine movement lab
+louise phillippe deters
+tiller girls
+"the performance of creative machines"
+"accomplice" (knocking robot)
+
+Japanese robot culture : performance, imagination, and modernity
+Yuji. Sone
+New York, NY : Palgrave Macmillan 2017
+
+Geminoid Studies Science and Technologies for Humanlike Teleoperated Androids
+Ishiguro, Hiroshi • 2018
+Publisher:
+Springer Singapore
+ISBN:
+9789811087028
+
+

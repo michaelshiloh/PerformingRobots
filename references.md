@@ -62,7 +62,7 @@ Project](http://www.japansociety.org/event/seinendan-theater-company-osaka-unive
 
 1. [Simone Giertz](https://youtu.be/WcW70-6eQcY)
 
-3. Tinguely and the woman he collaborated with 
+3. Tinguely 
 
 6. [Kal Spelletich](http://www.kaltek.org)
 
@@ -363,4 +363,8 @@ Springer Singapore
 ISBN:
 9789811087028
 
+- https://www.youtube.com/watch?v=DllPedBqjjw
+  https://thetheatretimes.com/the-gaze-of-the-robot/
+https://muse.jhu.edu/article/522851
+https://www.youtube.com/watch?v=Uo-4RQPEHIk
 

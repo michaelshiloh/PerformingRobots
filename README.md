@@ -1,5 +1,3 @@
-[Current homework assignment](#current-homework-assignment)  
-
 ## New York University Abu Dhabi
 ## Interactive Media
 # Performing Robots
@@ -9,12 +7,11 @@
 ### Tuesday: 1:15 - 3:55 	
 ### Thursday: 1:15 - 2:30
 
+## This page: Home Page
+
 **Everything can be found on the course website:**
 [https://github.com/michaelshiloh/PerformingRobots](https://github.com/michaelshiloh/PerformingRobots/)
 
-
-Quick [link](https://github.com/michaelshiloh/PerformingRobots/blob/master/schedule.md#current-homework-assignment)
-to current homework assignment
 
 [Syllabus](syllabus.md)
 
@@ -25,13 +22,13 @@ to current homework assignment
 [Student Github repositories](studentRepositories)
 
 
-Brief course outline:
+Brief Course Outline:
 
 Week  1 - August 27, 29    - Mechanisms, construction techniques  
 Week  2 - September 3, 5   - Electricity, soldering  
 ** Project 1 (Motorized cardboard automata) due September 5 **  
-Week  3 - September 10, 12 - Arduino; Scene Shop Training  
-Week  4 - September 17, 19 - Scene Shop Training  
+Week  3 - September 10, 12 - Arduino; Scene Shop Training #1  
+Week  4 - September 17, 19 - Scene Shop Training #2 and #3  
 ** Project 2 (Complex behavior) due September 24 **  
 Week  5 - September 24, 26 - Motor shield, power  
 Week  6 - October 1, 3     - Control (wired, wireless)  

@@ -1,5 +1,3 @@
-[Current homework assignment](#current-homework-assignment)  
-
 ## New York University Abu Dhabi
 ## Interactive Media
 ### Course Number: IM-UH2117
@@ -7,8 +5,10 @@
 # Performing Robots
 ### Fall 2019  
 
+# Syllabus
+
 This syllabus is subject to change. The official syllabus is always at
-[https://github.com/michaelshiloh/PerformingRobots/blob/master/README.md](https://github.com/michaelshiloh/PerformingRobots/blob/master/README.md)
+[https://github.com/michaelshiloh/PerformingRobots/blob/master/syllabus.md](https://github.com/michaelshiloh/PerformingRobots/blob/master/syllabus.md)
 
 **Credits Hours:** 4  
 **Classroom:** C3-029 (Art Center, Interactive Media lab)  
@@ -118,22 +118,18 @@ project
 **30%** Final Project    
 
 #### Attendance
-Attendance and arrival on time to all class sessions is required and
-expected. Two unexcused absences lower your final grade by a letter.  Each
-subsequent unexcused absence will lower another letter grade. Two late
-arrivals will count as one absence. Arriving more than 20 minutes late will
-also count as an absence.
 
-If you will be missing a class due to illness or unavoidable personal
-circumstances, you must notify your professor in advance via email for the
-absence to be eligible to be excused.
+Attendance in all classes is mandatory. Be on time and ready to start work at the posted start time.
 
-**Grade for Attendance**
+Unexcused absences or habitual lateness will negatively impact your final grade for the class. If you know you are going to be late or absent, please email me in advance. If you have an emergency, let me know as soon as you can.
 
-A - One excused absence  
-B - Two excused absences  
-C - Three excused absences  
-D - One unexcused absence  
+Arriving more than ten minutes late to class will count as an unexcused absence.
+
+More than one unexcused absence will result in a 5-percentage point drop in your attendance grade per absence. After four unexcused absences, you will fail the class.
+
+An absence is excused if justified by a note from a medical professional or a
+professor.
+
 
 #### Participation
 Showing up on time, engaging in the class discussion, asking questions and
@@ -160,7 +156,7 @@ prepared for the lesson.
 
 **Grades for Participation**
 
-A - Almost always prepared for class including: 
+A - Always prepared for class including: 
 seated and settled, with notebook and assignment ready, at the
 beginning of each lesson, ready to engage in class discussion. Has questions
 or observations prepared, and ready to answer questions from instructor. 
@@ -169,9 +165,9 @@ with assignment, can clearly describe the unexpected behavior and what paths
 were taken to try to resolve them. Asks questions in class.
 Almost always engages in discussion with instructor and other students. 
 Frequently offers assistance to other students.  
-B - Occasionally prepared in most of the ways indicated above.  
-C - Infrequently prepared in most of the ways indicated above.  
-D - Rarely or never prepared in most of the ways indicated above.  
+B - Prepared at least 80% of the time in most of the ways indicated above.  
+C - Prepared at least 60% of the time in most of the ways indicated above.  
+D - Prepared less than 60% of the time
 
 ### Readings
 Readings will include selections from books, essays, articles, and research
@@ -229,6 +225,12 @@ creative and technical discussion. The course embraces a process-oriented
 philosophy believing that programming, electronics, and mechatronics
 development are best learned by doing. 
 
+In a way, this class has three tracks:
+
+1. Readings and discussion
+1. Skills
+1. Projects
+
 ### Course Mission: L.E.G.S.
 * Learn - skills, tools, processes, techniques, resources
 * Explore - challenges, risks, failures, adventures, dreams 
@@ -274,67 +276,4 @@ Third, we all make extensive use of online resources generously created by
 others. By sharing our own work, we pay forward, making what we learned
 available in the hopes that others might benefit.
 
-### Project 1: Basic motorized chassis, autonomous
-Date assigned: Class 3 (September 12)  
-Date due: Class 5 (September 16)
-
-**Purpose**
-* Mechanical construction of chassis
-* Soldering wires to motors
-* Using and programming Arduino + Motor Shield
-* Wheels, gears, traction, friction
-
-**Assignment**
-Autonomous motorized chassis using Arduino, Motor Shield, two geared DC
-motors, laser cut (or other) wheels. Construction is entirely up to you.
-
-### Project 2: Remote controlled motorized chassis
-Date assigned: Class 06 Tuesday September 19
-Date due: Class 08 Tuesday September 26
-
-**Purpose**
-* Wiring sockets to prototyping area of Motor Shield
-* Use Bluetooth radio module 
-* Learn how to initiate functions based on received commands 
-
-**Assignment**
-Add the Bluetooth radio module to your chassis and write a program
-with at least two different sequences that can be selected via Bluetooth.
-
-### Project 3: Prototype of Actor
-Date Assigned: Class 09 Thursday September 28
-Date Due: Thursday October 12
-
-**Purpose**
-* Learn to develop prototype quickly to demonstrate or illustrate a concept
-* Learn to use robust construction techniques
-
-**Assignment**
-Rapid, low-fidelity techniques are the only way to accomplish this rather
-ambitious goal in 2 weeks. On the other had, you must use reliable, robust
-construction techniques: good soldering, good wiring management, fault
-tolerant programs, etc.
-
-### Final Project: Complete Actor
-Date Assigned: Class 18 Thursday November 9
-Date due: Thursday December 7
-
-**Purpose**
-Learning from Project 3 and taking into account the lessons learned and 
-feedback received, students will design, build, and debug a robot to play a
-role in the final performance
-
-**Assignment**
-Inspired by earlier projects and semester readings and discussions,
-Design, build, and debug a polished robot that will be used in the 
-final performance. The robot must be capable of performing on cue, and issuing 
-cues to other robot performers.  
-Your robot will then be required to perform its task in front of a 
-live audience during 
-the End of Semester Showcase.
-
-
-
-
-#### Student Github repositories
 

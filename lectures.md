@@ -14,6 +14,9 @@
 
 
 #### August 27 1:15 - 3:55
+
+Introduction
+
 - What is a robot?
 - What is performance?
 - Watch some videos
@@ -24,7 +27,7 @@
 	- [Robotic Church](https://vimeo.com/114296519#t=120s)
 
 - What this class is about [Course Outline](schedule.md)
-- Introductions
+- Who am I?
 - Syllabus
 - Summary:
   -  Be present and participate in class
@@ -33,5 +36,16 @@
   -  Allow lots of time for homework as physical construction
   and debugging circuits and programs can be very time consuming.
 - Announcements
-  - Become a lab assistant! The application deadline is Feb 3rd at 11:59 pm.
-    It's on CareerNet, or contact Ume (uh242@nyu.edu)
+  - Become a lab assistant!  Contact Ume (uh242@nyu.edu)
+- Who are you?
+
+Lecture
+- 
+- [Basic
+	mechanisms](https://github.com/michaelshiloh/resourcesForClasses#mechatronic-resources)  
+- Construction Techniques  
+- Exercise   
+
+Assignment due September 5
+Build a cardboard device demonstrating at least two different basic mechanism.
+Your device must be motarized and must run for 30 seconds without breaking

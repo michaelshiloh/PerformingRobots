@@ -4,7 +4,7 @@
 
 ### Course Number: IM-UH2117 
 ### Fall 2019  
-### Tuesday: 1:15 - 3:55 	
+### Tuesday: 1:15 - 3:55
 ### Thursday: 1:15 - 2:30
 
 **Everything can be found on the course website:**
@@ -12,10 +12,10 @@
 
 ## This page: Lectures
 
-[Syllabus](syllabus.md)
-[Course Outline](README.md)
-[200~[References, Bibliography, and Additional Information](references.md)
-[Student Github repositories](studentRepositories)
+[Syllabus](syllabus.md)  
+[Course Outline](README.md)  
+[200~[References, Bibliography, and Additional Information](references.md)  
+[Student Github repositories](studentRepositories)  
 
 
 #### August 27 1:15 - 3:55
@@ -42,7 +42,7 @@ Introduction
   and debugging circuits and programs can be very time consuming.
 - Announcements
   - Become a lab assistant!  Contact Ume (uh242@nyu.edu)
-	- IM Lab Open House September 4 evening (with giant pizza!)
+  - IM Lab Open House September 4 evening (with giant pizza!)
 - Who are you?
 
 Lecture

@@ -7,10 +7,10 @@
 
 ## This page: Syllabus
 
-[Course Outline](README.md)
-[Lectures](lectures)
-[200~[References, Bibliography, and Additional Information](references.md)
-[Student Github repositories](studentRepositories)
+[Course Outline](README.md)  
+[Lectures](lectures)  
+[200~[References, Bibliography, and Additional Information](references.md)  
+[Student Github repositories](studentRepositories)  
 
 This syllabus is subject to change. The official syllabus is always at
 [https://github.com/michaelshiloh/PerformingRobots/blob/master/syllabus.md](https://github.com/michaelshiloh/PerformingRobots/blob/master/syllabus.md)

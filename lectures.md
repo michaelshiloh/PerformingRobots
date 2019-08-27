@@ -14,8 +14,8 @@
 
 [Syllabus](syllabus.md)  
 [Course Outline](README.md)  
-[200~[References, Bibliography, and Additional Information](references.md)  
-[Student Github repositories](studentRepositories)  
+[References, Bibliography, and Additional Information](references.md)  
+[Student Github repositories](studentRepositories.md)  
 
 
 #### August 27 1:15 - 3:55

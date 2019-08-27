@@ -13,9 +13,9 @@
 ## This page: Course Outline
 
 [Syllabus](syllabus.md)  
-[Lectures](lectures)  
-[200~[References, Bibliography, and Additional Information](references.md)  
-[Student Github repositories](studentRepositories)  
+[Lectures](lectures.md)  
+[References, Bibliography, and Additional Information](references.md)  
+[Student Github repositories](studentRepositories.md)  
 
 
 

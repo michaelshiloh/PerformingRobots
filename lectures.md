@@ -7,10 +7,15 @@
 ### Tuesday: 1:15 - 3:55 	
 ### Thursday: 1:15 - 2:30
 
-## This page: Lectures
-
 **Everything can be found on the course website:**
 [https://github.com/michaelshiloh/PerformingRobots](https://github.com/michaelshiloh/PerformingRobots/)
+
+## This page: Lectures
+
+[Syllabus](syllabus.md)
+[Course Outline](README.md)
+[200~[References, Bibliography, and Additional Information](references.md)
+[Student Github repositories](studentRepositories)
 
 
 #### August 27 1:15 - 3:55
@@ -37,6 +42,7 @@ Introduction
   and debugging circuits and programs can be very time consuming.
 - Announcements
   - Become a lab assistant!  Contact Ume (uh242@nyu.edu)
+	- IM Lab Open House September 4 evening (with giant pizza!)
 - Who are you?
 
 Lecture
@@ -46,6 +52,13 @@ Lecture
 - Construction Techniques  
 - Exercise   
 
-Assignment due September 5
+**Assignment due August 29 5**
+1. I strongly encourage that you make substantial progress on your cardboard
+	 mechanism so that you can ask questions, and so that you can next work
+	 on motorizing your project
+1. Bring your laptop to class 
+1. Read the syllabus
+
+**Assignment due September 5**
 Build a cardboard device demonstrating at least two different basic mechanism.
-Your device must be motarized and must run for 30 seconds without breaking
+Your device must be motorized and must run for 30 seconds without breaking

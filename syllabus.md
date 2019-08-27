@@ -5,7 +5,12 @@
 # Performing Robots
 ### Fall 2019  
 
-# Syllabus
+## This page: Syllabus
+
+[Course Outline](README.md)
+[Lectures](lectures)
+[200~[References, Bibliography, and Additional Information](references.md)
+[Student Github repositories](studentRepositories)
 
 This syllabus is subject to change. The official syllabus is always at
 [https://github.com/michaelshiloh/PerformingRobots/blob/master/syllabus.md](https://github.com/michaelshiloh/PerformingRobots/blob/master/syllabus.md)
@@ -110,11 +115,17 @@ material will be provided in the required course kit.
 Class projects will consist of 3 minor projects leading up to a major final
 project
 
+** Project 1 (Motorized cardboard automata) due September 5 ** (15 points)  
+** Project 2 (Complex behavior) due September 24 ** (15 points)  
+** Project 3 (Cardboard Performing Robot) due October 3 ** (15 points)  
+** Project 4 (Final project) due December 12 ** (30 points)  
+
+
 ### Grading
 **10%** Attendance  
-**10%** Participation  
-**20%** Homework Assignments + Online Journal  
-**30%** Projects 1, 2, and 3  
+**5%** Participation  
+**10%** Journal  
+**45%** Projects 1, 2, and 3  
 **30%** Final Project    
 
 #### Attendance

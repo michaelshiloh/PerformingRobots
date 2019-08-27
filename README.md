@@ -7,19 +7,16 @@
 ### Tuesday: 1:15 - 3:55 	
 ### Thursday: 1:15 - 2:30
 
-## This page: Home Page
-
 **Everything can be found on the course website:**
 [https://github.com/michaelshiloh/PerformingRobots](https://github.com/michaelshiloh/PerformingRobots/)
 
+## This page: Course Outline
 
 [Syllabus](syllabus.md)
-
-[Lectures](lectures.md)
-
-[References, Bibliography, and Additional Information](references.md)
-
+[Lectures](lectures)
+[200~[References, Bibliography, and Additional Information](references.md)
 [Student Github repositories](studentRepositories)
+
 
 
 Brief Course Outline:

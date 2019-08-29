@@ -68,6 +68,11 @@ Your device must be motorized and must run for 30 seconds without breaking
 
 **Announcements**
 
+- Clean up after yourselves! Includes but not limited to: 
+	- Drill bits back in holder
+	- Vacuum
+	- Unplug hot glue guns
+	- Put away my project if you move it
 - Be a lab monitor! Job description and instructions for applying are
 	[here](https://app.joinhandshake.com/jobs/3024058)  
 - IM Lab Open House September 4 evening (with giant pizza!)  

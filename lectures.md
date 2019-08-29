@@ -59,7 +59,8 @@ Lecture
 1. Bring your laptop to class 
 1. Read the syllabus
 
-**Assignment due September 5**
+**Assignment due September 5**  
+
 Build a cardboard device demonstrating at least two different basic mechanism.
 Your device must be motorized and must run for 30 seconds without breaking
 

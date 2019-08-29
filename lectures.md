@@ -65,8 +65,13 @@ Your device must be motorized and must run for 30 seconds without breaking
 
 #### Thursday August 29 1:15 - 2:30
 
-Please note the
-[grading](https://github.com/michaelshiloh/PerformingRobots/blob/master/syllabus.md#grading) rubric in the syllabus
+**Announcements**
+
+- Be a lab monitor! Job description and instructions for applying are
+	[here](https://app.joinhandshake.com/jobs/3024058)  
+- IM Lab Open House September 4 evening (with giant pizza!)  
+- Please note the
+[grading](https://github.com/michaelshiloh/PerformingRobots/blob/master/syllabus.md#grading) rubric in the syllabus  
 
 Motors!
 

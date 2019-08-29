@@ -65,6 +65,9 @@ Your device must be motorized and must run for 30 seconds without breaking
 
 #### Thursday August 29 1:15 - 2:30
 
+Please note the
+[grading](https://github.com/michaelshiloh/PerformingRobots/blob/master/syllabus.md#grading) rubric in the syllabus
+
 Motors!
 
 - Hand out motors, wheels, Arduino, USB cable

@@ -128,6 +128,15 @@ project
 **45%** Projects 1, 2, and 3  
 **30%** Final Project    
 
+### Rubric
+
+**Project 1**
+- Two simple machines 30%
+- Solid construction 30%
+- Runs for 30 seconds 40%
+- Above & beyond 10%
+- 15% less for each day late
+
 #### Attendance
 
 Attendance in all classes is mandatory. Be on time and ready to start work at the posted start time.

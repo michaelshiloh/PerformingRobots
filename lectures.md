@@ -18,7 +18,7 @@
 [Student Github repositories](studentRepositories.md)  
 
 
-#### August 27 1:15 - 3:55
+#### Tuesday August 27 1:15 - 3:55
 
 Introduction
 
@@ -52,7 +52,7 @@ Lecture
 - Construction Techniques  
 - Exercise   
 
-**Assignment due August 29 5**
+**Assignment due August 29**
 1. I strongly encourage that you make substantial progress on your cardboard
 	 mechanism so that you can ask questions, and so that you can next work
 	 on motorizing your project
@@ -62,3 +62,20 @@ Lecture
 **Assignment due September 5**
 Build a cardboard device demonstrating at least two different basic mechanism.
 Your device must be motorized and must run for 30 seconds without breaking
+
+#### Thursday August 29 1:15 - 2:30
+
+Motors!
+
+- Hand out motors, wheels, Arduino, USB cable
+- Connect motors to Arduino, see how they turn
+	- Reverse
+
+Construction
+
+- How to attach motors to project
+
+**Assignment due September 3**
+
+Read the first soldering resource
+[here](https://github.com/michaelshiloh/resourcesForClasses#soldering)

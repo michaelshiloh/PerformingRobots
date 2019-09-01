@@ -80,7 +80,7 @@ Your device must be motorized and must run for 30 seconds without breaking
 - Please note the
 [grading](https://github.com/michaelshiloh/PerformingRobots/blob/master/syllabus.md#grading) rubric in the syllabus  
 
-Motors!
+**Motors!**
 
 - Hand out motors, wheels, Arduino, USB cable
 - Connect motors to Arduino, see how they turn
@@ -100,3 +100,14 @@ Construction
 
 1. Read the first three Arduino resources
 [here](https://github.com/michaelshiloh/resourcesForClasses#basic-arduino-resources-from-arduino)
+
+#### Tuesday September 3 1:15 - 3:55
+
+**Arduino!**
+
+- Verify installed properly (test with blink)
+- Understand blink 
+- Add an LED
+- Add another LED  
+- Digital inputs
+- Analog output

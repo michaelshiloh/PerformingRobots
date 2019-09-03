@@ -107,8 +107,13 @@ Construction
 
 - Verify installed properly (test with blink)
 - Understand blink 
-- Hand out wires, breadboard, LEDs, breadboards, LDR, resistors
+- Hand out wires, breadboard, LEDs, LDR, resistors
 - Add an LED
 - Add another LED  
 - Digital inputs
 - Analog output
+
+Timer permitting
+
+- Analog input
+- Digital output

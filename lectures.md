@@ -92,8 +92,6 @@ Construction
 
 ### current-homework-assignment
 
-**Assignment due September 3**
-
 1. Install Arduino from [here](https://www.arduino.cc/en/Main/Software).
 	 Scroll down a little bit to the "Arduino IDE"". If you're on Windows, you
 	 want the first item, the Windows Installer. 
@@ -122,12 +120,33 @@ Time permitting
 
 **Show your fantastic machines!**
 
+**Review**
 
-Time permitting
+- Arduino, breadboards, circuits, components, schematics
+- Programming: analog/digital I/O 
+- Loops
+- Conditionals
 
-- Review 
-	- Arduino, breadboards, circuits, components, schematics
-	- Programming: analog/digital I/O (did we do all four?)
-	- Loops
-	- Conditionals
+**Lecture**
 
+- DC motors
+- Transistors
+
+**Assignment due September 3**
+
+1. Read the first five motor resources [here](https://github.com/michaelshiloh/resourcesForClasses#motors-resources). 
+	You don't need to know this in depth, 
+	just enough
+	to know how the different types of motors behave.
+1. Read the second transistor resource
+	 [here](https://github.com/michaelshiloh/resourcesForClasses#transistor-resources).
+	 Again, you don't need to know this in depth, just become familiar with the
+	 concept of using a transistor as a switch.
+1. Learn about the Adafruit motor shield by reading the sixth resource
+	 [here](https://github.com/michaelshiloh/resourcesForClasses#motors-resources).
+	 This will be important and we will review in class, but you will understand
+	 it better if you try to understand the tutorial.
+1. Create a github account (if you don't have one) and a repository for this
+	 class by following the first resource
+	 [here](https://github.com/michaelshiloh/resourcesForClasses#github-resources). Remember to name the
+	 repository "performingRobots".

@@ -90,8 +90,6 @@ Construction
 
 - How to attach motors to project
 
-### current-homework-assignment
-
 1. Install Arduino from [here](https://www.arduino.cc/en/Main/Software).
 	 Scroll down a little bit to the "Arduino IDE"". If you're on Windows, you
 	 want the first item, the Windows Installer. 
@@ -132,7 +130,9 @@ Time permitting
 - DC motors
 - Transistors
 
-**Assignment due September 3**
+### current-homework-assignment
+
+**Assignment due September 10**
 
 1. Read the first five motor resources [here](https://github.com/michaelshiloh/resourcesForClasses#motors-resources). 
 	You don't need to know this in depth, 

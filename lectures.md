@@ -113,7 +113,21 @@ Construction
 - Digital inputs
 - Analog output
 
-Timer permitting
+Time permitting
 
 - Analog input
 - Digital output
+
+#### Thursday September 5 1:15 - 2:30
+
+**Show your fantastic machines!**
+
+
+Time permitting
+
+- Review 
+	- Arduino, breadboards, circuits, components, schematics
+	- Programming: analog/digital I/O (did we do all four?)
+	- Loops
+	- Conditionals
+

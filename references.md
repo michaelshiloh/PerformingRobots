@@ -183,7 +183,7 @@ Robot Theatre
 - Two of Hirata's plays (I, Worker and Sayonara) can be found in [this](https://drive.google.com/drive/u/0/folders/1P2xM8_1muDHbNeO_whHsqSpniy_LLpYq) Google Drive folder  
 - [Play List](http://www.seinendan.org/eng/play/) of Hirata's theater company
 	Seinendan, which includes the robot plays  
-One example of [Three Sisters (Android version)](https://mercatflors.cat/en/espectacle/les-tres-germanes-versio-androide-3/)    
+- One example of [Three Sisters (Android version)](https://mercatflors.cat/en/espectacle/les-tres-germanes-versio-androide-3/)    
 
 ## Uncanny Valley
 

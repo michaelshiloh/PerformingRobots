@@ -164,7 +164,7 @@ especially pg. 39 and 79
 the Internet" by Ken Goldberg ISBN-13: 978-0262571548
 
 
-## Hirata
+## Oriza Hirata's Robot Theatre
 
 Oriza Hirata is a playwright and director who produced some important and
 moving plays employing both human and robotic actors. In addition to plays he

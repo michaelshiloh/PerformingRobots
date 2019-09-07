@@ -170,20 +170,20 @@ Oriza Hirata is a playwright and director who produced some important and
 moving plays employing both human and robotic actors. In addition to plays he
 has written, Hirata has also created android versions of Kenji Miyazawa’s
 Night on the Galactic Railroad (2013),Franz Kafka’s The Metamorphosis (2014),
-and the Hamburg State Opera’s Stilles Meer (Silent Sea, 2016), and Chekhov’s
+the Hamburg State Opera’s Stilles Meer (Silent Sea, 2016), and Chekhov’s
 Three Sisters (2012).
 
-[Article](https://thetheatretimes.com/the-gaze-of-the-robot/) about Hirata's
-Robot Theatre in Theatre Times
-[Video Article](https://www.youtube.com/watch?v=DllPedBqjjw) about The
-Metamorphosis
-[Article](https://muse.jhu.edu/article/522851) about I, Worker and Sayonara
-Another [video article](https://www.youtube.com/watch?v=Uo-4RQPEHIk) about
-Robot Theatre
-- Two of Hirata's plays (I, Worker and Sayonara) can be found in [this](https://drive.google.com/drive/u/0/folders/1P2xM8_1muDHbNeO_whHsqSpniy_LLpYq) Google Drive folder
+- [Article](https://thetheatretimes.com/the-gaze-of-the-robot/) about Hirata's
+Robot Theatre in Theatre Times  
+- [Video Article](https://www.youtube.com/watch?v=DllPedBqjjw) about The
+Metamorphosis  
+- [Article](https://muse.jhu.edu/article/522851) about I, Worker and Sayonara  
+- Another [video article](https://www.youtube.com/watch?v=Uo-4RQPEHIk) about 
+Robot Theatre  
+- Two of Hirata's plays (I, Worker and Sayonara) can be found in [this](https://drive.google.com/drive/u/0/folders/1P2xM8_1muDHbNeO_whHsqSpniy_LLpYq) Google Drive folder  
 - [Play List](http://www.seinendan.org/eng/play/) of Hirata's theater company
-	Seinendan, which includes the robot plays
-One example of [Three Sisters (Android version)](https://mercatflors.cat/en/espectacle/les-tres-germanes-versio-androide-3/)  
+	Seinendan, which includes the robot plays  
+One example of [Three Sisters (Android version)](https://mercatflors.cat/en/espectacle/les-tres-germanes-versio-androide-3/)    
 
 ## Uncanny Valley
 

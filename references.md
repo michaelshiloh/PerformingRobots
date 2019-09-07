@@ -164,6 +164,29 @@ especially pg. 39 and 79
 the Internet" by Ken Goldberg ISBN-13: 978-0262571548
 
 
+## Hirata
+
+[I,
+Worker](https://drive.google.com/drive/u/0/folders/1P2xM8_1muDHbNeO_whHsqSpniy_LLpYq)  
+[Sayonara](https://drive.google.com/drive/u/0/folders/1P2xM8_1muDHbNeO_whHsqSpniy_LLpYq)  
+[1](http://www.seinendan.org/eng/oriza/)  
+[2](https://nuclear-news.net/2019/06/17/a-theater-play-forgetting-the-future/)  
+[2](https://mercatflors.cat/en/espectacle/les-tres-germanes-versio-androide-3/)  
+[2](https://thetheatretimes.com/the-gaze-of-the-robot/)  
+[2](https://www.youtube.com/watch?v=DllPedBqjjw)  
+[2](https://thetheatretimes.com/the-gaze-of-the-robot/)  
+[2](https://muse.jhu.edu/article/522851)  
+[2](https://www.youtube.com/watch?v=Uo-4RQPEHIk)  
+
+## Uncanny Valley
+
+rimini protokoll
+thomas melle
+rimini protokoll
+https://www.rimini-protokoll.de/website/en/project/unheimliches-tal-uncanny-valley
+manipulation, seduction - programming the audience
+using low tech to give the impression of high tech
+(also did walking berlin and abu dhabi)
 
 
 ## Unsorted
@@ -222,19 +245,14 @@ Walter](http://cyberneticzoo.com/cyberneticanimals/w-grey-walter-and-his-tortois
 1. A robotic performance differs from a robotic installation in that a
 performance has a beginning and end, and a script
 
-2. The performance I'm interested in producing is one in which the only actors
-are machines. Humans are present only as operators
+## Questions
 
-3. "Automata" vs. "Autonomous beings"
+1. What is "Automata" vs. "Autonomous beings"?
 
-4. What is interactive?
-
+1. What is interactive?
 
 
-
-TODO
-
-
+## To be sorted
 
 #### Bibliography
 
@@ -282,7 +300,7 @@ video of squares, triangles, and circle
 
 list of questions for students
 
-android theatre video
+
 
 michael.rau@stanford.edu (or is it rav)
 viewpoints as a vocabulary for robots
@@ -302,10 +320,6 @@ https://theatre.uta.edu/emotional-robotics-living-lab/
 https://www.robottheatre.co.uk/publications
 https://www.robottheatre.co.uk/
 http://techandlaw.net/robots-become-art-interview-mr-yi-wei-keng/
-http://www.seinendan.org/eng/oriza/
-https://nuclear-news.net/2019/06/17/a-theater-play-forgetting-the-future/
-https://mercatflors.cat/en/espectacle/les-tres-germanes-versio-androide-3/
-https://thetheatretimes.com/the-gaze-of-the-robot/
 robots.ieee.org/robots
 
 
@@ -326,21 +340,12 @@ in-character responses to failure modes
 
 louise lepage
 university of york
-hirata, humanoid theatre, three sisters and sayonara
 robots don't need to feel, they just need to give the impression they do
 
 helen root
 irene echeverria - altuna
-gemanoid f
 
 gobsquat collective
-
-thomas melle
-rimini protokoll
-https://www.rimini-protokoll.de/website/en/project/unheimliches-tal-uncanny-valley
-manipulation, seduction - programming the audience
-using low tech to give the impression of high tech
-(also did walking berlin and abu dhabi)
 
 petra goyeinboeck
 creative robotics lab university of new south wales
@@ -363,8 +368,4 @@ Springer Singapore
 ISBN:
 9789811087028
 
-- https://www.youtube.com/watch?v=DllPedBqjjw
-  https://thetheatretimes.com/the-gaze-of-the-robot/
-https://muse.jhu.edu/article/522851
-https://www.youtube.com/watch?v=Uo-4RQPEHIk
 

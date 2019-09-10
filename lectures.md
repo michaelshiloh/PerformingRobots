@@ -150,3 +150,32 @@ Time permitting
 	 class by following the first resource
 	 [here](https://github.com/michaelshiloh/resourcesForClasses#github-resources). Remember to name the
 	 repository "performingRobots".
+
+#### Tuesday September 10 1:15 - 3:55
+
+We don't need computers for the first part of our lesson
+
+**Homework**
+
+- Who did the reading?
+- Who made a github account and repository? Any problems? Any questions?
+- I forgot to ask you to email me the URL to your repository. (Don't do this
+	now).
+
+**Review**
+
+- Transistors to control high current loads (not only motors)
+- How to reverse a motor
+- Different types of motors
+	- DC motors
+	- Servo motors
+		- DC motor + gears + position sensor + feedback circuit (servo loop)
+	- Stepper motors
+		- A whole lot of electromagnets arranged in a circle around a permanent
+			magnet rotor
+
+**Demo**
+Soldering!
+
+**Activity** (time permitting)
+Motor shields!

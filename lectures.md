@@ -176,6 +176,24 @@ We don't need computers for the first part of our lesson
 
 **Demo**
 Soldering!
+	- wires to each other
+	- wires to scrap boards
+	- pins to scrap boards
+Pins!
+	- Male
+	- Female
+	- Feed-through
 
 **Activity** (time permitting)
 Motor shields!
+
+**Assignment due September 12** (Tentative)
+
+- Read about the motor shield
+- Practice soldering
+	- wires to each other
+	- wires to scrap boards
+	- pins to scrap boards
+- When you are ready and comfortable
+	- Solder **feed-through** headers to your motor shield
+

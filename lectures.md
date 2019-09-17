@@ -187,9 +187,9 @@ Pins!
 **Activity** (time permitting)
 Motor shields!
 
-**Assignment due September 12** (Tentative)
+**Assignment due September 12**
 
-- Read about the motor shield
+- Read for discussion *******************
 - Practice soldering
 	- wires to each other
 	- wires to scrap boards

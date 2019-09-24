@@ -99,7 +99,7 @@ Construction
 
 #### Tuesday September 3 1:15 - 3:55
 
-**Arduino!**
+**Activity: Arduino!**
 
 - Verify installed properly (test with blink)
 - Understand blink 
@@ -184,12 +184,8 @@ Pins!
 	- Female
 	- Feed-through
 
-**Activity** (time permitting)
-Motor shields!
-
 **Assignment due September 12**
 
-- Read for discussion *******************
 - Practice soldering
 	- wires to each other
 	- wires to scrap boards
@@ -197,3 +193,38 @@ Motor shields!
 - When you are ready and comfortable
 	- Solder **feed-through** headers to your motor shield
 
+
+#### Tuesday September 10 1:15 - 3:55
+
+**Activity: Adafruit Motor Shield V2**
+
+DC motors
+- Yellow plastic
+- Using Arduino 5V
+- Using separate power supply
+	- Female DC coax to screw terminals
+	- 12V 2A supply
+
+Power supplies
+- Voltage
+- Current
+- Visit the power supply buffet
+
+Visit the motor buffet
+- Servo motors
+	- Wheels
+- DC motors
+- Stepper motors
+- Motor hubs
+
+Digital MultiMeter (DMM)
+- Voltage
+- Resistance
+	- Only when circuit is **unpowered**
+- Continuity
+
+Stepper motors
+
+Servo motors (time permitting)
+- Connections
+- External power supply (advanced topic)

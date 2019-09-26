@@ -223,8 +223,17 @@ Digital MultiMeter (DMM)
 	- Only when circuit is **unpowered**
 - Continuity
 
+Servo motors 
+- Basic usage
+
+#### Thursday September 5 1:15 - 2:30
+
+**Activity: Adafruit Motor Shield V2, continued**
+
+Servo motors (continued)
+- External power supply (advanced topic)
+	- **6V only!!!**
+
 Stepper motors
 
-Servo motors (time permitting)
-- Connections
-- External power supply (advanced topic)
+Build time

@@ -26,7 +26,6 @@ Week  2 - September 3, 5   - Electricity, soldering, Arduino
 ** Project 1 (Motorized cardboard automata) due September 5 **  
 Week  3 - September 10, 12 - Arduino; Scene Shop Training #1  
 Week  4 - September 17, 19 - Scene Shop Training #2 and #3  
-** Project 2 (Complex behavior) due September 24 **  
 Week  5 - September 24, 26 - Motor shield, power  
 Week  6 - October 1, 3     - Control (wired, wireless)  
 ** Project 3 (Cardboard Performing Robot) due October 3 **  

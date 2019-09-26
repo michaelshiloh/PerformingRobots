@@ -178,8 +178,8 @@ Robot Theatre in Theatre Times
 - [Video Article](https://www.youtube.com/watch?v=DllPedBqjjw) about The
 Metamorphosis  
 - [Article](https://muse.jhu.edu/article/522851) about I, Worker and Sayonara  
-- Another [video article](https://www.youtube.com/watch?v=Uo-4RQPEHIk) about 
-Robot Theatre  
+- [Publicity video](https://www.youtube.com/watch?v=Uo-4RQPEHIk) for a showing
+	of I, Worker and Sayonara
 - Two of Hirata's plays (I, Worker and Sayonara) can be found in [this](https://drive.google.com/drive/u/0/folders/1P2xM8_1muDHbNeO_whHsqSpniy_LLpYq) Google Drive folder  
 - [Play List](http://www.seinendan.org/eng/play/) of Hirata's theater company
 	Seinendan, which includes the robot plays  

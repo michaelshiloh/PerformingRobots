@@ -238,4 +238,10 @@ Servo motors (continued)
 
 Stepper motors
 
-Build time
+### current-homework-assignment
+
+**Assignment due October 1**
+
+1. Watch I, Worker and Sayonara by Oriza Hirata in
+	 [this](https://drive.google.com/drive/u/0/folders/1P2xM8_1muDHbNeO_whHsqSpniy_LLpYq) Google Drive folder
+2. Read [this](https://muse.jhu.edu/article/522851) article

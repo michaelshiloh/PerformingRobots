@@ -231,8 +231,10 @@ Servo motors
 **Activity: Adafruit Motor Shield V2, continued**
 
 Servo motors (continued)
-- External power supply (advanced topic)
-	- **6V only!!!**
+- External power supply for servo motors (advanced topic)
+	- **5-6V only!!!**
+	- **Make sure polarity is correct**
+	- **Make sure you cut the 5V trace where indicated**
 
 Stepper motors
 

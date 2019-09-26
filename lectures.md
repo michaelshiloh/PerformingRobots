@@ -130,8 +130,6 @@ Time permitting
 - DC motors
 - Transistors
 
-### current-homework-assignment
-
 **Assignment due September 10**
 
 1. Read the first five motor resources [here](https://github.com/michaelshiloh/resourcesForClasses#motors-resources). 

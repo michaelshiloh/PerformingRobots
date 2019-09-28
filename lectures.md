@@ -241,5 +241,6 @@ Stepper motors
 **Assignment due October 1**
 
 1. Watch I, Worker and Sayonara by Oriza Hirata in
-	 [this](https://drive.google.com/drive/u/0/folders/1P2xM8_1muDHbNeO_whHsqSpniy_LLpYq) Google Drive folder
+	 [this](https://drive.google.com/drive/folders/1P2xM8_1muDHbNeO_whHsqSpniy_LLpYq?usp=sharing)
+	 Google Drive folder
 2. Read [this](https://muse.jhu.edu/article/522851) article

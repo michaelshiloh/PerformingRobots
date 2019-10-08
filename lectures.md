@@ -290,7 +290,7 @@ the body an open box (like I did) and use that as your enclosure for the
 Arduino. You can use multiple boxes like I did to make separate places for the
 Arduino and batteries. It will also make it a bit stronger.
 
-Gaby: Legs, and see the comments to Maria
+Gabi: Legs, and see the comments to Maria
 
 Michael: Base. I thought about this last night and I think the lazy susan
 might not be the best thing. Email me and arrange a time to meet before
@@ -360,6 +360,6 @@ you've experimented
 
 **Praggya/Max/Paulin**
 
-**Maria/Gaby/Michael**
+**Maria/Gabi/Michael**
 
 **Ahmed/Pangna/Hatim**

@@ -335,6 +335,11 @@ scheduled on Tuesday and Wednesday will not meet that week.
 - Check homework assignment due today
 - Look at next homework assignment and complete functional description
 - Wireless
+	- Read the Adafruit Bluefruit LE SPI Friend
+    [Introduction](https://learn.adafruit.com/introducing-the-adafruit-bluefruit-spi-breakout?view=all)
+	- Instructions for wiring the Bluefruit LE SPI Friend to the Motor Shield, 
+	testing, and combining code with motor code is
+    [here](https://github.com/michaelshiloh/motorShieldAndBluefruit).
 - Work on your projects with my help as necessary
 - Reconvene at 3:10 for a laser cutter tutorial
 

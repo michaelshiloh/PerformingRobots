@@ -345,6 +345,17 @@ scheduled on Tuesday and Wednesday will not meet that week.
 
 ### current-homework-assignment
 
+**Assignment due Tuesday October 9**
+
+- Each team must document, on Github, what features your robot will have 
+on Thursday October 24
+- Read the two documents on the Adafruit Bluefruit Friend
+	- The Adafruit Bluefruit LE SPI Friend
+	[Introduction](https://learn.adafruit.com/introducing-the-adafruit-bluefruit-spi-breakout?view=all) Don't worry about understanding everything
+	- Instructions for wiring the Bluefruit LE SPI Friend to the Motor Shield, 
+	testing, and combining code with motor code is
+    [here](https://github.com/michaelshiloh/motorShieldAndBluefruit).
+
 **Assignment due Thursday October 24**
 
 Robots are due. Grading rubric:

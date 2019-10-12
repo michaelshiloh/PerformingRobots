@@ -116,17 +116,16 @@ Class projects will consist of 3 minor projects leading up to a major final
 project
 
 ** Project 1 (Motorized cardboard automata) due September 5 ** (15 points)  
-** Project 2 (Complex behavior) due September 24 ** (15 points)  
-** Project 3 (Cardboard Performing Robot) due October 3 ** (15 points)  
-** Project 4 (Final project) due December 12 ** (30 points)  
+** Project 2 (Cardboard Performing Robot) due October 24 ** (15 points)  
+** Project 3 (Final project) due December 10 ** (35 points)  
 
 
 ### Grading
 **10%** Attendance  
-**5%** Participation  
+**15%** Participation  
 **10%** Journal  
-**45%** Projects 1, 2, and 3  
-**30%** Final Project    
+**30%** Projects 1 and 2    
+**35%** Final Project    
 
 ### Rubric
 
@@ -136,6 +135,25 @@ project
 - Runs for 30 seconds 40%
 - Above & beyond 10%
 - 15% less for each day late
+
+**Project 2**
+- Functionality: 35%
+The robot must function as you have described 
+- Construction: 30%
+Your robot must be robust and well constructed. 
+For example, you must be able to move it
+around or bump into it without it falling apart. It must not be delicate.
+Any movement must have sufficient power to do so reliably.
+- Creative appearance 15%
+Appearance should evidence experimentation and creativity, but final result is
+not so important, by which I mean I don't really care how it looks as long as
+you've experimented
+- Intentional behavior: 20%
+This is a course in performing robots, 
+and so your robot, as an actor, must be able to act in 
+an intentional, repeatable manner. By this I mean that 
+if the performance calls for a certain sequence of events, 
+your robot must be able to perform that sequence reliably.
 
 #### Attendance
 

@@ -360,17 +360,36 @@ on Thursday October 24
 
 Robots are due. Grading rubric:
 
-- Functionality: 50%
-The robot must function as described below
-- Construction: 35%
+- Functionality: 35%
+The robot must function as you have described 
+- Construction: 30%
 Your robot must be robust and well constructed. 
+For example, you must be able to move it
+around or bump into it without it falling apart. It must not be delicate.
+Any movement must have sufficient power to do so reliably.
 - Creative appearance 15%
 Appearance should evidence experimentation and creativity, but final result is
 not so important, by which I mean I don't really care how it looks as long as
 you've experimented
+- Intentional behavior: 20%
+This is a course in performing robots, 
+and so your robot, as an actor, must be able to act in 
+an intentional, repeatable manner. By this I mean that 
+if the performance calls for a certain sequence of events, 
+your robot must be able to perform that sequence reliably.
 
 **Praggya/Max/Paulin**
 
 **Maria/Gabi/Michael**
 
 **Ahmed/Pangna/Hatim**
+
+**Additional Instruction:**
+Remember the additional instructions I gave you in class, 
+including, but not limited to:
+- The observation that some of you have little intentional behavior in your
+	robot made me realize that I need to include this in the rubric, so I have
+	modified the rubric above to include intentional behavior. Please note this.
+- Review the grading rubric above. I've tried to expand upon and clarify my
+	intentions. 
+- If anything isn't clear please ask me

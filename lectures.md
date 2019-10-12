@@ -392,10 +392,12 @@ including, but not limited to:
 	modified the rubric above to include intentional behavior. Please note this.
 - Review the grading rubric above. I've tried to expand upon and clarify my
 	intentions. 
-- Journal your work in your Github repository. 
-	- Save your code, even if it's very preliminary,
+- Journal your work in your Github repository. You must include:
+	- Your code, even if it's very preliminary,
 		even if it doesn't work yet. Include comments to that effect.
-	- Photographs
+	- Photographs, especially of anything tricky, unusual, troublesome, or that
+		you are proud of.
 	- [Schematics](https://github.com/michaelshiloh/ProjectConstructionTechniques/blob/master/images/simpleRobotShield_schem.png) (**not** [drawings](https://github.com/michaelshiloh/ProjectConstructionTechniques/blob/master/images/simpleRobotShield_bb.png)!)
+	- Discussion of any problems
 - If anything isn't clear please ask me
 

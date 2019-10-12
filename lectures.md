@@ -399,5 +399,7 @@ including, but not limited to:
 		you are proud of.
 	- [Schematics](https://github.com/michaelshiloh/ProjectConstructionTechniques/blob/master/images/simpleRobotShield_schem.png) (**not** [drawings](https://github.com/michaelshiloh/ProjectConstructionTechniques/blob/master/images/simpleRobotShield_bb.png)!)
 	- Discussion of any problems
+	- You can do this all in one github repository, or you can each create your
+	own journal and document your parts
 - If anything isn't clear please ask me
 

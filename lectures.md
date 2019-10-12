@@ -367,9 +367,10 @@ Your robot must be robust and well constructed.
 For example, you must be able to move it
 around or bump into it without it falling apart. It must not be delicate.
 Any movement must have sufficient power to do so reliably.
+All cables and electronic components must be anchored to the structure.
 - Creative appearance 15%
 Appearance should evidence experimentation and creativity, but final result is
-not so important, by which I mean I don't really care how it looks as long as
+not so important, by which I mean that I don't really care how it looks as long as
 you've experimented
 - Intentional behavior: 20%
 This is a course in performing robots, 
@@ -401,5 +402,5 @@ including, but not limited to:
 	- Discussion of any problems
 	- You can do this all in one github repository, or you can each create your
 	own journal and document your parts
-- If anything isn't clear please ask me
+- If anything isn't clear or if you have any problems please ask me
 

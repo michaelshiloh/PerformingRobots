@@ -341,8 +341,6 @@ scheduled on Tuesday and Wednesday will not meet that week.
 - Work on your projects with my help as necessary
 - Reconvene at 3:10 for a laser cutter tutorial
 
-### current-homework-assignment
-
 **Assignment due Thursday October 10**
 
 - Each team must document, on Github, what features your robot will have 

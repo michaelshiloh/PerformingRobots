@@ -17,8 +17,6 @@
 [References, Bibliography, and Additional Information](references.md)  
 [Student Github repositories](studentRepositories.md)  
 
-[Current homework assignment](#current-homework-assignment)
-
 #### Tuesday August 27 1:15 - 3:55
 
 Introduction
@@ -404,6 +402,8 @@ including, but not limited to:
 	- You can do this all in one github repository, or you can each create your
 	own journal and document your parts
 - If anything isn't clear or if you have any problems please ask me
+
+[Current homework assignment](#current-homework-assignment)
 
 **Assignment due Tuesday October 29**
 

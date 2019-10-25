@@ -405,3 +405,8 @@ including, but not limited to:
 	own journal and document your parts
 - If anything isn't clear or if you have any problems please ask me
 
+**Assignment due Tuesday October 29**
+
+1. I'm sure you all journaled your work well. To the list above please add a
+	 short video of your work. 
+1. Read [this](media/entangledBook_Machines_Mechanicals.pdf) chapter on machine performances

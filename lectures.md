@@ -408,3 +408,20 @@ including, but not limited to:
 1. I'm sure you all journaled your work well. To the list above please add a
 	 short video of your work. 
 1. Read [this](media/entangledBook_Machines_Mechanicals.pdf) chapter on machine performances
+
+#### Tuesday October 29 1:15 - 3:55
+
+- Critique midterm projects
+	- Performance
+	- Story?
+	- Robustness
+	- Lessons learned
+- Critique repositories
+	- Process
+	- Pictures
+	- Video
+	- Code (process)
+	- Schematic (process)
+- Move them upstairs
+- Discuss reading
+- Discuss final project

@@ -65,7 +65,7 @@ Project](http://www.japansociety.org/event/seinendan-theater-company-osaka-unive
 
 1. [Simone Giertz](https://youtu.be/WcW70-6eQcY)
 
-3. Tinguely 
+3. Jean Tinguely 
 
 6. [Kal Spelletich](http://www.kaltek.org)
 

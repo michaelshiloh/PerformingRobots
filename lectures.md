@@ -401,8 +401,6 @@ including, but not limited to:
 	own journal and document your parts
 - If anything isn't clear or if you have any problems please ask me
 
-[Current homework assignment](#current-homework-assignment)
-
 **Assignment due Tuesday October 29**
 
 1. I'm sure you all journaled your work well. To the list above please add a
@@ -425,7 +423,10 @@ including, but not limited to:
 - Move them upstairs
 - Discuss reading
 - Discuss final project
-`
+
+
+[Current homework assignment](#current-homework-assignment)
+
 **Assignment due Thursday October 31**
 
 1. Find something (e.g. an article, book, website, author, video, play, etc.)

@@ -224,9 +224,13 @@ using low tech to give the impression of high tech
 1. A robotic performance differs from a robotic installation in that a
 performance has a beginning and end, and a script
 
+1. A performance is a series of events created to be witnessed
+
 1.  When interact with a robot, we have a model of the robot, but the robot
 has no model of us
 https://en.wikipedia.org/wiki/Theory_of_mind
+
+1.  "Robots don't need to feel, they just need to give the impression they do" - Louise Lepage
 
 ## Questions
 
@@ -319,7 +323,6 @@ in-character responses to failure modes
 
 1. louise lepage
 university of york
-"robots don't need to feel, they just need to give the impression they do"
 
 1. helen root
 

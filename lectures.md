@@ -425,3 +425,10 @@ including, but not limited to:
 - Move them upstairs
 - Discuss reading
 - Discuss final project
+`
+**Assignment due Thursday October 31**
+
+1. Find something (e.g. an article, book, website, author, video, play, etc.)
+	 that somehow related to Robotic Performance and prepare a 5 minute
+	 presentation to the class. You might find [this](https://github.com/michaelshiloh/PerformingRobots/blob/master/references.md) list of references useful as
+	 a starting point, or you can find something else.

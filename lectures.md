@@ -433,3 +433,9 @@ including, but not limited to:
 	 that somehow related to Robotic Performance and prepare a 5 minute
 	 presentation to the class. You might find [this](https://github.com/michaelshiloh/PerformingRobots/blob/master/references.md) list of references useful as
 	 a starting point, or you can find something else.
+
+#### Thursday October 31 1:15 - 2:30
+
+1. Student presentations 
+
+1. Decide what we want to do for the showcase

@@ -425,8 +425,6 @@ including, but not limited to:
 - Discuss final project
 
 
-[Current homework assignment](#current-homework-assignment)
-
 **Assignment due Thursday October 31**
 
 1. Find something (e.g. an article, book, website, author, video, play, etc.)
@@ -439,3 +437,20 @@ including, but not limited to:
 1. Student presentations 
 
 1. Decide what we want to do for the showcase
+
+[Current homework assignment](#current-homework-assignment)
+
+**Assignment due Tuesday November 5**
+
+1. Upload your presentation to your Github account. Don't use Powerpoint or
+	 other proprietary software: Use plain text and markdown formatting, and
+	 insert images inline. Some Github and markdown resources are
+	 [here](https://github.com/michaelshiloh/resourcesForClasses#github-resources), and my Motor Shield and Bluefruit [tutorial](https://github.com/michaelshiloh/motorShieldAndBluefruit) is a good example of inline images.
+
+	 Movies can't be uploaded to Github so put them elsewhere (YouTube, Vimeo,
+	 Google Drive, etc.) and provide links.
+
+1. Since we didn't have time in class, I'd like you each to write a short
+	 proposal for (a) how you think we should organize the class performance and
+	 (b) what you specifically would like to make. Be creative, but be
+	 realistic.

@@ -438,7 +438,6 @@ including, but not limited to:
 
 1. Decide what we want to do for the showcase
 
-[Current homework assignment](#current-homework-assignment)
 
 **Assignment due Tuesday November 5**
 
@@ -454,3 +453,17 @@ including, but not limited to:
 	 proposal for (a) how you think we should organize the class performance and
 	 (b) what you specifically would like to make. Be creative, but be
 	 realistic.
+
+[Current homework assignment](#current-homework-assignment)
+
+**Assignment due Thursday November 7**
+
+#### Thursday November 7 1:15 - 2:30
+
+**Announcements**
+1. I will probably be out of town next Tuesday. We will make up the class on a
+	 Saturday, maybe next Saturday.
+1. We will make the performances each 3 minutes and practice getting really
+   good at transitions
+1. Pneumatics
+1. Most critical

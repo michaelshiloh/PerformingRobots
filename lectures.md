@@ -471,9 +471,9 @@ including, but not limited to:
 **Assignment due Thursday November 14**
 
 1. I will be out of town at a conference on Tuesday.
-1.1.	 Nonetheless, I want you to document what you've done
-	 by Tuesday, November 12 in your Github account. 
-	 Please make it easy for me to find this by using obvious names for 
-	 folders and/or files.
-1.1.We will next meet on Thursday November 14. 
+1.1. Nonetheless, I want you to document what you've done
+	by Tuesday, November 12 in your Github account. 
+	Please make it easy for me to find this by using obvious names for 
+	folders and/or files.
+1.1. We will next meet on Thursday November 14. 
 

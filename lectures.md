@@ -454,8 +454,6 @@ including, but not limited to:
 	 (b) what you specifically would like to make. Be creative, but be
 	 realistic.
 
-[Current homework assignment](#current-homework-assignment)
-
 **Assignment due Thursday November 7**
 
 #### Thursday November 7 1:15 - 2:30
@@ -467,3 +465,15 @@ including, but not limited to:
    good at transitions
 1. Pneumatics
 1. Most critical
+
+[Current homework assignment](#current-homework-assignment)
+
+**Assignment due Thursday November 14**
+
+1. I will be out of town at a conference on Tuesday.
+1.1.	 Nonetheless, I want you to document what you've done
+	 by Tuesday, November 12 in your Github account. 
+	 Please make it easy for me to find this by using obvious names for 
+	 folders and/or files.
+1.1.We will next meet on Thursday November 14. 
+

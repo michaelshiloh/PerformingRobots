@@ -468,7 +468,7 @@ including, but not limited to:
 
 [Current homework assignment](#current-homework-assignment)
 
-**Assignment due Thursday November 14**
+**Assignment due Tuesday November 12**
 
 - I will be out of town at a conference on Tuesday.  
 	- Nonetheless, I want you to document what you've done

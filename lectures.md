@@ -477,3 +477,17 @@ including, but not limited to:
 	folders and/or files.  
 	- We will next meet on Thursday November 14.   
 
+#### Thursday November 14 1:15 - 2:30
+
+Photo shoot, with some videos of robots running, are
+[here](https://drive.google.com/open?id=16kmSawUPQKlizHfvo1cMCT1g4v4OwHIy)
+
+Video of 
+[Raine's](https://vimeo.com/user15930878/review/373058937/1ca6c6a1f4) robot
+Pictures of some of the others:
+[Brooke and Kate](media/brookeKate.jpg)
+[Huang](media/huang.jpg)
+[Nahil](media/nahil.jpg)
+[Claire and Arb](media/claireArb.jpg)
+[Grace](media/grace.jpg)
+[Lateefa](media/lateefa.jpg)

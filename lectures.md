@@ -485,12 +485,12 @@ Photo shoot, with some videos of robots running, are
 Video of 
 [Raine's](https://vimeo.com/user15930878/review/373058937/1ca6c6a1f4) robot  
 Pictures of some of the others:  
-[Brooke and Kate](media/brookeKate.jpg)  
-[Huang](media/huang.jpg)  
-[Nahil](media/nahil.jpg)  
-[Claire and Arb](media/claireArb.jpg)  
-[Grace](media/grace.jpg)  
-[Lateefa](media/lateefa.jpg)  
+![Brooke and Kate](media/brookeKate.jpg)  
+![Huang](media/huang.jpg)  
+![Nahil](media/nahil.jpg)  
+![Claire and Arb](media/claireArb.jpg)  
+![Grace](media/grace.jpg)  
+![Lateefa](media/lateefa.jpg)  
 
 **Homework that was due on Tuesday November 12**
 

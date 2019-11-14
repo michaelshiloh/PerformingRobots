@@ -491,3 +491,9 @@ Pictures of some of the others:
 [Claire and Arb](media/claireArb.jpg)  
 [Grace](media/grace.jpg)  
 [Lateefa](media/lateefa.jpg)  
+
+**Homework that was due on Tuesday November 12**
+
+Grrr
+
+**Complete table on back of board**

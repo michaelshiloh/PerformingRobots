@@ -496,4 +496,14 @@ Pictures of some of the others:
 
 Grrr
 
-**Complete table on back of board**
+**Plan for Today
+
+- Stage
+- Complete table on back of board, especially concerned about things to order:
+	- Portable chargers
+	- Lithium battery packs
+	- Bluefruits
+	- Servos
+	- Other motors
+	- Etc
+

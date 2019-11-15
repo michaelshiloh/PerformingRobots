@@ -465,9 +465,6 @@ including, but not limited to:
    good at transitions
 1. Pneumatics
 1. Most critical
-
-[Current homework assignment](#current-homework-assignment)
-
 **Assignment due Tuesday November 12**
 
 - I will be out of town at a conference on Tuesday.  
@@ -507,3 +504,60 @@ Grrr
 	- Other motors
 	- Etc
 
+
+[Current homework assignment](#current-homework-assignment)
+
+**Assignment due Tuesday November 19**
+
+**I was very dissappointed with the lack of progress that most of you made
+	since last week. My expectation was that you would each assess how much
+	needs to be done in the remaining few weeks, and would prioritize your work
+	accordingly.**
+
+Because of your lack of progress, I am going to have to give you milestones,
+which, if you don't meet, will count against your grades.  
+
+**If you have any technical difficulties meeting these milestones, you must
+let me know, and we will figure out a plan. If you don't meet a milestone
+and have not reached out to me, then your grade for that milestone will be zero.**
+
+Some of you did make good progress, and I thank you for that  
+
+Here, then, are the milestones for the rest of the semester. These might get
+revised as we go along:  
+
+Tue Nov 19 - physical construction of robots 50% done, all motors tested  
+Thu Nov 21 - physical construction of robots 80% done  
+Tue Nov 26 - robots 100% done, remote control 50% done, script 50% done  
+Thu Nov 28 - remote control 90% done, script 90% done, audio track 50% done    
+Tue Dec  3 - robot fully functional, script and audio track complete,
+individual rehearsal  
+Thu Dec  5 - First rehearsal (not in room 006)  
+weekend    - Repair problems from first rehearsal. Second rehearsal (in 006)  
+Tue Dec 10 - Repair problems from second rehearsal. Final rehearsal (in 006)  
+Thu Dec 12 - Showcase in 006  
+
+We need to schedule a makeup class. We will discuss this on Tuesday.
+
+In class I discussed two points about servo motors:
+1. Making a 3 dimensional profile to give your arm rigitidy
+1. Attaching the servo horn to the servo with a screw, and making that screw
+	 accessible so that you can remove and attache the arm without breaking it
+
+I realized after class that the arm on the robot that I started to build
+demonstrates this very well, Please study how this is done before taking my
+arm apart for the motor. Especially notice how I made a hole in the arm to
+access the screw.
+
+I've asked each of you to indicate the areas that you are most troubled by.
+Here are the areas that most trouble me:
+
+1. Gabi: control of individual robots. Alternate plan: 5 cheap remote control
+	 toys.
+1. High torque servo motors: We need 15. They cost $20 each. I don't know if
+	 I'll get permission to spend $300 on them. Can any of you use any of the
+	 other servos we have? Please try to test these this weekend so that on
+	 Sunday I can discuss with Ume
+1. My top concern is that many of you will not complete your robots on time,
+	 I hope that the milestone schedule above will help but I'm not very
+	 confident.

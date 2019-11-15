@@ -509,7 +509,7 @@ Grrr
 
 **Assignment due Tuesday November 19**
 
-**I was very dissappointed with the lack of progress that most of you made
+**I was very disappointed with the lack of progress that most of you made
 	since last week. My expectation was that you would each assess how much
 	needs to be done in the remaining few weeks, and would prioritize your work
 	accordingly.**
@@ -524,7 +524,7 @@ and have not reached out to me, then your grade for that milestone will be zero.
 Some of you did make good progress, and I thank you for that  
 
 Here, then, are the milestones for the rest of the semester. These might get
-revised as we go along:  
+revised as we go along, and I'm interested in your feedback:  
 
 Tue Nov 19 - physical construction of robots 50% done, all motors tested  
 Thu Nov 21 - physical construction of robots 80% done  
@@ -540,13 +540,13 @@ Thu Dec 12 - Showcase in 006
 We need to schedule a makeup class. We will discuss this on Tuesday.
 
 In class I discussed two points about servo motors:
-1. Making a 3 dimensional profile to give your arm rigitidy
+1. Making a 3 dimensional profile to give your arm rigidity
 1. Attaching the servo horn to the servo with a screw, and making that screw
-	 accessible so that you can remove and attache the arm without breaking it
+	 accessible so that you can remove and attach the arm without breaking it
 
 I realized after class that the arm on the robot that I started to build
 demonstrates this very well, Please study how this is done before taking my
-arm apart for the motor. Especially notice how I made a hole in the arm to
+arm apart for the motor. (You are welcome to use my arm entirely.) Especially notice how I made a hole in the arm to
 access the screw.
 
 I've asked each of you to indicate the areas that you are most troubled by.

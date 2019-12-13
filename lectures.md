@@ -505,8 +505,6 @@ Grrr
 	- Etc
 
 
-[Current homework assignment](#current-homework-assignment)
-
 **Assignment due Tuesday November 19**
 
 **I was very disappointed with the lack of progress that most of you made
@@ -561,3 +559,26 @@ Here are the areas that most trouble me:
 1. My top concern is that many of you will not complete your robots on time,
 	 I hope that the milestone schedule above will help but I'm not very
 	 confident.
+
+#### Thursday December 12 1:15 - 3:55
+
+[Current homework assignment](#current-homework-assignment)
+
+**Assignment due Saturday December 14 6pm**
+
+**Final project documentation**
+- Document your project on Github using Markdown (.md).
+	- Do not upload Word or other formatted file formats.
+	- Include images inline first by uploading them and then using the ![](path/to/image.png) format.
+	- Simple Github instructions are
+			[here](https://github.com/michaelshiloh/resourcesForClasses#github-resources)
+- Overall project concept and description
+- Overall picture(s)
+- System diagram of the hardware
+- List of important parts (don’t include wires, resistors, etc.)
+- Pictures of the electronics
+- Code (with good comments, good variable names, proper indentation, etc.)
+- Discuss 3-5 problems you ran into and how you resolved them or worked around them
+**Clean up your shelves**
+- The parts you received in class are yours to keep if you wish, along with any consumables you got from the lab. However if you don’t want this, please return as much as possible to the lab.
+- You may keep any old projects. If you don’t want them, try to recycle as much as possible of reusable components. If you are unsure ask me for advice as to what is worth recycling.

@@ -564,7 +564,7 @@ Here are the areas that most trouble me:
 
 [Current homework assignment](#current-homework-assignment)
 
-**Assignment due Saturday December 14 6pm**
+**Assignment due Monday December 16 11:59pm**
 
 **Final project documentation**
 - Document your project on Github using Markdown (.md).

@@ -579,6 +579,7 @@ Here are the areas that most trouble me:
 - Pictures of the electronics
 - Code (with good comments, good variable names, proper indentation, etc.)
 - Discuss 3-5 problems you ran into and how you resolved them or worked around them
+
 **Clean up your shelves**
 - The parts you received in class are yours to keep if you wish, along with any consumables you got from the lab. However if you don’t want this, please return as much as possible to the lab.
 - You may keep any old projects. If you don’t want them, try to recycle as much as possible of reusable components. If you are unsure ask me for advice as to what is worth recycling.

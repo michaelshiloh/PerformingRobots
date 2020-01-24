@@ -112,12 +112,12 @@ familiarity with technical material such as electronics and programming. All
 material will be provided in the required course kit.
 
 #### Projects
-Class projects will consist of 3 minor projects leading up to a major final
-project
+Class projects will consist of an introductory project, a midterm project, and
+a final project project
 
-** Project 1 (Motorized cardboard automata) due September 5 ** (15 points)  
-** Project 2 (Cardboard Performing Robot) due October 24 ** (15 points)  
-** Project 3 (Final project) due December 10 ** (35 points)  
+** Introductory project (Motorized cardboard automata) due September 5 ** (15 points)  
+** Midterm project (Cardboard Performing Robot) due October 24 ** (15 points)  
+** Final project due December 10 ** (35 points)  
 
 
 ### Grading
@@ -129,14 +129,14 @@ project
 
 ### Rubric
 
-**Project 1**
+**Introductory project**
 - Two simple machines 30%
 - Solid construction 30%
 - Runs for 30 seconds 40%
 - Above & beyond 10%
 - 15% less for each day late
 
-**Project 2**
+**Midterm and Final projects**
 - Functionality: 35%
 The robot must function as you have described 
 - Construction: 30%

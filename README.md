@@ -13,7 +13,7 @@
 ## This page: Course Outline
 
 [Syllabus](syllabus.md)  
-[Lectures](lectures.md)  
+[Lectures](lecturesAndAssignmentsFall2019.md)  
 [References, Bibliography, and Additional Information](references.md)  
 [Student Github repositories](studentRepositories.md)  
 

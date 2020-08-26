@@ -29,11 +29,8 @@ Metamorphosis
 	Seinendan, which includes the robot plays  
 	1.  One example of [Three Sisters (Android version)](https://mercatflors.cat/en/espectacle/les-tres-germanes-versio-androide-3/)    
 
-1. Uncanny Valley
-
-A robot actor in a one-person play. 
-Collaboration between Rimini Protokoll and Thomas Melle
-[Uncanny Valley](https://www.rimini-protokoll.de/website/en/project/unheimliches-tal-uncanny-valley)
+1.  [Uncanny Valley](https://www.rimini-protokoll.de/website/en/project/unheimliches-tal-uncanny-valley). A robot actor in a one-person play. 
+Collaboration between Rimini Protokoll and Thomas Melle.
 
 
 ## History

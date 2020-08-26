@@ -6,9 +6,6 @@ theater troupe in which the actors are autonomous robots.
 1. Robots and Human Actors Take Bows Together
 ([NYTimes](http://www.nytimes.com/2012/07/08/theater/robot-and-human-actors-take-bows-together.html))
 
-1. [Seinendan Theater Company + Osaka University Robot Theater
-Project](http://www.japansociety.org/event/seinendan-theater-company-osaka-university-robot-theater-project-sayonara-i-worker)
-
 
 1. **Oriza Hirata's Robot Theatre**: Oriza Hirata is a playwright and director who produced some important and
 moving plays employing both human and robotic actors. In addition to plays he
@@ -28,6 +25,8 @@ Metamorphosis
 	1.  [Play List](http://www.seinendan.org/eng/play/) of Hirata's theater company
 	Seinendan, which includes the robot plays  
 	1.  One example of [Three Sisters (Android version)](https://mercatflors.cat/en/espectacle/les-tres-germanes-versio-androide-3/)    
+	1. [Seinendan Theater Company + Osaka University Robot Theater
+Project](http://www.japansociety.org/event/seinendan-theater-company-osaka-university-robot-theater-project-sayonara-i-worker)
 
 1.  [Uncanny Valley](https://www.rimini-protokoll.de/website/en/project/unheimliches-tal-uncanny-valley). A robot actor in a one-person play. 
 Collaboration between Rimini Protokoll and Thomas Melle.

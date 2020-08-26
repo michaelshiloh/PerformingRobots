@@ -1,9 +1,45 @@
+## Robot actors and theatre companies using robots
+
+1. [Ullanta Performance Robotics](http://www.ullanta.com/ullanta/) is a
+theater troupe in which the actors are autonomous robots. 
+
+1. Robots and Human Actors Take Bows Together
+([NYTimes](http://www.nytimes.com/2012/07/08/theater/robot-and-human-actors-take-bows-together.html))
+
+1. [Seinendan Theater Company + Osaka University Robot Theater
+Project](http://www.japansociety.org/event/seinendan-theater-company-osaka-university-robot-theater-project-sayonara-i-worker)
+
+
+1. **Oriza Hirata's Robot Theatre**: Oriza Hirata is a playwright and director who produced some important and
+moving plays employing both human and robotic actors. In addition to plays he
+has written, Hirata has also created android versions of Kenji Miyazawa’s
+Night on the Galactic Railroad (2013),Franz Kafka’s The Metamorphosis (2014),
+the Hamburg State Opera’s Stilles Meer (Silent Sea, 2016), and Chekhov’s
+Three Sisters (2012).
+
+	1.  [Article](https://thetheatretimes.com/the-gaze-of-the-robot/) about Hirata's
+Robot Theatre in Theatre Times  
+	1.  [Video Article](https://www.youtube.com/watch?v=DllPedBqjjw) about The
+Metamorphosis  
+	1.  [Article](https://muse.jhu.edu/article/522851) about I, Worker and Sayonara  
+	1.  [Publicity video](https://www.youtube.com/watch?v=Uo-4RQPEHIk) for a showing
+	of I, Worker and Sayonara
+	1.  Two of Hirata's plays (I, Worker and Sayonara) can be found in [this](https://drive.google.com/drive/u/0/folders/1P2xM8_1muDHbNeO_whHsqSpniy_LLpYq) Google Drive folder  
+	1.  [Play List](http://www.seinendan.org/eng/play/) of Hirata's theater company
+	Seinendan, which includes the robot plays  
+	1.  One example of [Three Sisters (Android version)](https://mercatflors.cat/en/espectacle/les-tres-germanes-versio-androide-3/)    
+
+1. Uncanny Valley
+
+A robot actor in a one-person play. 
+Collaboration between Rimini Protokoll and Thomas Melle
+[Uncanny Valley](https://www.rimini-protokoll.de/website/en/project/unheimliches-tal-uncanny-valley)
+
+
 ## History
 
 1. Karel Čapek. [R.U.R. (Rossum's Universal
 Robots)](http://preprints.readingroo.ms/RUR/rur.pdf)
-
-1. Asimov's Runaround 
 
 1. Asimov's Runaround 
 
@@ -48,18 +84,6 @@ Simulacra](http://schip666.blogspot.com/2013/01/a-spectacular-simulacra.html)
 1. [Analysis](http://schip666.blogspot.com/2014/07/feeling-abandoned-meta-analysis.html)
 of an interactive autonomous robot. 
 
-## Troupes
-
-1. [Ullanta Performance Robotics](http://www.ullanta.com/ullanta/) is a
-theater troupe in which the actors are autonomous robots. 
-
-## Events
-
-1. Robots and Human Actors Take Bows Together
-([NYTimes](http://www.nytimes.com/2012/07/08/theater/robot-and-human-actors-take-bows-together.html))
-
-1. [Seinendan Theater Company + Osaka University Robot Theater
-Project](http://www.japansociety.org/event/seinendan-theater-company-osaka-university-robot-theater-project-sayonara-i-worker)
 
 ## Artists
 
@@ -183,38 +207,6 @@ especially pg. 39 and 79
 
 1. "The Robot in the Garden: Telerobotics and Telepistemology in the Age of
 the Internet" by Ken Goldberg ISBN-13: 978-0262571548
-
-
-## Oriza Hirata's Robot Theatre
-
-Oriza Hirata is a playwright and director who produced some important and
-moving plays employing both human and robotic actors. In addition to plays he
-has written, Hirata has also created android versions of Kenji Miyazawa’s
-Night on the Galactic Railroad (2013),Franz Kafka’s The Metamorphosis (2014),
-the Hamburg State Opera’s Stilles Meer (Silent Sea, 2016), and Chekhov’s
-Three Sisters (2012).
-
-- [Article](https://thetheatretimes.com/the-gaze-of-the-robot/) about Hirata's
-Robot Theatre in Theatre Times  
-- [Video Article](https://www.youtube.com/watch?v=DllPedBqjjw) about The
-Metamorphosis  
-- [Article](https://muse.jhu.edu/article/522851) about I, Worker and Sayonara  
-- [Publicity video](https://www.youtube.com/watch?v=Uo-4RQPEHIk) for a showing
-	of I, Worker and Sayonara
-- Two of Hirata's plays (I, Worker and Sayonara) can be found in [this](https://drive.google.com/drive/u/0/folders/1P2xM8_1muDHbNeO_whHsqSpniy_LLpYq) Google Drive folder  
-- [Play List](http://www.seinendan.org/eng/play/) of Hirata's theater company
-	Seinendan, which includes the robot plays  
-- One example of [Three Sisters (Android version)](https://mercatflors.cat/en/espectacle/les-tres-germanes-versio-androide-3/)    
-
-## Uncanny Valley
-
-rimini protokoll
-thomas melle
-rimini protokoll
-https://www.rimini-protokoll.de/website/en/project/unheimliches-tal-uncanny-valley
-manipulation, seduction - programming the audience
-using low tech to give the impression of high tech
-(also did walking berlin and abu dhabi)
 
 
 

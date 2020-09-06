@@ -84,3 +84,18 @@ Name your repository "Performing Robots"
 	- Inserting images: ![](media/eye-calipers.jpg)
 	- Always remember to commit your changes!
 	- More [here](https://github.com/michaelshiloh/resourcesForClasses#github-resources).
+
+**Tinkercad**
+
+- Go to [Tinkercad](www.tinkercad.com) website
+- Make an account with your NYU email address
+- Create a project
+- Select "circuit"
+
+- Simple circuit
+- Arduino
+- LED + resistor
+- Switch + resistor
+- Conditionals
+- Loops
+- Functions

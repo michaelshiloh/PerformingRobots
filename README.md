@@ -12,8 +12,7 @@ Meeting times:
 Session: Fall 2020    
 [Link](https://nyu.zoom.us/j/97494686760) to class Zoom meetings
 
-Welcome to Introduction to Interactive Media. All class material can be
-found here. 
+Welcome to Performing Robots. All class material can be found here. 
 
 [Syllabus](syllabus.md)
 

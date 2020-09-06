@@ -48,6 +48,8 @@ Reading Assignment:
 - If you are new to functions or want to review, 
 watch Dan 
 Shiffman's [functions](https://www.youtube.com/watch?v=XCu7JSkgl04&list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR) tutorials. There are four videos, each less than 10 minutes.
+- [Register](https://urldefense.proofpoint.com/v2/url?u=https-3A__nyu.us9.list-2Dmanage.com_track_click-3Fu-3D03ec7d03b3e32907c3e74fcb1-26id-3D2650eda65d-26e-3D7173815e95&d=DwMFaQ&c=slrrB7dE8n7gBJbeO0g-IQ&r=m4YMhYfi7FR2pb6VWfg2pA&m=dBV5Vamg2OlIs4dGOznCruep3PWs1Ql2EIh4kmkZ7xw&s=s40RaY7f5rmzuFAJ-LNzdWWsumQpM-wEkcHZCOYSeTc&e=) for and attend Invisible Threads: Technology and its Discontents
+Wednesday, September 9th, 7pm (GMT+4) | 11am EDT
 
 Production Assignment:
 

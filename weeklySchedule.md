@@ -33,7 +33,8 @@ Preparations, Basic Electronics, and Introduction to Arduino
 
 Email Assignment:
 
-- Email me a link to your github repository
+- Join Discord. Email me if you are missing the invitation.
+- Create your github account and repository. Email me a link to your github repository.
 
 Reading Assignment:
 

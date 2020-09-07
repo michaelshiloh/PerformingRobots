@@ -117,6 +117,8 @@ Motorized contraption, OLED display
 
 ### Week 5 (October 5 and 7)
 
+Multitasking, asynchronous operations, autonomy
+
 #### Assignments Due October 12
 
 Reading Assignment:

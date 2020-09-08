@@ -1,3 +1,11 @@
+## New material
+
+1. [Guy Hoffman](http://guyhoffman.com/category/research/robots/)
+
+1. [Noga Erez](https://www.youtube.com/watch?v=Xn813NKlhzI)
+
+1. Amit Dror [Monkeys](https://amitdrori.com/monkeys/)
+
 ## Robot actors and theatre companies using robots
 
 1. [Ullanta Performance Robotics](http://www.ullanta.com/ullanta/) is a
@@ -5,7 +13,6 @@ theater troupe in which the actors are autonomous robots.
 
 1. Robots and Human Actors Take Bows Together
 ([NYTimes](http://www.nytimes.com/2012/07/08/theater/robot-and-human-actors-take-bows-together.html))
-
 
 1. **Oriza Hirata's Robot Theatre**: Oriza Hirata is a playwright and director who produced some important and
 moving plays employing both human and robotic actors. In addition to plays he
@@ -230,11 +237,11 @@ https://en.wikipedia.org/wiki/Theory_of_mind
 	 
 1. What is performance?
 
-1. will we arrive at a place where the fridge worries when the toaster goes
+1. Will we arrive at a place where the fridge worries when the toaster goes
 missing?
 
 1. What is it that gives personality? Does a robot need to be anthropomorphic?
-	 Contrast that with
+	 Consider
 	 [this](http://thescientistvideographer.com/wordpress/bully-triangles-and-terrified-circles/)
 
 
@@ -251,14 +258,12 @@ Brecht
 1. "Hey Joe" actor waits for voiceover to define him
 Normally, objects represent themselves. With high tech, objects have 2nd agenda
 
-
 1. ** Marco Donnarumma and Kristina Anderson
 Can theatre be a site for practice at the future?
 Kristina (Technical University Eindhoven)
 This work is situated in a grey zone: academia, art, theatre, music, design
 Intelligence is a human word and might be inapplicable to machines
 "Human" and "Machine" are neither defined nor static
-
 
 1. ** Karen Barad: analyze humanness through robotics (get book)
 theatre space is perfect for deconstructing Mori's idealized humanness
@@ -272,11 +277,9 @@ Chico's broken robots: threatening and strong vs. weak and pathetic
 Mirja: agent solitude
 "Human Being at Risk" Mark Coelkelbergh
 
-
 morse cups
 
 schipp's robot
-
 
 1.
 michael.rau@stanford.edu (or is it rav)
@@ -284,7 +287,6 @@ viewpoints as a vocabulary for robots
 mary overlie viewpoints
 viewpoints ai (git)
 luminos ai (revised)
-
 
 1.
 https://www.youtube.com/watch?v=t2t4BALBmxg
@@ -299,36 +301,34 @@ https://www.robottheatre.co.uk/
 http://techandlaw.net/robots-become-art-interview-mr-yi-wei-keng/
 robots.ieee.org/robots
 
-
-1. thomas riccio ut dallas
+1. Thomas Riccio University of Texas, Dallas
 thomasriccio.com
-hanson robotics
-https://www.hansonrobotics.com/sophia/
+Hanson robotics, creators of [Sophia](https://www.hansonrobotics.com/sophia/)
 robot personalities 
 viseme
 frubber
 in-character responses to failure modes
 
-1. louise lepage
+1. Louise LePage
 university of york
 
-1. helen root
+1. Helen Root
 
-1. irene echeverria - altuna
+1. Irene Echeverria - Altuna
 
-1. gobsquat collective
+1. Gobsquat Collective
 
-1. petra goyeinboeck
-rob saunders
-creative robotics lab university of new south wales
-university of sydney
+1. Petra Goyeinboeck
+Rob Saunders
+Creative Robotics Lab University of New South Wales
+University of Sydney
 
-1. machine movement lab
-louise phillippe deters
+1. Machine Movement Lab
+Louise Phillippe Deters
 
-1. tiller girls
-"the performance of creative machines"
-"accomplice" (knocking robot)
+1. Tiller Girls
+"The Performance of Creative Machines"
+"Accomplice" (knocking robot)
 
 1. "Robots As Media"
 [syllabus](http://www.peterasaro.org/courses/2016Robots.html)

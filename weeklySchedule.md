@@ -90,9 +90,9 @@ Production Assignment:
 - Install the Arduino IDE from
 	[here](https://www.arduino.cc/en/Main/Software). If you are on Windows chose
 	the Windows Installer.
-- Using Tinkercad, build a circuit with at least three momentary switches 
+- Using Tinkercad, build a circuit with at least two momentary switches 
 	(often called buttons), and at least
-  three LEDs. Write a program that does something interesting in a creative 
+  two LEDs. Write a program that does something interesting in a creative 
 	way.  Each switch must not simply turn on a corresponding LED.
 - Document your work:
 	- Create a new folder in your github repository called “September14"

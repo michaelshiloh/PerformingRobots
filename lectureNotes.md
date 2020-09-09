@@ -143,7 +143,7 @@ Now with corrections. Note where I used ````Serial.println()````
 to help me find the problem:
 
 ![circuitWithError](inClassExamples/september9/sept9CircuitCorrected.png)
-[Code](inClassExamples/september9/sept9CodeCorrected.ino) with error
+[Code](inClassExamples/september9/sept9CodeCorrected.ino) after corrections
 
 Time permitting
 

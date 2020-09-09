@@ -32,15 +32,29 @@ This is all subject to change
 Preparations, Basic Electronics, and Introduction to Arduino
 
 ##### todays-assignment
-#### Assignments Due September 15
+#### Assignments Due September 14
 
 Email Assignment:
 
 - Join Discord. Email me if you are missing the invitation.
 - Create your github account and repository. Email me a link to your github repository.
+- Choose a topic, 
+	related to Performing Robots, 
+	possibly inspired by [this](references.md) list, on which
+	you will give a 10 minute presentation later in the semester.
+
+  Your topic can be an article, a robot, a performance, a book, an artist,
+	an event, etc. 
+
+	Your topic can not be a movie or book of fiction. (e.g. not Wall-E or
+	Terminator)
+
+  Email your topic to me, which I will
+  put on our website. You must pick a topic that no one else has chosen.
 
 Reading Assignment:
 
+- Read [this](doc/Eckersall_TowardsADramaturgyOffRobotsAndObject-Figures.pdf) essay
 - Sparkfun [breadboard
 	tutorial](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
 - [Microcontrollers, the basics](https://itp.nyu.edu/physcomp/lessons//microcontrollers-the-basics/)
@@ -76,6 +90,26 @@ Production Assignment:
 - Install the Arduino IDE from
 	[here](https://www.arduino.cc/en/Main/Software). If you are on Windows chose
 	the Windows Installer.
+- Using Tinkercad, build a circuit with at least three momentary switches 
+	(often called buttons), and at least
+  three LEDs. Write a program that does something interesting in a creative 
+	way.  Each switch must not simply turn on a corresponding LED.
+- Document your work:
+	- Create a new folder in your github repository called “September14"
+	- Describe your project in README.md and include:
+		- A description of your concept and how it was achieved
+		- A screenshot of your circuit
+			- Your schematic, whether hand drawn or otherwise, must be clear.
+			- **Remember what a schematic is and is not.**
+			- **Make sure your schematic is big enough to read without enlarging**
+		- Problems, if any, and solutions, if any
+		- Anything else you can think of
+	- Upload your program.
+		- Excellent names for variables and functions
+		- Well structured
+		- Proper indentation
+		- Excellent comments
+		- Keep the .ino extension so that it is formatted properly.
 
 ### Week 2 (September 14 and 16)
 

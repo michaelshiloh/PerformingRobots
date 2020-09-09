@@ -21,7 +21,6 @@ This document: Lecture Notes
 
 ### Week 1
 
-### todays-lecture
 ### September 7
 
 Administration
@@ -90,7 +89,7 @@ Name your repository "Performing Robots"
 
 **Tinkercad**
 
-- Go to [Tinkercad](www.tinkercad.com) website
+- Go to [Tinkercad](https://www.tinkercad.com) website
 - Make an account with your NYU email address
 - Create a project
 - Select "circuit"
@@ -101,4 +100,38 @@ Name your repository "Performing Robots"
 - Switch + resistor
 - Conditionals
 - Loops
+
+### todays-lecture
+### September 9
+
+Administration
+
+- Record lesson
+- Discuss homework
+
+Do along with me
+
+- [Tinkercad](https://www.tinkercad.com) 
+- Circuit
+- Code
+- ````if()```` statement (conditionals)
+- ````for()```` loop
+- Comparisons
+	- Arduino reference page
+	- Complex comparisons
+- Communication
+	- ````Serial()````
+- Variables
 - Functions
+	- let's move the blinking into a separate function
+	- Why use functions?
+-	Making your program easier to read
+	- For yourself and for others (e.g. your professor)
+	- Good names for variables and functions
+	- Functions
+	- Indentation
+	- Comments
+
+Time permitting
+
+- Schematics

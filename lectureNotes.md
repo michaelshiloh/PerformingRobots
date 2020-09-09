@@ -132,6 +132,19 @@ Do along with me
 	- Indentation
 	- Comments
 
+Here is the example I did in class. I had made an error in both the code and
+the circuit. See if you can spot the differences. First is what you saw
+in class, with errors:
+
+![circuitWithError](inClassExamples/september9/sept9CircuitWithError.png)
+[Code](inClassExamples/september9/sept9CodeWithError.ino) with error
+
+Now with corrections. Note where I used ````Serial.println()```` 
+to help me find the problem:
+
+![circuitWithError](inClassExamples/september9/sept9CircuitCorrected.png)
+[Code](inClassExamples/september9/sept9CodeCorrected.ino) with error
+
 Time permitting
 
 - Schematics

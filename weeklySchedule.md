@@ -11,7 +11,9 @@ Meeting times:
 1:15 PM - 3:55 PM M  
 1:15 PM - 2:30 PM W  
 Session: Fall 2020    
-[Link](https://nyu.zoom.us/j/97494686760) to class Zoom meetings
+[Link](https://nyu.zoom.us/j/99801224178) to class Zoom meetings
+
+This is subject to change
 
 ### This document: Weekly Schedule
 

@@ -22,3 +22,4 @@ Aleksandra: Chico Macmurtrie
 Benjamin: Sophia, a robot who was granted Saudi Arabian citizenship
 Liyan: The work and ideas of Guy Hoffman
 Baraa: Can, and should, robots replace humans in performance?
+Sadeq: Simone Giertz

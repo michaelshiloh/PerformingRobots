@@ -15,17 +15,8 @@ Session: Fall 2020
 
 This is subject to change
 
-Welcome to Performing Robots. All class material can be found here. 
+Student Research and Presentations
 
-[Syllabus](syllabus.md)
-
-[Lecture notes](lectureNotes.md)
-
-[Weekly Schedule](weeklySchedule.md) Includes homework and projects assignments
-
-Student Github [repositories](studentGithubRepositories.md)
-
-Student [presentations](studentPresentations.md)
-
-The current session is Fall 2020. 
-Previous sessions can be explored [here](previousSessions/).
+Muhammad: Asimov's Runaround and the three laws on robotics
+Aleksandra: Chico Macmurtrie
+Benjamin: Sophia, a robot who was granted Saudi Arabian citizenship

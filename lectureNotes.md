@@ -153,7 +153,10 @@ Administration
 - Record lesson
 - Questions about the homework
 
-Test Arduino IDE
+Test Arduino 
+- Install [CH340
+	driver](https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers)
+- IDE
 - blink
 
 What else can we do?

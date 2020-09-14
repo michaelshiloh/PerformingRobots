@@ -146,6 +146,7 @@ to help me find the problem:
 
 
 ### todays-lecture
+### September 14
 
 Administration
 
@@ -192,6 +193,73 @@ Functions with arguments
 - Multiple arguments
 - Return value!
 
+Here are the examples we developed in class. First 
+a function that takes two arguments and returns nothing:
+
+````
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+  sayHello(9.7, 107); // intentionally passed the wrong parameter to show what happens
+}
+
+// A function that takes two arguments and returns nothing
+void sayHello(int someInt, float someFloat) {
+  Serial.print(someInt);
+  Serial.print("  ");
+  Serial.print(someFloat);
+  Serial.println(" hello");
+}
+````
+
+And now a function that takes one argument and returns something:
+
+````
+void setup() {
+  pinMode(LED_BUILTIN, OUTPUT);
+  Serial.begin(9600);
+}
+
+boolean firstTime = true; // state variable remembers whether it's the first time or not
+
+void loop() {
+  if (firstTime == true) {
+    float theAnswer = blinkTimes(5);
+    firstTime = false;
+    Serial.println(theAnswer);
+  }
+}
+
+// A function that takes one argument and returns a float
+float blinkTimes(int count) {
+  for (int i = count; i > 0; i -= 1) {
+    digitalWrite(LED_BUILTIN, HIGH);
+    delay(500);
+    digitalWrite(LED_BUILTIN, LOW);
+    delay(500);
+  }
+  return (count / 3.0);
+}
+````
+
+### September 16 (tentative)
+
+Administration
+- Assign dates to presentations
+- Record lesson
+
+Working with Hot Glue 
+- Cleaning
+- Safety
+	- Don't touch tip
+	- If you get glue on you, wipe it off
+	- Cold water (not the glue gun!)
+- Construction techniques
+
+More Arduino!
+
 Libraries
 - What is a library?
 
@@ -206,9 +274,4 @@ button
 - Install library: SparkFun Qwiic Button
 - Run example: Example 1 - Prints the button status.
 
-Time permitting
 - Adafruit Multitasking Tutorial
-
-production homework
-build something with hot glue
-	- ungraded, since some students don't have kits yet

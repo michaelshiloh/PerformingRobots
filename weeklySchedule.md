@@ -115,22 +115,27 @@ Production Assignment:
 Much More Arduino, QWIIC
 
 ##### todays-assignment
-#### Assignments Due September 21 TENTATIVE
+#### Assignments Due September 21  (Tentative!)
 
 Reading Assignment:
 
-reading homework for next week:
--  Eckersall and be prepared to discuss
--  socialRobotics.pdf table of contents and pick one article to lead the
--  QWIIC  (did we do that already?)
-- blink without delay
-- adafruit multitasking tutorial
+-  Read [Eckersall](doc/Eckersall_TowardsADramaturgyOffRobotsAndObject-Figures.pdf) and be prepared to discuss
+-  Read the table of contents of
+[socialRobotics.pdf](doc/socialRobotics.pdf)
+and chose one article for which you lead the discussion.
+- Read one of the explanations of Blink without Delay 
+  [here](https://github.com/michaelshiloh/resourcesForClasses#blink-without-delay-resources)
+	and try to understand how it works
+- Read this
+1. Excellent Adafruit Multitasking
+[Tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
 
 Production Assignment:
 
-- write a class
-- build something with hot glue
-  - ungraded, since some students don't have kits yet
+- Write a class
+- If you have never used a hot glue gun, 
+practice some of the construction techniques that I showed in class.
+This assignment won't be graded, since some students don't have kits yet
 
 
 ### Week 3 (September 21 and 23)

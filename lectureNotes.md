@@ -101,7 +101,6 @@ Name your repository "Performing Robots"
 - Conditionals
 - Loops
 
-### todays-lecture
 ### September 9
 
 Administration
@@ -145,6 +144,7 @@ to help me find the problem:
 ![circuitWithError](inClassExamples/september9/sept9CircuitCorrected.png)
 [Code](inClassExamples/september9/sept9CodeCorrected.ino) after corrections
 
-Time permitting
 
-- Schematics
+### todays-lecture
+
+Test Arduino!

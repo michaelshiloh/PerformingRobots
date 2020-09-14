@@ -147,4 +147,65 @@ to help me find the problem:
 
 ### todays-lecture
 
-Test Arduino!
+Administration
+
+- Welcome to week 2!
+- Record lesson
+- Questions about the homework
+
+Test Arduino IDE
+- blink
+
+What else can we do?
+- Serial
+- IO foursome
+
+Review
+- Varibles
+	- int, float
+	- Difference between 
+		- Declaration, which creates, or allocates, the variable
+		- Assignment, which gives it a value
+- Varible scope
+	- Local
+		- Allocation and freeing
+	- Global
+		- Allocated and never freed
+- Functions
+
+Reminder:
+- Good variable and function names
+- Indentation (demonstrate CTRL-T)
+
+In-class exercise:
+- Write a function that blinks an LED 5 times
+	- Call it from setup
+	- Call it from loop
+	- How would you make it happen only once from loop?
+		- State variable
+
+Functions with arguments
+- One argument
+- Multiple arguments
+- Return value!
+
+Libraries
+- What is a library?
+
+QWIIC
+- What is it?
+	- What is serial?
+	- I2C
+	- one-to-one vs. a bus
+- Introducing the SparkFun [QWIIC
+button](https://learn.sparkfun.com/tutorials/sparkfun-qwiic-button-hookup-guide/all)
+button
+- Install library: SparkFun Qwiic Button
+- Run example: Example 1 - Prints the button status.
+
+Time permitting
+- Adafruit Multitasking Tutorial
+
+production homework
+build something with hot glue
+	- ungraded, since some students don't have kits yet

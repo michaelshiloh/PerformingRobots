@@ -31,7 +31,6 @@ This is all subject to change
 
 Preparations, Basic Electronics, and Introduction to Arduino
 
-##### todays-assignment
 #### Assignments Due September 14
 
 Email Assignment:
@@ -115,15 +114,24 @@ Production Assignment:
 
 Much More Arduino, QWIIC
 
-#### Assignments Due September 21
+##### todays-assignment
+#### Assignments Due September 21 TENTATIVE
 
 Reading Assignment:
 
-TBA
+reading homework for next week:
+-  Eckersall and be prepared to discuss
+-  socialRobotics.pdf table of contents and pick one article to lead the
+-  QWIIC  (did we do that already?)
+- blink without delay
+- adafruit multitasking tutorial
 
 Production Assignment:
 
-Creative project with virtual LEDs and pusbuttons
+- write a class
+- build something with hot glue
+  - ungraded, since some students don't have kits yet
+
 
 ### Week 3 (September 21 and 23)
 

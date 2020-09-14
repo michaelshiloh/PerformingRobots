@@ -128,6 +128,7 @@ and chose one article for which you lead the discussion.
 	and try to understand how it works
 - Read this Excellent Adafruit Multitasking
 [Tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
+- Read about the [SparkFun QWIIC](https://www.sparkfun.com/qwiic) system
 
 Production Assignment:
 

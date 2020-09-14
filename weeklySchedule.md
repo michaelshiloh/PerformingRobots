@@ -126,8 +126,7 @@ and chose one article for which you lead the discussion.
 - Read one of the explanations of Blink without Delay 
   [here](https://github.com/michaelshiloh/resourcesForClasses#blink-without-delay-resources)
 	and try to understand how it works
-- Read this
-1. Excellent Adafruit Multitasking
+- Read this Excellent Adafruit Multitasking
 [Tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
 
 Production Assignment:

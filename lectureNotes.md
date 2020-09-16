@@ -145,7 +145,6 @@ to help me find the problem:
 [Code](inClassExamples/september9/sept9CodeCorrected.ino) after corrections
 
 
-### todays-lecture
 ### September 14
 
 Administration
@@ -244,6 +243,7 @@ float blinkTimes(int count) {
 }
 ````
 
+### todays-lecture
 ### September 16
 
 Administration

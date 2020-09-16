@@ -135,7 +135,8 @@ Production Assignment:
 - Write a class
 - If you have never used a hot glue gun, 
 practice some of the construction techniques that I showed in class.
-This assignment won't be graded, since some students don't have kits yet
+This assignment won't be graded, so be creative and experiment. 
+Post pictures of the process and the results.
 
 
 ### Week 3 (September 21 and 23)

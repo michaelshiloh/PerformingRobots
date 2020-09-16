@@ -244,11 +244,11 @@ float blinkTimes(int count) {
 }
 ````
 
-### September 16 (tentative)
+### September 16
 
 Administration
-- Assign dates to presentations
 - Record lesson
+- Assign dates to presentations
 
 Working with Hot Glue 
 - Cleaning
@@ -274,4 +274,8 @@ button
 - Install library: SparkFun Qwiic Button
 - Run example: Example 1 - Prints the button status.
 
-- Adafruit Multitasking Tutorial
+Time Permitting
+- What's the problem with this example?
+	- Hint: What if you were doing other things?
+	- Blink Without Delay
+	- Adafruit Multitasking Tutorial

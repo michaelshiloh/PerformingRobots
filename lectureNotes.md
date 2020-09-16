@@ -249,6 +249,7 @@ float blinkTimes(int count) {
 Administration
 - Record lesson
 - Assign dates to presentations
+- Have any kits arrived?
 
 Working with Hot Glue 
 - Cleaning

@@ -132,7 +132,6 @@ and chose one article for which you lead the discussion.
 
 Production Assignment:
 
-- Write a class
 - If you have never used a hot glue gun, 
 practice some of the construction techniques that I showed in class.
 This assignment won't be graded, so be creative and experiment. 

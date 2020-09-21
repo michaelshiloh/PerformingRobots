@@ -115,7 +115,7 @@ Production Assignment:
 Much More Arduino, QWIIC
 
 ##### todays-assignment
-#### Assignments Due September 21  (Tentative!)
+#### Assignments Due September 21 
 
 Reading Assignment:
 

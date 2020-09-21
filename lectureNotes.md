@@ -243,7 +243,6 @@ float blinkTimes(int count) {
 }
 ````
 
-### todays-lecture
 ### September 16
 
 Administration
@@ -279,3 +278,63 @@ Time Permitting
 	- Hint: What if you were doing other things?
 	- Blink Without Delay
 	- Adafruit Multitasking Tutorial
+
+### todays-lecture
+### September 21
+
+Administration
+
+- Record lesson
+- Have any kits arrived?
+- Dates for presentations
+	- Sept 30 Benjamin
+	- October 7 Aleksandra
+	- October 14 Muhammad
+	- October 28 Sadeq 
+	- November 4 Zheki
+	- November 11 Baraa
+	- November 18 Liyan
+- Dates for student lead discussions
+	- Sept 30 Liyan
+	- October 7 Baraa
+	- October 14 Aleksandra 
+	- October 28 Zheki
+	- November 4 Muhammad
+	- November 11 Sadeq
+	- November 18 Benjamin
+- Guest speaker today
+
+Homework review
+
+- Quick review of homeworks
+
+Do along with me
+
+- MP3 Trigger
+
+Time permitting:
+
+- State
+- [State Change Detection](https://www.arduino.cc/en/Tutorial/StateChangeDetection)
+- [Blink without Delay](https://github.com/michaelshiloh/resourcesForClasses#blink-without-delay-resources)
+- Multitasking(https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
+
+Guest speaker: Kid Koala 
+Eric San, a.k.a Kid Koala, is a world-renowned scratch DJ,
+music producer, and award winning graphic novelist. He has released 6 solo
+albums, 4 on Ninja Tune:_ Carpal Tunnel Syndrome_ (2000), Some of My Best
+Friends Are DJs (2003), Your Mom’s Favorite DJ (2006) and_ 12 bit Blues_
+(2012) and 2 on Arts & Crafts. He has published 2 graphic novels: Nufonia Must
+Fall (2003) and Space Cadet (2011). He has been involved in collaborations
+such as Gorillaz, Deltron 3030, and The Slew. Kid Koala has toured with
+Radiohead, the Beastie Boys, Money Mark, A Tribe Called Quest, DJ Shadow, and
+The Preservation.
+
+An internationally recognized DJ, Kid Koala has worked on projects that appeal
+to a wide variety of audiences. 
+
+About 3 1/2 years ago Kid Koala gave a performance at NYUAD using robots,
+and this fall Kid Koala created a family-friendly show in Robot
+House Party. The three-part event will lead kids to build their own robot
+suits and dance in them.
+

@@ -17,9 +17,10 @@ This is subject to change
 
 Student Research and Presentations
 
-Muhammad: Asimov's Runaround and the three laws on robotics
-Aleksandra: Chico Macmurtrie
-Benjamin: Sophia, a robot who was granted Saudi Arabian citizenship
-Liyan: The work and ideas of Guy Hoffman
-Baraa: Can, and should, robots replace humans in performance?
-Sadeq: What is it that gives personality? Does a robot need to be anthropomorphic?
+Muhammad: Asimov's Runaround and the three laws on robotics  
+Aleksandra: Chico Macmurtrie  
+Benjamin: Sophia, a robot who was granted Saudi Arabian citizenship  
+Liyan: The work and ideas of Guy Hoffman  
+Baraa: Can, and should, robots replace humans in performance?  
+Sadeq: What is it that gives personality? Does a robot need to be anthropomorphic?  
+Zheki: 

@@ -315,6 +315,7 @@ Do along with me
 	- Install
 		- Adafruit_SSD1306 
 		- Adafruit_GFX
+		- Adafruit BusIO
 	- Run this example
 		- SSD1306_128x64_i2c example 
 	- Mor information in

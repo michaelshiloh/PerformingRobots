@@ -311,7 +311,15 @@ Homework review
 
 Do along with me
 
-- MP3 Trigger
+- OLED display
+	- Install
+		- Adafruit_SSD1306 
+		- Adafruit_GFX
+	- Run this example
+		- SSD1306_128x64_i2c example 
+	- Mor information in
+		[this](https://learn.adafruit.com/monochrome-oled-breakouts?view=all#arduino-library-and-examples) tutorial
+
 
 Time permitting:
 

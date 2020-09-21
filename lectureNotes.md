@@ -284,6 +284,7 @@ Time Permitting
 
 Administration
 
+- Checkin
 - Record lesson
 - Have any kits arrived?
 - Dates for presentations

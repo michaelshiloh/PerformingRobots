@@ -317,7 +317,7 @@ Time permitting:
 - State
 - [State Change Detection](https://www.arduino.cc/en/Tutorial/StateChangeDetection)
 - [Blink without Delay](https://github.com/michaelshiloh/resourcesForClasses#blink-without-delay-resources)
-- Multitasking(https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
+- [Multitasking(https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
 
 Guest speaker: Kid Koala 
 Eric San, a.k.a Kid Koala, is a world-renowned scratch DJ,

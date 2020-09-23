@@ -25,7 +25,7 @@ This document: Lecture Notes
 
 Administration
 
-- Record lesson
+- Record 
 
 Introduction
 
@@ -321,14 +321,6 @@ Do along with me
 	- Mor information in
 		[this](https://learn.adafruit.com/monochrome-oled-breakouts?view=all#arduino-library-and-examples) tutorial
 
-
-Time permitting:
-
-- State
-- [State Change Detection](https://www.arduino.cc/en/Tutorial/StateChangeDetection)
-- [Blink without Delay](https://github.com/michaelshiloh/resourcesForClasses#blink-without-delay-resources)
-- [Multitasking](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
-
 Guest speaker: Kid Koala 
 Eric San, a.k.a Kid Koala, is a world-renowned scratch DJ,
 music producer, and award winning graphic novelist. He has released 6 solo
@@ -348,3 +340,22 @@ and this fall Kid Koala created a family-friendly show in Robot
 House Party. The three-part event will lead kids to build their own robot
 suits and dance in them.
 
+
+### todays-lecture
+### September 21
+
+#### Administration
+
+- Record 
+- Where should I put the presentation and discussion assignments?
+- SD card adapters
+
+#### Discussion
+
+- Eckersall
+
+#### State
+
+- [State Change Detection](https://www.arduino.cc/en/Tutorial/StateChangeDetection)
+- [Blink without Delay](https://github.com/michaelshiloh/resourcesForClasses#blink-without-delay-resources)
+- [Multitasking](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)

@@ -147,13 +147,26 @@ Post pictures of the process and the results.
 
 Reading Assignment:
 
-- article to discuss next week
-- material for next lecture
-- classes?
+- Read *Initial Formation of Trust: Designing an Interaction 
+	with Geminoid-DK to Promote a Positive Attitude for Cooperation* 
+	from [socialRobotics.pdf](doc/socialRobotics.pdf)
+	and be prepared to discuss
+- - Watch at least the first four of Dan shiffman's [Object Oriented
+  Programming](https://www.youtube.com/watch?v=YcbcfkLzgvs&list=PLRqwX-V7Uu6bb7z2IJaTlzwzIg_5yvL4i)
 
 Production Assignment:
 
-Button, motors
+- Write a program that uses the button and the OLED display
+	- You will need to combine elements from the button example
+		(Example1_PrintButtonStatus) and the OLED example (SSD1306_128x64_i2C).
+	- In `setup()`, your program should display the word "Ready"
+	- In `loop()`, your program should check to see if the button is pressed
+		- If the button is pressed 
+			- Count how many times the button is pressed
+			- Change the text to say "Pressed"
+		- When the button is released
+			- Change the text to display how many times the button was pressed
+
 
 ### Week 4 (September 28 and 30)
 

@@ -27,7 +27,7 @@ This is subject to change
 
 **Student Lead Discussions**
 
-- Sept 30 Liyan one article from Chapter 3 *Robots in Society*
+- Sept 30 Liyan *Initial Formation of Trust: Designing an Interaction with Geminoid-DK to Promote a Positive Attitude for Cooperation*
 - October 7 Baraa
 - October 14 Aleksandra
 - October 28 Zheki

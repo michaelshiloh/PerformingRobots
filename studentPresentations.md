@@ -15,12 +15,22 @@ Session: Fall 2020
 
 This is subject to change
 
-Student Research and Presentations
+**Student Research and Presentations**
 
-Muhammad: Asimov's Runaround and the three laws on robotics  
-Aleksandra: Chico Macmurtrie  
-Benjamin: Sophia, a robot who was granted Saudi Arabian citizenship  
-Liyan: The work and ideas of Guy Hoffman  
-Baraa: Can, and should, robots replace humans in performance?  
-Sadeq: What is it that gives personality? Does a robot need to be anthropomorphic?  
-Zheki: The artistic aspect of Boston Dynamics videos
+- Benjamin: Sophia, a robot who was granted Saudi Arabian citizenship (September 30)
+- Aleksandra: Chico Macmurtrie (October 7)
+- Muhammad: Asimov's Runaround and the three laws on robotics (October 14)
+- Sadeq: What is it that gives personality? Does a robot need to be anthropomorphic? (October 28)
+- Zheki: The artistic aspect of Boston Dynamics videos (November 4)
+- Baraa: Can, and should, robots replace humans in performance? (November 11)
+- Liyan: The work and ideas of Guy Hoffman (November 18)
+
+**Student Lead Discussions**
+
+- Sept 30 Liyan one article from Chapter 3 *Robots in Society*
+- October 7 Baraa
+- October 14 Aleksandra
+- October 28 Zheki
+- November 4 Muhammad
+- November 11 Sadeq
+- November 18 Benjamin

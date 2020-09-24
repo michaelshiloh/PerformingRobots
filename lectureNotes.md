@@ -279,7 +279,6 @@ Time Permitting
 	- Blink Without Delay
 	- Adafruit Multitasking Tutorial
 
-### todays-lecture
 ### September 21
 
 Administration
@@ -342,12 +341,13 @@ suits and dance in them.
 
 
 ### todays-lecture
-### September 21
+### September 23
 
 #### Administration
 
 - Record 
 - Where should I put the presentation and discussion assignments?
+	- move to studentGithubRepositories
 - SD card adapters
 
 #### Discussion

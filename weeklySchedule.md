@@ -114,7 +114,6 @@ Production Assignment:
 
 Much More Arduino, QWIIC
 
-##### todays-assignment
 #### Assignments Due September 21 
 
 Reading Assignment:
@@ -140,13 +139,17 @@ Post pictures of the process and the results.
 
 ### Week 3 (September 21 and 23)
 
-Real Arduino
+- Guest talk (Kid Koala)
+- Adafruit OLED display
 
+##### todays-assignment
 #### Assignments Due September 28
 
 Reading Assignment:
 
-TBA
+- article to discuss next week
+- material for next lecture
+- classes?
 
 Production Assignment:
 

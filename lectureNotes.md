@@ -409,6 +409,36 @@ Motor Driver
 - Example: Copy example from
 	[here](https://learn.sparkfun.com/tutorials/hookup-guide-for-the-qwiic-motor-driver#experiment-1-testing-the-motors)
 	(scroll down a little bit)
+
+Here is the motor dance code:
+
+````
+void loop()
+{
+  // do a little dance and then st
+  op
+  //    stop both motors for 5 seconds
+  myMotorDriver.setDrive( LEFT_MOTOR, 0, 0); //Stop motor
+  myMotorDriver.setDrive( RIGHT_MOTOR, 0, 0); //Stop motor
+  delay (5000);
+
+  // go forward for 10 seconds
+  myMotorDriver.setDrive( LEFT_MOTOR, 0, 200);
+  myMotorDriver.setDrive( RIGHT_MOTOR, 1, 180);
+  delay(10000);
+
+  // turn right just a little
+  myMotorDriver.setDrive( LEFT_MOTOR, 0, 50);
+  myMotorDriver.setDrive( RIGHT_MOTOR, 0, 25);
+  delay(500);
+
+
+  // if you don't want it to stop, remove this:
+  while (1)
+    ;
+
+}
+````
 	
 
 Construction Techniques with Motors and Wheels

@@ -182,8 +182,10 @@ Reading Assignment:
 
 Production Assignment:
 
-- Using the Motor Driver and the MP3 Trigger, build a contraption that can
+- Using the Motor Driver and the MP3 Trigger, build a contraption that will
 	drive around and make sound
+	- Optional: Use the button to initiate the activity. Contraption will
+	perform activity once and then stop, and repeat if button is pressed again
 
 ### Week 5 (October 5 and 7)
 

@@ -417,6 +417,6 @@ Construction Techniques with Motors and Wheels
 
 #### Discussions and presentations
 
-1:15 Tegan: “Composition & Dramaturgy for Performing Robots“
-1:45 Liyan
-1:10 Benjamin
+1:15 Tegan: “Composition & Dramaturgy for Performing Robots“  
+1:45 Liyan  
+1:10 Benjamin  

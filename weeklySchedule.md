@@ -142,7 +142,6 @@ Post pictures of the process and the results.
 - Guest talk (Kid Koala)
 - Adafruit OLED display
 
-##### todays-assignment
 #### Assignments Due September 28
 
 Reading Assignment:
@@ -170,17 +169,21 @@ Production Assignment:
 
 ### Week 4 (September 28 and 30)
 
-Mechanical construction, OLED display
+MP3 Trigger, Motor Driver, Introduction to Multitasking
 
+##### todays-assignment
 #### Assignments Due October 5
 
 Reading Assignment:
 
-TBA
+- Read *tba*
+	from [socialRobotics.pdf](doc/socialRobotics.pdf)
+	and be prepared to discuss
 
 Production Assignment:
 
-Motorized contraption, OLED display
+- Using the Motor Driver and the MP3 Trigger, build a contraption that can
+	drive around and make sound
 
 ### Week 5 (October 5 and 7)
 

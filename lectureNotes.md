@@ -340,7 +340,6 @@ House Party. The three-part event will lead kids to build their own robot
 suits and dance in them.
 
 
-### todays-lecture
 ### September 23
 
 #### Administration
@@ -358,4 +357,66 @@ suits and dance in them.
 
 - [State Change Detection](https://www.arduino.cc/en/Tutorial/StateChangeDetection)
 - [Blink without Delay](https://github.com/michaelshiloh/resourcesForClasses#blink-without-delay-resources)
+
+### todays-lecture
+### September 28
+
+#### Administration
+
+- Record 
+- Presentation and discussion assignments are all in
+	[studentPresentations.md](studentPresentations.md)
+- Who is leading the discussion next week? Please tell us what to read
+
+#### Lecture
+
 - [Multitasking](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
+
+#### Do along with me
+
+MP3 Trigger
+
+- Sparkfun
+	[documentation](https://learn.sparkfun.com/tutorials/qwiic-mp3-trigger-hookup-guide/all)
+- Insert uSD card gently
+	- **Caution**: Do not pull on the uSD card! It must be pressed to be released!
+- Library: SparkFun MP3 Trigger
+- Use USB-C cable to connect drigger
+	- It should show up as a thumb drive
+	- Copy an MP3 file to the card. You can use [this](media/T001.mp3] or
+		[this](media/T002.mp3)
+- Example: Example1-PlaySong
+- What else can the library do?
+	- Look at other examples
+	- [Functions](https://github.com/sparkfun/SparkFun_Qwiic_MP3_Trigger_Arduino_Library/blob/master/src/SparkFun_Qwiic_MP3_Trigger_Arduino_Library.h)
+- Start thinking about what kind of sounds your robot will make. Will it
+	speak? What kind of a voice will it use? Will it make non-speech sounds?
+	Start collecting sounds that might be useful. You can record your own or
+	find them on the internet (be sure to document where you got them) e.g.
+	[here](https://archive.org/details/HB01SFX)
+
+Motor Driver
+
+- Sparkfun
+	[documentation](https://learn.sparkfun.com/tutorials/hookup-guide-for-the-qwiic-motor-driver)
+- Connect motors (polarity doesn't matter)
+- Connect battery connector 
+	- **Caution** polarity is critical!!
+	- **Caution** do not plug in the battery until you have checked 3 times
+	that the polarity is right!!
+	- **Caution** Do not touch the battery to the connector backwards!!
+- Library: Serial Controlled Motor Driver
+- Example: Copy example from
+	[here](https://learn.sparkfun.com/tutorials/hookup-guide-for-the-qwiic-motor-driver#experiment-1-testing-the-motors)
+	(scroll down a little bit)
+	
+
+Construction Techniques with Motors and Wheels
+
+### September 30
+
+#### Discussions and presentations
+
+1:15 Tegan: “Composition & Dramaturgy for Performing Robots“
+1:45 Liyan
+1:10 Benjamin

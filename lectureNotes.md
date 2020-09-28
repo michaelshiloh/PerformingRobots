@@ -383,7 +383,7 @@ MP3 Trigger
 - Library: SparkFun MP3 Trigger
 - Use USB-C cable to connect drigger
 	- It should show up as a thumb drive
-	- Copy an MP3 file to the card. You can use [this](media/T001.mp3] or
+	- Copy an MP3 file to the card. You can use [this](media/T001.mp3) or
 		[this](media/T002.mp3)
 - Example: Example1-PlaySong
 - What else can the library do?

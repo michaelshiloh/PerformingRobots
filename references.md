@@ -6,6 +6,9 @@
 
 1. Amit Dror [Monkeys](https://amitdrori.com/monkeys/)
 
+1. [Slides](doc/2020.09.30-CompositionAndDramaturgy.pdf) from Tegan's
+	 guest lecture on September 30 2020
+
 ## Robot actors and theatre companies using robots
 
 1. [Ullanta Performance Robotics](http://www.ullanta.com/ullanta/) is a

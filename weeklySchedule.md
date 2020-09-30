@@ -149,7 +149,7 @@ Reading Assignment:
 - Read *Initial Formation of Trust: Designing an Interaction 
 	with Geminoid-DK to Promote a Positive Attitude for Cooperation* 
 	from [socialRobotics.pdf](doc/socialRobotics.pdf)
-	and be prepared to discuss
+	and be prepared to discuss (pg. 95 in the document; 107 in the pdf)
 - - Watch at least the first four of Dan shiffman's [Object Oriented
   Programming](https://www.youtube.com/watch?v=YcbcfkLzgvs&list=PLRqwX-V7Uu6bb7z2IJaTlzwzIg_5yvL4i)
 
@@ -176,7 +176,7 @@ MP3 Trigger, Motor Driver, Introduction to Multitasking
 
 Reading Assignment:
 
-- Read *tba*
+- Read 
 	from [socialRobotics.pdf](doc/socialRobotics.pdf)
 	and be prepared to discuss
 

@@ -358,7 +358,6 @@ suits and dance in them.
 - [State Change Detection](https://www.arduino.cc/en/Tutorial/StateChangeDetection)
 - [Blink without Delay](https://github.com/michaelshiloh/resourcesForClasses#blink-without-delay-resources)
 
-### todays-lecture
 ### September 28
 
 #### Administration
@@ -443,6 +442,7 @@ void loop()
 
 Construction Techniques with Motors and Wheels
 
+### todays-lecture
 ### September 30
 
 #### Discussions and presentations

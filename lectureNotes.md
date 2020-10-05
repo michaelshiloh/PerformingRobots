@@ -465,6 +465,35 @@ Construction Techniques with Motors and Wheels
 - How do you know when a non-blocking function is done?
 - Drive without delay
 
+````
+void loop()
+{
+  unsigned long currentMillis = millis();
+
+  // Check to see if it's time to turn the motor on
+  if ((motorIsRunning == false) && (currentMillis - motorOffAt > motorOffPerid)) {
+    //time to turn motor on
+    mp3.playTrack(2); //play this song
+    Serial.println("in if");
+    myMotorDriver.setDrive( LEFT_MOTOR, 0, 70);
+    myMotorDriver.setDrive( RIGHT_MOTOR, 1, 70);
+    motorOnAt = currentMillis; //update the timer
+    motorIsRunning = true;
+  }
+  // otherwise, check to see if it's time to turn the motor off
+  else if ((motorIsRunning == true) && (currentMillis - motorOnAt > motorOnPeriod)) {
+    //time to turn motor off
+    stopping();
+    motorOffAt = currentMillis; //update the timer
+    motorIsRunning = false;
+  }
+
+  // checking switch
+  // starting at stopping mp3 playback
+  // display things on OLED
+}
+````
+
 #### Expressive OLED!
 
 In-class exercise

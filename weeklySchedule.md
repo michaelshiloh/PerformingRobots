@@ -176,7 +176,8 @@ MP3 Trigger, Motor Driver, Introduction to Multitasking
 
 Reading Assignment:
 
-- Read 
+- Read Children Interpretation of emotional body language displayed by a robot
+	(page 62)
 	from [socialRobotics.pdf](doc/socialRobotics.pdf)
 	and be prepared to discuss
 

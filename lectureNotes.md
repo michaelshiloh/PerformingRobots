@@ -414,8 +414,7 @@ Here is the motor dance code:
 ````
 void loop()
 {
-  // do a little dance and then st
-  op
+  // do a little dance and then stop
   //    stop both motors for 5 seconds
   myMotorDriver.setDrive( LEFT_MOTOR, 0, 0); //Stop motor
   myMotorDriver.setDrive( RIGHT_MOTOR, 0, 0); //Stop motor
@@ -438,15 +437,42 @@ void loop()
 
 }
 ````
-	
 
 Construction Techniques with Motors and Wheels
 
-### todays-lecture
 ### September 30
 
 #### Discussions and presentations
 
 1:15 Tegan: “Composition & Dramaturgy for Performing Robots“  
 1:45 Liyan  
-1:10 Benjamin  
+
+### todays-lecture
+#### October 5
+
+#### Administration
+
+- Cameras on in class unless you have discussed with me and received email
+	permission to leave it off
+- Record 
+- Jack introduction
+
+#### Homework review
+
+- Construction techniques
+- Blocking vs. non-blocking functions
+- How do you know when a non-blocking function is done?
+- Drive without delay
+
+#### Expressive OLED!
+
+In-class exercise
+
+#### Your first performance!
+
+Take 15 minutes to script something your contraption can perform. You can be
+the voice, but consider that later that will come from an MP3 file on the
+robot
+
+#### October 7
+Benjamin  

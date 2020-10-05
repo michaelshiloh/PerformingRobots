@@ -455,6 +455,7 @@ Construction Techniques with Motors and Wheels
 - Cameras on in class unless you have discussed with me and received email
 	permission to leave it off
 - Record 
+- Bad USB cable!
 - Jack introduction
 
 #### Homework review
@@ -473,6 +474,8 @@ In-class exercise
 Take 15 minutes to script something your contraption can perform. You can be
 the voice, but consider that later that will come from an MP3 file on the
 robot
+
+#### Controlling when your performance starts, or moves to the next state
 
 #### October 7
 Benjamin  

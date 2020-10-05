@@ -463,9 +463,16 @@ Construction Techniques with Motors and Wheels
 - Construction techniques
 - Blocking vs. non-blocking functions
 - How do you know when a non-blocking function is done?
-- Drive without delay
+
+#### Drive without delay
 
 ````
+const unsigned long motorOnPeriod = 4000;
+const unsigned long motorOffPerid = 1000;
+boolean motorIsRunning = true;
+unsigned long motorOnAt = 0;
+unsigned long motorOffAt = 0;
+
 void loop()
 {
   unsigned long currentMillis = millis();
@@ -494,7 +501,19 @@ void loop()
 }
 ````
 
+
+void loop()
+{
+  if (mp3.isPlaying() == true) {
+    Serial.println("file is still playing");
+  } else {
+    Serial.println("file has finished playing");
+  }
+}
 #### Expressive OLED!
+
+[This](https://randomnerdtutorials.com/guide-for-oled-display-with-arduino/)
+tutorial might be helpful
 
 In-class exercise
 

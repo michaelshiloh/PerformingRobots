@@ -175,7 +175,8 @@ MP3 Trigger, Motor Driver, Introduction to Multitasking
 
 Reading Assignment:
 
-- Read Children Interpretation of emotional body language displayed by a robot
+- Read *Children Interpretation of emotional body language 
+	displayed by a robot*
 	(page 62)
 	from [socialRobotics.pdf](doc/socialRobotics.pdf)
 	and be prepared to discuss
@@ -196,7 +197,11 @@ Asynchronous operations, OLED, expressiveness
 
 Reading Assignment:
 
-Reading for Aleksandra
+- Read 
+	*Examining the Frankenstein Syndrome: An Open-Ended Cross-Cultural Survey*
+	(page 62)
+	from [socialRobotics.pdf](doc/socialRobotics.pdf)
+	and be prepared to discuss
 
 Production Assignment:
 

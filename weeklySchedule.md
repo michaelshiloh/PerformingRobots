@@ -190,7 +190,7 @@ Production Assignment:
 
 ### Week 5 (October 5 and 7)
 
-Multitasking, asynchronous operations, autonomy
+Asynchronous operations, OLED, expressiveness
 
 #### Assignments Due October 12
 
@@ -200,7 +200,14 @@ TBA
 
 Production Assignment:
 
-Motorized contraption, OLED display
+- Add the OLED display to your motorized contraption, 
+- Use it to give your contraption the ability to be expressive.
+- Create a 1-2 minute performance that your contraption can perform.
+- Use the button to initiate the performance, and have it stop
+after performing once. 
+	- Optional bonus: Pressing the button again restarts the performance
+- Document your work properly with and a link to a video.
+	- No schematic is required.
 
 ### Week 6 (October 12 and 14)
 

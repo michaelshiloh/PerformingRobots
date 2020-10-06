@@ -171,7 +171,6 @@ Production Assignment:
 
 MP3 Trigger, Motor Driver, Introduction to Multitasking
 
-##### todays-assignment
 #### Assignments Due October 5
 
 Reading Assignment:
@@ -192,6 +191,7 @@ Production Assignment:
 
 Asynchronous operations, OLED, expressiveness
 
+##### todays-assignment
 #### Assignments Due October 12
 
 Reading Assignment:

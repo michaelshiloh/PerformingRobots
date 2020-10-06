@@ -196,7 +196,7 @@ Asynchronous operations, OLED, expressiveness
 
 Reading Assignment:
 
-TBA
+Reading for Aleksandra
 
 Production Assignment:
 

@@ -29,7 +29,8 @@ This is subject to change
 
 - Sept 30 Liyan *Initial Formation of Trust: Designing an Interaction with Geminoid-DK to Promote a Positive Attitude for Cooperation*
 - October 7 Baraa *Children Interpretation of emotional body language displayed by a robot* on page 62 
-- October 14 Aleksandra
+- October 14 Aleksandra *Examining the Frankenstein Syndrome: An Open-Ended
+	Cross-Cultural Survey* on page 125
 - October 28 Zheki
 - November 4 Muhammad
 - November 11 Sadeq

@@ -447,7 +447,6 @@ Construction Techniques with Motors and Wheels
 1:15 Tegan: “Composition & Dramaturgy for Performing Robots“  
 1:45 Liyan  
 
-### todays-lecture
 #### October 5
 
 #### Administration
@@ -515,15 +514,17 @@ void loop()
 [This](https://randomnerdtutorials.com/guide-for-oled-display-with-arduino/)
 tutorial might be helpful
 
-In-class exercise
 
-#### Your first performance!
-
-Take 15 minutes to script something your contraption can perform. You can be
-the voice, but consider that later that will come from an MP3 file on the
-robot
-
-#### Controlling when your performance starts, or moves to the next state
-
+### todays-lecture
 #### October 7
-Benjamin  
+
+#### Presentations
+
+- Benjamin: Sophia, a robot who was granted Saudi Arabian citizenship
+- Aleksandra: Chico Macmurtrie 
+
+#### Discussion
+
+- *Children Interpretation of emotional body language displayed by a robot* 
+	on page 62 (Baraa)
+

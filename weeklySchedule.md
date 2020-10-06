@@ -13,6 +13,8 @@ Meeting times:
 Session: Fall 2020    
 [Link](https://nyu.zoom.us/j/99801224178) to class Zoom meetings
 
+Shortcut to [Today's assignment](#todays-assignment)
+
 This is subject to change
 
 ### This document: Weekly Schedule
@@ -22,8 +24,6 @@ This includes:
 - Production assignments
 - Reading assignments
 - Projects
-
-Shortcut to [Today's assignment](#todays-assignment)
 
 This is all subject to change
 

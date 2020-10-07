@@ -528,6 +528,10 @@ tutorial might be helpful
 - *Children Interpretation of emotional body language displayed by a robot* 
 	on page 62 (Baraa)
 
+#### Expressiveness
+
+[Heider and Simmel animation (1944)](https://www.youtube.com/watch?v=VTNmLt7QX8E)
+
 #### Time permitting
 
 How to trigger performance once and only once on button press, 

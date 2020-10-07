@@ -528,3 +528,12 @@ tutorial might be helpful
 - *Children Interpretation of emotional body language displayed by a robot* 
 	on page 62 (Baraa)
 
+#### Time permitting
+
+How to trigger performance once and only once on button press, 
+and then stop when done and wait for press again before starting again
+
+
+*Important Concepts*
+- Being able to reset to a beginning state without resetting the
+	board (either by pressing the button or uploading the program)

@@ -31,7 +31,8 @@ This is subject to change
 - October 7 Baraa *Children Interpretation of emotional body language displayed by a robot* on page 62 
 - October 14 Aleksandra *Examining the Frankenstein Syndrome: An Open-Ended
 	Cross-Cultural Survey* on page 125
-- October 28 Zheki
+- October 28 Zheki *People’s Perception of Domestic Service Robots: 
+Same Household, Same Opinion?* on page 204
 - November 4 Muhammad
 - November 11 Sadeq
 - November 18 Benjamin

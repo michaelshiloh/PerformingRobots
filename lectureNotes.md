@@ -500,7 +500,7 @@ void loop()
 }
 ````
 
-
+````
 void loop()
 {
   if (mp3.isPlaying() == true) {
@@ -509,13 +509,14 @@ void loop()
     Serial.println("file has finished playing");
   }
 }
+````
+
 #### Expressive OLED!
 
 [This](https://randomnerdtutorials.com/guide-for-oled-display-with-arduino/)
 tutorial might be helpful
 
 
-### todays-lecture
 #### October 7
 
 #### Presentations
@@ -541,3 +542,13 @@ and then stop when done and wait for press again before starting again
 *Important Concepts*
 - Being able to reset to a beginning state without resetting the
 	board (either by pressing the button or uploading the program)
+
+
+### todays-lecture
+#### October 12
+
+#### Show projects
+
+#### Discussion with Tegan
+
+#### Catchup presentation(s)

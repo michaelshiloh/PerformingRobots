@@ -1,3 +1,5 @@
+Shortcut to [today's lecture](#todays-lecture)
+
 ## New York University Abu Dhabi  
 ## Interactive Media Program
 ## Course title: Performing Robots
@@ -16,8 +18,6 @@ Session: Fall 2020
 This is subject to change
 
 This document: Lecture Notes
-
-[Today's lecture](#todays-lecture)
 
 ### Week 1
 
@@ -544,7 +544,6 @@ and then stop when done and wait for press again before starting again
 	board (either by pressing the button or uploading the program)
 
 
-### todays-lecture
 #### October 12
 
 #### Show projects
@@ -552,3 +551,26 @@ and then stop when done and wait for press again before starting again
 #### Discussion with Tegan
 
 #### Catchup presentation(s)
+
+
+### todays-lecture
+#### October 14
+
+#### Announcements
+
+- Legislative day Monday October 18 (Wednesday schedule)
+
+#### Presentations
+
+- Muhammad: Asimov's Runaround and the three laws on robotics 
+
+#### Discussion
+
+- *Examining the Frankenstein Syndrome: An Open-Ended Cross-Cultural Survey*
+	(Aleksandra)
+
+#### Homework
+
+Shakespeare
+
+Do you prefer minimal by 18, or better by 26?

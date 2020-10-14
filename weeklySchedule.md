@@ -1,3 +1,5 @@
+Shortcut to [today's assignment](#todays-assignment)
+
 ## New York University Abu Dhabi  
 ## Interactive Media Program
 ## Course title: Performing Robots
@@ -12,8 +14,6 @@ Meeting times:
 1:15 PM - 2:30 PM W  
 Session: Fall 2020    
 [Link](https://nyu.zoom.us/j/99801224178) to class Zoom meetings
-
-Shortcut to [Today's assignment](#todays-assignment)
 
 This is subject to change
 
@@ -199,7 +199,7 @@ Reading Assignment:
 
 - Read 
 	*Examining the Frankenstein Syndrome: An Open-Ended Cross-Cultural Survey*
-	(page 62)
+	(page 125)
 	from [socialRobotics.pdf](doc/socialRobotics.pdf)
 	and be prepared to discuss
 
@@ -216,9 +216,30 @@ after performing once.
 
 ### Week 6 (October 12 and 14)
 
-MP3 player
+Theatre: 
 
-#### Assignments Due October 18
+Within the limitations of your character, what can you do to make it an
+effective actor? Perhaps
+
+- Brief changing motion seems to be more effective than long
+	continuous motion
+- Since the motors are loud, only speak when the motors are off
+- Since the display is hard to see when moving, display big when moving, 
+	details when stationary
+
+#### Assignments Due October 18 (or 26)
+
+Using your robot as it is, act out a scene from your choice of a
+Shakespeare play. 
+- Your character should play the role of one of the 
+characters in the play 
+- You can do the voice of all the others.
+- You can use additional items (water bottles, boxes, furniture, etc.) as 
+	props or scenery if you wish, but you don't need to build anything
+	additional. 
+- You can use any sound clips you want or record your own voice
+(e.g. using [this](https://audiovoicerecorder.com/) recorder)
+
 
 Reading Assignment:
 

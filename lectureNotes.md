@@ -558,7 +558,7 @@ and then stop when done and wait for press again before starting again
 
 #### Announcements
 
-- Legislative day Monday October 18 (Wednesday schedule)
+- Legislative day Sunday October 18 (Wednesday schedule)
 
 #### Presentations
 

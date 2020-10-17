@@ -580,5 +580,7 @@ Do you prefer minimal by 18, or better by 26?
 
 #### Announcements
 
-Muhammad: What do you want us to read for your November 4 discussion?
+- Muhammad: Send me email as to what we should 
+read for your November 4 discussion
 
+#### Guest discussion: Judi for costumes and other special accessories

@@ -192,7 +192,6 @@ Production Assignment:
 
 Asynchronous operations, OLED, expressiveness
 
-##### todays-assignment
 #### Assignments Due October 12
 
 Reading Assignment:
@@ -217,16 +216,11 @@ after performing once.
 ### Week 6 (October 12 and 14)
 
 Theatre: 
-
 Within the limitations of your character, what can you do to make it an
 effective actor? Perhaps
 
-- Brief changing motion seems to be more effective than long
-	continuous motion
-- Since the motors are loud, only speak when the motors are off
-- Since the display is hard to see when moving, display big when moving, 
-	details when stationary
 
+##### todays-assignment
 #### Assignments Due October 18, 26 and 28
 
 Using your robot as it is, act out a few minutes
@@ -240,6 +234,12 @@ characters in the play
 	additional. 
 - You can use any sound clips you want or record your own voice
 (e.g. using [this](https://audiovoicerecorder.com/) recorder)
+- Remember our observations from last week:
+	- Brief changing motion seems to be more effective than long
+		continuous motion
+	- Since the motors are loud, only speak when the motors are off
+	- Since the display is hard to see when moving, display big when moving, 
+		details when stationary
 
 Due October 18: 
 

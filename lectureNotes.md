@@ -553,7 +553,6 @@ and then stop when done and wait for press again before starting again
 #### Catchup presentation(s)
 
 
-### todays-lecture
 #### October 14
 
 #### Announcements
@@ -574,3 +573,12 @@ and then stop when done and wait for press again before starting again
 Shakespeare
 
 Do you prefer minimal by 18, or better by 26?
+
+
+### todays-lecture
+#### October 18
+
+#### Announcements
+
+Muhammad: What do you want us to read for your November 4 discussion?
+

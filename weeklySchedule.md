@@ -227,12 +227,13 @@ effective actor? Perhaps
 - Since the display is hard to see when moving, display big when moving, 
 	details when stationary
 
-#### Assignments Due October 18 (or 26)
+#### Assignments Due October 18, 26 and 28
 
-Using your robot as it is, act out a scene from your choice of a
-Shakespeare play. 
+Using your robot as it is, act out a few minutes
+from a scene from your choice of a Shakespeare play. 
 - Your character should play the role of one of the 
 characters in the play 
+- You don't need to make any changes, but you can if you want
 - You can do the voice of all the others.
 - You can use additional items (water bottles, boxes, furniture, etc.) as 
 	props or scenery if you wish, but you don't need to build anything
@@ -240,10 +241,31 @@ characters in the play
 - You can use any sound clips you want or record your own voice
 (e.g. using [this](https://audiovoicerecorder.com/) recorder)
 
+Due October 18: 
 
-Reading Assignment:
+- Create a folder in your github called "robotShakespeare"
+- Create a README.md document which will be a short journal of your process
+for this assignment. 
+	- Start by telling us what play and scene you chose 
+	(if you change this later it's OK)
+	- Describe any ideas you've had on how you plan to do it
+	- Describe any experiments or things you've tried
+	- Describe any ideas you've had for scenery or props
+	- Add photos or sketches if desired
 
-TBA
+Due October 26: 
+
+Finish your Shakespeare skit
+Document with a video
+You may take the video in muliple takes and edit 
+
+
+Due October 28: Reading Assignment:
+
+*People’s Perception of Domestic Service Robots: 
+Same Household, Same Opinion?* on page 204
+(Zheki to lead)
+
 
 Production Assignment:
 

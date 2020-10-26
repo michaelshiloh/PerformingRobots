@@ -575,12 +575,36 @@ Shakespeare
 Do you prefer minimal by 18, or better by 26?
 
 
+#### October 18
+
+#### Guest discussion: Judi for costumes and other special accessories
+
+
 ### todays-lecture
+
 #### October 18
 
 #### Announcements
 
 - Muhammad: Send me email as to what we should 
 read for your November 4 discussion
+- Jon Bonner will be with us Wednesday next week to discuss lighting
+- lynn hirshman will give a Community Talk on Sunday, November 1st, 7pm:
 
-#### Guest discussion: Judi for costumes and other special accessories
+Join us for a community talk by artist and filmmaker [Lynn Hershman
+Leeson](https://www.lynnhershman.com/)
+about her pioneering contributions to the fields of photography, video, film,
+performance, artificial intelligence, bio art, installation and interactive as
+well as net-based media art over the last fifty years. Lynn Hershman Leeson's
+innovative work investigates issues that are now recognized as key to the
+workings of society: the relationship between humans and technology, identity,
+surveillance, and the use of media as a tool of empowerment against censorship
+and political repression.
+
+Registration to attend this event is required and can be filled out 
+[here](https://forms.gle/GNAtFv6NvZpCtxus8).
+
+#### State Machines
+
+- Code we developed in class is
+	[here](src/QWIICstateMachineRobot/QWIICstateMachineRobot.ino)

@@ -23,7 +23,7 @@ Welcome to Performing Robots. All class material can be found here.
 
 [Weekly Schedule](weeklySchedule.md) Includes homework and projects assignments
 
-Student Github [repositories](studentGithubRepositories.md)
+Student Github [repositories](studentRepositories.md)
 
 Student [presentations](studentPresentations.md)
 

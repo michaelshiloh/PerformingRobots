@@ -150,7 +150,7 @@ Reading Assignment:
 	with Geminoid-DK to Promote a Positive Attitude for Cooperation* 
 	from [socialRobotics.pdf](doc/socialRobotics.pdf)
 	and be prepared to discuss (pg. 95 in the document; 107 in the pdf)
-- - Watch at least the first four of Dan shiffman's [Object Oriented
+- Watch at least the first four of Dan shiffman's [Object Oriented
   Programming](https://www.youtube.com/watch?v=YcbcfkLzgvs&list=PLRqwX-V7Uu6bb7z2IJaTlzwzIg_5yvL4i)
 
 Production Assignment:
@@ -220,7 +220,6 @@ Within the limitations of your character, what can you do to make it an
 effective actor? Perhaps
 
 
-##### todays-assignment
 #### Assignments Due October 18, 26 and 28
 
 Using your robot as it is, act out a few minutes
@@ -260,16 +259,13 @@ Document with a video
 You may take the video in muliple takes and edit 
 
 
+##### todays-assignment
 Due October 28: Reading Assignment:
 
 *People’s Perception of Domestic Service Robots: 
 Same Household, Same Opinion?* on page 204
 (Zheki to lead)
 
-
-Production Assignment:
-
-Motorized contraption, OLED display, with sound
 
 ### Week 6.5 (Oct. 18, Sunday, Legislative day – classes meet on Wednesday schedule)
 

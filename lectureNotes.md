@@ -589,10 +589,10 @@ Do you prefer minimal by 18, or better by 26?
 - Muhammad: Send me email as to what we should 
 read for your November 4 discussion
 - Jon Bonner will be with us Wednesday next week to discuss lighting
-- lynn hirshman will give a Community Talk on Sunday, November 1st, 7pm:
+- Lynn Hershman Leeson will give a Community Talk on Sunday, November 1st, 7pm:
 
-Join us for a community talk by artist and filmmaker [Lynn Hershman
-Leeson](https://www.lynnhershman.com/)
+Join us for a community talk by artist and filmmaker 
+[Lynn Hershman Leeson](https://www.lynnhershman.com/)
 about her pioneering contributions to the fields of photography, video, film,
 performance, artificial intelligence, bio art, installation and interactive as
 well as net-based media art over the last fifty years. Lynn Hershman Leeson's

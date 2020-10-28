@@ -580,12 +580,19 @@ Do you prefer minimal by 18, or better by 26?
 #### Guest discussion: Judi for costumes and other special accessories
 
 
-### todays-lecture
+#### October 26
 
-#### October 18
+#### State Machines
+
+- Code we developed in class is
+	[here](src/QWIICstateMachineRobot/QWIICstateMachineRobot.ino)
+
+### todays-lecture
+#### October 28
 
 #### Announcements
 
+- Record
 - Muhammad: Send me email as to what we should 
 read for your November 4 discussion
 - Jon Bonner will be with us Wednesday next week to discuss lighting
@@ -604,7 +611,16 @@ and political repression.
 Registration to attend this event is required and can be filled out 
 [here](https://forms.gle/GNAtFv6NvZpCtxus8).
 
-#### State Machines
 
-- Code we developed in class is
-	[here](src/QWIICstateMachineRobot/QWIICstateMachineRobot.ino)
+#### Monday November 2
+- Make a non-blocking classes to
+	- Display animations on display
+	- Movement (wheels)
+- Benjamin
+- Discussion:
+	- What shall we do for final performance?
+		- Constrained or entirely unrestricted?
+		- Technical difficulties:
+			- Sound
+			- Accurate movements
+			- Difficulty seeing display

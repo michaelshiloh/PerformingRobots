@@ -259,7 +259,6 @@ Document with a video
 You may take the video in muliple takes and edit 
 
 
-##### todays-assignment
 Due October 28: Reading Assignment:
 
 *People’s Perception of Domestic Service Robots: 
@@ -273,21 +272,39 @@ Same Household, Same Opinion?* on page 204
 
 ### Week 7 (October 26 and 28)
 
-Robotic Performance concepts
+State machines
+
+##### todays-assignment
+#### Special assignment due October 30:
+- Sign up for Lynn Hershman Leeson's talk [here](https://forms.gle/GNAtFv6NvZpCtxus8)
+- Mohammad, Sadeq, Benjamin: Select readings for the discussions
+that you will lead. You may use the Social Robots book, or any 
+other document in [this](doc) folder, or any other relevant reading
+you might find.
 
 #### Assignments Due November 2
 
 Reading Assignment:
 
-TBA
+- For discussion: TBA
+- Review the Adafruit Multitasking
+[Tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
 
 Production Assignment:
 
-First draft
+- Prepare one of the following:
+	- A sequence of 3-10 "sprites" (still pictures) for animation. These may be
+		hand drawn.
+	- Three to four different movement sequences (e.g. 
+		both forward 30 ms at speed 100, 
+		left forward at 200 right forward at 150 for 30 ms,
+		repeat 3 times)
 
 ### Week 8 (November 2 and 4)
 
-Debugging
+- Integrating what we've learned
+- Classes with state machines
+- Debugging
 
 #### Assignments Due November 9
 

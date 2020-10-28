@@ -293,7 +293,10 @@ Multitasking
 
 Production Assignment:
 
-- Prepare one of the following:
+- Prepare one of the following 
+in a file called README.md 
+in a folder called November2
+in your class Github repository:
 	- A sequence of 3-10 "sprites" (still pictures) for animation. These may be
 		hand drawn.
 	- Three to four different movement sequences (e.g. 

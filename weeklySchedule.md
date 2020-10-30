@@ -286,8 +286,8 @@ you might find.
 
 Reading Assignment:
 
-- (*Robot Improv: Using Drama to Create Believable
-	Agents*])doc/robotImprov.pdf) (Muhammad to lead)
+- [*Robot Improv: Using Drama to Create Believable
+	Agents*](doc/robotImprov.pdf) (Muhammad to lead)
 - Review the part about making a multitasking class in the Adafruit 
 Multitasking
 [Tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)

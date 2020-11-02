@@ -36,8 +36,22 @@ SCMD myMotorDriver; //This creates the main object of one motor driver
 #include "SparkFun_Qwiic_MP3_Trigger_Arduino_Library.h" //http://librarymanager/All#SparkFun_MP3_Trigger
 MP3TRIGGER mp3; // MP3 Trigger object
 
+// Button
 #include <SparkFun_Qwiic_Button.h>
 QwiicButton button;
+
+// OLED
+#include <SPI.h>
+#include <Wire.h>
+#include <Adafruit_GFX.h>
+#include <Adafruit_SSD1306.h>
+#define SCREEN_WIDTH 128 // OLED display width, in pixels
+#define SCREEN_HEIGHT 64 // OLED display height, in pixels
+// Declaration for an SSD1306 display connected to I2C (SDA, SCL pins)
+#define OLED_RESET     4 // Reset pin # (or -1 if sharing Arduino reset pin)
+Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
+
+
 
 // for our state machine!
 int state = 0;
@@ -118,6 +132,95 @@ void loop()
       while (1)
         ;
   }
+}
+
+void wiggle() {
+  //turn left for some time
+  int innerSpeed = 50;
+  int outerSpeed = 80;
+  int duration = 100;
+  int repetitions = 7;
+  unsigned long ;
+
+  while (repetitions--) {
+    // first turn rightish
+    rightForward(innerSpeed);
+    leftForward(outerSpeed);
+    delay(duration);
+    // now the other way
+    rightForward(outerSpeed);
+    leftForward(innerSpeed);
+    delay(duration);
+  }
+}
+
+static const unsigned char PROGMEM star1[] =
+{ B00000000, B11000000,
+  B00000001, B01000000,
+  B00000001, B01000000,
+  B00000010, B00100000,
+  B11000000, B00100000,
+  B11000000, B00011000,
+  B01110000, B00011111,
+  B00110011, B10011111,
+  B00011111, B11111100,
+  B00001101, B01110000,
+  B00011011, B10100000,
+  B00111111, B11100000,
+  B00111111, B11110000,
+  B01111100, B11110000,
+  B01110000, B01110000,
+  B00000000, B00110000
+};
+static const unsigned char PROGMEM star2[] =
+{ B00000000, B11000000,
+  B00000001, B11000000,
+  B00000001, B11000000,
+  B00000011, B11100000,
+  B11110011, B11100000,
+  B11111110, B11111000,
+  B01111110, B11111111,
+  B00110011, B10011111,
+  B00011111, B11111100,
+  B00001101, B01110000,
+  B00011011, B10100000,
+  B00111111, B11100000,
+  B00111111, B11110000,
+  B01111100, B11110000,
+  B01110000, B01110000,
+  B00000000, B00110000
+};
+static const unsigned char PROGMEM star3[] =
+{ B00000000, B11000000,
+  B00000001, B11000000,
+  B00000001, B11000000,
+  B00000011, B11100000,
+  B11110011, B11100000,
+  B11111110, B11111000,
+  B01111110, B11111111,
+  B00110011, B10011111,
+  B00000000, B00000000,
+  B00000000, B00000000,
+  B00000000, B00000000,
+  B00000000, B00000000,
+  B00000000, B00000000,
+  B01000000, B00000000,
+  B01110000, B01110000,
+  B00000000, B00110000
+};
+
+void animation() {
+  int state = 0;
+  unsigned long delayBetweenSprites;
+
+  switch (state) {
+    case 0:
+      display.drawBitmap(64, 32, star1, 16, 16, SSD1306_WHITE);
+      delay(delayBetweenSprites);
+      state = 1;
+      break;
+  }
+
 }
 
 /*

@@ -317,7 +317,7 @@ Do along with me
 		- Adafruit BusIO
 	- Run this example
 		- SSD1306_128x64_i2c example 
-	- Mor information in
+	- More information in
 		[this](https://learn.adafruit.com/monochrome-oled-breakouts?view=all#arduino-library-and-examples) tutorial
 
 Guest speaker: Kid Koala 
@@ -587,7 +587,6 @@ Do you prefer minimal by 18, or better by 26?
 - Code we developed in class is
 	[here](src/QWIICstateMachineRobot/QWIICstateMachineRobot.ino)
 
-### todays-lecture
 #### October 28
 
 #### Announcements
@@ -611,12 +610,25 @@ and political repression.
 Registration to attend this event is required and can be filled out 
 [here](https://forms.gle/GNAtFv6NvZpCtxus8).
 
-
+### todays-lecture
 #### Monday November 2
-- Make a non-blocking classes to
+
+#### Administration
+
+- Record
+- Jon Bonner will be with us Wednesday next week to discuss lighting
+
+#### Catch up project presentation
+- Benjamin
+
+#### Debugging
+- One that worked: MP3 Trigger example 3: play a file (it's not a bug)
+- One that didn't work (yet): My allQwiicStuff works but motionAndAnimationNoDelay does not
+
+#### Lecture
+- Make non-blocking classes to
 	- Display animations on display
 	- Movement (wheels)
-- Benjamin
 - Discussion:
 	- What shall we do for final performance?
 		- Constrained or entirely unrestricted?
@@ -624,3 +636,4 @@ Registration to attend this event is required and can be filled out
 			- Sound
 			- Accurate movements
 			- Difficulty seeing display
+

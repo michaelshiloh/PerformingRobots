@@ -626,14 +626,115 @@ Registration to attend this event is required and can be filled out
 - One that didn't work (yet): My allQwiicStuff works but motionAndAnimationNoDelay does not
 
 #### Lecture
+
+[Link](https://diyusthad.com/image2cpp) to bitmap generator that Muhammad found
+
+
+##### Code developed in class:
+
+````
+int state = 0;
+int repetitions = 7;
+unsigned long motionStartedAt = 0;
+int innerSpeed = 50;
+int outerSpeed = 180;
+int duration = 500;
+
+void loop()
+{
+  unsigned long currentMillis = millis();
+
+  // for debugging
+  Serial.print("state = ");
+  Serial.print(state);
+  Serial.print("\t time = ");
+  Serial.print(millis());
+  Serial.print("\t repetitions = ");
+  Serial.print(repetitions);
+  Serial.println();
+
+  if (!repetitions) {
+    stopMotors();
+    return;
+  }
+
+  switch (state) {
+
+    case 0: // initiate wiggle to the right
+      leftForward(outerSpeed);
+      rightForward(innerSpeed);
+      motionStartedAt = millis();
+      state = 1;
+      break;
+
+    case 1: //continue wiggling until time expires
+      if ((currentMillis - motionStartedAt) > duration) {
+        state = 2;
+      }
+      break;
+
+    case 2: // initiate wiggle to the left
+      leftForward(innerSpeed);
+      rightForward(outerSpeed);
+      motionStartedAt = millis();
+      state = 3;
+      break;
+
+    case 3: //continue wiggling until time expires
+      if ((currentMillis - motionStartedAt) > duration) {
+        repetitions--;
+        state = 0;
+      }
+      break;
+
+    case 4:
+      break;
+
+    default:
+      stopMotors();
+      break;
+
+
+
+  }
+}
+
+void stopMotors() {
+  myMotorDriver.setDrive( LEFT_MOTOR, 0, 0); //Stop motor
+  myMotorDriver.setDrive( RIGHT_MOTOR, 0, 0); //Stop motor
+}
+
+void leftForward(int speed) {
+  myMotorDriver.setDrive( LEFT_MOTOR, 0, speed);
+}
+
+void rightForward(int speed) {
+  myMotorDriver.setDrive( RIGHT_MOTOR, 0, speed);
+}
+````
+
+#### Discussion about final
+
 - Make non-blocking classes to
 	- Display animations on display
 	- Movement (wheels)
 - Discussion:
 	- What shall we do for final performance?
 		- Constrained or entirely unrestricted?
+			- unrestricted with optional constraints for those who prefer
 		- Technical difficulties:
 			- Sound
+				- subtitles
+				- bluetooths speakers
+				- computer sychronization
+				- sound overlay
+				- ok to remove mp3 trigger from robot if not being used
 			- Accurate movements
+				- rubber bands
+				- experiment with accurate positioning
 			- Difficulty seeing display
+				- only when stopped
+				- big images
 
+what did you learn about building it this time that you would do
+differently next time ?

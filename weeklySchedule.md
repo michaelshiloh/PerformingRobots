@@ -274,7 +274,6 @@ Same Household, Same Opinion?* on page 204
 
 State machines
 
-##### todays-assignment
 #### Special assignment due October 30:
 - Sign up for Lynn Hershman Leeson's talk [here](https://forms.gle/GNAtFv6NvZpCtxus8)
 - Mohammad, Sadeq, Benjamin: Select readings for the discussions
@@ -310,6 +309,7 @@ in your class Github repository:
 - Integrating what we've learned
 - Debugging
 
+##### todays-assignment
 #### Assignments Due November 9
 
 Reading Assignment:

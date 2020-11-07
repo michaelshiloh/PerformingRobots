@@ -308,24 +308,18 @@ in your class Github repository:
 ### Week 8 (November 2 and 4)
 
 - Integrating what we've learned
-- Classes with state machines
 - Debugging
 
 #### Assignments Due November 9
 
 Reading Assignment:
 
-TBA
-
-Production Assignment:
-
-TBA
-
-First prototype of final project due
+[The Realization of Robot Theater: Humanoid Robots and Theatric
+Performance](doc/TheRealizationOfRobotTheater.pdf)
 
 ### Week 9 (November 9 and 11)
 
-Second draft
+- Classes with state machines
 
 #### Assignments Due November 16
 

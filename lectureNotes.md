@@ -808,11 +808,12 @@ differently next time ?
 - [OLEDAnimationBruteForce](src/OLEDAnimationBruteForce/OLEDAnimationBruteForce.ino) large OLED animation, brute force method
 - large OLED animation, class
 
-#### Performance
+#### Performance Constraint
 The storyline of your final performance has to come from a song 
 or a poem and has to incorporate some (or all) of the lyrics at some point, 
 but spoken, not sung. Your song or poem could be from any culture and any
-source: modern, classical, popular, epic. Among your documentation you will 
+source: modern, classical, popular, epic, etc. 
+Among your final documentation you will 
 explain the original source and how you adapted it to your performance.
 
 #### Homework

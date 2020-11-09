@@ -331,7 +331,9 @@ Production Assignment:
 
 Write your first draft of your final performance. 
 This first draft is not expected to be your final version.
-- Selecting a song or poem, and outline the story line for your performance
+- New folder called FinalProject
+	- New file called journal.md
+- Select a song or poem, and outline the story line for your performance
 - Consider which character (or characters) your robot will play
 	- How will you construct it 
 	- Costume
@@ -346,6 +348,7 @@ This first draft is not expected to be your final version.
 	- Review Tegan's presentation
 - Disassemble your robot and start working on the actor you will need
 for this performance
+- Anything else you think might be important
 
 ### Week 10 (November 16 and 18) 
 

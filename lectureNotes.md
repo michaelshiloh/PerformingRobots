@@ -786,7 +786,7 @@ differently next time ?
 		return false;
 		````
 
-			- and since WIDTH = 128, HEIGHT = 64, `malloc()` asks for 1136 bytes!
+		- and since WIDTH = 128, HEIGHT = 64, `malloc()` asks for 1136 bytes!
 		- So the ````malloc()```` fails 
 	which causes ````begin()```` to fail 
 	which is why we get the message ````SSD1306 allocation failed````
@@ -794,8 +794,10 @@ differently next time ?
 	[reference](https://cdn-learn.adafruit.com/downloads/pdf/memories-of-an-arduino.pdf)
 
 #### New material
-- wiggleStateMachineClass
-- large OLED animation, brute force
+- [wiggleStateMachineClass](src/wiggleStateMachineClass$ git add
+	wiggleStateMachineClass.ino)
+- [large OLED animation, brute force](src/wiggleStateMachineClass$ git add
+	wiggleStateMachineClass.ino)
 - large OLED animation, class
 
 #### Performance

@@ -797,16 +797,16 @@ differently next time ?
 		13806 out of 32256 bytes. Now since strings aren't going to change, they
 		we can put them in program memory. The easiest way to do that is with the
 		`F()` macro which uses the PROGMEM variable modifier
-			- Serial.println("this message consumes valuable SRAM");
-			- Serial.println(F("this message is in Flash memory"));
+			- `Serial.println("this message consumes valuable SRAM");`
+			- `Serial.println(F("this message is in Flash memory"));`
 			- [Reference](https://www.arduino.cc/reference/en/language/variables/utilities/progmem/)
 			for the `PROGMEM` variable modifier which is used by the `F()` macro 
 - Excellent
 	[reference](https://cdn-learn.adafruit.com/downloads/pdf/memories-of-an-arduino.pdf) about Arduino memory in general and in much more detail
 
 #### New material
-- [wiggleStateMachineClass](src/wiggleStateMachineClass/wiggleStateMachineClass.ino)
-- [large OLED animation, brute force](src/wiggleStateMachineClass/wiggleStateMachineClass.ino)
+- [wiggleStateMachineClass](src/wiggleStateMachineClass/wiggleStateMachineClass.ino) the class implements the state machine internally
+- [OLEDAnimationBruteForce](src/OLEDAnimationBruteForce/OLEDAnimationBruteForce.ino) large OLED animation, brute force method
 - large OLED animation, class
 
 #### Performance

@@ -610,7 +610,6 @@ and political repression.
 Registration to attend this event is required and can be filled out 
 [here](https://forms.gle/GNAtFv6NvZpCtxus8).
 
-### todays-lecture
 #### Monday November 2
 
 #### Administration
@@ -738,3 +737,66 @@ void rightForward(int speed) {
 
 what did you learn about building it this time that you would do
 differently next time ?
+
+
+##### todays-lecture
+#### Monday November 9
+
+#### Administration
+
+- Record
+- Don't forget reading for Wednesday
+
+#### My homework
+- usingButtonWithoutInit or Example1_PrintButtonStatus
+- OLEDUsesLotsOfMemory
+
+#### Arduino memory
+- What is memory?
+	- It's all 1s and 0s
+		- So it's binary
+		- But what is it really?
+- How is memory organized
+	- Each individual 0 or 1 is a single Binary DIgit, called a *bit* 
+	- Bits are organized in groups of 8 called a *byte*
+	- Memory is organzied as an array of bytes, each with a unique address
+	- 1024 bytes are called a kilobyte
+- Arduino memory
+	- Different types of memory
+		- Flash (32K bytes) - retained without power, can't be modified by program
+		- SRAM (2K bytes) - lost without power loss, can be modified by program
+		- EEPROM (1K bytes) - retained without power, can be modified by program
+	- Why so many? And how are they used?
+		- Flash: Where your uploaded program goes
+		- SRAM: Where variables go
+		- EEPROM: Rarely used (it's quite cumbersome)
+	- How do I know how much is being used?
+		- Output of compilation:  
+		````Sketch uses 13806 bytes (42%) of program storage space. 
+		Maximum is 32256 bytes.
+		Global variables use 999 bytes (48%) of dynamic memory, 
+		leaving 1049 bytes for local variables. Maximum is 2048 bytes.
+		````
+	- That looks like plenty, what's the problem?
+		- From Adafruit_SSD1306.cpp:
+		```` bool Adafruit_SSD1306::begin(uint8_t vcs, uint8_t addr, bool reset,
+													 bool periphBegin) {
+if ((!buffer) && !(buffer = (uint8_t *)malloc(WIDTH * ((HEIGHT + 7) / 8))))
+	return false;````
+			- WIDTH = 128, HEIGHT = 64, so `malloc()` asks for 1136 bytes!
+	- So the `malloc()` fails which causes `begin()` to fail which is why we get
+	the message `SSD1306 allocation failed`
+- Excellent
+	[reference](https://cdn-learn.adafruit.com/downloads/pdf/memories-of-an-arduino.pdf)
+
+#### New material
+- wiggleStateMachineClass
+- large OLED animation, brute force
+- large OLED animation, class
+
+#### Performance
+- constraints
+
+todo
+- constraints
+- test usingButtonWithoutInit using built-in example

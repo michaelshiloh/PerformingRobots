@@ -337,6 +337,7 @@ This first draft is not expected to be your final version.
 - Consider which character (or characters) your robot will play
 	- How will you construct it 
 	- Costume
+		- Review your notes from Judi's presentation
 	- What will be the technical requirements (movements, graphics, sound)
 	- How will you get around the technical limitations we've discussed
 		(imprecise movements, poor quality sound, etc.)
@@ -344,8 +345,9 @@ This first draft is not expected to be your final version.
 	- Set (if any)
 	- Lighting (if any)
 	- Greenscreen and alternate background (if any)
+	- Review your notes from Jon's presentation
 - Consider the action
-	- Review Tegan's presentation
+	- Review your notes from Tegan's presentation (and slides)
 - Disassemble your robot and start working on the actor you will need
 for this performance
 - Anything else you think might be important

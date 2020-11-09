@@ -679,6 +679,7 @@ void loop()
       state = 3;
       break;
 
+		// something is wrong here; there is no way to get to state 4
     case 3: //continue wiggling until time expires
       if ((currentMillis - motionStartedAt) > duration) {
         repetitions--;
@@ -806,7 +807,8 @@ differently next time ?
 #### New material
 - [wiggleStateMachineClass](src/wiggleStateMachineClass/wiggleStateMachineClass.ino) the class implements the state machine internally
 - [OLEDAnimationBruteForce](src/OLEDAnimationBruteForce/OLEDAnimationBruteForce.ino) large OLED animation, brute force method
-- large OLED animation, class
+- [Large OLED animation, using a
+	class](src/OLEDAnimationClass/OLEDAnimationClass.ino)
 
 #### Performance Constraint
 The storyline of your final performance has to come from a song 

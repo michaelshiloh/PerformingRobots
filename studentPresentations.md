@@ -33,6 +33,6 @@ This is subject to change
 	Cross-Cultural Survey* on page 125
 - October 28 Zheki *People’s Perception of Domestic Service Robots: 
 Same Household, Same Opinion?* on page 204
-- November 4 Muhammad
-- November 11 Sadeq
+- November 4 Muhammad *Robot Improv: Using Drama to Create Believable Agents*
+- November 11 Sadeq *The Realization of Robot Theater: Humanoid Robots and Theatric Performance*
 - November 18 Benjamin

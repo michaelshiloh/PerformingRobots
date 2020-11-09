@@ -148,7 +148,7 @@ void setup()
 
   initMotorDriver();
 
-  myWiggler.init(4, 200, 10, 100); // repetitions, duration,  innerSpeed, outerSpeed
+  myWiggler.init(4, 500, 10, 100); // repetitions, duration,  innerSpeed, outerSpeed
 }
 
 void loop()

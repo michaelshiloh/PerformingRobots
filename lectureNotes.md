@@ -745,7 +745,6 @@ differently next time ?
 #### Administration
 
 - Record
-- Don't forget reading for Wednesday
 
 #### My homework
 - usingButtonWithoutInit or Example1_PrintButtonStatus
@@ -810,8 +809,13 @@ differently next time ?
 - large OLED animation, class
 
 #### Performance
-- constraints
+The storyline of your final performance has to come from a song 
+or a poem and has to incorporate some (or all) of the lyrics at some point, 
+but spoken, not sung. Your song or poem could be from any culture and any
+source: modern, classical, popular, epic. Among your documentation you will 
+explain the original source and how you adapted it to your performance.
 
-todo
-- constraints
-- test usingButtonWithoutInit using built-in example
+#### Homework
+- Who is leading our conversation next week?
+- Don't forget reading for Wednesday
+- Production assignment

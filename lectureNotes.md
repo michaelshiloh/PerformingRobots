@@ -779,11 +779,12 @@ differently next time ?
 		````
 	- That looks like plenty, what's the problem?
 		- From Adafruit_SSD1306.cpp:
-		```` bool Adafruit_SSD1306::begin(uint8_t vcs, uint8_t addr, bool reset, bool periphBegin) {
-if ((!buffer) && !(buffer = (uint8_t *)malloc(WIDTH * ((HEIGHT + 7) / 8))))
-	return false;````
+		````bool Adafruit_SSD1306::begin(uint8_t vcs, uint8_t addr, bool reset, bool periphBegin) {
+		if ((!buffer) && !(buffer = (uint8_t *)malloc(WIDTH * ((HEIGHT + 7) / 8))))
+		return false;
+		````
 			- WIDTH = 128, HEIGHT = 64, so `malloc()` asks for 1136 bytes!
-	- So the ````malloc()```` fails 
+		- So the ````malloc()```` fails 
 	which causes ````begin()```` to fail 
 	which is why we get the message ````SSD1306 allocation failed````
 - Excellent

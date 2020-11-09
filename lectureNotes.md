@@ -771,7 +771,7 @@ differently next time ?
 		- SRAM: Where variables go
 		- EEPROM: Rarely used (it's quite cumbersome)
 	- How do I know how much is being used?
-		- Output of compilation:  
+		- Output of compilation of OLEDUsesLotsOfMemory:  
 		````Sketch uses 13806 bytes (42%) of program storage space. 
 		Maximum is 32256 bytes.
 		Global variables use 999 bytes (48%) of dynamic memory, 
@@ -779,13 +779,13 @@ differently next time ?
 		````
 	- That looks like plenty, what's the problem?
 		- From Adafruit_SSD1306.cpp:
-		```` bool Adafruit_SSD1306::begin(uint8_t vcs, uint8_t addr, bool reset,
-													 bool periphBegin) {
+		```` bool Adafruit_SSD1306::begin(uint8_t vcs, uint8_t addr, bool reset, bool periphBegin) {
 if ((!buffer) && !(buffer = (uint8_t *)malloc(WIDTH * ((HEIGHT + 7) / 8))))
 	return false;````
 			- WIDTH = 128, HEIGHT = 64, so `malloc()` asks for 1136 bytes!
-	- So the `malloc()` fails which causes `begin()` to fail which is why we get
-	the message `SSD1306 allocation failed`
+	- So the ````malloc()```` fails 
+	which causes ````begin()```` to fail 
+	which is why we get the message ````SSD1306 allocation failed````
 - Excellent
 	[reference](https://cdn-learn.adafruit.com/downloads/pdf/memories-of-an-arduino.pdf)
 
@@ -800,3 +800,4 @@ if ((!buffer) && !(buffer = (uint8_t *)malloc(WIDTH * ((HEIGHT + 7) / 8))))
 todo
 - constraints
 - test usingButtonWithoutInit using built-in example
+- PROGMEM and F() macro

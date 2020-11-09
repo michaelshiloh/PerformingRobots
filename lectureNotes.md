@@ -777,7 +777,7 @@ differently next time ?
 		Global variables use 999 bytes (48%) of dynamic memory, 
 		leaving 1049 bytes for local variables. Maximum is 2048 bytes.
 		````
-	- That looks like plenty, what's the problem?
+	- That looks like plenty, what was the problem with OLEDUsesLotsOfMemory?
 		- From Adafruit_SSD1306.cpp:
 
 		````
@@ -786,18 +786,27 @@ differently next time ?
 		return false;
 		````
 
-		- and since WIDTH = 128, HEIGHT = 64, `malloc()` asks for 1136 bytes!
-		- So the ````malloc()```` fails 
-	which causes ````begin()```` to fail 
-	which is why we get the message ````SSD1306 allocation failed````
+		- Now since WIDTH = 128, HEIGHT = 64, `malloc()` asks for 1136 bytes!
+		- But we only had 1039 bytes available,
+			so the ````malloc()```` fails 
+			which causes ````begin()```` to fail 
+			which is why we get the message ````SSD1306 allocation failed````
+	- So what can we do?
+		- Remember that we have much more program memory (Flash) than
+		variable memory (SRAM). IN fact, we only used
+		13806 out of 32256 bytes. Now since strings aren't going to change, they
+		we can put them in program memory. The easiest way to do that is with the
+		`F()` macro which uses the PROGMEM variable modifier
+			- Serial.println("this message consumes valuable SRAM");
+			- Serial.println(F("this message is in Flash memory"));
+			- [Reference](https://www.arduino.cc/reference/en/language/variables/utilities/progmem/)
+			for the `PROGMEM` variable modifier which is used by the `F()` macro 
 - Excellent
-	[reference](https://cdn-learn.adafruit.com/downloads/pdf/memories-of-an-arduino.pdf)
+	[reference](https://cdn-learn.adafruit.com/downloads/pdf/memories-of-an-arduino.pdf) about Arduino memory in general and in much more detail
 
 #### New material
-- [wiggleStateMachineClass](src/wiggleStateMachineClass$ git add
-	wiggleStateMachineClass.ino)
-- [large OLED animation, brute force](src/wiggleStateMachineClass$ git add
-	wiggleStateMachineClass.ino)
+- [wiggleStateMachineClass](src/wiggleStateMachineClass/wiggleStateMachineClass.ino)
+- [large OLED animation, brute force](src/wiggleStateMachineClass/wiggleStateMachineClass.ino)
 - large OLED animation, class
 
 #### Performance
@@ -806,4 +815,3 @@ differently next time ?
 todo
 - constraints
 - test usingButtonWithoutInit using built-in example
-- PROGMEM and F() macro

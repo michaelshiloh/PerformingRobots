@@ -740,7 +740,6 @@ what did you learn about building it this time that you would do
 differently next time ?
 
 
-##### todays-lecture
 #### Monday November 9
 
 #### Administration
@@ -822,3 +821,15 @@ explain the original source and how you adapted it to your performance.
 - Who is leading our conversation next week?
 - Don't forget reading for Wednesday
 - Production assignment
+
+
+##### todays-lecture
+#### Wednesday November 11
+
+#### Administration
+
+- Record
+- was memory lecture useful?
+
+next lesson
+ arrays for animation frames

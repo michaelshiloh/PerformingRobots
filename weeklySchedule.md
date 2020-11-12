@@ -324,7 +324,7 @@ Performance](doc/TheRealizationOfRobotTheater.pdf)
 
 Reading Assignment:
 
-TBA (Benjamin to provide)
+[A Midsummer Night's Dream (with flying robots)](doc/Murphy2011_Article_AMidsummerNightSDreamWithFlyin.pdf)
 
 Production Assignment:
 

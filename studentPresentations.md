@@ -35,4 +35,4 @@ This is subject to change
 Same Household, Same Opinion?* on page 204
 - November 4 Muhammad *Robot Improv: Using Drama to Create Believable Agents*
 - November 11 Sadeq *The Realization of Robot Theater: Humanoid Robots and Theatric Performance*
-- November 18 Benjamin
+- November 18 Benjamin *A Midsummer Night's Dream (with flying robots)*

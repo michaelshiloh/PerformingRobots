@@ -833,3 +833,27 @@ explain the original source and how you adapted it to your performance.
 
 next lesson
  arrays for animation frames
+
+
+
+
+[Nov 18 & Nov 25] RSVP for IM Workshop Series: Making a Website from Scratch for Absolute Beginners (Part III & IV) - Fall 2020
+
+Part III & Part IV of this workshop series are finally here! Please RSVP to confirm your attendance.
+
+Please find the description of the two upcoming workshops below:
+
+Part III: Wed, Nov 18, 5:30–7:30pm GST - Jekyll: Creating an Online Blog or Portfolio
+
+In this workshop, you will learn how to create a fully-customizable blog or portfolio website with Jekyll. Thanks to GitHub’s native support of Jekyll, you will be able to host your site for free and manage the content of your site without the hassle of maintaining your own database.
+
+Part IV: Wed, Nov 25, 5:30–7:30pm GST - p5.js: Creating Visuals, Animations, Games
+
+This workshop gets you started with p5.js, a JavaScript library for creative coding. P5.js lets you do anything from creating simple visuals and animations for your website to designing complex interactions or even standalone games.
+
+Note that, while not required, it is extremely helpful if you have some knowledge of HTML, CSS, and JavaScript before attending the above workshops. I have covered these topics in the Part I & Part II of this workshop series. You can find the recordings below:
+
+IM Workshop Series, Part I: HTML & CSS - Designing Layouts, Content & Styles
+
+IM Workshop Series, Part II: JavaScript - Adding Interactive Features
+

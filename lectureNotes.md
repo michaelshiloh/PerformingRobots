@@ -823,7 +823,6 @@ explain the original source and how you adapted it to your performance.
 - Production assignment
 
 
-##### todays-lecture
 #### Wednesday November 11
 
 #### Administration
@@ -831,11 +830,16 @@ explain the original source and how you adapted it to your performance.
 - Record
 - was memory lecture useful?
 
-next lesson
- arrays for animation frames
+#### Monday November 18
+
+- Arrays for animation frames
+- Animation and wiggle at the same time, no delays, using classes
 
 
+##### todays-lecture
+#### Wednesday November 18
 
+#### Announcements
 
 [Nov 18 & Nov 25] RSVP for IM Workshop Series: Making a Website from Scratch for Absolute Beginners (Part III & IV) - Fall 2020
 
@@ -856,4 +860,10 @@ Note that, while not required, it is extremely helpful if you have some knowledg
 IM Workshop Series, Part I: HTML & CSS - Designing Layouts, Content & Styles
 
 IM Workshop Series, Part II: JavaScript - Adding Interactive Features
+
+
+#### Discussions and Presentations
+
+- Liyan: The work and ideas of Guy Hoffman 
+- Benjamin A Midsummer Night's Dream (with flying robots)
 

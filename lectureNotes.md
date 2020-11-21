@@ -871,5 +871,4 @@ IM Workshop Series, Part II: JavaScript - Adding Interactive Features
 
 #### Announcements
 
-- No class on Wednesday, 
 - Part IV: Wed, Nov 25, 5:30–7:30pm GST - p5.js: Creating Visuals, Animations, Games

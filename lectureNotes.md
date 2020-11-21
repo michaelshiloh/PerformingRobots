@@ -836,7 +836,6 @@ explain the original source and how you adapted it to your performance.
 - Animation and wiggle at the same time, no delays, using classes
 
 
-##### todays-lecture
 #### Wednesday November 18
 
 #### Announcements
@@ -867,3 +866,10 @@ IM Workshop Series, Part II: JavaScript - Adding Interactive Features
 - Liyan: The work and ideas of Guy Hoffman 
 - Benjamin A Midsummer Night's Dream (with flying robots)
 
+##### todays-lecture
+#### Monday November 23
+
+#### Announcements
+
+- No class on Wednesday, 
+- Part IV: Wed, Nov 25, 5:30–7:30pm GST - p5.js: Creating Visuals, Animations, Games

@@ -308,7 +308,6 @@ in your class Github repository:
 - Integrating what we've learned
 - Debugging
 
-##### todays-assignment
 #### Assignments Due November 9
 
 Reading Assignment:
@@ -355,15 +354,21 @@ for this performance
 
 Start working on final robot
 
+##### todays-assignment
 #### Assignments Due November 23
-
-Reading Assignment:
-
-TBA
 
 Production Assignment:
 
-First iteration, final robot 
+Start building your robot. 
+- Concentrate first on functionality. 
+It is easier to add a costume and accessories later, 
+but it will be hard to add functionality of you do the costume first.
+- As much as you can, 
+	make your electronic and mechanical components accessible.
+- As much as you can, 
+	build in a way that will allow
+	you to make changes later
+- Be prepared to show your progress in class
 
 ### Week 11 (November 23 & 25)
 

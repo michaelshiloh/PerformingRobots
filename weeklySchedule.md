@@ -378,6 +378,7 @@ Production assignment:
 1. Now that you know how much time it takes to do anything, figure out
 how much you need to get done in order to be ready by Monday December 7
 	1. Do whatever you feel you need to accomplish in this time period
+	1. Upload a few pictures to Github showing your progress 
 1. Install Adobe Premier 
 	1. by following
 	 [these](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0017797&sys_kb_id=1877507adb9f3f0ca5962feb0b9619a4&spa=1) instructions

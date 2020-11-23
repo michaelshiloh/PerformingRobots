@@ -379,9 +379,8 @@ Production assignment:
 how much you need to get done in order to be ready by Monday December 7
 	1. I'm not going to dictate what you should do next
 	1. Do whatever you feel you need to accomplish in this time period
-	1. Showing your progress either by
-		1. Upload a few pictures to Github 
-		1. Describe in words what you've done
+	1. Document your progress in your journal either with
+		pictures or text or both as appropriate to what you've been working on
 1. Install Adobe Premier 
 	1. by following
 	 [these](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0017797&sys_kb_id=1877507adb9f3f0ca5962feb0b9619a4&spa=1) instructions

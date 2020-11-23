@@ -354,7 +354,6 @@ for this performance
 
 Start working on final robot
 
-##### todays-assignment
 #### Assignments Due November 23
 
 Production Assignment:
@@ -372,6 +371,7 @@ but it will be hard to add functionality of you do the costume first.
 
 ### Week 11 (November 23 & 25)
 
+##### todays-assignment
 #### Assignments Due November 30
 
 Production assignment: 
@@ -381,7 +381,7 @@ how much you need to get done in order to be ready by Monday December 7
 1. Install Adobe Premier 
 	1. by following
 	 [these](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0017797&sys_kb_id=1877507adb9f3f0ca5962feb0b9619a4&spa=1) instructions
-	1. If you have any problems contact Academic Tech](mailto:cat@nyu.edu)
+	1. If you have any problems contact [Academic Tech](cat@nyu.edu)
 
 ### Week 12 (November 30 only)
 

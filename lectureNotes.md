@@ -899,7 +899,7 @@ IM Workshop Series, Part II: JavaScript - Adding Interactive Features
 1. Install Adobe Premier 
 	1. by following
 	 [these](https://nyu.service-now.com/sp?id=kb_article&sysparm_article=KB0017797&sys_kb_id=1877507adb9f3f0ca5962feb0b9619a4&spa=1) instructions
-	1. If you have any problems contact Academic Tech](mailto:cat@nyu.edu)
+	1. If you have any problems contact [Academic Tech](cat@nyu.edu)
 1. How to convert an image to the code required for the Adafruit GFX library
 	1. Prepare an image, either by finding something online or by creating your
 		 own. You can also draw something by hand and take a picture.

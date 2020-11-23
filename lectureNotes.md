@@ -869,6 +869,28 @@ IM Workshop Series, Part II: JavaScript - Adding Interactive Features
 ##### todays-lecture
 #### Monday November 23
 
-#### Announcements
+#### Misc
 
+- Record
+- Jon Bonner will give us a tutorial on using Adobe Premiere. You should all
+	have access to it.
 - Part IV: Wed, Nov 25, 5:30–7:30pm GST - p5.js: Creating Visuals, Animations, Games
+
+#### Homework review: Robot status
+
+#### In class exercise:
+
+-	Spend 15 minutes writing a scene for your performance. 
+	Include, as appropriate:
+	- Text, whether it comes from you, the robot, or a recording
+	- Music or other sound effects
+	- Set
+	- Lighting
+	- Robot
+		- Costume
+		- Movement
+		- Display
+	- Anything else you can think of in 15 minutes
+-	Spend 15 minutes programming the robot to do its part for this scene
+- Share
+- Repeat, for an entirely different scene

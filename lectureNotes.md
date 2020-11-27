@@ -923,6 +923,4 @@ How to convert an image to the code required for the Adafruit GFX library
 	to grab Youtube videos?)
 - Jon is on campus Sundays, Tuesdays, and Thursdays, and is willing to come on
 	other days if his schedule permits. He welcomes questions from any of you.
-- Jon's email address  is **jbonner.nyu.edu**
-
-
+- Jon's email address  is **jbonner@nyu.edu**

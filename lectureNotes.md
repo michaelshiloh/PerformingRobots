@@ -905,7 +905,24 @@ How to convert an image to the code required for the Adafruit GFX library
 		1. Set the **Canvas Size** to 128 x 64
 		1. Select *scale to fit, keeping proportions* in **scaling**
 	1. In Step 3 Preview you should be able to see your image
-	1. In step 4  select *Arduino code, single bitmap* in **Code output
-		 format**
+	1. In step 4  select *Arduino code, single bitmap* 
+	in **Code output format**
 	1. Click *Generate Code*
 	1. Copy the code into the appropriate place in your program
+
+
+##### todays-lecture
+#### Wednesday November 25
+
+#### Things that came up in class
+
+- Jon's [folder](https://drive.google.com/drive/folders/1z7V3zYUSSyb1kGWwoYkQ_gVYoTX9RKAn?usp=sharing) of movies used in the tutorial he lead
+- [web page](https://www.youtubemp3.pro/en4/) which converts Youtube video to
+	a file you can download
+- (In my notes I have *clipgrab* but I don't know why. Perhaps another program
+	to grab Youtube videos?)
+- Jon is on campus Sundays, Tuesdays, and Thursdays, and is willing to come on
+	other days if his schedule permits. He welcomes questions from any of you.
+- Jon's email address  is **jbonner.nyu.edu**
+
+

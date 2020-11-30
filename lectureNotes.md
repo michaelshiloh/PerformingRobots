@@ -911,7 +911,6 @@ How to convert an image to the code required for the Adafruit GFX library
 	1. Copy the code into the appropriate place in your program
 
 
-##### todays-lecture
 #### Wednesday November 25
 
 #### Things that came up in class
@@ -924,3 +923,14 @@ How to convert an image to the code required for the Adafruit GFX library
 - Jon is on campus Sundays, Tuesdays, and Thursdays, and is willing to come on
 	other days if his schedule permits. He welcomes questions from any of you.
 - Jon's email address  is **jbonner@nyu.edu**
+
+
+##### todays-lecture
+#### Monday November 30
+
+#### Things that came up in class
+
+- The book that I showed you that discusses whether robots deserve rights: [The
+	Machine
+	Question](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=3339465)
+	is available as an e-book from our library

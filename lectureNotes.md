@@ -934,3 +934,9 @@ How to convert an image to the code required for the Adafruit GFX library
 	Machine
 	Question](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=3339465)
 	is available as an e-book from our library
+- While looking for that book I found two other related 
+books which I haven't read yet, also available as e-books:
+	- [Robot Ethics](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph003565044)
+	- [Robot Rights](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph007385880)
+
+

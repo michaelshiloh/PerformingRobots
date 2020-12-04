@@ -626,7 +626,10 @@ Registration to attend this event is required and can be filled out
 
 #### Lecture
 
-[Link](https://diyusthad.com/image2cpp) to bitmap generator that Muhammad found
+[Link](https://diyusthad.com/image2cpp) to bitmap generator (Thanks Muhammad!)
+
+[Link](https://javl.github.io/image2cpp/)
+to another one that works similarly (Thanks Baraa!)
 
 
 ##### Code developed in class:

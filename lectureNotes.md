@@ -928,7 +928,6 @@ How to convert an image to the code required for the Adafruit GFX library
 - Jon's email address  is **jbonner@nyu.edu**
 
 
-##### todays-lecture
 #### Monday November 30
 
 #### Things that came up in class
@@ -943,3 +942,12 @@ books which I haven't read yet, also available as e-books:
 	- [Robot Rights](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph007385880)
 
 
+##### todays-lecture
+#### Monday December 7
+
+#### Evaluations!
+
+#### Documentation
+Due 11:59pm Saturday Dec 12 
+
+#### Problem solving

@@ -942,7 +942,6 @@ books which I haven't read yet, also available as e-books:
 	- [Robot Rights](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph007385880)
 
 
-##### todays-lecture
 #### Monday December 7
 
 #### Evaluations!
@@ -951,3 +950,8 @@ books which I haven't read yet, also available as e-books:
 Due 11:59pm Saturday Dec 12 
 
 #### Problem solving
+
+##### todays-lecture
+#### Wednesday December 9
+
+[Zheki's video](https://youtu.be/9ueoluVZ928)

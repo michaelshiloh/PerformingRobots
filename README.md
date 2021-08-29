@@ -4,14 +4,16 @@
 Course number: IM-UH 2117  
 Credit Hours: 4     
 Prerequisites: None     
+
 Course website:
 [https://github.com/michaelshiloh/PerformingRobots](https://github.com/michaelshiloh/PerformingRobots)  
 Instructor: Michael Shiloh mshiloh@nyu.edu
+Office hours: By appointment    
 Meeting times:    
-1:15 PM - 3:55 PM M  
-1:15 PM - 2:30 PM W  
-Session: Fall 2020    
-[Link](https://nyu.zoom.us/j/99801224178) to class Zoom meetings
+10:25-11:40 M     
+9-11:40 W     
+Session: Fall 2021    
+[Zoom](https://nyu.zoom.us/j/92630541872)
 
 This is subject to change
 
@@ -27,5 +29,5 @@ Student Github [repositories](studentRepositories.md)
 
 Student [presentations](studentPresentations.md)
 
-The current session is Fall 2020. 
+The current session is Fall 2021. 
 Previous sessions can be explored [here](previousSessions/).

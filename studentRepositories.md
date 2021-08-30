@@ -19,3 +19,4 @@ This is subject to change
 
 ## This page: Student Repositories
 
+- [Jung Soo](https://github.com/hawill10/Performing-Robots)

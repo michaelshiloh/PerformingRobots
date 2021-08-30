@@ -35,7 +35,7 @@ This is all subject to change
 Preparations, Basic Electronics, and Introduction to (or Review of) Arduino
 
 ### todays-assignment
-#### Assignments Due September 6
+#### Assignments Due September 1
 
 Email Assignment:
 
@@ -46,14 +46,21 @@ Email Assignment:
 	possibly inspired by [this](references.md) list, on which
 	you will give a 10 minute presentation later in the semester.
 
-  Your topic can be an article, a robot, a performance, a book, an artist,
+  - Your topic can be an article, a robot, a performance, a book, an artist,
 	an event, etc. 
 
-	Your topic can not be a movie or book of fiction. (e.g. not Wall-E or
+	- Your topic can not be a movie or book of fiction. (e.g. not Wall-E or
 	Terminator)
 
-  Email your topic to me, which I will
+  - Email your topic to me, which I will
   put on our website. You must pick a topic that no one else has chosen.
+
+- Install the Arduino IDE from
+	[here](https://www.arduino.cc/en/Main/Software). If you are on Windows chose
+	the Windows Installer.
+- There is a lot to read for next week, so you might want to start now
+
+#### Assignments Due September 6
 
 Writing Assignment:
 
@@ -62,8 +69,9 @@ Writing Assignment:
 	- In that folder, create a file named 'README.md'
 	- In that file, write a response to the paper (about half a page, more if
 		you wish)
-- 
+ 
 Reading Assignment:
+
 Read, review, or skim as you feel is necessary:
 - Sparkfun [breadboard
 	tutorial](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
@@ -76,8 +84,6 @@ Read, review, or skim as you feel is necessary:
 - If you are new to functions or want to review, 
 watch Dan 
 Shiffman's [functions](https://www.youtube.com/watch?v=XCu7JSkgl04&list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR) tutorials. There are four videos, each less than 10 minutes.
-- [Register](https://urldefense.proofpoint.com/v2/url?u=https-3A__nyu.us9.list-2Dmanage.com_track_click-3Fu-3D03ec7d03b3e32907c3e74fcb1-26id-3D2650eda65d-26e-3D7173815e95&d=DwMFaQ&c=slrrB7dE8n7gBJbeO0g-IQ&r=m4YMhYfi7FR2pb6VWfg2pA&m=dBV5Vamg2OlIs4dGOznCruep3PWs1Ql2EIh4kmkZ7xw&s=s40RaY7f5rmzuFAJ-LNzdWWsumQpM-wEkcHZCOYSeTc&e=) for and attend Invisible Threads: Technology and its Discontents
-Wednesday, September 9th, 7pm (GMT+4) | 11am EDT
 
 #### Assignments Due September 8
 
@@ -100,9 +106,6 @@ Production Assignment:
 		younger siblings consider things like pieces of broken toys and game
 		tokens. Look for interesting scraps in your recycling bin and when you
 		walk outside.
-- Install the Arduino IDE from
-	[here](https://www.arduino.cc/en/Main/Software). If you are on Windows chose
-	the Windows Installer.
 - Build a circuit with at least two momentary switches 
 	(often called buttons), and at least
   two LEDs. Write a program that does something interesting in a creative 

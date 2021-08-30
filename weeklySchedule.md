@@ -43,18 +43,14 @@ Email Assignment:
 - Create your github account and repository. Email me a link to your github repository.
 - Choose a topic, 
 	related to Performing Robots, 
-	possibly inspired by [this](references.md) list, on which
+	possibly (but not necessarily) from [this](references.md) list, on which
 	you will give a 10 minute presentation later in the semester.
-
   - Your topic can be an article, a robot, a performance, a book, an artist,
 	an event, etc. 
-
 	- Your topic can not be a movie or book of fiction. (e.g. not Wall-E or
 	Terminator)
-
   - Email your topic to me, which I will
   put on our website. You must pick a topic that no one else has chosen.
-
 - Install the Arduino IDE from
 	[here](https://www.arduino.cc/en/Main/Software). If you are on Windows chose
 	the Windows Installer.

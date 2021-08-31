@@ -26,7 +26,8 @@ This is subject to change
 - Salama: *Can robots create Art?*
 
 
-**Student Lead Discussions**
+**Student Lead Discussions** (ignore this for now - I'm going to change some
+readings)
 
 - *Initial Formation of Trust: Designing an Interaction with Geminoid-DK to Promote a Positive Attitude for Cooperation*
 - *Children Interpretation of emotional body language displayed by a robot* on page 62 
@@ -35,4 +36,4 @@ This is subject to change
 Same Household, Same Opinion?* on page 204
 - *Robot Improv: Using Drama to Create Believable Agents*
 - *The Realization of Robot Theater: Humanoid Robots and Theatric Performance*
-- November 18 Benjamin *A Midsummer Night's Dream (with flying robots)*
+- *A Midsummer Night's Dream (with flying robots)*

@@ -23,7 +23,6 @@ This document: Lecture Notes
 
 ### Week 1 August 30 and September 1
 
-### todays-lecture
 ### August 30 
 
 Administration
@@ -80,6 +79,9 @@ please choose an alias that I can recognize as you.
 
 Name your repository "Performing Robots"
 
+### todays-lecture
+### September 1
+
 - Edit your README.md file
 	- What is README.md?
 	- What is .md?
@@ -90,16 +92,36 @@ Name your repository "Performing Robots"
 	- Always remember to commit your changes!
 	- More [here](https://github.com/michaelshiloh/resourcesForClasses#github-resources).
 
-Arduino!
+Arduino Programming!
 
-- Basic electronics
-- Arduino
-- LED + resistor
-- Switch + resistor
-- Conditionals
-- Loops
+The built-in examples are a great resource, and there are tutorials for each
+one on the Arduino [website](https://www.arduino.cc/) (Documentation ->
+Built-in Examples). Let's review these:
 
-Discussion!
+The basics
+- `digitalWrite()` to turn something on and off (such as an LED)
+- `digitalRead()` to read a digital sensor (such as a switch)
+- How to use `Serial.print()` 
+- `analogWrite()` to control the brightness of an LED
+- `analogRead()` to read an analog sensor (such as a light sensor)
 
-- What is a robot?
-- What is a performance?
+Schematics
+
+Conditionals
+- if()
+- if() ... else
+
+Loops
+- `while()`
+- `for()`
+
+In-class exercise:
+- Work in pairs to come up with a system with two buttons and two LEDs that
+	will do different things depending on how many buttons are pressed
+
+Time Permitting:
+
+Suppose we want to cycle through some behavior when a button is pushed. How
+would we do this?
+- Edge detection
+- State Machine

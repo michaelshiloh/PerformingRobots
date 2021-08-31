@@ -25,3 +25,7 @@ This is subject to change
 - [Aalya](https://github.com/AalyaSharaf/PerformingRobots)
 - [Salama](https://github.com/SalamaAlmheiri/Performing-Robots)
 - [Katie](https://github.com/katieferreol/PerformingRobots)
+- [Zhiyang](https://github.com/JimmyXwtx/Perforaming_Robots)
+- [Tori](https://github.com/VMonde14/PerformingRobots)
+- [Kyle](https://github.com/neomort/PerformingRobots)
+- [Amina](https://github.com/ak7588/performingRobots)

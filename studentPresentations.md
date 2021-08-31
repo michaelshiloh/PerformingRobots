@@ -24,7 +24,11 @@ This is subject to change
 - Jung Soo: *The Machine as Artist: An Introduction*
 - Coco: *The Uncanny Valley: An Artistic Perspective*
 - Salama: *Can robots create Art?*
-
+- Zhiyang: *Analysis of Interactive Autonomous Robots in the Context of Theatre*
+- Aalya: *Shimon Robotic Musician"*
+- Tori: *Simone Giertz*
+- Kyle: *Robots as tools for publicity in internet entertainment*
+- Amina: *Performance of Disabled Robotics*
 
 **Student Lead Discussions** (ignore this for now - I'm going to change some
 readings)

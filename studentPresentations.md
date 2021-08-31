@@ -20,6 +20,10 @@ This is subject to change
 **Student Research and Presentations**
 
 - [Katie](https://www.nytimes.com/2012/07/08/theater/robot-and-human-actors-take-bows-together.html)  
+- Yasmin: *200~The Three Sirens Band*
+- Jung Soo: *The Machine as Artist: An Introduction*
+- Coco: *The Uncanny Valley: An Artistic Perspective*
+- Salama: *Can robots create Art?*
 
 
 **Student Lead Discussions**

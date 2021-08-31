@@ -20,3 +20,8 @@ This is subject to change
 ## This page: Student Repositories
 
 - [Jung Soo](https://github.com/hawill10/Performing-Robots)
+- [Yasmin](https://github.com/yasmin-alshurafa/performing-robots)
+- [Coco](https://github.com/kexucoco/performing-robots-2021F)
+- [Aalya](https://github.com/AalyaSharaf/PerformingRobots)
+- [Salama](https://github.com/SalamaAlmheiri/Performing-Robots)
+- [Katie](https://github.com/katieferreol/PerformingRobots)

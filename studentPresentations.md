@@ -29,6 +29,8 @@ This is subject to change
 - Tori: *Simone Giertz*
 - Kyle: *Robots as tools for publicity in internet entertainment*
 - Amina: *Performance of Disabled Robotics*
+- Jana: *Karel Čapek and the R.U.R.*
+- Rick: *Theatre robotics for human technology education*
 
 **Student Lead Discussions** (ignore this for now - I'm going to change some
 readings)

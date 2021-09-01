@@ -29,3 +29,5 @@ This is subject to change
 - [Tori](https://github.com/VMonde14/PerformingRobots)
 - [Kyle](https://github.com/neomort/PerformingRobots)
 - [Amina](https://github.com/ak7588/performingRobots)
+- [Jana](https://github.com/jana-pocuch/Performing-Robots)
+- [Rick](https://github.com/yungjurick/Performing-Robots)

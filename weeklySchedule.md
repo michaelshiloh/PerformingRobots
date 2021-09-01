@@ -56,7 +56,31 @@ Email Assignment:
 	the Windows Installer.
 - There is a lot to read for next week, so you might want to start now
 
+### todays-assignment
 #### Assignments Due September 6
+
+Production Assignment:
+- Pick up your kit from the bookstore, and the book as well if it's there. (I
+	can't remember if we're getting paper or electronic books)
+- Prepare a space for working with electronics
+	- Have some space to work. There are many small components in the kit that
+	will be easily lost, so ideally be seated at a table or desk with clear
+	space around you.
+	- The kit will include a hot glue gun and a soldering iron. 
+		You will need a safe place with an
+		electric outlet to work. To protect your work surface from drops of hot
+		glue, cover it with cardboard or paper. You will need to keep the hot glue
+		gun out of the reach of children or animals.
+- You will be building a robot. In order to give each robot its unique
+		personality, start collecting cardboard boxes for constructing the robot,
+		and varied items that can be glued to your robot. Wooden items such as
+		coffee stirrers or popsickle sticks, plastic items like bottle caps, and
+		cardboard such as toilet paper tubes are excellent candidates. If you have
+		younger siblings consider things like pieces of broken toys and game
+		tokens. Look for interesting scraps in your recycling bin and when you
+		walk outside.
+- Start working on your presentation. We will start presentations on September
+	13.
 
 Writing Assignment:
 
@@ -81,45 +105,8 @@ Read, review, or skim as you feel is necessary:
 watch Dan 
 Shiffman's [functions](https://www.youtube.com/watch?v=XCu7JSkgl04&list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR) tutorials. There are four videos, each less than 10 minutes.
 
-#### Assignments Due September 8
+#### Assignments Due September 13
 
 Production Assignment:
 
-- Prepare a space for working with electronics
-	- Have some space to work. There are many small components in the kit that
-	will be easily lost, so ideally be seated at a table or desk with clear
-	space around you.
-	- The kit will include a hot glue gun and a soldering iron. 
-		You will need a safe place with an
-		electric outlet to work. To protect your work surface from drops of hot
-		glue, cover it with cardboard or paper. You will need to keep the hot glue
-		gun out of the reach of children or animals.
-	- You will be building a robot. In order to give each robot its unique
-		personality, start collecting cardboard boxes for constructing the robot,
-		and varied items that can be glued to your robot. Wooden items such as
-		coffee stirrers or popsickle sticks, plastic items like bottle caps, and
-		cardboard such as toilet paper tubes are excellent candidates. If you have
-		younger siblings consider things like pieces of broken toys and game
-		tokens. Look for interesting scraps in your recycling bin and when you
-		walk outside.
-- Build a circuit with at least two momentary switches 
-	(often called buttons), and at least
-  two LEDs. Write a program that does something interesting in a creative 
-	way.  Each switch must not simply turn on a corresponding LED.
-- Document your work:
-	- Create a new folder in your github repository called “September8"
-	- Describe your project in README.md and include:
-		- A description of your concept and how it was achieved
-		- A screenshot of your circuit
-			- Your schematic, whether hand drawn or otherwise, must be clear.
-			- **Remember what a schematic is and is not.**
-			- **Make sure your schematic is big enough to read without enlarging**
-		- Problems, if any, and solutions, if any
-		- Anything else you can think of
-	- Upload your program.
-		- Excellent names for variables and functions
-		- Well structured
-		- Proper indentation
-		- Excellent comments
-		- Keep the .ino extension so that it is formatted properly.
-
+Presentations are due, although we will not do them all today

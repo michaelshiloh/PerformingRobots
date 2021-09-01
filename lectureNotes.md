@@ -26,7 +26,6 @@ This document: Lecture Notes
 ### August 30 
 
 Administration
-
 - Record 
 
 Introduction
@@ -81,6 +80,12 @@ Name your repository "Performing Robots"
 
 ### todays-lecture
 ### September 1
+
+Administration
+- Record 
+- Commitments
+
+Github review (if necessary)
 
 - Edit your README.md file
 	- What is README.md?

@@ -84,6 +84,7 @@ Name your repository "Performing Robots"
 Administration
 - Record 
 - Commitments
+- Is anyone using the Github desktop or command line tools?
 
 Github review (if necessary)
 

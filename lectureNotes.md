@@ -78,7 +78,6 @@ please choose an alias that I can recognize as you.
 
 Name your repository "Performing Robots"
 
-### todays-lecture
 ### September 1
 
 Administration
@@ -131,3 +130,74 @@ Suppose we want to cycle through some behavior when a button is pushed. How
 would we do this?
 - Edge detection
 - State Machine
+
+### todays-lecture
+### September 6
+
+Administration
+- Record 
+- Any questions about last week's exercise with the buttons and LEDs?
+
+#### Soldering 
+
+##### Preparation
+
+- Get solder ready (unwrap plastic)
+- Remove plastic cover from soldering iron
+- **Keep it on the silicon mat!!**
+- Make sure it can't roll off the table
+- Plug in iron
+- Set temperature to 330
+- Careful of the soldering iron tip
+- Tining the tip
+
+##### Exercise: Wire to wire
+
+- Wire (don't use red or black)
+- Wire cutters/strippers
+- Twist tightly
+- Use something to hold the wire (cutters, brick)
+- Soldering iron below, solder from above
+	- Heat rises, liquid flows down
+- OK to reheat if you don't like the way it looks
+- Practice a few more times
+
+##### Real work: Wire to motor
+
+- Strip wire
+- Tin wire
+- Note that copper tabs are extremely delicate
+	- Avoid twisting and bending the wire once you solder to the tabs
+- Tin copper tabs
+- Trim wire to length of tab
+- Put wire on tab and reheat to get the two solders to melt to each other
+- **Strain relief**
+- Testing motors
+
+##### Prepare H-bridge
+
+- How to use a screwdriver
+	- Especially if the size is wrong or the screws are poor quality
+- Gently pry open 
+- Prepare ground jumper
+- Insert battery wires, carefully observing polarity
+	- Red is +Vcc
+	- Black is GND
+- Attach motor wires (polarity doesn't matter)
+- Attach jumpers for H-bridge
+- Code
+	- Need to set up Arduino first
+- Enjoy
+
+#### Digital Multi Meter
+
+- Battery
+- Measuring resistance
+	- Resistor
+	- Motor
+	- LED
+	- Yourself
+- Measuring voltage:
+	- Battery
+	- Arduino 5V
+	- Arduino output

@@ -124,14 +124,6 @@ In-class exercise:
 - Work in pairs to come up with a system with two buttons and two LEDs that
 	will do different things depending on how many buttons are pressed
 
-Time Permitting:
-
-Suppose we want to cycle through some behavior when a button is pushed. How
-would we do this?
-- Edge detection
-- State Machine
-
-### todays-lecture
 ### September 6
 
 Administration
@@ -149,7 +141,7 @@ Administration
 - Plug in iron
 - Set temperature to 330
 - Careful of the soldering iron tip
-- Tining the tip
+- Tinning the tip
 
 ##### Exercise: Wire to wire
 
@@ -174,19 +166,43 @@ Administration
 - **Strain relief**
 - Testing motors
 
+### todays-lecture
+### September 8
+
+Administration
+- Record 
+- Testing motors
+
+##### Test Arduino
+- IDE
+- Arduino + USB cable
+- Blink
+
+##### Arduino review (in-class exercise)
+Work in pairs
+- LEDs + 1K resistors
+- Switches + 10K resistors
+- Questions? 
+
+Time Permitting:
+
+Suppose we want to cycle through some behavior when a button is pushed. How
+would we do this?
+- Edge detection
+- State Machine
+
 ##### Prepare H-bridge
 
 - How to use a screwdriver
 	- Especially if the size is wrong or the screws are poor quality
 - Gently pry open 
-- Prepare ground jumper
+- Prepare battery black wire
 - Insert battery wires, carefully observing polarity
-	- Red is +Vcc
-	- Black is GND
+	- Red is + 
+	- Black is - GND 
 - Attach motor wires (polarity doesn't matter)
 - Attach jumpers for H-bridge
 - Code
-	- Need to set up Arduino first
 - Enjoy
 
 #### Digital Multi Meter

@@ -19,18 +19,18 @@ This is subject to change
 
 **Student Research and Presentations**
 
-- [Katie](https://www.nytimes.com/2012/07/08/theater/robot-and-human-actors-take-bows-together.html)  
-- Yasmin: *The Three Sirens Band*
-- Jung Soo: *The Machine as Artist: An Introduction*
-- Coco: *The Uncanny Valley: An Artistic Perspective*
-- Salama: *Can robots create Art?*
-- Zhiyang: *Analysis of Interactive Autonomous Robots in the Context of Theatre*
-- Aalya: *Shimon Robotic Musician"*
-- Tori: *Simone Giertz*
-- Kyle: *Robots as tools for publicity in internet entertainment*
-- Amina: *Performance of Disabled Robotics*
 - Jana: *Karel Čapek and the R.U.R.*
+- Zhiyang: *Analysis of Interactive Autonomous Robots in the Context of Theatre*
+- Jung Soo: *The Machine as Artist: An Introduction*
+- [Katie](https://www.nytimes.com/2012/07/08/theater/robot-and-human-actors-take-bows-together.html)  
+- Tori: *Simone Giertz*
+- Amina: *Performance of Disabled Robotics*
 - Rick: *Theatre robotics for human technology education*
+- Yasmin: *The Three Sirens Band*
+- Coco: *The Uncanny Valley: An Artistic Perspective*
+- Aalya: *Shimon Robotic Musician"*
+- Salama: *Can robots create Art?*
+- Kyle: *Robots as tools for publicity in internet entertainment*
 
 **Student Lead Discussions** (ignore this for now - I'm going to change some
 readings)

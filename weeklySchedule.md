@@ -109,4 +109,16 @@ Shiffman's [functions](https://www.youtube.com/watch?v=XCu7JSkgl04&list=PLRqwX-V
 
 Production Assignment:
 
+- Prepare a second motor as we did in class. 
+	- You might want to watch the
+	recording of class to remind youself how to do it.
+	- Make sure you pay attention to all the precautions so as not
+	to damage the motor or soldering iron, and not to hurt yourselves
+	- Test the motor by connecting it directly to a battery
+- Connect the second motor to the other side of the H-bridge
+- Remove the red wire that went from the 5V pin on Arduino 
+	to the 5v on the H-bridge. It is not needed.
+- Using the breadboard, connect a switch (pushbutton) to your Arduino
+- Write a program that will make both motors turn when you press the switch
+
 Presentations are due, although we will not do them all today

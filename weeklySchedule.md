@@ -34,7 +34,6 @@ This is all subject to change
 
 Preparations, Basic Electronics, and Introduction to (or Review of) Arduino
 
-### todays-assignment
 #### Assignments Due September 1
 
 Email Assignment:
@@ -105,6 +104,7 @@ Read, review, or skim as you feel is necessary:
 watch Dan 
 Shiffman's [functions](https://www.youtube.com/watch?v=XCu7JSkgl04&list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR) tutorials. There are four videos, each less than 10 minutes.
 
+### todays-assignment
 #### Assignments Due September 13
 
 Production Assignment:

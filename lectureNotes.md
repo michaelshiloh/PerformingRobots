@@ -206,6 +206,89 @@ would we do this?
 - Code
 - Enjoy
 
+Here are the two programs we used in class to test the motor
+
+````
+// Simple program to demonstrate turning a DC motor on and off
+// Using the L298 H-bridge module
+
+// Pin connections
+const int in1Pin = 7;
+const int in2Pin = 6;
+const int in3Pin = 5;
+const int in4Pin = 4;
+
+void setup() {
+  pinMode(in1Pin, OUTPUT);
+  pinMode(in2Pin, OUTPUT);
+  pinMode(in3Pin, OUTPUT);
+  pinMode(in4Pin, OUTPUT);
+}
+
+void loop() {
+
+  // The motor turns when its inputs have opposite values
+  digitalWrite(in3Pin, HIGH);
+  digitalWrite(in4Pin, LOW);
+
+  delay(1000);
+
+  // The motor stops when they have the same value
+  digitalWrite(in3Pin, HIGH);
+  digitalWrite(in4Pin, HIGH);
+
+  delay(1000);
+
+}
+````
+
+````
+// Simple program to demonstrate controlling the speed and direction
+// of a DC motor using the L298 H-bridge module
+
+// Pin connections
+const int in1Pin = 7;
+const int in2Pin = 6; // PWM pin!
+const int in3Pin = 5; // PWM pin!
+const int in4Pin = 4;
+
+void setup() {
+  pinMode(in1Pin, OUTPUT);
+  pinMode(in2Pin, OUTPUT);
+  pinMode(in3Pin, OUTPUT);
+  pinMode(in4Pin, OUTPUT);
+}
+
+void loop() {
+
+  // By making in3 go high we activate the motor. By
+  // using analogWrite() we control how long the pulse
+  // is high and hence the speed.
+  analogWrite(in3Pin, 75);
+  digitalWrite(in4Pin, LOW);
+
+  delay(1000);
+
+  // To reverse the direction of rotation, in3 must be low
+  // and in4 must be high.
+  // We can still control the speed, but now it is the low part of the PWM
+  // pulse that makes the motor go. To get a similar speed,
+  // we must subtract 75 from 255 (the highest value)
+  // to make the low part of the pulse identical to
+  // the high part of the pulse when we rotated in the opposite direction
+  analogWrite(in3Pin, 255 - 75);
+  digitalWrite(in4Pin, HIGH);
+
+  delay(1000);
+
+}
+````
+
+
+
+
+next week:
+
 #### Digital Multi Meter
 
 - Battery

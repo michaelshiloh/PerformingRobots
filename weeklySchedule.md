@@ -55,7 +55,6 @@ Email Assignment:
 	the Windows Installer.
 - There is a lot to read for next week, so you might want to start now
 
-### todays-assignment
 #### Assignments Due September 6
 
 Production Assignment:
@@ -122,3 +121,26 @@ Production Assignment:
 - Write a program that will make both motors turn when you press the switch
 
 Presentations are due, although we will not do them all today
+
+Instructions for presentations
+
+- Background: 
+	The purpose of these presentations is to let us grapple with questions
+	about robotic performances, such as:
+	- What is a robot? 
+	- What is a robot performer?
+	- What is a performance?
+	- Should robots be in performances? Why or why not?
+	- Should robots replace human performers?
+	- Should humans replace robot performers?
+	- What does a robot performer do better than a human performer? Worse?
+- Presentation should be 10-15 minutes long
+- Presentation should be demonstrate critical thinking. 
+	Don't just report the facts. 
+	- What is the context for this presentation?
+	- What questions did it raise?
+	- How do you feel about it? Do you agree? Did it change your mind? Did it
+		make you think about things differently?
+- Presentation should end with some questions that will encourage us to think
+	about how this presentation affects or changes our
+	opinions about robotic performances

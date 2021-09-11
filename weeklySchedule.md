@@ -122,7 +122,7 @@ Production Assignment:
 
 Presentations are due, although we will not do them all today
 
-Instructions for presentations
+Guidelines for presentations
 
 - Background: 
 	The purpose of these presentations is to let us grapple with questions

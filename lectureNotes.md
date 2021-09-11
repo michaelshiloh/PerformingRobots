@@ -166,7 +166,6 @@ Administration
 - **Strain relief**
 - Testing motors
 
-### todays-lecture
 ### September 8
 
 Administration
@@ -184,13 +183,6 @@ Work in pairs
 - LEDs + 1K resistors
 - Switches + 10K resistors
 - Questions? 
-
-Time Permitting:
-
-Suppose we want to cycle through some behavior when a button is pushed. How
-would we do this?
-- Edge detection
-- State Machine
 
 ##### Prepare H-bridge
 
@@ -284,20 +276,77 @@ void loop() {
 }
 ````
 
+### todays-lecture
+### September 12
 
+#### Administration
 
+- Record 
+- Any problems with the second motor (soldering, H-bridge)?
 
-next week:
+#### Presentation
+
+- Discussion of presentation
+
+#### What are we doing?
+
+- What is a performance?
+- What is a robot?
+- What can we realistically build?
+
+#### More Arduino practice
+
+##### Switches, potentiometers, and the H-bridge
+
+- Switches and two motors
+	- Schematic
+- Potentiometer to control speed
+- Potentiometer to control speed and direction
+
+#### State machines
+
+Suppose we want to cycle through different behaviors when a button is pushed. 
+How might we do this?
+- Edge detection
+- State Machine
+
+Simple
+[example](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/stateMachines/simpleArduinoStateMachine)
+which does nothing but shows how to implement a state machine
+either with a bunch of `if()` statements or with a `switch()` statement
+
+[Example](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/noDelay/melodyBlinkStateMachine)
+of a state machine which blinks LEDs and plays a melody
+all without using the `delay()` function!
+
+##### Servo motor
 
 #### Digital Multi Meter
 
 - Battery
-- Measuring resistance
+- Measuring resistance 
 	- Resistor
 	- Motor
-	- LED
 	- Yourself
+	- **Component must not be part of a circuit**
+- Measuring continuity
+	- **Circuit must not be powered**
+	- Solder connection
+	- Connection to pin of an Arduino
+	- Connection to pin of a switch
 - Measuring voltage:
 	- Battery
 	- Arduino 5V
 	- Arduino output
+		- Staying at one level
+		- Blinking
+		- Connecting to breadboard
+	- Testing LEDs
+
+#### 
+
+#### More soldering and circuit building skills
+
+##### Neopixel matrix 
+
+How would you approach this?

@@ -296,6 +296,17 @@ void loop() {
 
 #### More Arduino practice
 
+##### First of all, where do we learn about the H-bridge?
+
+- There is no documentation on the module
+- How do we know what to look for?
+	- Does the big IC have a number?
+- Generic
+- They all *seem* to be the same (although there is no guarantee) 
+- Do a quick search for L-298 driver or L-298 H-bridge
+- In-class exercise: draw a schematic for the Arduino + H-bridge + battery +
+	motor
+
 ##### Switches, potentiometers, and the H-bridge
 
 - Switches and two motors

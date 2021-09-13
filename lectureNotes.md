@@ -276,7 +276,6 @@ void loop() {
 }
 ````
 
-### todays-lecture
 ### September 12
 
 #### Administration
@@ -294,15 +293,22 @@ void loop() {
 - What is a robot?
 - What can we realistically build?
 
+### todays-lecture
+### September 14
+
+#### Administration
+
+- Record 
+
 #### More Arduino practice
 
 ##### First of all, where do we learn about the H-bridge?
 
 - There is no documentation on the module
 - How do we know what to look for?
-	- Does the big IC have a number?
+	- Does the big IC have a name?
 - Generic
-- They all *seem* to be the same (although there is no guarantee) 
+	- They all *seem* to be the same (although there is no guarantee) 
 - Do a quick search for L-298 driver or L-298 H-bridge
 - In-class exercise: draw a schematic for the Arduino + H-bridge + battery +
 	motor
@@ -313,6 +319,31 @@ void loop() {
 	- Schematic
 - Potentiometer to control speed
 - Potentiometer to control speed and direction
+
+#### Construction techniques
+
+##### Prepare
+
+- Hot glue gun
+- Hot glue sticks
+- Cardboard
+- Scissors
+- Found objects
+
+##### Techniques
+
+- Precision
+- Preventing collapse
+	- Braces
+- Rigidity
+	- T profile
+		- Braces?
+	- I profile
+		- Braces?
+
+##### In-class exercise
+
+- Self-portrait
 
 #### State machines
 

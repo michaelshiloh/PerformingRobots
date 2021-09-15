@@ -91,8 +91,7 @@ Writing Assignment:
 Reading Assignment:
 
 Read, review, or skim as you feel is necessary:
-- Sparkfun [breadboard
-	tutorial](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
+- Sparkfun [breadboard tutorial](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
 - [Microcontrollers, the basics](https://itp.nyu.edu/physcomp/lessons//microcontrollers-the-basics/)
 - [Digital Input & Output](https://itp.nyu.edu/physcomp/lessons//digital-input-output/)
 - Read about 
@@ -103,7 +102,6 @@ Read, review, or skim as you feel is necessary:
 watch Dan 
 Shiffman's [functions](https://www.youtube.com/watch?v=XCu7JSkgl04&list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR) tutorials. There are four videos, each less than 10 minutes.
 
-### todays-assignment
 #### Assignments Due September 13
 
 Production Assignment:
@@ -144,3 +142,30 @@ Guidelines for presentations
 - Presentation should end with some questions that will encourage us to think
 	about how this presentation affects or changes our
 	opinions about robotic performances
+
+### todays-assignment
+#### Assignments Due September 20
+
+Production Assignment:
+
+Build something that you choose to define as a robot
+- You may define the word "robot" in any way that you wish
+- Your robot must be able to move. You may use any of the motors at your
+	disposal. This is only a weekend project so don't be too ambitious.
+- Program some sort of sequence into the robot's movements. 
+	- The sequence must
+		be part of a story (existing or one you made up)
+	- The sequence must be at least 10 seconds long
+- Upload a video of the robot performing its sequence (Vimeo, Youtube, etc.) 
+-Document your project in your Github repository
+	- Make a new folder with the name "September20"
+	- Upload some process pictures as well as pictures of the final result
+	- Create a README.md file with the following information
+		- Your definition of the word "robot"
+		- Describe your process and include the process pictures
+		- Describe the story and how the movement sequence tells it
+		- A link to the video
+		- Describe any difficulties you had and how you overcame them or worked
+			around them
+		- Describe anything interesting you learned or discovered
+		- Anything else you wish to add

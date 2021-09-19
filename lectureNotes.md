@@ -293,7 +293,6 @@ void loop() {
 - What is a robot?
 - What can we realistically build?
 
-### todays-lecture
 ### September 14
 
 #### Administration
@@ -341,9 +340,22 @@ void loop() {
 	- I profile
 		- Braces?
 
-##### In-class exercise
+### todays-lecture
+### September 14
 
-- Self-portrait
+#### Administration
+
+- Record 
+
+#### HOmework sharing and critique
+
+#### Let's make the robots more mobile
+
+1. Getting rid of the USB cable
+
+- Power the Arduino with LiPo battery, USB adapter, and switch
+
+1. Powering the motor driver
 
 #### State machines
 

@@ -347,17 +347,21 @@ void loop() {
 
 - Record 
 
-#### HOmework sharing and critique
+#### Homework sharing and critique
+
+#### More things from your kit:
+
+- Servo motor
+- LiPo battery and booster
 
 #### Let's make the robots more mobile
 
-1. Getting rid of the USB cable
+- Getting rid of the USB cable
+	- Power the Arduino with LiPo battery, USB adapter, and switch
+- Powering the motor driver
+	- Remember our discussion last week of the +5V connection
 
-- Power the Arduino with LiPo battery, USB adapter, and switch
-
-1. Powering the motor driver
-
-#### State machines
+#### A better way to handle sequences: State Machines
 
 Suppose we want to cycle through different behaviors when a button is pushed. 
 How might we do this?
@@ -372,8 +376,6 @@ either with a bunch of `if()` statements or with a `switch()` statement
 [Example](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/noDelay/melodyBlinkStateMachine)
 of a state machine which blinks LEDs and plays a melody
 all without using the `delay()` function!
-
-##### Servo motor
 
 #### Digital Multi Meter
 
@@ -396,8 +398,6 @@ all without using the `delay()` function!
 		- Blinking
 		- Connecting to breadboard
 	- Testing LEDs
-
-#### 
 
 #### More soldering and circuit building skills
 

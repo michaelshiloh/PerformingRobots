@@ -345,6 +345,28 @@ void loop() {
 
 #### Administration
 
+- A message from the Wellness Department
+	- "The Wellness Department is intentionally making an effort to extend its
+		reach to students.  Instead of having students come to us to seek wellness
+		or lessons on wellness and holistic health we want to get out more across
+		campus to meet students where they live and go to class.  
+
+		We realize your day is busy and your life is busy so we've developed a
+		space in A-5-A for you to gather some wellness related information.  We're
+		also making plans for outreach across the residential spaces in the form
+		of evening sessions which will involve simple tactile artistic work that
+		could take many shapes and be in different mediums.
+
+		One other initiative is what we're doing with Professor Shiloh that you're
+		going to be part of in class.  We simply want to expose you to what
+		meditation is like by using the Headspace app for a few minutes during
+		class.  It is a guided meditation exercise that has been shown to help
+		people experience stress less, focus more and even sleep better.
+	- Logistics:
+		- 5 minute exercise at the beginning of class on Thursday
+		- Please be in a quiet place where you won't be disturbed and feel
+			comfortable sitting with your eyes closed
+
 - Record 
 
 #### Homework sharing and critique

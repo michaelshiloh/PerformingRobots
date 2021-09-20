@@ -340,11 +340,11 @@ void loop() {
 	- I profile
 		- Braces?
 
-### todays-lecture
-### September 14
+### September 20
 
 #### Administration
 
+- Record 
 - A message from the Wellness Department
 	- "The Wellness Department is intentionally making an effort to extend its
 		reach to students.  Instead of having students come to us to seek wellness
@@ -363,11 +363,9 @@ void loop() {
 		class.  It is a guided meditation exercise that has been shown to help
 		people experience stress less, focus more and even sleep better.
 	- Logistics:
-		- 5 minute exercise at the beginning of class on Thursday
+		- 5 minute exercise at the beginning of class on Wednesday
 		- Please be in a quiet place where you won't be disturbed and feel
 			comfortable sitting with your eyes closed
-
-- Record 
 
 #### Homework sharing and critique
 
@@ -376,6 +374,15 @@ void loop() {
 - How would you use this robot in a performance?
 - What difficulties do you anticipate?
 - What changes might you make?
+
+### todays-lecture
+### September 22
+
+#### Administration
+
+- Record 
+
+#### Meditation
 
 #### More things from your kit:
 

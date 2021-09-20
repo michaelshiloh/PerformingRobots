@@ -371,6 +371,8 @@ void loop() {
 
 #### Homework sharing and critique
 
+- Is your robot expressive? Can it create an emotional response in the
+	audience?
 - How would you use this robot in a performance?
 - What difficulties do you anticipate?
 - What changes might you make?

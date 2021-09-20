@@ -371,6 +371,10 @@ void loop() {
 
 #### Homework sharing and critique
 
+- How would you use this robot in a performance?
+- What difficulties do you anticipate?
+- What changes might you make?
+
 #### More things from your kit:
 
 - Servo motor

@@ -381,6 +381,7 @@ void loop() {
 #### Administration
 
 - Record 
+- Jack and Ume Introductions (at end of class, 11:30)
 
 #### Meditation
 
@@ -396,11 +397,15 @@ void loop() {
 - Powering the motor driver
 	- Remember our discussion last week of the +5V connection
 
+#### Getting rid of `delay()`
+
+Adafruit Multitasking
+[Tutorial](https://learn.adafruit.com/multi-tasking-the-arduino-part-1?view=all)
+
 #### A better way to handle sequences: State Machines
 
 Suppose we want to cycle through different behaviors when a button is pushed. 
 How might we do this?
-- Edge detection
 - State Machine
 
 Simple
@@ -411,6 +416,45 @@ either with a bunch of `if()` statements or with a `switch()` statement
 [Example](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/noDelay/melodyBlinkStateMachine)
 of a state machine which blinks LEDs and plays a melody
 all without using the `delay()` function!
+
+#### Edge triggering
+
+````
+
+/* 
+ *  Using state variables to create a toggle effect
+ */
+ 
+const int BUTTONPIN = 3;
+const int LEDPIN = LED_BUILTIN;
+
+void setup() {
+  pinMode(LEDPIN, OUTPUT);
+}
+
+// state variables
+int lastcurrentButtonState = LOW;
+int ledState = LOW;
+
+void loop() {
+  int currentButtonState = digitalRead(BUTTONPIN);
+
+  if ((lastcurrentButtonState == LOW) && (currentButtonState == HIGH)) {
+    
+    // Aha! the button has been pressed; time to toggle the LED
+    ledState = 1 - ledState; // clever trick to toggle the state
+
+    // update the LED itself
+    digitalWrite(LEDPIN, ledState);
+
+    // Wait for switch to stop bouncing
+    delay(10);
+  }
+
+  // Update the last button state
+  lastcurrentButtonState = currentButtonState;
+}
+````
 
 #### Digital Multi Meter
 

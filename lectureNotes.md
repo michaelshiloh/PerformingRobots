@@ -382,7 +382,8 @@ void loop() {
 
 - Record 
 - Jack and Ume Introductions (at end of class, 11:30)
-- Zhiyang's presentation
+- Zhiyang's presentation pushed to next week (we'll have two on one day)
+- Pick up second Arduino and breadboard before next Wednesday
 
 #### Meditation
 

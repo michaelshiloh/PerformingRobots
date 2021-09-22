@@ -143,7 +143,6 @@ Guidelines for presentations
 	about how this presentation affects or changes our
 	opinions about robotic performances
 
-### todays-assignment
 #### Assignments Due September 20
 
 Production Assignment:
@@ -169,3 +168,24 @@ Build something that you choose to define as a robot
 			around them
 		- Describe anything interesting you learned or discovered
 		- Anything else you wish to add
+
+### todays-assignment
+
+#### Assignments Due September 27
+
+- If you don't already have a spare Arduino and breadboard, 
+	reserve one in the IM checkout system .
+	- Schedule the pickup for a time of your choosing, but before Monday
+
+#### Assignments Due September 29
+- Test that the new Arduino works by uploading the `blink` program 
+	from the built-in examples
+- Build a circuit with 2 pushbuttons and test that they both work with the
+	`digitalReadSerial` built in example
+- Using your other Arduino and breadboard, build a circuit with 
+		two servo motors and two LEDs. Test both motors and both LEDs with any
+		built-in example.
+- Solder the USB connector to your second Powerboost and connect it with the
+	other switch to the other battery. Test that it works properly.
+- Make sure that the switches for both batteries are turned off (Powerboost
+	LED should be off).

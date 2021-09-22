@@ -182,6 +182,9 @@ Build something that you choose to define as a robot
 	from the built-in examples
 - Build a circuit with 2 pushbuttons and test that they both work with the
 	`digitalReadSerial` built in example
+- If you need a review of the servo motor, read 
+	[this](https://www.arduino.cc/en/Tutorial/LibraryExamples/Sweep)
+	or any other servo motor tutorial
 - Using your other Arduino and breadboard, build a circuit with 
 		two servo motors and two LEDs. Test both motors and both LEDs with any
 		built-in example.

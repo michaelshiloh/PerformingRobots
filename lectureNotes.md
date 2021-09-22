@@ -382,6 +382,7 @@ void loop() {
 
 - Record 
 - Jack and Ume Introductions (at end of class, 11:30)
+- Zhiyang's presentation
 
 #### Meditation
 

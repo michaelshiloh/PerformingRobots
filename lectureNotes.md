@@ -375,7 +375,6 @@ void loop() {
 - What difficulties do you anticipate?
 - What changes might you make?
 
-### todays-lecture
 ### September 22
 
 #### Administration
@@ -474,14 +473,64 @@ void loop() {
 - Measuring voltage:
 	- Battery
 	- Arduino 5V
+	- Switch
 	- Arduino output
 		- Staying at one level
 		- Blinking
 		- Connecting to breadboard
 	- Testing LEDs
 
+### todays-lecture
+### September 27
+
+#### Administration
+
+- Record 
+- Did you all get your second Arduino and breadboard?
+- Feedback regarding meditation: please email me
+
+#### Presentations
+
+- Zhiyang
+- Jung Soo
+
+Time permitting, review 
+
+#### Digital Multi Meter
+
+**Remember that you must make a very firm connection!!!**
+
+- Measuring resistance 
+	- Resistor
+	- Motor
+	- Yourself
+	- **Component must not be part of a circuit**
+- Measuring continuity
+	- **Circuit must not be powered**
+	- Solder connection
+	- Connection to pin of an Arduino
+	- Connection to pin of a switch
+- Measuring voltage:
+	- Battery
+	- Arduino 5V
+	- Switch
+	- Arduino output
+		- Staying at one level
+		- Blinking
+		- Connecting to breadboard
+			- Alligator cable (get two)
+	- Testing LEDs
+
+### September 29
+
+##### Wireless remote control with nRF24L01 radio modules
+
+- Common
+	[tutorial](https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/)
+- [Code](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01)
+- Schematic
+
+
 #### More soldering and circuit building skills
 
 ##### Neopixel matrix 
-
-How would you approach this?

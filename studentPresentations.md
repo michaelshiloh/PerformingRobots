@@ -20,7 +20,7 @@ This is subject to change
 **Student Research and Presentations**
 
 - Jana: *Karel Čapek and the R.U.R.* (September 13)
-- Zhiyang: *Analysis of Interactive Autonomous Robots in the Context of Theatre* (September 20)
+- Zhiyang: *Analysis of Interactive Autonomous Robots in the Context of Theatre* (September 27)
 - Jung Soo: *The Machine as Artist: An Introduction* (September 27)
 - [Katie](https://www.nytimes.com/2012/07/08/theater/robot-and-human-actors-take-bows-together.html) (October 4)
 - Tori: *Simone Giertz (October 11)

@@ -525,10 +525,9 @@ Time permitting, review
 
 ##### Wireless remote control with nRF24L01 radio modules
 
-- Common
-	[tutorial](https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/)
-- [Code](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01)
-- Schematic
+- Common example of a
+	[tutorial](https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/) which is widely duplicated on the web
+- We will use this [example](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01)
 
 
 #### More soldering and circuit building skills

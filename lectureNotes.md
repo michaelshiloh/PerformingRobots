@@ -523,13 +523,49 @@ Time permitting, review
 
 ### September 29
 
+##### NeoPixel matrix 
+
+For maximum flexibility, we will solder header pins to the Neopixel matrix
+and the solder wires to a header socket
+
+**Remember to remove the cap from your soldering iron before you plug it in**
+
+- Carefully cut off 3 header pins (can cut between pins)
+- Solder header pins to module
+	- Header pins on opposite side of LEDs
+	- Make sure the pins are pushed flush against the board
+	- Make sure they are straight
+- Carefully cut off 3 header sockets (can not cut between sockets, 
+must sacrifice one socket)
+- Solder wires to socket
+	- **Stranded wire**
+	- Ideally, red for 5V, black for GND, any other color for control signal
+	- Tin socket pins and wire
+	- Trim wire down to length of solder tail on socket (i.e. tiny)
+	- Place wire on socket pin and reheat to melt the two solders together
+- Solder a small piece of **solid core** wire to the other end of the stranded
+	wire to make it easy to stick into breadboard
+- Twist wires together or get some zip ties from IM lab
+
+**Programming**
+
+Adafruit NeoPixel
+[Uberguide](https://learn.adafruit.com/adafruit-neopixel-uberguide?view=all)
+
+- Install Adafruit NeoPixel library 
+	- Sketch -> Include Library -> Manage Libraries
+	- Search for Adafruit NeoPixel
+- Open example
+	- File -> Examples -> Adafruit NeoPixel -> Strandtest
+	- Change pin number 
+	- Change LED_PIN and LED_COUNT as necessary
+- Might look at Adafruit NeoMatrix library, I've not yet tried it
+
+##### Servo motors
+
 ##### Wireless remote control with nRF24L01 radio modules
 
 - Common example of a
 	[tutorial](https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/) which is widely duplicated on the web
 - We will use this [example](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01)
 
-
-#### More soldering and circuit building skills
-
-##### Neopixel matrix 

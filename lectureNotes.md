@@ -480,7 +480,6 @@ void loop() {
 		- Connecting to breadboard
 	- Testing LEDs
 
-### todays-lecture
 ### September 27
 
 #### Administration
@@ -527,6 +526,16 @@ Adafruit NeoPixel
 	- Change LED_PIN and LED_COUNT as necessary
 - Might look at Adafruit NeoMatrix library, I've not yet tried it
 
+### todays-lecture
+### September 29
+##### Wireless remote control with nRF24L01 radio modules
+
+- Common example of a
+	[tutorial](https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/) which is widely duplicated on the web
+- We will use this [example](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01)
+which includes a schematic
+
+
 ##### Servo motors
 
 #### Digital Multi Meter
@@ -553,12 +562,3 @@ Adafruit NeoPixel
 		- Connecting to breadboard
 			- Alligator cable (get two)
 	- Testing LEDs
-
-### September 29
-##### Wireless remote control with nRF24L01 radio modules
-
-- Common example of a
-	[tutorial](https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/) which is widely duplicated on the web
-- We will use this [example](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01)
-which includes a schematic
-

@@ -169,8 +169,6 @@ Build something that you choose to define as a robot
 		- Describe anything interesting you learned or discovered
 		- Anything else you wish to add
 
-### todays-assignment
-
 #### Assignments Due September 27
 
 - If you don't already have a spare Arduino and breadboard, 
@@ -183,8 +181,14 @@ Build something that you choose to define as a robot
 	[this](https://www.arduino.cc/en/Tutorial/LibraryExamples/Sweep)
 	or any other servo motor tutorial
 
+### todays-assignment
+
 #### Assignments Due September 29
-- Test that the new Arduino works by uploading the `blink` program 
+- If you didn't finish it in class, finish soldering the stranded 
+	wires to the header socket and on the other end three short pieces of solid
+	core wire for breadboard use. Test that your wire assembly works with 
+	the `strandtest` example.
+- Test that your second Arduino works by uploading the `blink` program 
 	from the built-in examples
 - Build a circuit with 2 pushbuttons and test that they both work with the
 	`digitalReadSerial` built in example
@@ -195,3 +199,9 @@ Build something that you choose to define as a robot
 	other switch to the other battery. Test that it works properly.
 - Make sure that the switches for both batteries are turned off (Powerboost
 	LED should be off).
+
+#### Assignments Due next Monday
+-	Get from the lab 10 feet (3 meters) 
+	of red and black wires stranded wire during
+	open lab hours. The lab assistants should have this ready for you to pick
+	up by this Tuesday.

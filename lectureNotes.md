@@ -560,4 +560,5 @@ Adafruit NeoPixel
 - Common example of a
 	[tutorial](https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/) which is widely duplicated on the web
 - We will use this [example](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01)
+which includes a schematic
 

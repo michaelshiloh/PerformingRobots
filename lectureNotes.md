@@ -528,10 +528,19 @@ Adafruit NeoPixel
 
 ### todays-lecture
 ### September 29
+
+##### Meditation
+
+##### Administration
+
+- Record 
+
 ##### Wireless remote control with nRF24L01 radio modules
 
 - Common example of a
 	[tutorial](https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/) which is widely duplicated on the web
+	- Unfortunately many tutorials on the web are copies of another
+	- Unfortunately some of them have an error
 - We will use this [example](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01)
 which includes a schematic
 

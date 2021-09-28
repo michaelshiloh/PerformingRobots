@@ -538,7 +538,7 @@ which includes a schematic
 
 ##### Servo motors
 
-#### Digital Multi Meter
+##### Digital Multi Meter
 
 **Remember that you must make a very firm connection!!!**
 
@@ -562,3 +562,33 @@ which includes a schematic
 		- Connecting to breadboard
 			- Alligator cable (get two)
 	- Testing LEDs
+
+##### Power considerations
+
+Let's try an experiment (perhaps just a thought experiment): 
+
+- Connect the NeoPixel array
+- Connect all 3 servo motors
+- Connect all 6 DC gearmotors
+- Write a program to turn everything on at full speed 
+
+What might be happening?
+
+- 64 LEDs consume quite a bit of **current**
+- All motors consume quite a bit of **current**
+- Whenever **current** flows through a **resistance** there is a **voltage**
+	drop (Ohm's law)
+- Everything, even wire, has some resistance
+- Therefore, when the motors and the LEDs are on, there could be a substantial
+	**voltage** loss in the wires, connectors, etc.
+- If the **voltage** starts off at the PowerBoost at 5V, by the time it gets to
+	the Arduino there may in fact be less than 5V
+- If the **voltage** at the Arduino is below a certain value (maybe somewhere
+	around 3V) the Arduino will shut down
+
+What's the solution?
+
+- Provide two separate power supplies:
+	- One for Arduino
+	- One for all motors and LEDs
+- That's one reason you have two PowerBoosts and LiPo batteries

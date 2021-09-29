@@ -203,5 +203,25 @@ Build something that you choose to define as a robot
 #### Assignments Due next Monday
 -	Get from the lab 10 feet (3 meters) 
 	of red and black wires stranded wire during
-	open lab hours. The lab assistants should have this ready for you to pick
-	up by this Tuesday.
+	open lab hours. The lab assistants have this ready for you to pick up.
+
+#### Midterm project due October 13
+Built a robot that can be remote controlled
+
+- Your robot can have any shape: anthropomorphic, animal-like, 
+	or completely imaginary. Be experimental!
+- Your robot must be expressive in some way that an audience will respond to 
+	- Might be expressions we're familiar with (happy, sad, fearful, aggressive, shy) or invent your own as long as audience will respond in some way
+- You can use any or all the actuators that you have:
+	- 6 DC gearmotors
+	- 3 servo motors (we will review these in class)
+	- NeoPixel matrix
+	- Individual LEDs
+- The motors can be used for locomotion or for expression; it's up to you
+- In addition to the buttons, your remote control (transmitter) can use a
+	potentiometer. We will review this in class.
+- You should have at least one sequence which is triggered by a button. In
+	other words, the button causes the sequence to start, but once started, the
+	sequence runs automatically without further input from you until it is
+	finished. We will review this in class. The sequence can include the
+	NeoPixel matrix.

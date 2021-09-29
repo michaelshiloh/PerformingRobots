@@ -181,8 +181,6 @@ Build something that you choose to define as a robot
 	[this](https://www.arduino.cc/en/Tutorial/LibraryExamples/Sweep)
 	or any other servo motor tutorial
 
-### todays-assignment
-
 #### Assignments Due September 29
 - If you didn't finish it in class, finish soldering the stranded 
 	wires to the header socket and on the other end three short pieces of solid
@@ -200,12 +198,25 @@ Build something that you choose to define as a robot
 - Make sure that the switches for both batteries are turned off (Powerboost
 	LED should be off).
 
-#### Assignments Due next Monday
+### todays-assignment
+
+#### Assignments Due next Monday October 4
 -	Get from the lab 10 feet (3 meters) 
 	of red and black wires stranded wire during
 	open lab hours. The lab assistants have this ready for you to pick up.
+- Start working on your midterm project (described below).
+	- Create a new folder called "midtermProject"
+	- In that folder create a new file called "journal.md"
+	- In the journal describe your idea for your robot. 
+		- You may use words and/or sketch a picture.
+		- Describe how your robot is going to be expressive
+	- Start building your robot 
+	- Document your progress in your journal
+	- If you have any problems or insights document them
+	- It's OK, and in fact expected, to change your design
+		as you make progress. Document this in the journal.
 
-#### Midterm project due October 13
+#### Midterm project due Wednesday October 13
 Built a robot that can be remote controlled
 
 - Your robot can have any shape: anthropomorphic, animal-like, 

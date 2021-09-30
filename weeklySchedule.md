@@ -237,3 +237,7 @@ Built a robot that can be remote controlled
 	sequence runs automatically without further input from you until it is
 	finished. We will review this in class. The sequence can include the
 	NeoPixel matrix.
+- Don't spend too much time making your robot look perfect; save that for your
+	final project. The goal now is to practice all the technical skills
+	(electronics, programming, and construction) you've
+	learned and to discover what further knowledge and skills you might need. 

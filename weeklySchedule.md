@@ -205,6 +205,7 @@ Build something that you choose to define as a robot
 	of red and black wires stranded wire during
 	open lab hours. The lab assistants have this ready for you to pick up.
 	From now on, use only red for 5V and only black for GND.
+- Get two alligator cables from the lab, ideally one red and one black
 - Start working on your midterm project (described below).
 	- Create a new folder called "midtermProject"
 	- In that folder create a new file called "journal.md"

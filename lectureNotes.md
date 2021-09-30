@@ -526,7 +526,6 @@ Adafruit NeoPixel
 	- Change LED_PIN and LED_COUNT as necessary
 - Might look at Adafruit NeoMatrix library, I've not yet tried it
 
-### todays-lecture
 ### September 29
 
 ##### Meditation
@@ -545,32 +544,13 @@ Adafruit NeoPixel
 which includes a schematic
 
 
+### todays-lecture
+### October 4
+
+##### Administration
+- Record 
+
 ##### Servo motors
-
-##### Digital Multi Meter
-
-**Remember that you must make a very firm connection!!!**
-
-- Measuring resistance 
-	- Resistor
-	- Motor
-	- Yourself
-	- **Component must not be part of a circuit**
-- Measuring continuity
-	- **Circuit must not be powered**
-	- Solder connection
-	- Connection to pin of an Arduino
-	- Connection to pin of a switch
-- Measuring voltage:
-	- Battery
-	- Arduino 5V
-	- Switch
-	- Arduino output
-		- Staying at one level
-		- Blinking
-		- Connecting to breadboard
-			- Alligator cable (get two)
-	- Testing LEDs
 
 ##### Power considerations
 
@@ -601,3 +581,28 @@ What's the solution?
 	- One for Arduino
 	- One for all motors and LEDs
 - That's one reason you have two PowerBoosts and LiPo batteries
+
+##### Digital Multi Meter
+
+**Remember that you must make a very firm connection!!!**
+
+- Measuring resistance 
+	- Resistor
+	- Motor
+	- Yourself
+	- **Component must not be part of a circuit**
+- Measuring continuity
+	- **Circuit must not be powered**
+	- Solder connection
+	- Connection to pin of an Arduino
+	- Connection to pin of a switch
+- Measuring voltage:
+	- Battery
+	- Arduino 5V
+	- Switch
+	- Arduino output
+		- Staying at one level
+		- Blinking
+		- Connecting to breadboard
+			- Alligator cable (get two)
+	- Testing LEDs

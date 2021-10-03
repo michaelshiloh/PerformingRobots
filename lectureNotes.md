@@ -595,6 +595,8 @@ What's the solution?
 	- **Circuit must not be powered**
 	- Solder connection
 	- Connection to pin of an Arduino
+		- Connecting to breadboard, Arduino, and other headers
+			- Alligator cable (get two)
 	- Connection to pin of a switch
 - Measuring voltage:
 	- Battery
@@ -603,6 +605,6 @@ What's the solution?
 	- Arduino output
 		- Staying at one level
 		- Blinking
-		- Connecting to breadboard
-			- Alligator cable (get two)
 	- Testing LEDs
+
+##### Project problem solving

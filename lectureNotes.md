@@ -607,4 +607,32 @@ What's the solution?
 		- Blinking
 	- Testing LEDs
 
-##### Project problem solving
+
+### todays-lecture
+### October 4
+
+#### Administration
+- Record 
+
+#### Working with binary numbers
+
+- Bits
+- Expressing numbers as bits
+- Manipulating bits
+	- Shifting
+	- bitwise OR
+	- bitwise AND
+	- testing for equality
+		- individual bits
+		- entire value
+
+#### Sending multiple values
+
+- The RF24 class [reference page](https://nrf24.github.io/RF24/classRF24.html)
+- Is it really necessary? How many bits are there in an int?
+	- Not enough? Use a long!
+	- But what about this (found in `read()` in the reference page):
+	"The length of data read is usually the next available payload's length"
+
+
+#### Project problem solving

@@ -616,8 +616,29 @@ What's the solution?
 
 #### Working with binary numbers
 
+- Binary numbers
+
+````
+decimal binary			hexadecimal
+1				0b00000001	0x01
+2				0b00000010	0x02
+3				0b00000011	0x03
+4				0b00000100	0x04
+5				0b00000101	0x05
+6				0b00000110	0x06
+7				0b00000111	0x07
+8				0b00001000	0x08
+9				0b00001001	0x09
+10      0b00001010	0x0A
+11      0b00001011	0x0B
+12      0b00001100	0x0C
+13      0b00001101	0x0D
+14      0b00001110	0x0E
+15      0b00001111	0x0F
+````
+
 - Bits
-- Expressing numbers as bits
+- Expressing information as bits
 - Manipulating bits
 	- Shifting
 	- bitwise OR

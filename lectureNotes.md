@@ -622,15 +622,15 @@ What's the solution?
 
 ````
 decimal binary			hexadecimal
-1				0b00000001	0x01
-2				0b00000010	0x02
-3				0b00000011	0x03
-4				0b00000100	0x04
-5				0b00000101	0x05
-6				0b00000110	0x06
-7				0b00000111	0x07
-8				0b00001000	0x08
-9				0b00001001	0x09
+1			0b00000001	0x01
+2			0b00000010	0x02
+3			0b00000011	0x03
+4			0b00000100	0x04
+5			0b00000101	0x05
+6			0b00000110	0x06
+7			0b00000111	0x07
+8			0b00001000	0x08
+9			0b00001001	0x09
 10      0b00001010	0x0A
 11      0b00001011	0x0B
 12      0b00001100	0x0C
@@ -657,5 +657,7 @@ decimal binary			hexadecimal
 	- But what about this (found in `read()` in the reference page):
 	"The length of data read is usually the next available payload's length"
 
-
-#### Project problem solving
+Example that we developed in class for sending two bytes, now tested.
+[Transmitter](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/nRF24L01/rf24XmitTwoBytes/rf24XmitTwoBytes.ino)
+and
+[receiver](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/nRF24L01/rf24RcvrTwoBytes/rf24RcvrTwoBytes.ino)

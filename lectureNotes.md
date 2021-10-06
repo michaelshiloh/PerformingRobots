@@ -611,6 +611,8 @@ What's the solution?
 ### todays-lecture
 ### October 4
 
+#### Meditation
+
 #### Administration
 - Record 
 

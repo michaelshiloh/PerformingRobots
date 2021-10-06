@@ -620,7 +620,7 @@ What's the solution?
 - Binary numbers
 
 ````
-decimal binary			hexadecimal
+decimal binary	hexadecimal
 1       0b00000001	0x01
 2       0b00000010	0x02
 3       0b00000011	0x03

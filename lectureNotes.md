@@ -607,7 +607,6 @@ What's the solution?
 	- Testing LEDs
 
 
-### todays-lecture
 ### October 4
 
 #### Meditation
@@ -659,3 +658,13 @@ decimal binary		hexadecimal
 Example that we developed in class for sending two bytes, now tested:
 - [Transmitter](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/nRF24L01/rf24XmitTwoBytes/rf24XmitTwoBytes.ino)
 - [Receiver](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/nRF24L01/rf24RcvrTwoBytes/rf24RcvrTwoBytes.ino)
+
+### todays-lecture
+### October 11
+
+#### Administration
+- Record 
+
+#### Using Github for backup
+- Make a separate folder for intermediate work (tests, experiments, etc.)
+- Make an entirely new repository and mark it *private*

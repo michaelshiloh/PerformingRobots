@@ -668,3 +668,11 @@ Example that we developed in class for sending two bytes, now tested:
 #### Using Github for backup
 - Make a separate folder for intermediate work (tests, experiments, etc.)
 - Make an entirely new repository and mark it *private*
+
+### todays-lecture
+### October 13
+
+- Meditate
+- Record 
+- Let's see your amazing projects!
+

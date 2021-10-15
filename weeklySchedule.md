@@ -245,14 +245,18 @@ Built a robot that can be remote controlled
 
 #### Assignments Due Monday October 25
 
-- We will continue with your presentations. Please check your [dates](studentPresentations.md) and be prepared.
+- We will continue with your presentations. 
+Please check the updated [schedule](studentPresentations.md) and be prepared.
 - You should have received email with a coupon granting you access to 
-*Getting Started with Arduino, 3rd Edition"*. Redeem that coupon and read
+*Getting Started with Arduino, 3rd Edition*. Redeem that coupon and read
 Chapter 8. Automatic Garden-Irrigation System. You don't need to understand
 everything in that chapter, what I want you to get out of it is how to work
-with an Arduino Prototyping Shield. If you have questions about this please
-discuss on Discord.
-- If you are still new to soldering, read one or both of [these](https://github.com/michaelshiloh/resourcesForClasses#soldering) 
+with an Arduino Prototyping Shield. 
+If you have questions about this please discuss on Discord.
+This will be a new concept for all of you and I want to familiarize you with
+it as much as possible.
+- If you were new to soldering when you joined the class, 
+read one or both of [these](https://github.com/michaelshiloh/resourcesForClasses#soldering) 
 	to improve your skills. We will be doing a lot of critical soldering and I
 	want to lessen the chances of failure.
 - Create a new folder in your Github repository called "October 25", and in it
@@ -265,4 +269,5 @@ discuss on Discord.
 	- What technical features will the actor need?
 	- How will you construct the actor to create the role?
 	- How will you decorate or dress the actor for best effect?
-	- What sequence of moves or other actions will you give your actor?
+	- What sequence of moves or other actions will you give your actor so that
+		they can best play the part?

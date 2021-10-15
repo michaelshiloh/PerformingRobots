@@ -198,8 +198,6 @@ Build something that you choose to define as a robot
 - Make sure that the switches for both batteries are turned off (Powerboost
 	LED should be off).
 
-### todays-assignment
-
 #### Assignments Due next Monday October 4
 -	Get from the lab 10 feet (3 meters) 
 	of red and black wires stranded wire during
@@ -242,3 +240,29 @@ Built a robot that can be remote controlled
 	final project. The goal now is to practice all the technical skills
 	(electronics, programming, and construction) you've
 	learned and to discover what further knowledge and skills you might need. 
+
+### todays-assignment
+
+#### Assignments Due Monday October 25
+
+- We will continue with your presentations. Please check your [dates](studentPresentations.md) and be prepared.
+- You should have received email with a coupon granting you access to 
+*Getting Started with Arduino, 3rd Edition"*. Redeem that coupon and read
+Chapter 8. Automatic Garden-Irrigation System. You don't need to understand
+everything in that chapter, what I want you to get out of it is how to work
+with an Arduino Prototyping Shield. If you have questions about this please
+discuss on Discord.
+- If you are still new to soldering, read one or both of [these](https://github.com/michaelshiloh/resourcesForClasses#soldering) 
+	to improve your skills. We will be doing a lot of critical soldering and I
+	want to lessen the chances of failure.
+- Create a new folder in your Github repository called "October 25", and in it
+	create a file called "README.md", and in that write your response to the
+	questions below:
+- Choose a short scene from a play and a character in that scene,
+	and consider how you would make a robot actor to perform that scene.
+	Any spoken words will come from a human or a computer, not from your actor.
+	- How would you build the actor? 
+	- What technical features will the actor need?
+	- How will you construct the actor to create the role?
+	- How will you decorate or dress the actor for best effect?
+	- What sequence of moves or other actions will you give your actor?

@@ -309,6 +309,7 @@ void loop() {
 - Generic
 	- They all *seem* to be the same (although there is no guarantee) 
 - Do a quick search for L-298 driver or L-298 H-bridge
+	- [Here](https://handsontec.com/dataspecs/module/L298N%20Motor%20Driver.pdf) is an example datasheet
 - In-class exercise: draw a schematic for the Arduino + H-bridge + battery +
 	motor
 

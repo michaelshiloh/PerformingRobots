@@ -680,6 +680,8 @@ Example that we developed in class for sending two bytes, now tested:
 ### October 25
 
 #### Administration
+
+- Cameras on please, unless you discussed with me reasons why not
 - Record 
 - Welcome back from break! I hope you all had a great time
 - Who was having power problems? I have some ideas I want you to try out

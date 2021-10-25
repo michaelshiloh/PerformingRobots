@@ -1,4 +1,17 @@
-## New material
+## New material 2021
+
+1. [New Media Dramaturgy](https://newmediadramaturgy.wordpress.com) (Blog)
+
+1. [Digital Theatre]() by Nadja Masura (Book)
+
+1. The Drama Review: [Performing with and by Robots](https://m.youtube.com/watch?v=1YPjKUYYWQs) (Webinar on YouTube)
+
+1. The Drama Review: [Dances with Robots: Choreographing, Correcting, and Performing with Moving Machines](https://www.cambridge.org/core/journals/the-drama-review/article/dances-with-robots/D226859287E21B672557309618A935AD) (Journal Articles)
+
+1. [Uncanny Valley - Rimini
+	 Protokoll](https://www.rimini-protokoll.de/website/en/project/unheimliches-tal-uncanny-valley) (Performance Review)
+
+## New material 2020
 
 1. [Guy Hoffman](http://guyhoffman.com/category/research/robots/)
 

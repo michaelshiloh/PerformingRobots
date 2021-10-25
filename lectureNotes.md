@@ -670,10 +670,35 @@ Example that we developed in class for sending two bytes, now tested:
 - Make a separate folder for intermediate work (tests, experiments, etc.)
 - Make an entirely new repository and mark it *private*
 
-### todays-lecture
 ### October 13
 
 - Meditate
 - Record 
 - Let's see your amazing projects!
 
+### todays-lecture
+### October 25
+
+#### Administration
+- Record 
+- Welcome back from break! I hope you all had a great time
+- Who was having power problems? I have some ideas I want you to try out
+
+### Presentation
+
+Zhiyang: Analysis of Interactive Autonomous Robots in the Context of Theatre
+
+### Discussion
+
+Knowing what you know now from designing, constructing, and programming your
+robots, discuss our answers to the homework assignment:
+
+Choose a short scene from a play and a character in that scene, and consider
+how you would make a robot actor to perform that scene. Any spoken words will
+come from a human or a computer, not from your actor.
+
+- How would you build the actor?
+- What technical features will the actor need?
+- How will you construct the actor to create the role?
+- How will you decorate or dress the actor for best effect?
+- What sequence of moves or other actions will you give your actor so that they can best play the part?

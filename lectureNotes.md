@@ -747,7 +747,7 @@ assume we use both potentiometers and
 6 switches:
 
 How many pins have we used so far? Let's 
-- Radio: 5 pins
+- [Radio](https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/): 5 pins
 - USB: 2 pins (0 and 1)
 - Joystick: 5 pins
 - Potentiometers: 2 analog input

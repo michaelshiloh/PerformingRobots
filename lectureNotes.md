@@ -734,8 +734,11 @@ Finish showing and discussing Monday's homework assignments
 
 First, consider what the board needs
 
-Let's start with the transmitter. Let's add as many inputs as possible to
-allow the for the most ways to control a robot:
+Let's start with the transmitter. 
+Let's see if we can leave room for  as many inputs as possible to
+allow the for the most ways to control a robot. When we build the circuit
+we don't need to add this all at the beginning, but if we plan well we could
+add things later as needed:
 
 - Switches (will require resistors, so let's use the internal pull-up resistors)
 - Potentiometers 

@@ -737,9 +737,9 @@ First, consider what the board needs
 Let's start with the transmitter. Let's add as many inputs as possible to
 allow the for the most ways to control a robot:
 
-- Switches (will require resistors, so let's use the internal pullup resistors)
+- Switches (will require resistors, so let's use the internal pull-up resistors)
 - Potentiometers 
-- [Joystick](https://www.adafruit.com/product/504) (using internal pullupresistors)
+- [Joystick](https://www.adafruit.com/product/504) (using internal pull-up resistors)
 
 Do we want any outputs? Might be useful if we send messages back from robot
 Let's see how many pins we have left, if we

@@ -676,7 +676,6 @@ Example that we developed in class for sending two bytes, now tested:
 - Record 
 - Let's see your amazing projects!
 
-### todays-lecture
 ### October 25
 
 #### Administration
@@ -686,11 +685,11 @@ Example that we developed in class for sending two bytes, now tested:
 - Welcome back from break! I hope you all had a great time
 - Who was having power problems? I have some ideas I want you to try out
 
-### Presentation
+#### Presentation
 
 Zhiyang: Analysis of Interactive Autonomous Robots in the Context of Theatre
 
-### Discussion
+#### Discussion
 
 Knowing what you know now from designing, constructing, and programming your
 robots, discuss our answers to the homework assignment:
@@ -704,3 +703,64 @@ come from a human or a computer, not from your actor.
 - How will you construct the actor to create the role?
 - How will you decorate or dress the actor for best effect?
 - What sequence of moves or other actions will you give your actor so that they can best play the part?
+
+### todays-lecture
+### October 27
+
+#### Administration
+- Record 
+- End of Semester show will be Tuesday December 14th 6-9pm
+
+#### Discussion
+
+- What can I do to hear those of you who never (or rarely) speak up in class?
+
+#### Presentation
+
+Jung Soo: The Machine as Artist: An Introduction
+
+#### Homework
+
+Finish showing and discussing Monday's homework assignments
+
+#### Demonstration: solder your circuit on a prototyping shield
+
+##### Why
+- Solve problems with the solderless breadboard
+- Unfortunately, we lose the flexibility that comes with the solderless
+	breadboard
+
+##### How
+
+First, consider what the board needs
+
+Let's start with the transmitter. Let's add as many inputs as possible to
+allow the for the most ways to control a robot:
+
+- Switches (will require resistors, so let's use the internal pullup resistors)
+- Potentiometers 
+- [Joystick](https://www.adafruit.com/product/504) (using internal pullupresistors)
+
+Do we want any outputs? Might be useful if we send messages back from robot
+Let's see how many pins we have left, if we
+assume we use both potentiometers and
+6 switches:
+
+How many pins have we used so far? Let's 
+- Radio: 5 pins
+- USB: 2 pins (0 and 1)
+- Joystick: 5 pins
+- Potentiometers: 2 analog input
+- Switches: 6 pins
+
+Total = 20, that uses all pins. We could wire LEDs to the same pins as
+switches, that way we can select in software whether to use the pin as an
+input or an output. Or we could only solder in what we want.
+
+(Sometimes it's possible to overthink, and it's best to just start making)
+
+Schematic
+
+Connectors:
+
+- Radio: 8 pin socket (2 rows of 4)

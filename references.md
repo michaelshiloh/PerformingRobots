@@ -11,6 +11,18 @@
 1. [Uncanny Valley - Rimini
 	 Protokoll](https://www.rimini-protokoll.de/website/en/project/unheimliches-tal-uncanny-valley) (Performance Review)
 
+1. [The Drama Review: [Robotics as New Media Dramaturgy: The Case of the Sleepy
+	 Robot](https://direct.mit.edu/dram/article-abstract/59/3%20(227)/140/42826/Robotics-as-New-Media-Dramaturgy-The-Case-of-the) (Journal article)
+
+1. [Time to compile: A performance installation as human-robot interaction
+	 study examining self-evaluation and perceived
+	 control](https://www.degruyter.com/document/doi/10.1515/pjbr-2019-0024/html)
+	 (Journal article)
+
+1. New Media Dramaturgy: Performance, Media and New-Materialism 
+	[Chapter 5: Robots: Asleep, Awake, Alone, and in 
+	Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf)
+
 ## New material 2020
 
 1. [Guy Hoffman](http://guyhoffman.com/category/research/robots/)
@@ -21,6 +33,7 @@
 
 1. [Slides](doc/2020.09.30-CompositionAndDramaturgy.pdf) from Tegan's
 	 guest lecture on September 30 2020
+
 
 ## Robot actors and theatre companies using robots
 

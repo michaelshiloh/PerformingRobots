@@ -767,3 +767,23 @@ Schematic
 Connectors:
 
 - Radio: 8 pin socket (2 rows of 4)
+
+Now we think about how to lay out all these components:
+- Switches
+- LEDs
+- Joystick
+- Potentiometers
+- Radio connector
+
+Some prototyping shields have designated spaces for LEDs or switches. Would
+this be useful for us? What pins are they connected to?
+
+**Make sure you are putting the components on the right side!**
+
+Take pictures along the way. They might be useful for documentation and to
+remind yourself where you planned to put things.
+
+Now that we know where things go let's start with the bare minimum, maybe
+- Radio
+- Joystick
+- Designated LEDs and switches

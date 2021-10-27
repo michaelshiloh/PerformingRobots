@@ -34,7 +34,9 @@ This is subject to change
 
 **Student Lead Discussions**  (not yet ready)
 
-- Jana and Zhiyang - 1. New Media Dramaturgy: Performance, Media and New-Materialism 
+- Jana and Zhiyang: 1. New Media Dramaturgy: Performance, Media and New-Materialism 
   [Chapter 5: Robots: Asleep, Awake, Alone, and in 
   Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf)
+
+- Jung Soo and Katie: [Digital Theatre](doc/Masura2020_Book_DigitalTheatre.pdf) by Nadja Masura (Chapter 6 "The ‘Other’ Actor")
 

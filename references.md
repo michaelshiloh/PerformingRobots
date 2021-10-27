@@ -2,7 +2,7 @@
 
 1. [New Media Dramaturgy](https://newmediadramaturgy.wordpress.com) (Blog)
 
-1. [Digital Theatre]() by Nadja Masura (Book)
+1. [Digital Theatre](doc/Masura2020_Book_DigitalTheatre.pdf) by Nadja Masura (Book)
 
 1. The Drama Review: [Performing with and by Robots](https://m.youtube.com/watch?v=1YPjKUYYWQs) (Webinar on YouTube)
 
@@ -22,6 +22,8 @@
 1. New Media Dramaturgy: Performance, Media and New-Materialism 
 	[Chapter 5: Robots: Asleep, Awake, Alone, and in 
 	Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf)
+
+1. [Improbotics](https://improbotics.org/)
 
 ## New material 2020
 

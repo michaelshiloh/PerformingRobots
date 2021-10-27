@@ -241,8 +241,6 @@ Built a robot that can be remote controlled
 	(electronics, programming, and construction) you've
 	learned and to discover what further knowledge and skills you might need. 
 
-### todays-assignment
-
 #### Assignments Due Monday October 25
 
 - We will continue with your presentations. 
@@ -271,3 +269,13 @@ read one or both of [these](https://github.com/michaelshiloh/resourcesForClasses
 	- How will you decorate or dress the actor for best effect?
 	- What sequence of moves or other actions will you give your actor so that
 		they can best play the part?
+
+### todays-assignment
+
+#### Assignments Due Monday November 1
+
+Read [Chapter 5: Robots: Asleep, Awake, Alone, and in 
+  Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf)
+and be prepared to discuss. Jana and Zhiyang will lead the discussion by
+preparing 4-6 insightful questions or discussion points by reading closely and
+asking each other questions.

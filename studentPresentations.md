@@ -32,14 +32,9 @@ This is subject to change
 - Salama: *Can robots create Art?* (November 24)
 - Kyle: *Robots as tools for publicity in internet entertainment* (November 29)
 
-**Student Lead Discussions** (ignore this for now - I'm going to change some
-readings)
+**Student Lead Discussions**  (not yet ready)
 
-- *Initial Formation of Trust: Designing an Interaction with Geminoid-DK to Promote a Positive Attitude for Cooperation*
-- *Children Interpretation of emotional body language displayed by a robot* on page 62 
-- *Examining the Frankenstein Syndrome: An Open-Ended Cross-Cultural Survey* on page 125
-- *People’s Perception of Domestic Service Robots: 
-Same Household, Same Opinion?* on page 204
-- *Robot Improv: Using Drama to Create Believable Agents*
-- *The Realization of Robot Theater: Humanoid Robots and Theatric Performance*
-- *A Midsummer Night's Dream (with flying robots)*
+- Jana and Zhiyang - 1. New Media Dramaturgy: Performance, Media and New-Materialism 
+  [Chapter 5: Robots: Asleep, Awake, Alone, and in 
+  Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf)
+

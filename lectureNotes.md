@@ -707,13 +707,13 @@ come from a human or a computer, not from your actor.
 ### todays-lecture
 ### October 27
 
-#### Administration
+#### Start
+- Meditate
+
+#### Admin
+- What can I do to hear those of you who never (or rarely) speak up in class?
 - Record 
 - End of Semester show will be Tuesday December 14th 6-9pm
-
-#### Discussion
-
-- What can I do to hear those of you who never (or rarely) speak up in class?
 
 #### Presentation
 

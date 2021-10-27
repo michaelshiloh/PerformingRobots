@@ -276,6 +276,10 @@ read one or both of [these](https://github.com/michaelshiloh/resourcesForClasses
 
 Read [Chapter 5: Robots: Asleep, Awake, Alone, and in 
   Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf)
-and be prepared to discuss. Jana and Zhiyang will lead the discussion by
-preparing 4-6 insightful questions or discussion points by reading closely and
-asking each other questions.
+- Be prepared to discuss. Bring questions, observations, reactions to class
+	(no need to document on Githbu)
+- Jana and Zhiyang will be our discussion leaders for this. 
+- Instructions to the discussion leaders:
+	- Read closely, annotate, underline, take notes, list questions, and points
+	- Meet, discuss, and answer each other’s questions
+	- Prepare about 4-8 insightful questions or discussion points 

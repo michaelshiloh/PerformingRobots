@@ -660,7 +660,6 @@ Example that we developed in class for sending two bytes, now tested:
 - [Transmitter](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/nRF24L01/rf24XmitTwoBytes/rf24XmitTwoBytes.ino)
 - [Receiver](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/nRF24L01/rf24RcvrTwoBytes/rf24RcvrTwoBytes.ino)
 
-### todays-lecture
 ### October 11
 
 #### Administration
@@ -704,7 +703,6 @@ come from a human or a computer, not from your actor.
 - How will you decorate or dress the actor for best effect?
 - What sequence of moves or other actions will you give your actor so that they can best play the part?
 
-### todays-lecture
 ### October 27
 
 #### Start
@@ -787,3 +785,18 @@ Now that we know where things go let's start with the bare minimum, maybe
 - Radio
 - Joystick
 - Designated LEDs and switches
+
+### todays-lecture
+### November 1
+
+#### Administration
+- Record 
+- End of semester show might move to Wednesday
+
+#### Discussion
+- Chapter 5: Robots: Asleep, Awake, Alone, and in Love (Jana and Zhiyang to
+leave)
+- Discuss Spot
+- Time permitting, show remote control transmitter on prototyping shield
+
+

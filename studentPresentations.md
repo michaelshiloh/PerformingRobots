@@ -22,7 +22,7 @@ This is subject to change
 - Jana: *Karel Čapek and the R.U.R.* (September 13)
 - Zhiyang: *Analysis of Interactive Autonomous Robots in the Context of Theatre* (October 25)
 - Jung Soo: *The Machine as Artist: An Introduction* (October 27)
-- [Katie](https://www.nytimes.com/2012/07/08/theater/robot-and-human-actors-take-bows-together.html) (November 1)
+- [Katie](https://www.nytimes.com/2012/07/08/theater/robot-and-human-actors-take-bows-together.html) (November 3)
 - Tori: *Simone Giertz* (November 3)
 - Amina: *Performance of Disabled Robotics* (November 8)
 - Rick: *Theatre robotics for human technology education* (November 10)
@@ -32,11 +32,11 @@ This is subject to change
 - Salama: *Can robots create Art?* (November 24)
 - Kyle: *Robots as tools for publicity in internet entertainment* (November 29)
 
-**Student Lead Discussions**  (not yet ready)
+**Student Lead Discussions**  
 
-- Jana and Zhiyang: 1. New Media Dramaturgy: Performance, Media and New-Materialism 
+- Jana and Zhiyang: 1. New Media Dramaturgy: Performance, Media and New-Materialism (November 1)
   [Chapter 5: Robots: Asleep, Awake, Alone, and in 
   Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf)
 
-- Jung Soo and Katie: [Digital Theatre](doc/Masura2020_Book_DigitalTheatre.pdf) by Nadja Masura (Chapter 6 "The ‘Other’ Actor")
+- Jung Soo and Katie: [Digital Theatre](doc/Masura2020_Book_DigitalTheatre.pdf) by Nadja Masura (Chapter 6 "The ‘Other’ Actor") (November 8)
 

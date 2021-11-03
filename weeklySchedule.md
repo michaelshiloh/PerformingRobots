@@ -275,7 +275,7 @@ read one or both of [these](https://github.com/michaelshiloh/resourcesForClasses
 Read [Chapter 5: Robots: Asleep, Awake, Alone, and in 
   Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf)
 - Be prepared to discuss. Bring questions, observations, reactions to class
-	(no need to document on Githbu)
+	(no need to document on Github)
 - Jana and Zhiyang will be our discussion leaders for this. 
 - Instructions to the discussion leaders:
 	- Read closely, annotate, underline, take notes, list questions, and points
@@ -283,8 +283,34 @@ Read [Chapter 5: Robots: Asleep, Awake, Alone, and in
 	- Prepare about 4-8 insightful questions or discussion points 
 
 ### todays-assignment
-#### Assignments Due Monday November 8?
+#### Assignments Due Monday November 8
 
-next reading
-build proto shield and test
-ideas for performance
+1) Read [On Stage: Robots as Performers](doc/On_Stage_Robots_as_Performers.pdf)
+- Be prepared to discuss. Prepare questions, observations, and reactions
+	in a short README.md in a new folder called November8 in your Github
+	repository.
+- Katie and Amina will be our discussion leaders for this. 
+- Instructions to the discussion leaders same as last week
+
+2) Finish the work we did in class on the prototyping shield:
+- 4 pushbuttons
+- Two potentiometers
+- two rows of 4 header sockets for the radio module
+- Connect the leg of the "down" switch and the "right" switch to ground as I
+	did in class (review Zoom recording if necessary or ask on Discord)
+![](media/xmitterShieldStep1.jpg)
+
+3) Propose an idea for a robot play or a scene from a play. 
+- Your play may use one or more robots that we will build
+- One or two robot dogs (Boston Dynamic Spot)
+- Your play may be based on a play that already exists or you may make up
+	something on your own
+- Consider why a robot should perform in this role. Some suggestions:
+	- Can robots be used to explore topics that are too difficult for humans
+		(e.g. difficult conversations)?
+	- Can robots be used to explore human-robot coexistence (an idea mentioned
+		in Katie's presentation today)?
+- Write this up in the same README.md mentioned above
+- Include sketches or pictures of robots and/or scenery if you wish. 
+	Hand drawn is fine.
+

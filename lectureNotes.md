@@ -786,7 +786,6 @@ Now that we know where things go let's start with the bare minimum, maybe
 - Joystick
 - Designated LEDs and switches
 
-### todays-lecture
 ### November 1
 
 #### Administration
@@ -797,6 +796,18 @@ Now that we know where things go let's start with the bare minimum, maybe
 - Chapter 5: Robots: Asleep, Awake, Alone, and in Love (Jana and Zhiyang to
 leave)
 - Discuss Spot
-- Time permitting, show remote control transmitter on prototyping shield
 
 
+### todays-lecture
+### November 3
+
+#### Administration
+- Record 
+- Reschedule those who doing capstone until after panel (who is that?)
+
+#### Presentations
+- Tori
+- Katie
+
+#### Work along with me
+- Joystick, radio, potentiometers

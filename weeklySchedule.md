@@ -287,20 +287,12 @@ Read [Chapter 5: Robots: Asleep, Awake, Alone, and in
 
 1) Read [On Stage: Robots as Performers](doc/On_Stage_Robots_as_Performers.pdf)
 - Be prepared to discuss. Prepare questions, observations, and reactions
-	in a short README.md in a new folder called November8 in your Github
-	repository.
+	**in a short README.md in a new folder called November8 in your Github
+	repository.**
 - Katie and Amina will be our discussion leaders for this. 
 - Instructions to the discussion leaders same as last week
 
-2) Finish the work we did in class on the prototyping shield:
-- 4 pushbuttons
-- Two potentiometers
-- two rows of 4 header sockets for the radio module
-- Connect the leg of the "down" switch and the "right" switch to ground as I
-	did in class (review Zoom recording if necessary or ask on Discord)
-![](media/xmitterShieldStep1.jpg)
-
-3) Propose an idea for a robot play or a scene from a play. 
+2) Propose an idea for a robot play or a scene from a play. 
 - Your play may use one or more robots that we will build
 - One or two robot dogs (Boston Dynamic Spot)
 - Your play may be based on a play that already exists or you may make up
@@ -314,3 +306,10 @@ Read [Chapter 5: Robots: Asleep, Awake, Alone, and in
 - Include sketches or pictures of robots and/or scenery if you wish. 
 	Hand drawn is fine.
 
+3) Finish the work we did in class on the prototyping shield:
+- 4 pushbuttons
+- Two potentiometers
+- two rows of 4 header sockets for the radio module
+- Connect the leg of the "down" switch and the "right" switch to ground as I
+	did in class (review Zoom recording if necessary or ask on Discord)
+![](media/xmitterShieldStep1.jpg)

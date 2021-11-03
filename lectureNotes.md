@@ -801,6 +801,8 @@ leave)
 ### todays-lecture
 ### November 3
 
+#### Meditate
+
 #### Administration
 - Record 
 - Reschedule those who doing capstone until after panel (who is that?)

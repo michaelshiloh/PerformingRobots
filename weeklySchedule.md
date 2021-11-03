@@ -270,8 +270,6 @@ read one or both of [these](https://github.com/michaelshiloh/resourcesForClasses
 	- What sequence of moves or other actions will you give your actor so that
 		they can best play the part?
 
-### todays-assignment
-
 #### Assignments Due Monday November 1
 
 Read [Chapter 5: Robots: Asleep, Awake, Alone, and in 
@@ -283,3 +281,10 @@ Read [Chapter 5: Robots: Asleep, Awake, Alone, and in
 	- Read closely, annotate, underline, take notes, list questions, and points
 	- Meet, discuss, and answer each other’s questions
 	- Prepare about 4-8 insightful questions or discussion points 
+
+### todays-assignment
+#### Assignments Due Monday November 8?
+
+next reading
+build proto shield and test
+ideas for performance

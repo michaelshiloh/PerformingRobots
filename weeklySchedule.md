@@ -289,7 +289,7 @@ Read [Chapter 5: Robots: Asleep, Awake, Alone, and in
 - Be prepared to discuss. Prepare questions, observations, and reactions
 	**in a short README.md in a new folder called November8 in your Github
 	repository.**
-- Katie and Amina will be our discussion leaders for this. 
+- Amina and Yasmin will be our discussion leaders for this. 
 - Instructions to the discussion leaders same as last week
 
 2) Propose an idea for a robot play or a scene from a play. 

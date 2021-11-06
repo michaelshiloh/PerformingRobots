@@ -32,16 +32,3 @@ This is subject to change
 - Salama: *Can robots create Art?* (November 24)
 - Kyle: *Robots as tools for publicity in internet entertainment* (November 29)
 
-**Student Lead Discussions**  
-
-- Jana and Zhiyang: 1. New Media Dramaturgy: Performance, Media and New-Materialism (November 1)
-  [Chapter 5: Robots: Asleep, Awake, Alone, and in 
-  Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf)
-
-- Amina and Yasmin: [Digital Theatre](doc/Masura2020_Book_DigitalTheatre.pdf) by Nadja Masura (Chapter 6 "The ‘Other’ Actor") (November 8)
-
-- Katie and Coco:
-	[Introduction](doc/TheFreudianRobot_DigitalMediaandtheFutureoftheUnconscious_LydiaHLiu/introduction.pdf)
-	from *The Freudian Robot: Digital Media and the Future of the Unconscious*
-	by Lydia H. Liu (the rest of the book is in the same folder if you are
-	curious to read the rest - it is fascinating)

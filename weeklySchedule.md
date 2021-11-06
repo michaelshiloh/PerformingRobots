@@ -313,3 +313,20 @@ Read [Chapter 5: Robots: Asleep, Awake, Alone, and in
 - Connect the leg of the "down" switch and the "right" switch to ground as I
 	did in class (review Zoom recording if necessary or ask on Discord)
 ![](media/xmitterShieldStep1.jpg)
+
+
+____________________________________________
+unassigned
+
+
+- [Digital Theatre](doc/Masura2020_Book_DigitalTheatre.pdf) by Nadja Masura (Chapter 6 "The ‘Other’ Actor") 
+
+- [Introduction](doc/TheFreudianRobot_DigitalMediaandtheFutureoftheUnconscious_LydiaHLiu/introduction.pdf)
+	from *The Freudian Robot: Digital Media and the Future of the Unconscious*
+	by Lydia H. Liu (the rest of the book is in the same folder if you are
+	curious to read the rest - it is fascinating)
+	
+- Katie and Coco
+-	Salama and Kyle
+-	Tori and Rick 
+-	Aalya and Jung Soo 

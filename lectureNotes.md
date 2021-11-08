@@ -798,7 +798,6 @@ leave)
 - Discuss Spot
 
 
-### todays-lecture
 ### November 3
 
 #### Meditate
@@ -813,3 +812,19 @@ leave)
 
 #### Work along with me
 - Joystick, radio, potentiometers
+
+### todays-lecture
+### November 8
+
+#### Administration
+- Record 
+
+#### Presentation
+Amina: *Performance of Disabled Robotics* 
+
+#### Discussion
+On Stage: Robots as Performers (Amina and Yasmine)
+
+#### Homework
+- Performance proposals
+- Circuit

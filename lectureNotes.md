@@ -813,7 +813,6 @@ leave)
 #### Work along with me
 - Joystick, radio, potentiometers
 
-### todays-lecture
 ### November 8
 
 #### Administration
@@ -828,3 +827,16 @@ On Stage: Robots as Performers (Amina and Yasmine)
 #### Homework
 - Performance proposals
 - Circuit
+
+### todays-lecture
+### November 10
+
+#### Meditate
+
+#### Administration
+- Record 
+- Meet in the lobby of the Art Center on Monday, November 15, at 10:25
+
+#### Work along with me
+- Radio
+

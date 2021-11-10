@@ -26,7 +26,7 @@ This is subject to change
 - Tori: *Simone Giertz* (November 3)
 - Amina: *Performance of Disabled Robotics* (November 8)
 - Rick: *Theatre robotics for human technology education* (November 10)
-- Yasmin: *The Three Sirens Band* (November 15)
+- Yasmin: *The Three Sirens Band* (November 17)
 - Coco: *The Uncanny Valley: An Artistic Perspective* (November 17)
 - Aalya: *Shimon Robotic Musician"* (November 22)
 - Salama: *Can robots create Art?* (November 24)

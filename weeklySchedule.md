@@ -282,7 +282,6 @@ Read [Chapter 5: Robots: Asleep, Awake, Alone, and in
 	- Meet, discuss, and answer each other’s questions
 	- Prepare about 4-8 insightful questions or discussion points 
 
-### todays-assignment
 #### Assignments Due Monday November 8
 
 1) Read [On Stage: Robots as Performers](doc/On_Stage_Robots_as_Performers.pdf)
@@ -315,18 +314,33 @@ Read [Chapter 5: Robots: Asleep, Awake, Alone, and in
 ![](media/xmitterShieldStep1.jpg)
 
 
+### todays-assignment
+#### Assignments Due Monday November 15
+- Finish wiring up the radio, all 4 switches, and the two potentiometers
+- Bring a notebook and your completed shield to class on Monday
+- The presentation previously schedule for Monday will be held on Wednesday
+
+#### Assignments Due Wednesday November 17
+1) Read 
+- [Digital Theatre](doc/Masura2020_Book_DigitalTheatre.pdf) 
+by Nadja Masura (Chapter 6 "The ‘Other’ Actor") 
+- Be prepared to discuss. Prepare questions, observations, and reactions
+	**in a short README.md in a new folder called November17 in your Github
+	repository.**
+- Katie and Coco
+	will be our discussion leaders for this. 
+- Instructions to the discussion leaders same as last week
+
 ____________________________________________
 unassigned
 
 
-- [Digital Theatre](doc/Masura2020_Book_DigitalTheatre.pdf) by Nadja Masura (Chapter 6 "The ‘Other’ Actor") 
 
 - [Introduction](doc/TheFreudianRobot_DigitalMediaandtheFutureoftheUnconscious_LydiaHLiu/introduction.pdf)
 	from *The Freudian Robot: Digital Media and the Future of the Unconscious*
 	by Lydia H. Liu (the rest of the book is in the same folder if you are
 	curious to read the rest - it is fascinating)
 	
-- Katie and Coco
 -	Salama and Kyle
 -	Tori and Rick 
 -	Aalya and Jung Soo 

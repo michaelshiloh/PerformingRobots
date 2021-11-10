@@ -840,3 +840,16 @@ On Stage: Robots as Performers (Amina and Yasmine)
 #### Work along with me
 - Radio
 
+Monday
+----
+
+![](media/shieldTop.jpg)
+![](media/shieldSideA.jpg)
+![](media/shieldSideB.jpg)
+![](media/shieldBottom.jpg)
+![](media/shieldNotes.jpg)
+
+### Monday November 15
+
+- Meet in the lobby of the Art Center on Monday, November 15, at 10:25
+- Presentations will move to Wednesday

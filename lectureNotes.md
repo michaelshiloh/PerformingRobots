@@ -851,5 +851,13 @@ Monday
 
 ### Monday November 15
 
-- Meet in the lobby of the Art Center on Monday, November 15, at 10:25
-- Presentations will move to Wednesday
+#### Administration
+- Record 
+- Sadly the visit to the robot lab is cancelled due to sickness so we'll meet
+	online as usual
+
+#### Presentation
+- Coco
+
+#### Lab
+- Solder the headers, test

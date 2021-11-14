@@ -860,4 +860,10 @@ Monday
 - Coco
 
 #### Lab
-- Solder the headers, test
+- Solder the headers
+- Test
+	- First individually with built in examples
+	- Transmitter
+		[code](~/gits/mine/classes/resourcesForClasses/src/arduinoSketches/nRF24L01/rf24XmitShield/rf24XmitShield.ino)
+	- Receiver 
+	[code](~/gits/mine/classes/resourcesForClasses/src/arduinoSketches/nRF24L01/rf24Rcvr/rf24Rcvr.ino)

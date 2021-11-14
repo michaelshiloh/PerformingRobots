@@ -828,7 +828,6 @@ On Stage: Robots as Performers (Amina and Yasmine)
 - Performance proposals
 - Circuit
 
-### todays-lecture
 ### November 10
 
 #### Meditate
@@ -849,6 +848,7 @@ Monday
 ![](media/shieldBottom.jpg)
 ![](media/shieldNotes.jpg)
 
+### todays-lecture
 ### Monday November 15
 
 #### Administration

@@ -858,9 +858,19 @@ Monday
 
 #### Presentation
 - Coco
+- Yasmin
 
 #### Lab
 - Solder the headers
+
+Finished transmitter remote control on a prototyping shield:
+![](media/topFinished.jpg)
+![](media/bottomFinished.jpg)
+
+
+
+next week:
+
 - Test
 	- First individually with built in examples
 	- Transmitter

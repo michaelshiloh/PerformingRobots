@@ -878,9 +878,10 @@ Finished transmitter remote control on a prototyping shield:
 - Test our RC radio shields
 	- First individually with built in examples
 	- Transmitter
-		[code](~/gits/mine/classes/resourcesForClasses/src/arduinoSketches/nRF24L01/rf24XmitShield/rf24XmitShield.ino)
+		[code](https://github.com/michaelshiloh/resourcesForClasses/src/arduinoSketches/nRF24L01/rf24XmitShield/rf24XmitShield.ino)
 	- Receiver 
-	[code](~/gits/mine/classes/resourcesForClasses/src/arduinoSketches/nRF24L01/rf24Rcvr/rf24Rcvr.ino)
+	[code](https://github.com/michaelshiloh/resourcesForClasses/src/arduinoSketches/nRF24L01/rf24Rcvr/rf24Rcvr.ino)
+
 
 #### Discussion: Our performance!
 

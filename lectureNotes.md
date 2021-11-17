@@ -882,3 +882,5 @@ Finished transmitter remote control on a prototyping shield:
 		[code](~/gits/mine/classes/resourcesForClasses/src/arduinoSketches/nRF24L01/rf24XmitShield/rf24XmitShield.ino)
 	- Receiver 
 	[code](~/gits/mine/classes/resourcesForClasses/src/arduinoSketches/nRF24L01/rf24Rcvr/rf24Rcvr.ino)
+
+#### Discussion: Our performance!

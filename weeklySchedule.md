@@ -323,7 +323,7 @@ Read [Chapter 5: Robots: Asleep, Awake, Alone, and in
 #### Assignments Due Wednesday November 17
 1) Finish soldering in the 4 feed-through headers
 2) Read 
-- [Digital Theatre](doc/Masura2020_Book_DigitalTheatre.pdf) 
+[Digital Theatre](doc/Masura2020_Book_DigitalTheatre.pdf) 
 by Nadja Masura (Chapter 6 "The ‘Other’ Actor") 
 - Be prepared to discuss. Prepare questions, observations, and reactions
 	**in a short README.md in a new folder called November17 in your Github

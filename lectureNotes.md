@@ -848,7 +848,6 @@ Monday
 ![](media/shieldBottom.jpg)
 ![](media/shieldNotes.jpg)
 
-### todays-lecture
 ### Monday November 15
 
 #### Administration
@@ -867,11 +866,17 @@ Finished transmitter remote control on a prototyping shield:
 ![](media/topFinished.jpg)
 ![](media/bottomFinished.jpg)
 
+### todays-lecture
+### November 17
 
+#### Meditate
 
-next week:
+#### Administration
+- Record 
+- The 'Other' Actor (Katie and Coco)?
 
-- Test
+#### Work along with me
+- Test our RC radio shields
 	- First individually with built in examples
 	- Transmitter
 		[code](~/gits/mine/classes/resourcesForClasses/src/arduinoSketches/nRF24L01/rf24XmitShield/rf24XmitShield.ino)

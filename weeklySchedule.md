@@ -314,7 +314,6 @@ Read [Chapter 5: Robots: Asleep, Awake, Alone, and in
 ![](media/xmitterShieldStep1.jpg)
 
 
-### todays-assignment
 #### Assignments Due Monday November 15
 - Finish wiring up the radio, all 4 switches, and the two potentiometers
 - Bring a notebook and your completed shield to class on Monday
@@ -322,15 +321,22 @@ Read [Chapter 5: Robots: Asleep, Awake, Alone, and in
 
 #### Assignments Due Wednesday November 17
 1) Finish soldering in the 4 feed-through headers
+
+### todays-assignment
+1) Write a play of maximum length about 10 minutes with the working title 
+"Snow White and
+the 7 Dwarfs" (where the number 7 might change according to how we divide the
+robots). Put the play in
+	a new folder called November22 in your Github repository.
 2) Read 
 [Digital Theatre](doc/Masura2020_Book_DigitalTheatre.pdf) 
 by Nadja Masura (Chapter 6 "The ‘Other’ Actor") 
 - Be prepared to discuss. Prepare questions, observations, and reactions
-	**in a short README.md in a new folder called November17 in your Github
-	repository.**
+	in a short README.md in the November22 folder 
 - Katie and Coco
 	will be our discussion leaders for this. 
 - Instructions to the discussion leaders same as last week
+3) Get your Remote Control transmitter prototyping shield working fully.
 
 ____________________________________________
 unassigned

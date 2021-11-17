@@ -866,7 +866,6 @@ Finished transmitter remote control on a prototyping shield:
 ![](media/topFinished.jpg)
 ![](media/bottomFinished.jpg)
 
-### todays-lecture
 ### November 17
 
 #### Meditate
@@ -884,3 +883,10 @@ Finished transmitter remote control on a prototyping shield:
 	[code](~/gits/mine/classes/resourcesForClasses/src/arduinoSketches/nRF24L01/rf24Rcvr/rf24Rcvr.ino)
 
 #### Discussion: Our performance!
+
+### todays-lecture
+### November 22
+
+#### Administration
+- Record 
+- Nov 28 make up class for Dec 1

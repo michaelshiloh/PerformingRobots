@@ -902,4 +902,18 @@ Finished transmitter remote control on a prototyping shield:
 
 #### Presentation: Aalya, Salama (if ready)
 #### Discussion: Digital Theatre (Katie and Coco) (if ready)
+
+"It was not, of course, only slaves who have lacked many
+of the rights that today we accept as basic and fundamental
+bastions of a civilised society. As Robert Freitas Jr. remarked
+in his 1985 essay The Legal Rights of Robots, in the past,
+blacks, gypsies, children, women, foreigners, corporations,
+prisoners, and Jews have all been regarded at some points in
+history as being legal non-persons."
+[The Ethical Treatment of Artificially Conscious
+Robots](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/theEthicalTreatmentOfArtificiallyConsciousRobots.pdf)
+David Levy
+Int J Soc Robot (2009) 1: 209–216
+DOI 10.1007/s12369-009-0022-6
+
 #### Discussion: Our performance!

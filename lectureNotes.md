@@ -882,12 +882,24 @@ Finished transmitter remote control on a prototyping shield:
 	- Receiver 
 	[code](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01/rf24Rcvr/rf24Rcvr.ino)
 
-
 #### Discussion: Our performance!
 
-### todays-lecture
 ### November 22
 
 #### Administration
 - Record 
 - Nov 28 make up class for Dec 1
+
+### todays-lecture
+### November 24
+
+#### Meditate
+
+#### Administration
+- Record 
+- We meet on Sunday November 28 on Wednesday schedule
+- No class Monday or Wednesday
+
+#### Presentation: Aalya, Salama (if ready)
+#### Discussion: Digital Theatre (Katie and Coco) (if ready)
+#### Discussion: Our performance!

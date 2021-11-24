@@ -28,7 +28,7 @@ This is subject to change
 - Rick: *Theatre robotics for human technology education* (November 10)
 - Yasmin: *The Three Sirens Band* (November 15)
 - Coco: *The Uncanny Valley: An Artistic Perspective* (November 15)
-- Aalya: *Shimon Robotic Musician"* (November 22)
+- Aalya: *Shimon Robotic Musician"* (November 24)
 - Salama: *Can robots create Art?* (November 24)
-- Kyle: *Robots as tools for publicity in internet entertainment* (November 29)
+- Kyle: *Robots as tools for publicity in internet entertainment* (November 28)
 

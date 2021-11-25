@@ -322,7 +322,6 @@ Read [Chapter 5: Robots: Asleep, Awake, Alone, and in
 #### Assignments Due Wednesday November 17
 1) Finish soldering in the 4 feed-through headers
 
-### todays-assignment
 1) Write a play of maximum length about 10 minutes with the working title 
 "Snow White and
 the 7 Dwarfs" (where the number 7 might change according to how we divide the
@@ -338,16 +337,30 @@ by Nadja Masura (Chapter 6 "The ‘Other’ Actor")
 - Instructions to the discussion leaders same as last week
 3) Get your Remote Control transmitter prototyping shield working fully.
 
-____________________________________________
-unassigned
-
-
-
-- [Introduction](doc/TheFreudianRobot_DigitalMediaandtheFutureoftheUnconscious_LydiaHLiu/introduction.pdf)
+### todays-assignment
+#### Assignments Due Sunday November 28
+1) Design your robot in your Github repository, 
+in a folder called "finalProject"
+- Description and sketches 
+- Rough script for your scene. Bullet points are sufficient.
+- Add more details as you think of them to the
+	[notes](https://docs.google.com/document/d/1UHZr9MYWIdmxLi_zSS8DHFCW8sF6HJgSkXM54YfF8e4/edit)
+	we created in class
+2) Read 
+[Introduction](doc/TheFreudianRobot_DigitalMediaandtheFutureoftheUnconscious_LydiaHLiu/introduction.pdf)
 	from *The Freudian Robot: Digital Media and the Future of the Unconscious*
 	by Lydia H. Liu (the rest of the book is in the same folder if you are
 	curious to read the rest - it is fascinating)
-	
+- Be prepared to discuss. Prepare questions, observations, and reactions
+	in a short README.md in the November28 folder 
 -	Salama and Kyle
+	will be our discussion leaders for this. 
+- Instructions to the discussion leaders same as before
+
+____________________________________________
+unassigned
 -	Tori and Rick 
 -	Aalya and Jung Soo 
+
+- Visit the costume shop to see what fabrics, costumes, or accessories might
+	be useful for your robot. Email [Judi](judi.olson@nyu.edu) to book an appointment

@@ -920,3 +920,6 @@ Int J Soc Robot (2009) 1: 209–216
 DOI 10.1007/s12369-009-0022-6
 
 #### Discussion: Our performance!
+
+Notes are
+[here](https://docs.google.com/document/d/1UHZr9MYWIdmxLi_zSS8DHFCW8sF6HJgSkXM54YfF8e4/edit)

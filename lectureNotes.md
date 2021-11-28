@@ -930,6 +930,9 @@ Notes are
 ##### Record!
 ##### Presentation and Discussions
 - Presentation by Salama
+	- Quote on first slide
+	- "More and more I think Robotics is really just the 
+	Philosophy version of Engineering… " - Kyle
 - Reading discussion delayed until next week
 
 ##### Final project
@@ -938,6 +941,8 @@ Notes are
 	- Lots of robot action (movement, LEDs) to show off your robots
 
 ##### Todo
-- Build robots
-- Create scenery
-- Test multiple robots in same room (different addresses)
+- Build robots: each his/her own
+- Queen: Michael
+- Test multiple robots in same room (different addresses): Michael
+- Sound track: unassigned
+- Create scenery: unassigned

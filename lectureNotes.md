@@ -890,7 +890,6 @@ Finished transmitter remote control on a prototyping shield:
 - Record 
 - Nov 28 make up class for Dec 1
 
-### todays-lecture
 ### November 24
 
 #### Meditate
@@ -923,3 +922,22 @@ DOI 10.1007/s12369-009-0022-6
 
 Notes are
 [here](https://docs.google.com/document/d/1UHZr9MYWIdmxLi_zSS8DHFCW8sF6HJgSkXM54YfF8e4/edit)
+
+### todays-lecture
+### November 28
+
+##### Meditate
+##### Record!
+##### Presentation and Discussions
+- Presentation by Salama
+- Reading discussion delayed until next week
+
+##### Final project
+- What did we decide regarding queen?
+- Break into groups, write script
+	- Lots of robot action (movement, LEDs) to show off your robots
+
+##### Todo
+- Build robots
+- Create scenery
+- Test multiple robots in same room (different addresses)

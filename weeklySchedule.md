@@ -348,7 +348,10 @@ in a folder called "finalProject"
 
 ### todays-assignment
 #### Assignments Due Monday December 6
-1) Build your robot and improve your script
+1. Unfortunately there are no open hours at the IM lab during the break. If
+you need to get in the lab contact me on Discord. I will be gone for some of
+Wednesday-Saturday so for best results try to see me on Tuesday
+1. Build your robot and improve your script
 	- Make sure to change the address for the radio according to the assignments
 		in the
 		[notes](https://docs.google.com/document/d/1UHZr9MYWIdmxLi_zSS8DHFCW8sF6HJgSkXM54YfF8e4/edit)
@@ -364,7 +367,7 @@ in a folder called "finalProject"
 		Judi is an expert in costume design.
 		Although the costume shop is closed for the holiday, Judi may open 
 		it if necessary.
-2) Read 
+1. Read 
 [Introduction](doc/TheFreudianRobot_DigitalMediaandtheFutureoftheUnconscious_LydiaHLiu/introduction.pdf)
 	from *The Freudian Robot: Digital Media and the Future of the Unconscious*
 	by Lydia H. Liu (the rest of the book is in the same folder if you are

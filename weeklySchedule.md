@@ -337,7 +337,6 @@ by Nadja Masura (Chapter 6 "The ‘Other’ Actor")
 - Instructions to the discussion leaders same as last week
 3) Get your Remote Control transmitter prototyping shield working fully.
 
-### todays-assignment
 #### Assignments Due Sunday November 28
 1) Design your robot in your Github repository, 
 in a folder called "finalProject"
@@ -346,6 +345,25 @@ in a folder called "finalProject"
 - Add more details as you think of them to the
 	[notes](https://docs.google.com/document/d/1UHZr9MYWIdmxLi_zSS8DHFCW8sF6HJgSkXM54YfF8e4/edit)
 	we created in class
+
+### todays-assignment
+#### Assignments Due Monday December 6
+1) Build your robot and improve your script
+	- Make sure to change the address for the radio according to the assignments
+		in the
+		[notes](https://docs.google.com/document/d/1UHZr9MYWIdmxLi_zSS8DHFCW8sF6HJgSkXM54YfF8e4/edit)
+	- As you add features to your robot, expand your script to take advantage of
+		these features
+	- As you add things to the script, add the necessary capabilities to your
+		robot
+	- Contact me if you need supplies from the IM lab
+	- Contact [Judi](judi.olson@nyu.edu) 
+		at the costume shop to get fabric, clothing, accessories, 
+		and ideas on how to decorate your robot to give it
+		the personality it needs. 
+		Judi is an expert in costume design.
+		Although the costume shop is closed for the holiday, Judi may open 
+		it if necessary.
 2) Read 
 [Introduction](doc/TheFreudianRobot_DigitalMediaandtheFutureoftheUnconscious_LydiaHLiu/introduction.pdf)
 	from *The Freudian Robot: Digital Media and the Future of the Unconscious*
@@ -356,11 +374,8 @@ in a folder called "finalProject"
 -	Salama and Kyle
 	will be our discussion leaders for this. 
 - Instructions to the discussion leaders same as before
-
 ____________________________________________
 unassigned
 -	Tori and Rick 
 -	Aalya and Jung Soo 
 
-- Visit the costume shop to see what fabrics, costumes, or accessories might
-	be useful for your robot. Email [Judi](judi.olson@nyu.edu) to book an appointment

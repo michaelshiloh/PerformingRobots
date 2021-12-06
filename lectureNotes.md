@@ -923,7 +923,6 @@ DOI 10.1007/s12369-009-0022-6
 Notes are
 [here](https://docs.google.com/document/d/1UHZr9MYWIdmxLi_zSS8DHFCW8sF6HJgSkXM54YfF8e4/edit)
 
-### todays-lecture
 ### November 28
 
 ##### Meditate
@@ -946,3 +945,27 @@ Notes are
 - Test multiple robots in same room (different addresses): Michael
 - Sound track: unassigned
 - Create scenery: unassigned
+
+### todays-lecture
+### December 6
+
+##### Record!
+##### Announcement
+Virtual Visit: Interactive Media and Beyond 
+with Bruce Sterling and Jasmina Tešanović
+When: Dec 6th, 6–7:30pm
+[Zoom Registration](https://nyu.zoom.us/meeting/register/tJEqduCqrT8vHNQ-k6jf7UZntEoUEKzvr0O-)
+
+Bruce Sterling and Jasmina Tešanović have been invited to read from their recent work and engage in a conversation about Interactive Media and beyond. Topics this discussion may touch upon include but are not limited to: futurism, speculative technology culture, Arduino, maker culture, and buzzwords such as NFTs, the IoT, cyberspace vs. metaverse, to name a few. This event will be moderated by professors Heather Dewey-Hagborg and Joerg Blumtritt.
+
+Bruce Sterling is a writer, journalist, design philosopher and futurist. He has written many science fiction novels and short stories that have earned him several Hugo awards and other prizes. As a writer and editor of anthologies like MIT’s Twelve Tomorrows, Bruce plays a central role in shaping the genre of cyberpunk.
+
+Jasmina Tešanović is a feminist, political activist, writer, journalist, musician, translator, and film director. She is known for her engagement in the international movement Women in Black, particularly during the Yugoslavian civil war and its aftermath, and the international feminist peace movement Code Pink. In 1978 she promoted the first feminist conference in Eastern Europe, “Drug-ca Žena” (“Commrad Women”, Belgrade). She co-created “Feministička devedeset četiri” (Feminist 94”) a pioneering feminist publishing house. With “The Scorpions: Genocide in Srebrenica” as well as the “Diary of a Political Idiot” on the 1999 war over the Kosovo, and her reports from the trials in The Hague, Jasmina has played an important role as chronist of the atrocities in the Balkans.
+
+##### Presentation and Discussions
+- Presentation by Salama
+- Discussion of reading
+
+##### Time permitting
+Power
+

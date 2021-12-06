@@ -30,5 +30,5 @@ This is subject to change
 - Coco: *The Uncanny Valley: An Artistic Perspective* (November 15)
 - Aalya: *Shimon Robotic Musician"* (November 24)
 - Salama: *Can robots create Art?* (November 28)
-- Kyle: *Robots as tools for publicity in internet entertainment* (November 28)
+- Kyle: *Robots as tools for publicity in internet entertainment* (December 8)
 

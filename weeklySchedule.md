@@ -48,7 +48,7 @@ This is all subject to change:
 - End of semester show: Probably December 13 or 14
 
 
-#### Assignments Due Aug 31
+#### Assignments Due Sep 5
 
 Email Assignment:
 
@@ -64,14 +64,10 @@ Email Assignment:
 	Terminator)
   - Email your topic to me, which I will
   put on our website. You must pick a topic that no one else has chosen.
-- Install the Arduino IDE from
-	[here](https://www.arduino.cc/en/Main/Software). If you are on Windows chose
-	the Windows Installer.
 - There is a lot to read for next week, so you might want to start now
 
-#### Assignments Due September 6
-
 Production Assignment:
+- TBA
 
 Writing Assignment:
 

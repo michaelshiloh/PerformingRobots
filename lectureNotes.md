@@ -8,8 +8,8 @@ Credit Hours: 4
 Prerequisites: None     
 
 Course website:
-[https://github.com/michaelshiloh/PerformingRobots](https://github.com/michaelshiloh/PerformingRobots)  
-Instructor: Michael Shiloh mshiloh@nyu.edu
+[https://github.com/michaelshiloh/PerformingRobots](https://github.com/michaelshiloh/PerformingRobots)    
+Instructor: Michael Shiloh mshiloh@nyu.edu    
 Office hours: By appointment    
 Meeting times:    
 11:20-2:00 Monday     
@@ -28,6 +28,7 @@ This document: Lecture Notes
 #### Administration
 - Reminder that masks are required at all times indoors except when actively
 	eating
+- I expect you to bring a notebook to class and to take notes
 
 #### In-class activity
 

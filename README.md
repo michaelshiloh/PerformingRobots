@@ -9,7 +9,7 @@ Prerequisites: None
 
 Course website:
 [https://github.com/michaelshiloh/PerformingRobots](https://github.com/michaelshiloh/PerformingRobots)  
-Instructor: Michael Shiloh mshiloh@nyu.edu
+Instructor: Michael Shiloh mshiloh@nyu.edu   
 Office hours: By appointment    
 Meeting times:    
 11:20-2:00 Monday     

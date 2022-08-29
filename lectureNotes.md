@@ -37,6 +37,10 @@ Download and install Arduino from [here](https://www.arduino.cc/en/software)
 #### What is this class about
 - What are robots?
 - What is performance?
+- What is Interactive Media?
+	- Read *What I want you to know* from
+		[here](https://www.wired.com/2013/09/focus-on-people-not-tech-and-other-impt-lessons-for-interaction-design-and-life/)
+		in class
 
 Introduction
 

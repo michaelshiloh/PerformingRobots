@@ -1,4 +1,4 @@
-Shortcut to [today's assignment](lectureNotes.md#todays-assignment)  
+Shortcut to [today's assignment](weeklySchedule.md#todays-assignment)  
 Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
 
 ## New York University Abu Dhabi  

@@ -1,4 +1,4 @@
-Shortcut to [today's assignment](#todays-assignment)
+Shortcut to [today's lecture](#todays-lecture)
 
 ## New York University Abu Dhabi  
 ## Interactive Media Program

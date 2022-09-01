@@ -23,7 +23,7 @@ This document: Lecture Notes
 
 ### Week 1 August 29 and August 31
 
-### August 29 
+### Monday August 29 
 
 #### Administration
 - Reminder that masks are required at all times indoors except when actively
@@ -92,7 +92,10 @@ Github review (if necessary)
 	- Always remember to commit your changes!
 	- More [here](https://github.com/michaelshiloh/resourcesForClasses#github-resources).
 
+### Wednesday August 31
+
 ##### Arduino Programming!
+
 
 The built-in examples are a great resource, and there are tutorials for each
 one on the Arduino [website](https://www.arduino.cc/) (Documentation ->
@@ -101,12 +104,43 @@ Built-in Examples). Let's review these:
 The basics
 - `digitalWrite()` to turn something on and off (such as an LED)
 - `digitalRead()` to read a digital sensor (such as a switch)
-- How to use `Serial.print()` 
-- `analogWrite()` to control the brightness of an LED
-- `analogRead()` to read an analog sensor (such as a light sensor)
+In general
+- Outputs go with actuators and `digitalWrite()`
+- Inputs go with sensors and `digitalRead()`
 
-Schematics
+To control a motor, we need an intermediate device called a motor driver. Our
+particular motor driver is based on the L298. To find out how we use it, we
+simply Google "L298 Arduino". Here is the first thing that showed up for me:
 
+https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5
+
+Code: (I forgot to save my sketch so I did this from memory. I'm pretty sure
+it's correct):
+````
+void setup() {
+  // Pins 2 and 3 are connected to In1 and In2 respectively
+  // of the L298 motor driver
+  pinMode(2, OUTPUT);
+  pinMode(3, OUTPUT);
+}
+
+void loop() {
+  // make the motor turn in one direction
+  digitalWrite(2, LOW);
+  digitalWrite(3, HIGH);
+  delay(5000); // let it turn for 5 seconds
+
+  // now reverse direction
+  digitalWrite(2, HIGH);
+  digitalWrite(3, LOW);
+  delay(5000);
+}
+````
+
+### Week 2 September 5 and 7
+
+### Monday September 5
+##### Some more Arduino programming concepts
 Conditionals
 - if()
 - if() ... else
@@ -117,11 +151,14 @@ Loops
 
 Arduino reference
 
-##### Motors, motor controllers, and batteries
+##### More motors: Bigger motors and external batteries
 
-- Get a motor turning!
-- Get two motors turning!
+##### Schematics
 
 ##### Remote control
 
 - Connect a radio receiver to your Arduino and control things remotely!
+
+- How to use `Serial.print()` 
+- `analogWrite()` to control the brightness of an LED
+- `analogRead()` to read an analog sensor (such as a light sensor)

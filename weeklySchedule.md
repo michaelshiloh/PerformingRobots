@@ -72,7 +72,7 @@ Production Assignment:
 Writing Assignment:
 
 - Read [this](doc/autonomousRobotsAsPerformingAgents.pdf) paper
-	- In your Github repository, create a folder named 'september6'
+	- In your Github repository, create a folder named 'september5'
 	- In that folder, create a file named 'README.md'
 	- In that file, write a response to the paper (about half a page, more if
 		you wish)

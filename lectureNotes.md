@@ -139,6 +139,7 @@ void loop() {
 
 ### Week 2 September 5 and 7
 
+### todays-lecture
 ### Monday September 5
 ##### Some more Arduino programming concepts
 Conditionals

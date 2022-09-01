@@ -48,6 +48,7 @@ This is all subject to change:
 - End of semester show: Probably December 13 or 14
 
 
+### todays-assignment
 #### Assignments Due Sep 5
 
 Email Assignment:

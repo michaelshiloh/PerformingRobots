@@ -24,3 +24,4 @@ This file: Student Github Repositories
 - [Eadin Wang](https://github.com/EadinWang/performing-robots)
 - [Dhabia AlMansoori](https://github.com/DhabiaKM/Performing-Robots-Fall-2022)
 - [Yoki Xue](https://github.com/YokiXue/performingRobots)
+- [Xingyu "Ian" Zhu](https://github.com/ZxYankee/Performing-Robots)

@@ -28,4 +28,4 @@ This file: Student Presentations
 	Cuan et. al.
 - Dhabia AlMansoori: Simone Giertz, Micheal Reeves, and Mark Rober
 - Yoki Xue: Uncanny Valley by Rimini Protokoll 
-- 
+- Xingyu "Ian" Zhu: The Uncanny Valley

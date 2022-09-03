@@ -31,3 +31,5 @@ This file: Student Presentations
 - Xingyu "Ian" Zhu: The Uncanny Valley
 - Dania Ezz: Guy Hoffman's robots
 - Joseph Hong: Ameca and the advancement of hyper-realistic facial expressions
+- Fatima Ahmed Almaazmi: Isaac Asimov's Runaround
+- Abdi Hamisi Ambari

@@ -27,3 +27,5 @@ This file: Student Github Repositories
 - [Xingyu "Ian" Zhu](https://github.com/ZxYankee/Performing-Robots)
 - [Dania Ezz](https://github.com/daniaezz/Performing-Robots)
 - [Joseph Hong](https://github.com/jhongover9000/performing-robots)
+- [Fatima Ahmed Almaazmi](https://github.com/FatimaAlmaazmi/performingRobots)
+- [Abdi Hamisi Ambari](https://github.com/Alphaam/PerformingRobots)

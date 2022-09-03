@@ -29,3 +29,5 @@ This file: Student Presentations
 - Dhabia AlMansoori: Simone Giertz, Micheal Reeves, and Mark Rober
 - Yoki Xue: Uncanny Valley by Rimini Protokoll 
 - Xingyu "Ian" Zhu: The Uncanny Valley
+- Dania Ezz: Guy Hoffman's robots
+- Joseph Hong: Ameca and the advancement of hyper-realistic facial expressions

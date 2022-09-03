@@ -25,3 +25,5 @@ This file: Student Github Repositories
 - [Dhabia AlMansoori](https://github.com/DhabiaKM/Performing-Robots-Fall-2022)
 - [Yoki Xue](https://github.com/YokiXue/performingRobots)
 - [Xingyu "Ian" Zhu](https://github.com/ZxYankee/Performing-Robots)
+- [Dania Ezz](https://github.com/daniaezz/Performing-Robots)
+- [Joseph Hong](https://github.com/jhongover9000/performing-robots)

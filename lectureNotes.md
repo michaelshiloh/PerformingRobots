@@ -142,6 +142,8 @@ void loop() {
 ### todays-lecture
 ### Monday September 5
 ##### Some more Arduino programming concepts
+`AnalogWrite()`
+
 Conditionals
 - if()
 - if() ... else
@@ -153,6 +155,7 @@ Loops
 Arduino reference
 
 ##### More motors: Bigger motors and external batteries
+(or soldering lesson if we don't find the coax connectors)
 
 ##### Schematics
 
@@ -160,6 +163,6 @@ Arduino reference
 
 - Connect a radio receiver to your Arduino and control things remotely!
 
+- Libraries
 - How to use `Serial.print()` 
 - `analogWrite()` to control the brightness of an LED
-- `analogRead()` to read an analog sensor (such as a light sensor)

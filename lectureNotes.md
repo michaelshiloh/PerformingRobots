@@ -139,14 +139,73 @@ void loop() {
 
 ### Week 2 September 5 and 7
 
-### todays-lecture
 ### Monday September 5
 ##### Some more Arduino programming concepts
-`AnalogWrite()`
+###### `AnalogWrite()`
+Example we developed in class:
 
-Conditionals
+````
+void setup() {
+  // Pins 2 and 3 are connected to In1 and In2 respectively
+  // of the L298 motor driver
+  pinMode(2, OUTPUT);
+  pinMode(3, OUTPUT);
+}
+
+void loop() {
+  // make the motor turn in one direction
+  digitalWrite(2, LOW);
+  analogWrite(3, 50); // go slowly
+  delay(5000); // let it turn for 5 seconds
+
+  // digitalWrite(2, LOW);
+  analogWrite(3, 195); // faster!
+  delay(5000); // let it turn for 5 seconds
+
+  // now reverse direction
+  digitalWrite(2, HIGH);
+  analogWrite(3, 50); // this will be fast!
+  delay(5000);
+
+  analogWrite(3, 230); // now go slowly
+  delay(5000);
+}
+````
+
+###### Conditionals
 - if()
 - if() ... else
+
+Example we developed in class:
+
+````
+/*
+  Demonstrate the use of the if ... else construct
+*/
+
+int led = 13;
+int otherLED = 7;
+
+void setup() {
+  pinMode(led, OUTPUT);
+  pinMode(otherLED, OUTPUT);
+}
+
+int counter = 0; // create a variable called "counter"
+
+void loop() {
+  counter = counter + 1;
+
+  if (counter > 27000) {
+		// After awhile, turn off the other LED and turn on the pin 13 LED
+    digitalWrite(otherLED, LOW);  
+    digitalWrite(led, HIGH);   
+  } else {   
+    digitalWrite(otherLED, HIGH);  
+  }
+
+}
+````
 
 Loops
 - `while()`
@@ -156,6 +215,9 @@ Arduino reference
 
 ##### More motors: Bigger motors and external batteries
 (or soldering lesson if we don't find the coax connectors)
+
+### todays-lecture
+### Wednesday September 7
 
 ##### Schematics
 

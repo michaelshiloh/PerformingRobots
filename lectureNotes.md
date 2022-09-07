@@ -219,12 +219,21 @@ Arduino reference
 ### todays-lecture
 ### Wednesday September 7
 
+##### Activity
+- Finish big motor and external battery
+
 ##### Schematics
+What is the difference between a schematic and a wiring diagram?
 
-##### Remote control
+##### Time Permitting
+- Soldering 
+- Drill, screwdrivers, nuts, bolts, and screws
+- Hot glue gun
 
-- Connect a radio receiver to your Arduino and control things remotely!
+##### Next steps
+- Mechanical construction
+	- Don't wear your best clothes
+	- Make things tight
+- Neopixels (and libraries)
+- Prototyping shields
 
-- Libraries
-- How to use `Serial.print()` 
-- `analogWrite()` to control the brightness of an LED

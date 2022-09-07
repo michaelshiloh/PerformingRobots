@@ -21,12 +21,17 @@ Session: Fall 2022
 This is subject to change
 
 This file: Student Github Repositories
-- [Eadin Wang](https://github.com/EadinWang/performing-robots)
+- [Hessa AlAbbas](https://github.com/hessaala/performingRobots)
+- [Shamsa Alawadhi]()
+- [Fatima Ahmed Almaazmi](https://github.com/FatimaAlmaazmi/performingRobots)
 - [Dhabia AlMansoori](https://github.com/DhabiaKM/Performing-Robots-Fall-2022)
-- [Yoki Xue](https://github.com/YokiXue/performingRobots)
-- [Xingyu "Ian" Zhu](https://github.com/ZxYankee/Performing-Robots)
+- [Abdi Hamisi Ambari](https://github.com/Alphaam/PerformingRobots)
+- [Yupu]() 
+- [Omar]()
 - [Dania Ezz](https://github.com/daniaezz/Performing-Robots)
 - [Joseph Hong](https://github.com/jhongover9000/performing-robots)
-- [Fatima Ahmed Almaazmi](https://github.com/FatimaAlmaazmi/performingRobots)
-- [Abdi Hamisi Ambari](https://github.com/Alphaam/PerformingRobots)
-- [Hessa AlAbbas](https://github.com/hessaala/performingRobots)
+- [Mudi Khaled Alkhaaldi]()
+- [Louis Li]()
+- [Eadin Wang](https://github.com/EadinWang/performing-robots)
+- [Yoki Xue](https://github.com/YokiXue/performingRobots)
+- [Xingyu Zhu](https://github.com/ZxYankee/Performing-Robots)

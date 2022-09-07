@@ -92,3 +92,44 @@ Read, review, or skim as you feel is necessary:
 watch Dan 
 Shiffman's [functions](https://www.youtube.com/watch?v=XCu7JSkgl04&list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR) tutorials. There are four videos, each less than 10 minutes.
 
+
+-----
+ideas for this week
+- multimeter
+- soldering
+- protoshield
+
+we already read for this week:
+- Read [this](doc/autonomousRobotsAsPerformingAgents.pdf) paper
+
+future readings:
+
+1 Read [Chapter 5: Robots: Asleep, Awake, Alone, and in 
+  Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf)
+
+2 Read [On Stage: Robots as Performers](doc/On_Stage_Robots_as_Performers.pdf)
+ Be prepared to discuss. Prepare questions, observations, and reactions
+  **in a short README.md in a new folder called November8 in your Github
+  repository.**
+
+3 Read
+[Digital Theatre](doc/Masura2020_Book_DigitalTheatre.pdf)
+by Nadja Masura (Chapter 6 "The ‘Other’ Actor")
+(reduce this only to the mechanical actor section)
+CHAPTER 6
+The ‘Other’ Actor
+
+4 Read
+[Introduction](doc/TheFreudianRobot_DigitalMediaandtheFutureoftheUnconscious_LydiaHLiu/introduction.pdf)
+  from *The Freudian Robot: Digital Media and the Future of the Unconscious*
+  by Lydia H. Liu (the rest of the book is in the same folder if you are
+  curious to read the rest - it is fascinating)
+
+5 LePage2016_Chapter_ThinkingSomethingMakesItSoPerf.pdf
+
+
+6 Eight Lessons Learned about Non-verbal Interactions through Robot Theater
+in socialRobotics.pdf
+
+7 eckersall2015.pdf
+towards a dramaturgy ...

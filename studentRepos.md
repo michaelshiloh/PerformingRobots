@@ -34,4 +34,4 @@ This file: Student Github Repositories
 - [Louis Li]()
 - [Eadin Wang](https://github.com/EadinWang/performing-robots)
 - [Yoki Xue](https://github.com/YokiXue/performingRobots)
-- [Xingyu Zhu](https://github.com/ZxYankee/Performing-Robots)
+- [Xingyu Zhu (Oliver)](https://github.com/ZxYankee/Performing-Robots)

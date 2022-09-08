@@ -28,7 +28,7 @@ This file: Student Presentations
 	Cuan et. al.
 - Dhabia AlMansoori: Simone Giertz, Micheal Reeves, and Mark Rober
 - Yoki Xue: Uncanny Valley by Rimini Protokoll 
-- Xingyu Zhu: The Uncanny Valley
+- Xingyu Zhu (Oliver): The Uncanny Valley
 - Dania Ezz: Guy Hoffman's robots
 - Joseph Hong: Ameca and the advancement of hyper-realistic facial expressions
 - Fatima Ahmed Almaazmi: Isaac Asimov's Runaround

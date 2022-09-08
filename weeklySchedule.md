@@ -96,8 +96,14 @@ Shiffman's [functions](https://www.youtube.com/watch?v=XCu7JSkgl04&list=PLRqwX-V
 
 Reading Assignment:
 
-Read, review, or skim as you feel is necessary:
+Read carefully and Be prepared to discuss. Prepare questions, observations,
+and reactions in a short README.md in a new folder called September12 in your
+Github repository.
+- [Chapter 5: Robots: Asleep, Awake, Alone, and in
+	Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf).
+- Yoki and Omar will lead us in discussion.
 
+Read, review, or skim as you feel is necessary:
 - If you are new to soldering, read one or both of
 	[these](https://github.com/michaelshiloh/resourcesForClasses#soldering)
 - Read
@@ -109,11 +115,6 @@ Read, review, or skim as you feel is necessary:
 	You don't need to understand everything
 	in that chapter, what I want you to get out of it is how to work with an
 	Arduino Prototyping Shield.
-- Read [Chapter 5: Robots: Asleep, Awake, Alone, and in Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf).
- **Be prepared to discuss. Prepare questions, observations, and reactions
-  in a short README.md in a new folder called September12 in your Github
-  repository.**
-	- Yoki and Omar will lead us in discussion.
 
 
 future readings:

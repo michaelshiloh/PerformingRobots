@@ -48,7 +48,6 @@ This is all subject to change:
 - End of semester show: Probably December 13 or 14
 
 
-### todays-assignment
 #### Assignments Due Sep 5
 
 Email Assignment:
@@ -92,44 +91,52 @@ Read, review, or skim as you feel is necessary:
 watch Dan 
 Shiffman's [functions](https://www.youtube.com/watch?v=XCu7JSkgl04&list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR) tutorials. There are four videos, each less than 10 minutes.
 
+### todays-assignment
+#### Assignments Due Sep 12
 
------
-ideas for this week
-- multimeter
-- soldering
-- protoshield
+Reading Assignment:
 
-we already read for this week:
-- Read [this](doc/autonomousRobotsAsPerformingAgents.pdf) paper
+Read, review, or skim as you feel is necessary:
+
+- If you are new to soldering, read one or both of
+	[these](https://github.com/michaelshiloh/resourcesForClasses#soldering)
+- Read
+	[this](https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter/all) or
+	any other tutorial on using a multimeter
+- You should have received email with a coupon granting you access to 
+	*Getting Started with Arduino, 3rd Edition*. 
+	Redeem that coupon and read Chapter 8, Automatic Garden-Irrigation System. 
+	You don't need to understand everything
+	in that chapter, what I want you to get out of it is how to work with an
+	Arduino Prototyping Shield.
+- Read [Chapter 5: Robots: Asleep, Awake, Alone, and in Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf).
+ **Be prepared to discuss. Prepare questions, observations, and reactions
+  in a short README.md in a new folder called September12 in your Github
+  repository.**
+	- Yoki and Omar will lead us in discussion.
+
 
 future readings:
 
-1 Read [Chapter 5: Robots: Asleep, Awake, Alone, and in 
-  Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf)
 
-2 Read [On Stage: Robots as Performers](doc/On_Stage_Robots_as_Performers.pdf)
- Be prepared to discuss. Prepare questions, observations, and reactions
-  **in a short README.md in a new folder called November8 in your Github
-  repository.**
+- [On Stage: Robots as Performers](doc/On_Stage_Robots_as_Performers.pdf).
+	- Hessa and Eadin will lead the discussion.
 
-3 Read
+- *The ‘Other’ Actor* in chapter 6 from
 [Digital Theatre](doc/Masura2020_Book_DigitalTheatre.pdf)
-by Nadja Masura (Chapter 6 "The ‘Other’ Actor")
-(reduce this only to the mechanical actor section)
-CHAPTER 6
-The ‘Other’ Actor
+by Nadja Masura 
+	- Shamsa and Louis will lead
 
-4 Read
-[Introduction](doc/TheFreudianRobot_DigitalMediaandtheFutureoftheUnconscious_LydiaHLiu/introduction.pdf)
+- [Introduction](doc/TheFreudianRobot_DigitalMediaandtheFutureoftheUnconscious_LydiaHLiu/introduction.pdf)
   from *The Freudian Robot: Digital Media and the Future of the Unconscious*
   by Lydia H. Liu (the rest of the book is in the same folder if you are
   curious to read the rest - it is fascinating)
+	- Dania and Joseph will lead
 
-5 LePage2016_Chapter_ThinkingSomethingMakesItSoPerf.pdf
+- [Thinking Something Makes it So](doc/LePage2016_Chapter_ThinkingSomethingMakesItSoPerf.pdf)
+	- Dhabia and Xingyu will lead
 
+- [Eight Lessons Learned about Non-verbal Interactions through Robot Theater](socialRobotics.pdf)
 
-6 Eight Lessons Learned about Non-verbal Interactions through Robot Theater
-in socialRobotics.pdf
-
-7 eckersall2015.pdf
-towards a dramaturgy ...
+- [Towards a Dramaturgy of Robots and Object-Figures](eckersall2015.pdf)
+	- Fatima and Alpha will lead the discussion

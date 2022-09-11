@@ -22,7 +22,7 @@ This is subject to change
 
 This file: Student Github Repositories
 - [Hessa AlAbbas](https://github.com/hessaala/performingRobots)
-- [Shamsa Alawadhi]()
+- [Shamsa Alawadhi](https://github.com/shamsasaeed/Preforming-Robots)
 - [Fatima Ahmed Almaazmi](https://github.com/FatimaAlmaazmi/performingRobots)
 - [Dhabia AlMansoori](https://github.com/DhabiaKM/Performing-Robots-Fall-2022)
 - [Abdi Hamisi Ambari](https://github.com/Alphaam/PerformingRobots)
@@ -31,7 +31,7 @@ This file: Student Github Repositories
 - [Dania Ezz](https://github.com/daniaezz/Performing-Robots)
 - [Joseph Hong](https://github.com/jhongover9000/performing-robots)
 - [Mudi Khaled Alkhaaldi]()
-- [Louis Li]()
+- [Louis Li](https://github.com/AvatarLouisLi/Performing-Robots)
 - [Eadin Wang](https://github.com/EadinWang/performing-robots)
 - [Yoki Xue](https://github.com/YokiXue/performingRobots)
 - [Xingyu Zhu (Oliver)](https://github.com/ZxYankee/Performing-Robots)

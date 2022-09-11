@@ -34,3 +34,6 @@ This file: Student Presentations
 - Fatima Ahmed Almaazmi: Isaac Asimov's Runaround
 - Abdi Hamisi Ambari
 - Yupu: Improbotics
+- Louis: Theater Robotics for Human Technology Education
+- Shamsa: "Robots don't need to feel, they just need to give the impression they do" (Louise Lepage)
+- Alpha: Performing Robots in Africa

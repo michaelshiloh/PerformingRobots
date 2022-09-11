@@ -216,7 +216,6 @@ Arduino reference
 ##### More motors: Bigger motors and external batteries
 (or soldering lesson if we don't find the coax connectors)
 
-### todays-lecture
 ### Wednesday September 7
 
 ##### Activity
@@ -225,15 +224,24 @@ Arduino reference
 ##### Schematics
 What is the difference between a schematic and a wiring diagram?
 
-##### Time Permitting
-- Soldering 
-- Drill, screwdrivers, nuts, bolts, and screws
-- Hot glue gun
+### todays-lecture
+### Monday September 12
+
+##### Discussion
+
+##### Soldering
+- Soldering to proto shield
+	- Headers
+	- Wires
+
+##### Fabrication
+- Tools: Drill, screwdrivers, nuts, bolts, and screws, ~ Hot glue gun
+- Wooden bases
+
+##### Test Arduino with AA batteries
 
 ##### Next steps
 - Mechanical construction
 	- Don't wear your best clothes
 	- Make things tight
 - Neopixels (and libraries)
-- Prototyping shields
-

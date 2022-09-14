@@ -153,7 +153,7 @@ your understanding of avoiding the use of `delay()`
 
 
 
-future readings:
+### Future Readings
 - *The ‘Other’ Actor* in chapter 6 from
 [Digital Theatre](doc/Masura2020_Book_DigitalTheatre.pdf)
 by Nadja Masura 

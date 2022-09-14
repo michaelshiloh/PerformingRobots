@@ -91,7 +91,6 @@ Read, review, or skim as you feel is necessary:
 watch Dan 
 Shiffman's [functions](https://www.youtube.com/watch?v=XCu7JSkgl04&list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR) tutorials. There are four videos, each less than 10 minutes.
 
-### todays-assignment
 #### Assignments Due Sep 12
 
 Reading Assignment:
@@ -116,13 +115,45 @@ Read, review, or skim as you feel is necessary:
 	in that chapter, what I want you to get out of it is how to work with an
 	Arduino Prototyping Shield.
 
+### todays-assignment
+#### Assignments Due Sep 19
 
-future readings:
+Reading Assignment:
 
+Read carefully and Be prepared to discuss. Prepare questions, observations,
+and reactions in a short README.md in a new folder called September19 in your
+Github repository.
 
 - [On Stage: Robots as Performers](doc/On_Stage_Robots_as_Performers.pdf).
 	- Hessa and Eadin will lead the discussion.
 
+Read, review, or skim as you feel is necessary:
+
+- Read the first resource 
+[here](https://github.com/michaelshiloh/resourcesForClasses#arduino-multitasking-resources) 
+and look at the other two to solidify
+your understanding of avoiding the use of `delay()` 
+- Read
+  [this](https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter/all) or
+  any other tutorial on using a multimeter
+- If you need a review of the servo motor, read
+  [this](https://www.arduino.cc/en/Tutorial/LibraryExamples/Sweep)
+  or any other servo motor tutorial
+- Read about Neopixels
+	[here](https://learn.adafruit.com/adafruit-neopixel-uberguide?view=all).
+	This is a very long article with lots of information; I don't expect you to
+	read it all in detail. Glance over the different products available, as we
+	have some of these and can order others. Pay attention to the section titled
+	"Basic Connections" because that's what you'll need to do. Note the use of
+	an external power supply, similar to what we've done with the motor driver. 
+	Pay particular attention to the warnings in the red and orange boxes. Pay
+	attention also to the section "Best Practices".
+
+
+
+
+
+future readings:
 - *The ‘Other’ Actor* in chapter 6 from
 [Digital Theatre](doc/Masura2020_Book_DigitalTheatre.pdf)
 by Nadja Masura 

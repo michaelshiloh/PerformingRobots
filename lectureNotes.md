@@ -250,6 +250,9 @@ What is the difference between a schematic and a wiring diagram?
 	- Then tighten quite firmly, but not with all your strength
 		- You want to save some strength for undoing
 
+##### Blink without Delay
+Go over the built-in example (File->Examples->Digital->Blink Without Delay)
+
 ##### - Neopixels (and libraries)
 
 Some will do pins, some will do wires

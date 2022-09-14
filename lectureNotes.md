@@ -224,7 +224,6 @@ Arduino reference
 ##### Schematics
 What is the difference between a schematic and a wiring diagram?
 
-### todays-lecture
 ### Monday September 12
 
 ##### Discussion
@@ -238,10 +237,19 @@ What is the difference between a schematic and a wiring diagram?
 - Tools: Drill, screwdrivers, nuts, bolts, and screws, ~ Hot glue gun
 - Wooden bases
 
-##### Test Arduino with AA batteries
+### todays-lecture
+### Wednesday September 14
 
-##### Next steps
-- Mechanical construction
+#### Administration
+- Who volunteers to give their presentation next week?
+- Monday September 19: lecture on dramaturgy
+
+##### Mechanical construction
 	- Don't wear your best clothes
-	- Make things tight
-- Neopixels (and libraries)
+	- Put screws/bolts in loose first to get everything in place 
+	- Then tighten quite firmly, but not with all your strength
+		- You want to save some strength for undoing
+
+##### - Neopixels (and libraries)
+
+Some will do pins, some will do wires

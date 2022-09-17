@@ -237,12 +237,7 @@ What is the difference between a schematic and a wiring diagram?
 - Tools: Drill, screwdrivers, nuts, bolts, and screws, ~ Hot glue gun
 - Wooden bases
 
-### todays-lecture
 ### Wednesday September 14
-
-#### Administration
-- Who volunteers to give their presentation next week?
-- Monday September 19: lecture on dramaturgy
 
 ##### Mechanical construction
 	- Don't wear your best clothes
@@ -256,3 +251,14 @@ Go over the built-in example (File->Examples->Digital->Blink Without Delay)
 ##### - Neopixels (and libraries)
 
 Some will do pins, some will do wires
+
+### todays-lecture
+### Monday September 19
+
+#### Administration
+
+#### Guest speaker: Tegan McDuffie
+- Lecture on dramaturgy
+
+#### Time permitting, finish Neopixels
+- Install library

@@ -149,6 +149,10 @@ your understanding of avoiding the use of `delay()`
 	Pay particular attention to the warnings in the red and orange boxes. Pay
 	attention also to the section "Best Practices".
 
+Production Assignment
+
+Sign up for tool training by completing [this](https://docs.google.com/forms/d/e/1FAIpQLSezv8BSCV20Kc86EoYSJsctA6kMdRsWRvSrg6Y8jyyJl8gmDA/viewform) form
+
 
 
 

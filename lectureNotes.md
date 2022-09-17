@@ -240,10 +240,10 @@ What is the difference between a schematic and a wiring diagram?
 ### Wednesday September 14
 
 ##### Mechanical construction
-	- Don't wear your best clothes
-	- Put screws/bolts in loose first to get everything in place 
-	- Then tighten quite firmly, but not with all your strength
-		- You want to save some strength for undoing
+- Don't wear your best clothes
+- Put screws/bolts in loose first to get everything in place 
+- Then tighten quite firmly, but not with all your strength
+	- You want to save some strength for undoing
 
 ##### Blink without Delay
 Go over the built-in example (File->Examples->Digital->Blink Without Delay)

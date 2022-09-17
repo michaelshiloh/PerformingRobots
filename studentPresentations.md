@@ -23,17 +23,17 @@ This is subject to change
 
 This file: Student Presentations
 
-- Eadin Wang: "Time to compile: A performance installation as human-robot
-	interaction study examining self-evaluation and perceived control" by Catie
-	Cuan et. al.
-- Dhabia AlMansoori: Simone Giertz, Micheal Reeves, and Mark Rober
-- Yoki Xue: Uncanny Valley by Rimini Protokoll 
-- Xingyu Zhu (Oliver): The Uncanny Valley
-- Dania Ezz: Guy Hoffman's robots
-- Joseph Hong: Ameca and the advancement of hyper-realistic facial expressions
-- Fatima Ahmed Almaazmi: Isaac Asimov's Runaround
-- Abdi Hamisi Ambari
-- Yupu: Improbotics
-- Louis: Theater Robotics for Human Technology Education
-- Shamsa: "Robots don't need to feel, they just need to give the impression they do" (Louise Lepage)
-- Alpha: Performing Robots in Africa
+- September 21 - Abdi Hamisi Ambari: Performing Robots in Africa
+- September 28 - Xingyu Zhu (Oliver): The Uncanny Valley
+- October 5 - Eadin Wang: "Time to compile: A performance installation as
+	human-robot interaction study examining self-evaluation and perceived
+	control" by Catie Cuan et. al.
+- October 12 - Shamsa: "Robots don't need to feel, they just need to give the
+	impression they do" (Louise Lepage)
+- October 24 - Joseph Hong: Ameca and the advancement of hyper-realistic facial expressions
+- October 26 - Dhabia AlMansoori: Simone Giertz, Micheal Reeves, and Mark Rober
+- November 2 - Louis: Theater Robotics for Human Technology Education
+- November 9 - Fatima Ahmed Almaazmi: Isaac Asimov's Runaround
+- November 16 - Dania Ezz: Guy Hoffman's robots
+- November 23 - Yoki Xue: Uncanny Valley by Rimini Protokoll 
+- November 30 - Yupu: Improbotics

@@ -260,5 +260,12 @@ Some will do pins, some will do wires
 #### Guest speaker: Tegan McDuffie
 - Lecture on dramaturgy
 
-#### Time permitting, finish Neopixels
-- Install library
+#### Production
+- Attach motors and wheels
+	- Special screws
+	- Special tool for wheel
+- Power Arduino from battery pack
+	- Might require attaching coax connector
+- Code it to exhibit some personality or emotion only using movement
+	but don't share it outside of your team
+- When we are done, we will try to guess the personality from the motion

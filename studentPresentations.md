@@ -28,6 +28,7 @@ This file: Student Presentations
 - October 5 - Eadin Wang: "Time to compile: A performance installation as
 	human-robot interaction study examining self-evaluation and perceived
 	control" by Catie Cuan et. al.
+- October 10 - Hessa: Video article about Metamorphosis
 - October 12 - Shamsa: "Robots don't need to feel, they just need to give the
 	impression they do" (Louise Lepage)
 - October 24 - Joseph Hong: Ameca and the advancement of hyper-realistic facial expressions
@@ -37,3 +38,5 @@ This file: Student Presentations
 - November 16 - Dania Ezz: Guy Hoffman's robots
 - November 23 - Yoki Xue: Uncanny Valley by Rimini Protokoll 
 - November 30 - Yupu: Improbotics
+
+missing 2

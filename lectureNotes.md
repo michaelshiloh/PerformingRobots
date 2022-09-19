@@ -252,14 +252,12 @@ Go over the built-in example (File->Examples->Digital->Blink Without Delay)
 
 Some will do pins, some will do wires
 
-### todays-lecture
 ### Monday September 19
-
-#### Administration
 
 #### Guest speaker: Tegan McDuffie
 - Lecture on dramaturgy
 
+Homework: finish
 #### Production
 - Attach motors and wheels
 	- Special screws
@@ -269,3 +267,11 @@ Some will do pins, some will do wires
 - Code it to exhibit some personality or emotion only using movement
 	but don't share it outside of your team
 - When we are done, we will try to guess the personality from the motion
+
+### todays-lecture
+### Wednesday September 21
+
+#### Administration
+
+Presentation: Alpha
+Discussion: Hessa + Eadin

@@ -115,17 +115,7 @@ Read, review, or skim as you feel is necessary:
 	in that chapter, what I want you to get out of it is how to work with an
 	Arduino Prototyping Shield.
 
-### todays-assignment
 #### Assignments Due Sep 19
-
-Reading Assignment:
-
-Read carefully and Be prepared to discuss. Prepare questions, observations,
-and reactions in a short README.md in a new folder called September19 in your
-Github repository.
-
-- [On Stage: Robots as Performers](doc/On_Stage_Robots_as_Performers.pdf).
-	- Hessa and Eadin will lead the discussion.
 
 Read, review, or skim as you feel is necessary:
 
@@ -153,6 +143,42 @@ Production Assignment
 
 Sign up for tool training by completing [this](https://docs.google.com/forms/d/e/1FAIpQLSezv8BSCV20Kc86EoYSJsctA6kMdRsWRvSrg6Y8jyyJl8gmDA/viewform) form
 
+### todays-assignment
+#### Assignments Due Wednesday September 21
+
+Reading Assignment:
+
+Read carefully and Be prepared to discuss. Prepare questions, observations,
+and reactions in a short README.md in a new folder called September19 in your
+Github repository.
+
+- [On Stage: Robots as Performers](doc/On_Stage_Robots_as_Performers.pdf).
+	- Hessa and Eadin will lead the discussion.
+
+#### Assignments Due Monday September 26 (not complete, there might be more)
+
+Production Assignment:
+
+Finish the work we started in class today. This includes:
+- Attach motors and wheels
+  - Use the special screws that I showed you
+		- Contact me if you need the screws as they are in my office
+  - Use the special tool to attache
+		- The motor to the black bracket
+		- The hub to the motor shaft
+		- Contact me if you need the tool as it is in my office
+- Use the hot glue gun (carefully!) to attach scrap wood to the platform
+	so that it doesn't tip over
+	- If you need more scrap wood let me know
+- Power Arduino from battery pack
+  - Ask other students how to attach the coax connector if you don't know how
+- Using a small amount of hot glue, attach the Arduino, motor driver, and
+	battery pack to the wooden platform. 
+- Test your robot base! You should be able to program it to move forwards,
+	backwards, and to turn
+- Code it to exhibit some personality or emotion only using movement
+  but don't share it outside of your team
+- Next week, we will try to guess the personality from the motion
 
 
 

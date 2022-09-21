@@ -157,6 +157,10 @@ Github repository.
 
 #### Assignments Due Monday September 26 (not complete, there might be more)
 
+Reading Assignment:
+
+[RC Hobby Controllers and Arduino](https://www.sparkfun.com/tutorials/348)
+
 Production Assignment:
 
 Finish the work we started in class today. This includes:
@@ -180,14 +184,19 @@ Finish the work we started in class today. This includes:
   but don't share it outside of your team
 - Next week, we will try to guess the personality from the motion
 
+#### Assignments Due Wednesday September 28
 
+Read carefully and Be prepared to discuss. Prepare questions, observations,
+and reactions in a short README.md in a new folder called September19 in your
+Github repository.
 
-
-### Future Readings
 - *The ‘Other’ Actor* in chapter 6 from
 [Digital Theatre](doc/Masura2020_Book_DigitalTheatre.pdf)
 by Nadja Masura 
 	- Shamsa and Louis will lead
+
+
+### Future Readings
 
 - [Introduction](doc/TheFreudianRobot_DigitalMediaandtheFutureoftheUnconscious_LydiaHLiu/introduction.pdf)
   from *The Freudian Robot: Digital Media and the Future of the Unconscious*

@@ -272,6 +272,14 @@ Homework: finish
 ### Wednesday September 21
 
 #### Administration
+- The homework must be done by Monday before class starts - I want to build on
+	what we have and you must all be ready.
+- Note also the reading assignment for Wednesday
 
-Presentation: Alpha
-Discussion: Hessa + Eadin
+#### Presentation
+Alpha
+#### Discussion
+Hessa + Eadin
+
+#### Time permitting:
+What sort of performance should we make?

@@ -209,9 +209,10 @@ by Nadja Masura
 	- Dania and Joseph will lead
 
 - [Thinking Something Makes it So](doc/LePage2016_Chapter_ThinkingSomethingMakesItSoPerf.pdf)
-	- Dhabia and Xingyu will lead
+	- Dhabia and Oliver will lead
 
 - [Eight Lessons Learned about Non-verbal Interactions through Robot Theater](socialRobotics.pdf)
+	- Yupu and Mudhi will lead
 
 - [Towards a Dramaturgy of Robots and Object-Figures](eckersall2015.pdf)
 	- Fatima and Alpha will lead the discussion

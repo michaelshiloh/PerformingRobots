@@ -143,7 +143,6 @@ Production Assignment
 
 Sign up for tool training by completing [this](https://docs.google.com/forms/d/e/1FAIpQLSezv8BSCV20Kc86EoYSJsctA6kMdRsWRvSrg6Y8jyyJl8gmDA/viewform) form
 
-### todays-assignment
 #### Assignments Due Wednesday September 21
 
 Reading Assignment:
@@ -155,10 +154,15 @@ Github repository.
 - [On Stage: Robots as Performers](doc/On_Stage_Robots_as_Performers.pdf).
 	- Hessa and Eadin will lead the discussion.
 
-#### Assignments Due Monday September 26 (not complete, there might be more)
+### todays-assignment
+#### Assignments Due Monday September 26 
 
 Reading Assignment:
 
+- Watch [this](https://www.youtube.com/watch?v=UZKxUFkwCc8)
+short video introducing the concept of hobby RC radio transmitters and
+receivers and how we will use them with Arduino
+- Read this more detailed tutorial on how to use
 [RC Hobby Controllers and Arduino](https://www.sparkfun.com/tutorials/348)
 
 Production Assignment:

@@ -268,6 +268,7 @@ Homework: finish
 	but don't share it outside of your team
 - When we are done, we will try to guess the personality from the motion
 
+### Wednesday September 21
 ### todays-lecture
 ### Wednesday September 21
 
@@ -280,6 +281,23 @@ Homework: finish
 Alpha
 #### Discussion
 Hessa + Eadin
+
+### todays-lecture
+### Wednesday September 21
+
+#### Administration
+- The homework must be done by Monday before class starts - I want to build on
+	what we have and you must all be ready.
+- Note also the reading assignment for Wednesday
+
+#### Demonstrations:
+Show us your robots, we try to guess its personality
+
+#### Hobby RC
+- Review Hobby RC system
+- Review our
+	[code](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/hobbyRC/minimalMoreChannels/minimalMoreChannels.ino)
+- How will we use this?
 
 #### Time permitting:
 What sort of performance should we make?

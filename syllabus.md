@@ -62,6 +62,8 @@ course of the semester, students will iterate through multiple robotic
 projects culminating with their own performative robot. The course will
 finish with a public performance by the robots.
 
+You do not need to prove your brilliance, but do prove your intellectual
+engagement and curiosity.
 
 ### Learning Outcomes: 
 When the course is finished, students will:

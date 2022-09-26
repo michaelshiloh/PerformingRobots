@@ -269,8 +269,6 @@ Homework: finish
 - When we are done, we will try to guess the personality from the motion
 
 ### Wednesday September 21
-### todays-lecture
-### Wednesday September 21
 
 #### Administration
 - The homework must be done by Monday before class starts - I want to build on

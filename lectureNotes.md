@@ -283,15 +283,22 @@ Alpha
 Hessa + Eadin
 
 ### todays-lecture
-### Wednesday September 21
+### Monday September 26
 
 #### Administration
-- The homework must be done by Monday before class starts - I want to build on
-	what we have and you must all be ready.
-- Note also the reading assignment for Wednesday
 
 #### Demonstrations:
 Show us your robots, we try to guess its personality
+
+#### Parts
+- You are responsible for keeping your parts safe. You might want to check out
+	a locker
+- we will not have time to order replacements
+- You each get one charger and 12 batteries
+- Label all your parts 
+- Put your parts in a box and label the box
+- Do not leave your parts out on lab tables. Use the shelves that are
+	dedicated to Performing Robots
 
 #### Hobby RC
 - Review Hobby RC system

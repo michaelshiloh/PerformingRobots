@@ -300,6 +300,11 @@ Show us your robots, we try to guess its personality
 - Do not leave your parts out on lab tables. Use the shelves that are
 	dedicated to Performing Robots
 
+#### Voltage
+- Too low and Arduino resets frequently
+- This is one reason we don't want motors using the same power source as
+	Arduino
+
 #### Hobby RC
 - Review Hobby RC system
 - Review our

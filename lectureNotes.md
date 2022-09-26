@@ -286,6 +286,7 @@ Hessa + Eadin
 ### Monday September 26
 
 #### Administration
+- phones
 
 #### Demonstrations:
 Show us your robots, we try to guess its personality

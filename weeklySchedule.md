@@ -193,8 +193,10 @@ Read carefully and Be prepared to discuss. Prepare questions, observations,
 and reactions in a short README.md in a new folder called September28 in your
 Github repository.
 
-- *The ‘Other’ Actor* in chapter 6 from
-[Digital Theatre](doc/Masura2020_Book_DigitalTheatre.pdf)
+- The first paragraph (page 121) and 
+*Mechanical Actors* 
+(pages 140-151) of chapter 6
+from the book [Digital Theatre](doc/Masura2020_Book_DigitalTheatre.pdf)
 by Nadja Masura 
 	- Shamsa and Louis will lead
 

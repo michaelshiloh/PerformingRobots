@@ -148,7 +148,7 @@ Sign up for tool training by completing [this](https://docs.google.com/forms/d/e
 Reading Assignment:
 
 Read carefully and Be prepared to discuss. Prepare questions, observations,
-and reactions in a short README.md in a new folder called September19 in your
+and reactions in a short README.md in a new folder called September21 in your
 Github repository.
 
 - [On Stage: Robots as Performers](doc/On_Stage_Robots_as_Performers.pdf).
@@ -190,7 +190,7 @@ Finish the work we started in class today. This includes:
 #### Assignments Due Wednesday September 28
 
 Read carefully and Be prepared to discuss. Prepare questions, observations,
-and reactions in a short README.md in a new folder called September19 in your
+and reactions in a short README.md in a new folder called September28 in your
 Github repository.
 
 - *The ‘Other’ Actor* in chapter 6 from
@@ -207,7 +207,7 @@ anthropomorphic.
 #### Assignments Due Wednesday October 5
 
 Read carefully and Be prepared to discuss. Prepare questions, observations,
-and reactions in a short README.md in a new folder called September19 in your
+and reactions in a short README.md in a new folder called October05 in your
 Github repository.
 
 - [Introduction](doc/TheFreudianRobot_DigitalMediaandtheFutureoftheUnconscious_LydiaHLiu/introduction.pdf)

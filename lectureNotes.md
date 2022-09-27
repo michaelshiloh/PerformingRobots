@@ -280,11 +280,7 @@ Alpha
 #### Discussion
 Hessa + Eadin
 
-### todays-lecture
 ### Monday September 26
-
-#### Administration
-- phones
 
 #### Demonstrations:
 Show us your robots, we try to guess its personality
@@ -310,5 +306,17 @@ Show us your robots, we try to guess its personality
 	[code](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/hobbyRC/minimalMoreChannels/minimalMoreChannels.ino)
 - How will we use this?
 
-#### Time permitting:
-What sort of performance should we make?
+### todays-lecture
+### Wednesday September 28
+
+#### Presentation (20 minutes)
+
+Oliver
+
+#### Discussion (20 minutes)
+
+*The 'Other' Actor* - Louis and Shamsa
+
+#### Hot glue construction (15 minutes)
+
+#### What sort of performance should we make? (20 minutes)

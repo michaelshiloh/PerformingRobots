@@ -154,7 +154,6 @@ Github repository.
 - [On Stage: Robots as Performers](doc/On_Stage_Robots_as_Performers.pdf).
 	- Hessa and Eadin will lead the discussion.
 
-### todays-assignment
 #### Assignments Due Monday September 26 
 
 Reading Assignment:
@@ -199,14 +198,25 @@ Github repository.
 by Nadja Masura 
 	- Shamsa and Louis will lead
 
+### todays-assignment
+#### Assignments Due Monday October 3
 
-### Future Readings
+Make a large body for your robot out of cardboard. It does not need to be
+anthropomorphic. 
+
+#### Assignments Due Wednesday October 5
+
+Read carefully and Be prepared to discuss. Prepare questions, observations,
+and reactions in a short README.md in a new folder called September19 in your
+Github repository.
 
 - [Introduction](doc/TheFreudianRobot_DigitalMediaandtheFutureoftheUnconscious_LydiaHLiu/introduction.pdf)
   from *The Freudian Robot: Digital Media and the Future of the Unconscious*
   by Lydia H. Liu (the rest of the book is in the same folder if you are
   curious to read the rest - it is fascinating)
 	- Dania and Joseph will lead
+
+### Future Readings
 
 - [Thinking Something Makes it So](doc/LePage2016_Chapter_ThinkingSomethingMakesItSoPerf.pdf)
 	- Dhabia and Oliver will lead

@@ -203,8 +203,30 @@ by Nadja Masura
 ### todays-assignment
 #### Assignments Due Monday October 3
 
-Make a large body for your robot out of cardboard. It does not need to be
-anthropomorphic. 
+Make a large body (less than your height) for your robot out of cardboard. 
+It does not need to be anthropomorphic. In fact, I encourage you to be
+creative.
+- Document your process with a few photographs
+- Experiment with moving your robot around. You may program the movements
+	directly, like you did for the last assignment, 
+	or you may control it using the hobby RC system I introduced this week.
+	- You may need to change the speed
+		- With the added weight, it may not move at slow speeds
+		- With the added height, it may fall over if you start or stop
+			too suddenly
+		- Experiment and find what works
+- Document your robot moving with a short video
+- Post your photographs, video, and code on your Github repository
+	in a new folder named "October3"
+
+Be prepared to work in the carpentry shop by dressing appropriately:
+- Long pants
+- Closed-toed shoes 
+- pulled back hair
+- Wear clothes that might get dusty
+- Be prepared to stay in the carpentry shop for about an hour, so if you need
+	water or to use the bathroom do that before class starts
+- Please be on time. We will all go to the carpentry shop together.
 
 #### Assignments Due Wednesday October 5
 

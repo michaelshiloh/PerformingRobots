@@ -309,14 +309,13 @@ Show us your robots, we try to guess its personality
 ### todays-lecture
 ### Wednesday September 28
 
-#### Presentation (20 minutes)
-
-Oliver
+#### Administration
+- Oliver not feeling well so his presentation will be next week
 
 #### Discussion (20 minutes)
 
 *The 'Other' Actor* - Louis and Shamsa
 
-#### Hot glue construction (15 minutes)
+#### Hot glue construction (20 minutes)
 
 #### What sort of performance should we make? (20 minutes)

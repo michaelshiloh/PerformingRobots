@@ -306,12 +306,7 @@ Show us your robots, we try to guess its personality
 	[code](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/hobbyRC/minimalMoreChannels/minimalMoreChannels.ino)
 - How will we use this?
 
-### todays-lecture
 ### Wednesday September 28
-
-#### Administration
-- Oliver not feeling well so his presentation will be next week
-
 #### Discussion (20 minutes)
 
 *The 'Other' Actor* - Louis and Shamsa
@@ -319,3 +314,24 @@ Show us your robots, we try to guess its personality
 #### Hot glue construction (20 minutes)
 
 #### What sort of performance should we make? (20 minutes)
+
+### todays-lecture
+### Wednesday October 5
+
+#### Administration
+how much did you pay for this?
+how much did it cost the university?
+
+#### Presentation (20 minutes)
+Oliver
+
+#### Discussion (20 minutes)
+Dania and Joseph: The Freudian Robot
+
+#### Figure out play
+
+what's left
+- Neopixels
+- servos
+- mp3 shield (sound)
+- nRF (other remote control)

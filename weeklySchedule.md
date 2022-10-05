@@ -248,21 +248,24 @@ of the ideas we used in class. You may want to watch *Shrek* and *Inside Out*
 which I imagine we have in our library. You don't need to create all the
 dialogue, but the outline must be detailed enough to show how it could be
 expanded to 15 minutes. Your play should have 7 characters played by robots.
+The robots do not need to be humanoid at all.
 
 Groups:
 
 - Alpha, Fatima, Louis, Dania
 - Yoki, Omar, Dhabia
-- Shamsa, Yupu, Eadin
+- Shamsa, Yupu, Eadin, Joseph
 - Hessa, Mudhi, Oliver
 
 #### Assignments Due Wednesday October 12
 
+Production assignment
+
 - Make your robot remote controlled using the hobby RC radios
-	- Some of you already have so learn from each other
+	- Some of you already have done this so learn from each other.
 - Practice driving, especially when it's far away and moving in different
 	directions. It takes practice to know which way to steer when e.g. it's
-	coming towards you.
+	coming towards you. Make sure that both of you practice this.
 - Practice delivering a short (1-2 minute) speech with your robot. You can
 	read the speech and have the robot move in different ways to accompany what
 	you are trying to say. The speech can be anything: something famous,
@@ -271,6 +274,8 @@ Groups:
 - Take a short video of the two practices and upload to Github in a new folder
 	*October10*. Create a short README.md with any observations, challenges, or
 	ideas you had while doing this.
+
+Reading assignment
 
 Read carefully and be prepared to discuss. Prepare questions, observations,
 and reactions to the reading. Put this in the same README.md.

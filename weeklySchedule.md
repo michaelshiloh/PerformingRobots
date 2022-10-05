@@ -244,8 +244,8 @@ Github repository.
 #### Assignments Due Monday October 10
 
 Working in groups, come up with an outline for a play. You may use any
-of the ideas we used in class. You may want to watch *Shrek* and *Inside Out*
-which I imagine we have in our library. You don't need to create all the
+of the ideas that came up in class. You may want to watch *Shrek* and *Inside
+Out* which I imagine we have in our library. You don't need to create all the
 dialogue, but the outline must be detailed enough to show how it could be
 expanded to 15 minutes. Your play should have 7 characters played by robots.
 The robots do not need to be humanoid at all.

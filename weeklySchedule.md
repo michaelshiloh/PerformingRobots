@@ -200,7 +200,6 @@ from the book [Digital Theatre](doc/Masura2020_Book_DigitalTheatre.pdf)
 by Nadja Masura 
 	- Shamsa and Louis will lead
 
-### todays-assignment
 #### Assignments Due Monday October 3
 
 Make a large body (less than your height) for your robot out of cardboard. 
@@ -240,10 +239,46 @@ Github repository.
   curious to read the rest - it is fascinating)
 	- Dania and Joseph will lead
 
-### Future Readings
+
+### todays-assignment
+#### Assignments Due Monday October 10
+
+Working in groups, come up with an outline for a play. You may use any
+of the ideas we used in class. You may want to watch *Shrek* and *Inside Out*
+which I imagine we have in our library. You don't need to create all the
+dialogue, but the outline must be detailed enough to show how it could be
+expanded to 15 minutes. Your play should have 7 characters played by robots.
+
+Groups:
+
+- Alpha, Fatima, Louis, Dania
+- Yoki, Omar, Dhabia
+- Shamsa, Yupu, Eadin
+- Hessa, Mudhi, Oliver
+
+#### Assignments Due Wednesday October 12
+
+- Make your robot remote controlled using the hobby RC radios
+	- Some of you already have so learn from each other
+- Practice driving, especially when it's far away and moving in different
+	directions. It takes practice to know which way to steer when e.g. it's
+	coming towards you.
+- Practice delivering a short (1-2 minute) speech with your robot. You can
+	read the speech and have the robot move in different ways to accompany what
+	you are trying to say. The speech can be anything: something famous,
+	something you found, something you wrote. What matters here is using
+	movement to emphasize or accompany words. 
+- Take a short video of the two practices and upload to Github in a new folder
+	*October10*. Create a short README.md with any observations, challenges, or
+	ideas you had while doing this.
+
+Read carefully and be prepared to discuss. Prepare questions, observations,
+and reactions to the reading. Put this in the same README.md.
 
 - [Thinking Something Makes it So](doc/LePage2016_Chapter_ThinkingSomethingMakesItSoPerf.pdf)
 	- Dhabia and Oliver will lead
+
+### Future Readings
 
 - [Eight Lessons Learned about Non-verbal Interactions through Robot Theater](socialRobotics.pdf)
 	- Yupu and Mudhi will lead

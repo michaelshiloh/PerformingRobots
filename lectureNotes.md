@@ -315,13 +315,7 @@ Show us your robots, we try to guess its personality
 
 #### What sort of performance should we make? (20 minutes)
 
-### todays-lecture
 ### Wednesday October 5
-
-#### Administration
-how much did you pay for this?
-how much did it cost the university?
-
 #### Presentation (20 minutes)
 Oliver
 
@@ -330,8 +324,27 @@ Dania and Joseph: The Freudian Robot
 
 #### Figure out play
 
+### todays-lecture
+### Monday October 10
+
+#### Administration
+
+#### Today's plan
+- Using the nRF24L01 radio for remote control
+	- 11:20-12 explain, schematics
+	- 12-12:40 build, test
+- 12:40-1 break
+- 1-1:30 Eadin presentation
+- 1:30-2 Hessa presentation
+
+#### the nRF24L01
+- Concept
+- [Resources](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01)
+- Schematic
+- Working in pairs **with someone you have not worked with before 
+(not the robot and not the performance outline)**, build it and test
+
 what's left
 - Neopixels
 - servos
 - mp3 shield (sound)
-- nRF (other remote control)

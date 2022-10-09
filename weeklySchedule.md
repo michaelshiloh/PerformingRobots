@@ -252,10 +252,14 @@ The robots do not need to be humanoid at all.
 
 Groups:
 
-- Alpha, Fatima, Louis, Dania
+- Louis, Alpha, Fatima, Dania
 - Yoki, Omar, Dhabia
-- Shamsa, Yupu, Eadin, Joseph
-- Hessa, Mudhi, Oliver
+- Yupu, Shamsa, Eadin, Joseph
+- Mudhi, Hessa, Oliver
+
+The first member of each of your teams (Louis, Yoki, Yupu, Mudhi) should
+put the outline in a file called README.md in a new folder called October10
+in your Github repository
 
 #### Assignments Due Wednesday October 12
 
@@ -272,7 +276,7 @@ Production assignment
 	something you found, something you wrote. What matters here is using
 	movement to emphasize or accompany words. 
 - Take a short video of the two practices and upload to Github in a new folder
-	*October10*. Create a short README.md with any observations, challenges, or
+	*October12*. Create a short README.md with any observations, challenges, or
 	ideas you had while doing this.
 
 Reading assignment

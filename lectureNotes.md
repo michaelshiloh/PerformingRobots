@@ -341,6 +341,8 @@ Dania and Joseph: The Freudian Robot
 - Concept
 - [Resources](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01)
 - Schematic
+- Test the radios with
+	[this](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/nRF24L01/minimalnRF/minimalnRF.ino)
 - [Code](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/nRF24L01/rf24TwoSwitchesTwoLEDs/rf24TwoSwitchesTwoLEDs.ino)
 - Working in pairs 
 **with someone you have not worked with before (not the robot and not the performance outline)**, 

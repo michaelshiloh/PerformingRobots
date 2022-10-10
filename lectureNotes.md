@@ -341,8 +341,15 @@ Dania and Joseph: The Freudian Robot
 - Concept
 - [Resources](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01)
 - Schematic
-- Working in pairs **with someone you have not worked with before 
-(not the robot and not the performance outline)**, build it and test
+- [Transmit](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/nRF24L01/rf24Xmit/rf24Xmit.ino)
+	code and
+	[receive](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/nRF24L01/rf24Rcvr/rf24Rcvr.ino)
+	code
+- Working in pairs 
+**with someone you have not worked with before (not the robot and not the performance outline)**, 
+build it and test
+	- Change the address in the code to an unused address. Each pair should put
+		their address in Discord so we can tell what's in use
 
 what's left
 - Neopixels

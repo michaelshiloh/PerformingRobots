@@ -255,9 +255,9 @@ Groups:
 - Louis, Alpha, Fatima, Dania
 - Yoki, Omar, Dhabia
 - Yupu, Shamsa, Eadin, Joseph
-- Mudhi, Hessa, Oliver
+- Mudi, Hessa, Oliver
 
-The first member of each of your teams (Louis, Yoki, Yupu, Mudhi) should
+The first member of each of your teams (Louis, Yoki, Yupu, Mudi) should
 put the outline in a file called README.md in a new folder called October10
 in your Github repository
 
@@ -290,7 +290,7 @@ and reactions to the reading. Put this in the same README.md.
 ### Future Readings
 
 - [Eight Lessons Learned about Non-verbal Interactions through Robot Theater](socialRobotics.pdf)
-	- Yupu and Mudhi will lead
+	- Yupu and Mudi will lead
 
 - [Towards a Dramaturgy of Robots and Object-Figures](eckersall2015.pdf)
 	- Fatima and Alpha will lead the discussion

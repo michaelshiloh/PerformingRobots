@@ -30,7 +30,7 @@ This file: Student Github Repositories
 - [Omar](https://github.com/oae233/performing_Robots#performing_robots)
 - [Dania Ezz](https://github.com/daniaezz/Performing-Robots)
 - [Joseph Hong](https://github.com/jhongover9000/performing-robots)
-- [Mudi Khaled Alkhaaldi]()
+- [Mudi Khaled Alkhaaldi](https://github.com/mka413/performing-robots)
 - [Louis Li](https://github.com/AvatarLouisLi/Performing-Robots)
 - [Eadin Wang](https://github.com/EadinWang/performing-robots)
 - [Yoki Xue](https://github.com/YokiXue/performingRobots)

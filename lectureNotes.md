@@ -324,10 +324,7 @@ Dania and Joseph: The Freudian Robot
 
 #### Figure out play
 
-### todays-lecture
 ### Monday October 10
-
-#### Administration
 
 #### Today's plan
 - Using the nRF24L01 radio for remote control
@@ -354,3 +351,12 @@ what's left
 - Neopixels
 - servos
 - mp3 shield (sound)
+
+### todays-lecture
+### Wednesday October 12
+
+#### Administration
+Zoom!
+
+- Dhabia and Oliver: Thinking something makes it so
+- Outlines

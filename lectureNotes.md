@@ -386,3 +386,10 @@ build it and test
 			- 6 robots with teams of two (total 12)
 			- 5 robots with one team of 3 (total 11)
 			- 6 robots with one team of 1 (total 11)
+
+#### Plan for today
+- Shamsa
+- Joseph
+- Finish nRF
+	- Add servo motors
+- If we have time, start with audio shield

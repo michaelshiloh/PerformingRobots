@@ -18,6 +18,7 @@ Meeting times:
 12:45-2:00 Wednesday     
 Session: Fall 2022       
 [Discord](https://discord.gg/mFJ5fqKk)
+[Zoom](https://nyu.zoom.us/j/93396476124)
 
 This is subject to change
 

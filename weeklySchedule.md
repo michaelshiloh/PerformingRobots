@@ -16,6 +16,7 @@ Meeting times:
 12:45-2:00 Wednesday     
 Session: Fall 2022       
 [Discord](https://discord.gg/mFJ5fqKk)
+[Zoom](https://nyu.zoom.us/j/93396476124)
 
 This is subject to change
 
@@ -240,7 +241,6 @@ Github repository.
 	- Dania and Joseph will lead
 
 
-### todays-assignment
 #### Assignments Due Monday October 10
 
 Working in groups, come up with an outline for a play. You may use any
@@ -287,10 +287,21 @@ and reactions to the reading. Put this in the same README.md.
 - [Thinking Something Makes it So](doc/LePage2016_Chapter_ThinkingSomethingMakesItSoPerf.pdf)
 	- Dhabia and Oliver will lead
 
-### Future Readings
+### todays-assignment
+#### Assignments Due Monday October 31
+
+Reading assignment
+
+Read carefully and be prepared to discuss. Prepare questions, observations,
+and reactions to the reading. Put this in a README.md, in the folder
+dated october31.
 
 - [Eight Lessons Learned about Non-verbal Interactions through Robot Theater](socialRobotics.pdf)
 	- Yupu and Mudi will lead
+
+#### Assignments Due Wednesday November 2
+
+#### Assignments Due Wednesday November 9
 
 - [Towards a Dramaturgy of Robots and Object-Figures](eckersall2015.pdf)
 	- Fatima and Alpha will lead the discussion

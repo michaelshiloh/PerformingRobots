@@ -16,6 +16,7 @@ Meeting times:
 12:45-2:00 Wednesday     
 Session: Fall 2022       
 [Discord](https://discord.gg/mFJ5fqKk)
+[Zoom](https://nyu.zoom.us/j/93396476124)
 
 This is subject to change
 
@@ -347,16 +348,41 @@ build it and test
 	- Change the address in the code to an unused address. Each pair should put
 		their address in Discord so we can tell what's in use
 
-what's left
-- Neopixels
-- servos
-- mp3 shield (sound)
 
-### todays-lecture
 ### Wednesday October 12
-
-#### Administration
-Zoom!
 
 - Dhabia and Oliver: Thinking something makes it so
 - Outlines
+
+### todays-lecture
+### Monday October 24
+
+#### Administration
+- Zoom!
+- Record
+
+#### Plan for this week
+- Catch up presentations/reading discussions
+	- Presentations today
+		- From last week: Shamsa
+		- Scheduled today: Joseph 
+	- Presentations Wednesday
+		- Dhabia
+	- Reading discussion:
+		- none scheduld for this week
+- Performance
+	- Inside Out
+	- I have asked the library to digitize the movie for us so that we can all
+		watch it
+	- You as a group will write a short play based on the concept of the movie,
+		but it does not need to be part of the movie
+	- Your play will a robot taking the place of the human
+		- The robot playing the human should be more elaborate, and so could
+			justify a bigger team of 3 or 4 people, unless two of you wish to take
+			on the whole human robot.
+		- Depending on how many of you work on the human robot, that leaves 10,
+			11, or 12 of you for the other robots so we have either 
+			- 5 robots with teams of two (total 10)
+			- 6 robots with teams of two (total 12)
+			- 5 robots with one team of 3 (total 11)
+			- 6 robots with one team of 1 (total 11)

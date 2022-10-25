@@ -290,18 +290,54 @@ and reactions to the reading. Put this in the same README.md.
 ### todays-assignment
 #### Assignments Due Monday October 31
 
-Reading assignment
+Reading assignments
 
-Read carefully and be prepared to discuss. Prepare questions, observations,
-and reactions to the reading. Put this in a README.md, in the folder
-dated october31.
+1. Watch [Inside
+	 Out](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph004218186)
 
-- [Eight Lessons Learned about Non-verbal Interactions through Robot Theater](socialRobotics.pdf)
+2. Read carefully [Eight Lessons Learned about Non-verbal Interactions through
+	 Robot Theater](socialRobotics.pdf) and be prepared to discuss. Prepare
+	 questions, observations, and reactions to the reading. Put this in a
+	 README.md, in the folder dated october31.
 	- Yupu and Mudi will lead
+
+Production assignments
+
+As a group, write a 2 page first draft of a play based on the ideas from 
+the movie Inside Out. The play does not need to tell any part of the story of
+the movie. The characters of your play are 1) a robot playing the role of the
+human and 2) 5 or 6 robots playing the foles of the different emotions which
+try to control the "human" robot, perhaps to achieve some goal. 
+
+The play should include rough stage direction (where the different robots
+start, where they move to, what other motions or activations they have (facial
+expressions, other movements (e.g. with servo motors), etc.
+
+The whole class is to work on this together. You may collaborate in any way
+you wish: meeting in person or not, using any shared writing method you wish,
+working in groups or all together.
+
+Rehearse the play at least twice by reading the different parts by different
+people 
 
 #### Assignments Due Wednesday November 2
 
+Production assignments
+
+- Attach a servo motor to your nRF receiver board, and a potentiometer to your
+	nRF transmitter board. Modify the code to send values from the potentiometer
+	to control the servo motor
+	- If you don't know how to use a potentiometer, Google "Arduino
+		potentiometer"
+	- If you don't know how to use a servo motor, Google "Arduino
+		servo motor"
+	- If you don't know how to send more information, look at the other examples
+		in the nRF folder in the resources
+		[repository](https://github.com/michaelshiloh/resourcesForClasses) 
+- Read about the [Adafruit Music Maker Shield](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all)
+
 #### Assignments Due Wednesday November 9
 
+Reading assignment
 - [Towards a Dramaturgy of Robots and Object-Figures](eckersall2015.pdf)
 	- Fatima and Alpha will lead the discussion

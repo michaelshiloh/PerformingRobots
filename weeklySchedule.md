@@ -345,7 +345,7 @@ Production assignments
 		[repository](https://github.com/michaelshiloh/resourcesForClasses) 
 - Read about the [Adafruit Music Maker Shield](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all)
 
-#### Assignments Due Wednesday November 9
+#### Assignments Due Wednesday November 9 (partial)
 
 Reading assignment
 - [Towards a Dramaturgy of Robots and Object-Figures](doc/eckersall2015.pdf)

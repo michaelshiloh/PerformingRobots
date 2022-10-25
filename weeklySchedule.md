@@ -303,22 +303,31 @@ Reading assignments
 
 Production assignments
 
-As a group, write a 2 page first draft of a play based on the ideas from 
+**As a group, write a 2 page first draft of a play based on the ideas from 
 the movie Inside Out. The play does not need to tell any part of the story of
 the movie. The characters of your play are 1) a robot playing the role of the
-human and 2) 5 or 6 robots playing the foles of the different emotions which
-try to control the "human" robot, perhaps to achieve some goal. 
+human and 2) 5 or 6 robots playing the roles of the different emotions which
+try to control the "human" robot, perhaps to achieve some goal (or not; it's
+your choice).
 
 The play should include rough stage direction (where the different robots
 start, where they move to, what other motions or activations they have (facial
 expressions, other movements (e.g. with servo motors), etc.
+
+Include a brief description of each character in the play.
+
+Recall (or review) [Tegan's
+lecture](https://www.nfi.edu/writing-a-play-script/) about dramaturgy. There
+are also endless resources online such as
+[this](https://www.nfi.edu/writing-a-play-script/) which I found just by
+Googling "play outline".
 
 The whole class is to work on this together. You may collaborate in any way
 you wish: meeting in person or not, using any shared writing method you wish,
 working in groups or all together.
 
 Rehearse the play at least twice by reading the different parts by different
-people 
+people**
 
 #### Assignments Due Wednesday November 2
 

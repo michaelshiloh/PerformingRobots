@@ -301,9 +301,9 @@ Reading assignments
 	 README.md, in the folder dated october31.
 	- Yupu and Mudi will lead
 
-Production assignments
+Production assignments **Start now this is big**
 
-** As a group, write a 2 page first draft of a play based on the ideas from 
+As a group, write a 2 page first draft of a play based on the ideas from 
 the movie Inside Out. The play does not need to tell any part of the story of
 the movie. The characters of your play are 1) a robot playing the role of the
 human and 2) 5 or 6 robots playing the roles of the different emotions which
@@ -327,7 +327,7 @@ you wish: meeting in person or not, using any shared writing method you wish,
 working in groups or all together.
 
 Rehearse the play at least twice by reading the different parts by different
-people **
+people
 
 #### Assignments Due Wednesday November 2
 
@@ -348,5 +348,5 @@ Production assignments
 #### Assignments Due Wednesday November 9
 
 Reading assignment
-- [Towards a Dramaturgy of Robots and Object-Figures](eckersall2015.pdf)
+- [Towards a Dramaturgy of Robots and Object-Figures](doc/eckersall2015.pdf)
 	- Fatima and Alpha will lead the discussion

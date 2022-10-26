@@ -354,12 +354,7 @@ build it and test
 - Dhabia and Oliver: Thinking something makes it so
 - Outlines
 
-### todays-lecture
 ### Monday October 24
-
-#### Administration
-- Zoom!
-- Record
 
 #### Plan for this week
 - Catch up presentations/reading discussions
@@ -389,7 +384,18 @@ build it and test
 
 #### Plan for today
 - Shamsa
-- Joseph
 - Finish nRF
 	- Add servo motors
 - If we have time, start with audio shield
+
+### Wednesday October 26
+### todays-lecture
+
+#### Administration
+- Zoom!
+- Record
+
+##### Presentations
+- Joseph Hong: Ameca and the advancement of hyper-realistic facial expressions
+- Dhabia AlMansoori: Simone Giertz, Micheal Reeves, and Mark Rober
+

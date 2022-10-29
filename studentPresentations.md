@@ -1,6 +1,5 @@
-
-Shortcut to [today's assignment](#todays-assignment)  
-Shortcut to [today's lecture](#todays-lecture)
+Shortcut to [today's assignment](weeklySchedule.md#todays-assignment)  
+Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
 
 ## New York University Abu Dhabi  
 ## Interactive Media Program

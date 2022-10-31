@@ -297,9 +297,9 @@ Reading assignments
 	 Out](https://bobcat.library.nyu.edu/permalink/f/1bthiq5/nyu_aleph004218186)
 
 2. Read carefully [Eight Lessons Learned about Non-verbal Interactions through
-	 Robot Theater](doc/socialRobotics.pdf) and be prepared to discuss. Prepare
-	 questions, observations, and reactions to the reading. Put this in a
-	 README.md, in the folder dated october31.
+	 Robot Theater](doc/socialRobotics.pdf) (page 42-51) and be prepared to
+	 discuss. Prepare questions, observations, and reactions to the reading. Put
+	 this in a README.md, in the folder dated october31.
 	- Yupu and Mudi will lead
 
 Production assignments **Start now this is big**

@@ -412,6 +412,11 @@ build it and test
 - Use the `map()` function!
 - Robots moving without your instructions?
 
-Presentation? Discussion?
+#### Discussion
+"Eight Lessons": Mudi and Yupu lead
 
-Run through the performance
+#### Performance
+Do a class reading of the performance
+
+#### Production
+How to use the MP3 Trigger shield

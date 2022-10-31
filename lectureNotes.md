@@ -390,13 +390,28 @@ build it and test
 - If we have time, start with audio shield
 
 ### Wednesday October 26
+
+##### Presentations
+- Joseph Hong: Ameca and the advancement of hyper-realistic facial expressions
+- Dhabia AlMansoori: Simone Giertz, Michael Reeves, and Mark Rober
+
+### Monday October 31
 ### todays-lecture
 
 #### Administration
 - Zoom!
 - Record
+- **Unmute**!
 
-##### Presentations
-- Joseph Hong: Ameca and the advancement of hyper-realistic facial expressions
-- Dhabia AlMansoori: Simone Giertz, Micheal Reeves, and Mark Rober
+#### Assignment feedback
+- Loved your responses to readings! You all should read them!
+- Github resources
+	- README.md
+	- How to create a new folder
+	- Include code and images in README.md 
+- Use the `map()` function!
+- Robots moving without your instructions?
 
+Presentation? Discussion?
+
+Run through the performance

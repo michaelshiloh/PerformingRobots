@@ -416,7 +416,10 @@ build it and test
 "Eight Lessons": Mudi and Yupu lead
 
 #### Performance
-Do a class reading of the performance
+Do a class reading of the performance. Critique and discussion.
 
 #### Production
-How to use the MP3 Trigger shield
+[How to use the Adafruit Music Maker 
+shield](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all)
+- Micro SD cards
+- Speaker

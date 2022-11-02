@@ -396,12 +396,6 @@ build it and test
 - Dhabia AlMansoori: Simone Giertz, Michael Reeves, and Mark Rober
 
 ### Monday October 31
-### todays-lecture
-
-#### Administration
-- Zoom!
-- Record
-- **Unmute**!
 
 #### Assignment feedback
 - Loved your responses to readings! You all should read them!
@@ -423,3 +417,27 @@ Do a class reading of the performance. Critique and discussion.
 shield](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all)
 - Micro SD cards
 - Speaker
+
+### Wednesday Thursday November 2
+### todays-lecture
+
+#### Administration
+- Zoom!
+- Record
+- **Unmute**!
+
+#### Homework
+- Any issues with the nRF servo potentiometer assignment?
+- Soldering the feed through headers to the Music Maker Shield
+
+#### Presentation
+Louis
+
+#### Next steps for the play
+- How many robots
+- Assign teams
+- Start building
+
+#### Homework
+- IM lab checkout system
+- September 12 assignment

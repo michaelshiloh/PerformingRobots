@@ -288,7 +288,6 @@ and reactions to the reading. Put this in the same README.md.
 - [Thinking Something Makes it So](doc/LePage2016_Chapter_ThinkingSomethingMakesItSoPerf.pdf)
 	- Dhabia and Oliver will lead
 
-### todays-assignment
 #### Assignments Due Monday October 31
 
 Reading assignments
@@ -346,8 +345,18 @@ Production assignments
 		[repository](https://github.com/michaelshiloh/resourcesForClasses) 
 - Read about the [Adafruit Music Maker Shield](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all)
 
-#### Assignments Due Wednesday November 9 (partial)
+### todays-assignment
+#### Assignments Due Wednesday November 7 
+
+- Connect Music Maker Shield to an Arduino and make it play a sound. You will
+  need a micro SD card. If you don't have one, you may check one out of the IM
+  lab. Reserve a card using the IM checkout system.
+
+#### Assignments Due Wednesday November 9 
 
 Reading assignment
 - [Towards a Dramaturgy of Robots and Object-Figures](doc/eckersall2015.pdf)
 	- Fatima and Alpha will lead the discussion
+- Working with your nRF partner, add the Music Maker Shield to your nRF setup,
+  and add the ability to control which track is playing from the transmitter
+- Review Chapter 8, Automatic Garden-Irrigation System

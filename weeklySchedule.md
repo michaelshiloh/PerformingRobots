@@ -346,17 +346,50 @@ Production assignments
 - Read about the [Adafruit Music Maker Shield](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all)
 
 ### todays-assignment
-#### Assignments Due Wednesday November 7 
+#### Assignments Due Monday November 7 
 
-- Connect Music Maker Shield to an Arduino and make it play a sound. You will
+Production Assignment
+
+Connect Music Maker Shield to an Arduino and make it play a sound. You will
   need a micro SD card. If you don't have one, you may check one out of the IM
-  lab. Reserve a card using the IM checkout system.
+  lab or the Film department. Reserve a card using the IM checkout system.
 
-#### Assignments Due Wednesday November 9 
+Discussion Assignment
+
+Currently your script calls for 7 robots:
+- Anger
+- Fear
+- Sadness
+- Disgust
+- Joy
+- Imaginary Friend
+- Human Student
+
+It's time now to identify the teams that will build each robot. We have 14
+students, so 7 teams of two people each for most robots. As we discussed in
+class, the Imaginary Friend robot doesn't need to do much, and neither does
+the Human Student, so these robots can be done by one student instead of two.
+That accounts for 12 students, leaving 2 students without a robot to build.
+How should this be resolved?
+
+Working as a group, make decisions about the following:
+
+- Do you want to find a student to volunteer to be the Human Student?  They
+	will have to be present at some of the rehearsals so that they know what
+	they need to do. This means that we need to find a job for the student who
+	would be building the Human Student
+- Should you create a role for an additional Emotion robot for the 2 students
+	without a robot?
+- Contrary to what I said earlier, I'm going to allow you to chose who you'd
+	like to work with. Discuss the various robots and decide who is going to be
+	responsible for which robot.
+
+#### Assignments Due Wednesday November 9 (tentative) 
 
 Reading assignment
 - [Towards a Dramaturgy of Robots and Object-Figures](doc/eckersall2015.pdf)
 	- Fatima and Alpha will lead the discussion
 - Working with your nRF partner, add the Music Maker Shield to your nRF setup,
   and add the ability to control which track is playing from the transmitter
-- Review Chapter 8, Automatic Garden-Irrigation System
+- Review Chapter 8, Automatic Garden-Irrigation System. See the assignment for
+	September 12 above for instructions on how to access the book.

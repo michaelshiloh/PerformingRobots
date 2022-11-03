@@ -348,13 +348,13 @@ Production assignments
 ### todays-assignment
 #### Assignments Due Monday November 7 
 
-Production Assignment
+##### Production Assignment
 
-Connect Music Maker Shield to an Arduino and make it play a sound. You will
-  need a micro SD card. If you don't have one, you may check one out of the IM
-  lab or the Film department. Reserve a card using the IM checkout system.
+Connect your Music Maker Shield to an Arduino and make it play a sound. You
+will need a micro SD card. If you don't have one, you may check one out of the
+IM lab or the Film department. Reserve a card using the IM checkout system.
 
-Discussion Assignment
+##### Discussion Assignment
 
 Currently your script calls for 7 robots:
 - Anger
@@ -377,12 +377,11 @@ Working as a group, make decisions about the following:
 - Do you want to find a student to volunteer to be the Human Student?  They
 	will have to be present at some of the rehearsals so that they know what
 	they need to do. This means that we need to find a job for the student who
-	would be building the Human Student
+	would have been building the Human Student
 - Should you create a role for an additional Emotion robot for the 2 students
 	without a robot?
-- Contrary to what I said earlier, I'm going to allow you to chose who you'd
-	like to work with. Discuss the various robots and decide who is going to be
-	responsible for which robot.
+- Contrary to what I said earlier, I'm going to allow you to chose whom you'd
+	like to work with. Discuss and decide.
 
 #### Assignments Due Wednesday November 9 (tentative) 
 

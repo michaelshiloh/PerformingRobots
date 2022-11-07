@@ -440,7 +440,7 @@ Louis
 ### todays-lecture
 
 #### Administration
-- Zoom!
+- [Zoom](https://nyu.zoom.us/j/93396476124)
 - Record
 - **Unmute**!
 

@@ -418,13 +418,7 @@ shield](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wa
 - Micro SD cards
 - Speaker
 
-### Wednesday Thursday November 2
-### todays-lecture
-
-#### Administration
-- Zoom!
-- Record
-- **Unmute**!
+### Wednesday November 2
 
 #### Homework
 - Any issues with the nRF servo potentiometer assignment?
@@ -441,3 +435,16 @@ Louis
 #### Homework
 - IM lab checkout system
 - September 12 assignment
+
+### Monday November 7
+### todays-lecture
+
+#### Administration
+- Zoom!
+- Record
+- **Unmute**!
+
+#### Goal for today
+- Music Maker Shield: Problems? Solutions?
+- Bad nRF
+- Finish play

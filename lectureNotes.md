@@ -437,14 +437,19 @@ Louis
 - September 12 assignment
 
 ### Monday November 7
-### todays-lecture
-
-#### Administration
-- [Zoom](https://nyu.zoom.us/j/93396476124)
-- Record
-- **Unmute**!
 
 #### Goal for today
 - Music Maker Shield: Problems? Solutions?
 - Bad nRF
 - Finish play
+
+### Wednesday November 9
+### todays-lecture
+#### Administration
+- [Zoom](https://nyu.zoom.us/j/93396476124)
+- Record
+- **Unmute**!
+
+#### Today
+- Reading discussion (Eckersall), lead by Fatima and Alpha
+- Music Maker Shield controlled by nRF: Problems? Solutions?

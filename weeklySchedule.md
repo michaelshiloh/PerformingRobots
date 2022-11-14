@@ -345,7 +345,6 @@ Production assignments
 		[repository](https://github.com/michaelshiloh/resourcesForClasses) 
 - Read about the [Adafruit Music Maker Shield](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all)
 
-### todays-assignment
 #### Assignments Due Monday November 7 
 
 ##### Production Assignment
@@ -383,7 +382,7 @@ Working as a group, make decisions about the following:
 - Contrary to what I said earlier, I'm going to allow you to chose whom you'd
 	like to work with. Discuss and decide.
 
-#### Assignments Due Wednesday November 9 (tentative) 
+#### Assignments Due Wednesday November 9 
 
 Reading assignment
 - [Towards a Dramaturgy of Robots and Object-Figures](doc/eckersall2015.pdf)
@@ -392,3 +391,5 @@ Reading assignment
   and add the ability to control which track is playing from the transmitter
 - Review Chapter 8, Automatic Garden-Irrigation System. See the assignment for
 	September 12 above for instructions on how to access the book.
+
+### todays-assignment

@@ -444,6 +444,12 @@ Louis
 - Finish play
 
 ### Wednesday November 9
+
+#### Today
+- Reading discussion (Eckersall), lead by Fatima and Alpha
+- Music Maker Shield controlled by nRF: Problems? Solutions?
+
+### Monday November 14
 ### todays-lecture
 #### Administration
 - [Zoom](https://nyu.zoom.us/j/93396476124)
@@ -451,5 +457,9 @@ Louis
 - **Unmute**!
 
 #### Today
-- Reading discussion (Eckersall), lead by Fatima and Alpha
-- Music Maker Shield controlled by nRF: Problems? Solutions?
+- Still working on nRF problems
+- Is there anyone who has not yet lead a reading discussion?
+- Neopixel matrix (if they have arrived)
+- Live demo:
+Using the prototyping shield (nRF, neopixel matrix, servo motors, etc.)
+- Let's build robots (any remaining time)

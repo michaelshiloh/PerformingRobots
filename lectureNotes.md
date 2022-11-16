@@ -450,11 +450,6 @@ Louis
 - Music Maker Shield controlled by nRF: Problems? Solutions?
 
 ### Monday November 14
-### todays-lecture
-#### Administration
-- [Zoom](https://nyu.zoom.us/j/93396476124)
-- Record
-- **Unmute**!
 
 #### Today
 - Still working on nRF problems
@@ -463,3 +458,19 @@ Louis
 - Live demo:
 Using the prototyping shield (nRF, neopixel matrix, servo motors, etc.)
 - Let's build robots (any remaining time)
+
+### Wednesday November 16
+### todays-lecture
+#### Administration
+- [Zoom](https://nyu.zoom.us/j/93396476124)
+- Record
+- **Unmute**!
+
+#### Today
+- Presentations: 
+	- Fatima
+	- Dania
+- nRF
+	- Pair of radios for debugging
+- Progress 
+	- homework

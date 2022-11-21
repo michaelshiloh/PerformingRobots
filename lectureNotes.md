@@ -460,11 +460,6 @@ Using the prototyping shield (nRF, neopixel matrix, servo motors, etc.)
 - Let's build robots (any remaining time)
 
 ### Wednesday November 16
-### todays-lecture
-#### Administration
-- [Zoom](https://nyu.zoom.us/j/93396476124)
-- Record
-- **Unmute**!
 
 #### Today
 - Presentations: 
@@ -474,3 +469,28 @@ Using the prototyping shield (nRF, neopixel matrix, servo motors, etc.)
 	- Pair of radios for debugging
 - Progress 
 	- homework
+
+### Monday November 21
+### todays-lecture
+#### Administration
+- [Zoom](https://nyu.zoom.us/j/93396476124)
+- Record
+- **Unmute**!
+
+#### Today
+- Label your box, hobby RC transmitter, robot, and anything that is outside of
+	your box. I will remove anything unlabeled.
+- Share robot progress
+	- How many servo motors are you using?
+- Read through play
+- Prototyping shield: go over pin usage again
+	- Receiver:
+		- nRF: SPI (3) + control (2)
+		- Music Maker Shield: SPI (3) + control (4)
+		- Neopixel: 1
+		- total = 10, not counting servo motors
+	- Transmitter:
+		- nRF: SPI (3) + control (2)
+		- that leaves 15 for control. How shall we do this?
+			- Binary system + transmit switch
+- Neopixel matrices

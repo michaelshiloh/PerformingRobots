@@ -36,7 +36,7 @@ This file: Student Presentations
 - November 2 - Louis: Theater Robotics for Human Technology Education
 - November 9 - Fatima Ahmed Almaazmi: Isaac Asimov's Runaround
 - November 16 - Dania Ezz: Guy Hoffman's robots
-- November 23 - Yoki Xue: Uncanny Valley by Rimini Protokoll 
+- November 23 - Yoki Xue: 
 - November 30 - Yupu: Improbotics
 
 missing 2

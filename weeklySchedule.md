@@ -399,4 +399,4 @@ Reading assignment
 - Finish and test robot mechanics (anything that moves with motors)
 - This should be done before Monday's class so that we can dedicate class time
 	on Monday to start working on the electronics, both in the robot and the
-	remove control unit
+	remote control unit

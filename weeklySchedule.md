@@ -397,6 +397,6 @@ Reading assignment
 #### Assignments Due Monday November 28
 - Finish robot body
 - Finish and test robot mechanics (anything that moves with motors)
-
-The goal will be to have all of next week available for the electronics, both
-in the robot and the remove control unit
+- This should be done before Monday's class so that we can dedicate class time
+	on Monday to start working on the electronics, both in the robot and the
+	remove control unit

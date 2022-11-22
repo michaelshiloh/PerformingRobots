@@ -393,3 +393,10 @@ Reading assignment
 	September 12 above for instructions on how to access the book.
 
 ### todays-assignment
+
+#### Assignments Due Monday November 28
+- Finish robot body
+- Finish and test robot mechanics (anything that moves with motors)
+
+The goal will be to have all of next week available for the electronics, both
+in the robot and the remove control unit

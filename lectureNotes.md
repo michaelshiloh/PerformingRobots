@@ -471,11 +471,6 @@ Using the prototyping shield (nRF, neopixel matrix, servo motors, etc.)
 	- homework
 
 ### Monday November 21
-### todays-lecture
-#### Administration
-- [Zoom](https://nyu.zoom.us/j/93396476124)
-- Record
-- **Unmute**!
 
 #### Today
 - Label your box, hobby RC transmitter, robot, and anything that is outside of
@@ -494,3 +489,19 @@ Using the prototyping shield (nRF, neopixel matrix, servo motors, etc.)
 		- that leaves 15 for control. How shall we do this?
 			- Binary system + transmit switch
 - Neopixel matrices
+
+### Wednesday November 23
+### todays-lecture
+#### Administration
+- [Zoom](https://nyu.zoom.us/j/93396476124)
+- Record
+- **Unmute**!
+
+#### **WARNINGS**
+- Still finding things not put away
+	- Motor
+	- Coffin bot
+
+#### Control board
+- Switches user internal PUP and hence common wire is GND not 5V
+

@@ -495,6 +495,8 @@ Using the prototyping shield (nRF, neopixel matrix, servo motors, etc.)
 #### Presentation
 - Yoki
 
+#### Trip to Museum of the Future
+
 #### Discussion
 - What to do about those of you not putting things away
 	- Motor

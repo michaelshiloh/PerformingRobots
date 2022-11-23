@@ -491,16 +491,16 @@ Using the prototyping shield (nRF, neopixel matrix, servo motors, etc.)
 - Neopixel matrices
 
 ### Wednesday November 23
-### todays-lecture
-#### Administration
-- [Zoom](https://nyu.zoom.us/j/93396476124)
-- Record
-- **Unmute**!
 
-#### **WARNINGS**
-- Still finding things not put away
+#### Presentation
+- Yoki
+
+#### Discussion
+- What to do about those of you not putting things away
 	- Motor
 	- Coffin bot
+	- Bag from music maker shield
+	- Batteries
 
 #### Control board
 - Switches user internal PUP and hence common wire is GND not 5V

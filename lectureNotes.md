@@ -507,3 +507,30 @@ Using the prototyping shield (nRF, neopixel matrix, servo motors, etc.)
 #### Control board
 - Switches user internal PUP and hence common wire is GND not 5V
 
+### Monday November 28, 2022
+# todays-lecture
+#### Administration
+- [Zoom](https://nyu.zoom.us/j/93396476124)
+- Record
+- Unmute
+
+#### Review robots!
+- Demo driving
+- Demo servo motors
+- Demo Neo Pixels 
+
+##### Some notes:
+- Don't glue batteries
+- Don't use tape
+- Extend wires for servo motors (3 methods)
+
+Wednesday: 
+- Driving
+- All servo motors working (one at a time is fine)
+
+#### Rest of the day
+Install electronics in top half
+- How to connect the servo motors and neopixels to the Arduino
+
+Design your control panel
+- Laser cutter?

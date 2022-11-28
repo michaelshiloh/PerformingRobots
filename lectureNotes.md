@@ -523,6 +523,8 @@ Using the prototyping shield (nRF, neopixel matrix, servo motors, etc.)
 - Don't glue batteries
 - Don't use tape
 - Extend wires for servo motors (3 methods)
+- Neopixels
+- Brackets
 
 Wednesday: 
 - Driving

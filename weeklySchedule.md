@@ -392,7 +392,6 @@ Reading assignment
 - Review Chapter 8, Automatic Garden-Irrigation System. See the assignment for
 	September 12 above for instructions on how to access the book.
 
-### todays-assignment
 
 #### Assignments Due Monday November 28
 - Finish robot body
@@ -400,3 +399,12 @@ Reading assignment
 - This should be done before Monday's class so that we can dedicate class time
 	on Monday to start working on the electronics, both in the robot and the
 	remote control unit
+
+### todays-assignment
+#### Assignments Due Monday December 5
+I'm disappointed that most of you did not finish the assignment that was due
+on Novermber 28: robot body and robot mechanics. The assignment now is:
+- Really finish robot body
+- Really finish and test robot mechanics (anything that moves with motors)
+- Attach neopixels. If you are making your own grids, that needs to be
+	finished now too.

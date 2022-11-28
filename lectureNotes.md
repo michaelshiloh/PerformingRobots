@@ -529,7 +529,8 @@ Wednesday:
 - All servo motors working (one at a time is fine)
 
 #### Rest of the day
-Install electronics in top half
+- Distribute Neopixels
+- Install electronics in top half
 - How to connect the servo motors and neopixels to the Arduino
 
 Design your control panel

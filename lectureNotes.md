@@ -537,3 +537,28 @@ Wednesday:
 
 Design your control panel
 - Laser cutter?
+
+### Monday December 5, 2022
+# todays-lecture
+#### Administration
+- [Zoom](https://nyu.zoom.us/j/93396476124)
+- Record
+- Unmute
+
+#### Review robots!
+- Demo driving
+- Demo servo motors
+- Demo NeoPixels 
+
+#### Review electronics!
+- How to connect NeoPixels and servo motors
+- How to connect power to NeoPixels and servo motors
+- How to connect amplifier to Music Maker Shield
+
+#### Control panel
+- Laser cutter
+- Hand cut and drill acrylic 
+- Plywood
+
+#### Rest of the day
+- work

@@ -539,11 +539,6 @@ Design your control panel
 - Laser cutter?
 
 ### Monday December 5, 2022
-# todays-lecture
-#### Administration
-- [Zoom](https://nyu.zoom.us/j/93396476124)
-- Record
-- Unmute
 
 #### Review robots!
 - Demo driving
@@ -562,3 +557,15 @@ Design your control panel
 
 #### Rest of the day
 - work
+
+### Wednesday December 7, 2022
+# todays-lecture
+#### Administration
+- [Zoom](https://nyu.zoom.us/j/93396476124)
+- Record
+- Unmute
+
+#### Today's plan
+- Yupu
+- Read through play
+- Control panel

@@ -568,4 +568,5 @@ Design your control panel
 #### Today's plan
 - Yupu
 - Read through play
+- Evaluations
 - Control panel

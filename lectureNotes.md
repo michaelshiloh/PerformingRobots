@@ -566,7 +566,17 @@ Design your control panel
 - Unmute
 
 #### Today's plan
-- Yupu
-- Read through play
-- Evaluations
+- Presentation by Yupu
+- Legislative days:
+	- December 11 (Sunday)-	Classes meet on a Wednesday schedule
+	- December 12 (Monday) - Classes meet on a Thursday schedule
+	- December 13 (Tuesday)	- Classes meet on a Friday schedule
+- Evaluations - do them on your own or take time out on Sunday
+- Batteries: 
+	- Each Arduino needs 6 AA batteries! 
+	- If we are out of holders for 6 batteries, you must combine a two batter
+		holder with a 4 battery holder in series. Ask on Discord if you're not
+		sure how to do this.
 - Control panel
+	- I will make them
+- Read through play

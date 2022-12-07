@@ -580,3 +580,4 @@ Design your control panel
 - Control panel
 	- I will make them
 - Read through play
+	- note the number of sound clips

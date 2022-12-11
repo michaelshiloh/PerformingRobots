@@ -594,9 +594,12 @@ Remember though this is not just a technical course. The readings and
 discussions are an equally important component, even though they have been
 overshadowed by the robot fabrication work in the last month
 
-Rehearsal schedule:
-12 - 2 bring in robots, practice driving, no sound
-2 - late hopefully get sound system set up, practice
+Tuesday rehearsal schedule:
+- 12 - 2 bring in robots, practice driving, no sound
+- 2 - late hopefully get sound system set up, practice
+
+Decisions:
+- Do we need to have separate selector switches for servos and NeoPixels?
 
 Work you need to do:
 - Strain relief
@@ -604,7 +607,7 @@ Work you need to do:
 - Check out speakers and find a place to put them
 - Label and then charge all your batteries
 
+
 Work I need to do:
-- Do we need to have separate selector switches for servos and NeoPixels?
 - Build control panels - who is available to help?
 - Keep power bank turned on

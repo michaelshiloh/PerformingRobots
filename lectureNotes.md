@@ -559,11 +559,6 @@ Design your control panel
 - work
 
 ### Wednesday December 7, 2022
-# todays-lecture
-#### Administration
-- [Zoom](https://nyu.zoom.us/j/93396476124)
-- Record
-- Unmute
 
 #### Today's plan
 - Presentation by Yupu
@@ -581,3 +576,35 @@ Design your control panel
 	- I will make them
 - Read through play
 	- note the number of sound clips
+
+### Sunday 11 December 2022
+# todays-lecture
+#### Administration
+- [Zoom](https://nyu.zoom.us/j/93396476124)
+- Record
+- Unmute
+
+#### Today's plan
+
+Congratulations! Your robots are the most ambitious and sophisticated this
+course has ever built. I have pushed you hard and I've seen how hard most of
+you are working. This is appreciated and will be reflected in your grades.
+
+Remember though this is not just a technical course. The readings and
+discussions are an equally important component, even though they have been
+overshadowed by the robot fabrication work in the last month
+
+Rehearsal schedule:
+12 - 2 bring in robots, practice driving, no sound
+2 - late hopefully get sound system set up, practice
+
+Work you need to do:
+- Strain relief
+- Extend servo wires safely
+- Check out speakers and find a place to put them
+- Label and then charge all your batteries
+
+Work I need to do:
+- Do we need to have separate selector switches for servos and NeoPixels?
+- Build control panels - who is available to help?
+- Keep power bank turned on

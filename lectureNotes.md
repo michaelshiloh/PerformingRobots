@@ -508,7 +508,6 @@ Using the prototyping shield (nRF, neopixel matrix, servo motors, etc.)
 - Switches user internal PUP and hence common wire is GND not 5V
 
 ### Monday November 28, 2022
-# todays-lecture
 #### Administration
 - [Zoom](https://nyu.zoom.us/j/93396476124)
 - Record
@@ -611,3 +610,25 @@ Work you need to do:
 Work I need to do:
 - Build control panels - who is available to help?
 - Keep power bank turned on
+
+#### Clean up!
+
+- I need back all your spare Arduinos, batteries, motors, Music Maker Shields,
+	wheels, hubs, SD cards, nRF radios, and anything else that you are not using
+	in your robots. Please clean out your boxes and put all the parts that you
+	don't need on the table in the front of the classroom (where I sit).
+- I have an update regarding power banks: we have for checkout power banks
+	which do not switch off. I want you each to check out one of these for the
+	Arduinos on your robots. Your control panel will still operate on the power
+	bank which I gave you. If I gave you two power banks, please return one of
+	them.
+- Some of you are using AA batteries for the Arduinos on your robot. You may
+	continue to do so. Label each battery and charge them. Return any you are
+	not using. In this case you do not need to check out the power bank for your
+	robot.
+- In class yesterday we decided to skip the music maker shield and instead
+	each of you will speak for your robot through a microphone. I need back the
+	Music Maker Shields from everyone except for Oliver and Hessa 
+- Each of you is still using 6 rechargeable batteries for your hobby RC
+	transmitter. You should keep in your box the charger for these batteries.
+	The charger and each battery must be labeled. 

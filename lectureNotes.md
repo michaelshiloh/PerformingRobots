@@ -632,3 +632,14 @@ Work I need to do:
 - Each of you is still using 6 rechargeable batteries for your hobby RC
 	transmitter. You should keep in your box the charger for these batteries.
 	The charger and each battery must be labeled. 
+- Since most of you are not using the Music Maker Shield, you should remove
+	this from your code. In particular, remove the libraries related to the
+	Music Maker Shield which should give you more memory:
+
+````
+#include <Adafruit_VS1053.h>
+#include <SD.h>
+````
+
+
+

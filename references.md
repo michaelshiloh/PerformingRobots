@@ -1,4 +1,3 @@
-## New material 2021
 
 1. [New Media Dramaturgy](https://newmediadramaturgy.wordpress.com) (Blog)
 

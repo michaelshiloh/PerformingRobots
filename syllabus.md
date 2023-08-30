@@ -249,8 +249,8 @@ count as an unexcused absence.  Unexcused absences or habitual lateness will
 negatively impact your final grade for the class. 
 
 More than one unexcused absence will result in a 5-percentage point drop in
-your attendance grade per absence. After four unexcused absences, you will
-fail the class.
+your attendance grade per absence. **After four unexcused absences, you will
+fail the class.**
 
 If you know you are going to be late or absent, please email me in advance. If
 you have an emergency, let me know as soon as you can.  To receive an excused
@@ -291,13 +291,6 @@ we’re in the middle of an exercise that makes use of it. Whenever classmates
 are presenting or we’re in the midst of a class discussion, please keep your
 laptop closed. The quality of the class depends in large part on your
 attention and active participation, so please respect that and close your lid.
-
-#### Zoom:
-
-Have your camera turned on during class so we can all see each other. This
-really helps the cohesion of the class while we are doing remote learning. If
-you have a special reason why you need to have your camera turned off please
-email me with the details of why and we can discuss.
 
 #### Mobile Phones:
 

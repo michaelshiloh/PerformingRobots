@@ -39,5 +39,4 @@ Student Github [repositories](studentRepositories.md)
 
 Student [presentations](studentPresentations.md)
 
-The current session is Fall 2022. 
 Previous sessions can be explored [here](previousSessions/).

@@ -36,6 +36,8 @@ This document: Lecture Notes
 
 #### Administration
 - I expect you to bring a notebook to class and to take notes
+- I expect you to be on time
+- I expect you to participate by thinking, discussing, and making
 
 #### In-class activity
 
@@ -58,13 +60,17 @@ Introduction
 - [weekly schedule](weeklySchedule.md)
 - [Syllabus](syllabus.md)
 - Summary:
-  -  Be present and participate in class
-  -  No electronic distractions
-  -  Be proactive: Communicate with me regarding difficulties, problems, illness, etc.
+  - Be on time
+  - Bring a notebook to class to take notes
+  - Be present and participate in class by thinking, discussing, and making
+  - Be experimental: try things you don't know
+  - No electronic distractions
+  - Be proactive: Communicate with me regarding difficulties, problems, illness, etc. Don't wait until the last minute when I can't help you
   -  Allow lots of time for homework as physical construction
   and debugging circuits and programs can be very time consuming, and your
   ability to estimate how long something should take is very likely wrong
   unless you've done something very much like this before
+
 - Who am I?
 - Who are you?
 	- Have you used Arduino before?

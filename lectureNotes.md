@@ -30,8 +30,6 @@ This is subject to change
 
 This document: Lecture Notes
 
-### Week 1 August 30
-
 ### Wednesday August 30
 
 #### Administration
@@ -75,6 +73,17 @@ Introduction
 - Who are you?
 	- Have you used Arduino before?
 
+### Monday 4 Sept 2023
+##### todays-lecture
+
+#### Administration
+- Attendance
+  
+#### Today
+- Accounts
+    - Review Github?
+- Arduino, motors, external power supplies
+
 ##### Discord
 
 Please join the IM Discord server. Use it for asking all but personal private
@@ -108,7 +117,7 @@ Github review (if necessary)
 
 ### Next
 
-##### Arduino Programming!
+##### Arduino!
 
 
 The built-in examples are a great resource, and there are tutorials for each
@@ -224,10 +233,8 @@ Loops
 
 Arduino reference
 
-##### More motors: Bigger motors and external batteries
-(or soldering lesson if we don't find the coax connectors)
-
-
+##### Motors
+##### Bigger motors and external power supplies
 ##### Schematics
 What is the difference between a schematic and a wiring diagram?
 

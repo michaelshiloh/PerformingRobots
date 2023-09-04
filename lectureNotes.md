@@ -135,9 +135,8 @@ In general
 
 To control a motor, we need an intermediate device called a motor driver. Our
 particular motor driver is based on the L298. To find out how we use it, we
-simply Google "L298 Arduino". Here is the first thing that showed up for me:
-
-https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5
+simply Google "L298 Arduino".
+[Here](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/) is the first thing that showed up for me. The point here is that many of the components we use are quite generic and there is a lot of information on using components with Arduino.
 
 Code: 
 ````

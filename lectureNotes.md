@@ -131,14 +131,15 @@ In general
 - Outputs go with actuators and `digitalWrite()`
 - Inputs go with sensors and `digitalRead()`
 
+##### Motors
+
 To control a motor, we need an intermediate device called a motor driver. Our
 particular motor driver is based on the L298. To find out how we use it, we
 simply Google "L298 Arduino". Here is the first thing that showed up for me:
 
 https://create.arduino.cc/projecthub/ryanchan/how-to-use-the-l298n-motor-driver-b124c5
 
-Code: (I forgot to save my sketch so I did this from memory. I'm pretty sure
-it's correct):
+Code: 
 ````
 void setup() {
   // Pins 2 and 3 are connected to In1 and In2 respectively
@@ -162,41 +163,12 @@ void loop() {
 
 ##### Some more Arduino programming concepts
 ###### `AnalogWrite()`
-Example we developed in class:
-
-````
-void setup() {
-  // Pins 2 and 3 are connected to In1 and In2 respectively
-  // of the L298 motor driver
-  pinMode(2, OUTPUT);
-  pinMode(3, OUTPUT);
-}
-
-void loop() {
-  // make the motor turn in one direction
-  digitalWrite(2, LOW);
-  analogWrite(3, 50); // go slowly
-  delay(5000); // let it turn for 5 seconds
-
-  // digitalWrite(2, LOW);
-  analogWrite(3, 195); // faster!
-  delay(5000); // let it turn for 5 seconds
-
-  // now reverse direction
-  digitalWrite(2, HIGH);
-  analogWrite(3, 50); // this will be fast!
-  delay(5000);
-
-  analogWrite(3, 230); // now go slowly
-  delay(5000);
-}
-````
 
 ###### Conditionals
 - if()
 - if() ... else
 
-Example we developed in class:
+Example 
 
 ````
 /*
@@ -233,8 +205,6 @@ Loops
 
 Arduino reference
 
-##### Motors
-##### Bigger motors and external power supplies
 ##### Schematics
 What is the difference between a schematic and a wiring diagram?
 

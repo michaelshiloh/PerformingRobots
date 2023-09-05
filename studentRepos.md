@@ -28,4 +28,8 @@ Class location: C3-029 (IM Lab)
 This is subject to change
 
 This file: Student Github Repositories and Discord account names
-- []()
+- [Ryan]() Discord: Ryan Wu#3904
+- [Hamad](https://github.com/hmd-shamsi/performingRobots) Discord: hmd_shamsi (BabaRanAway#4868)
+- [Marta](https://github.com/martapienkosz/performingrobots) Discord: Marta#3915
+
+

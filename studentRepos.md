@@ -28,8 +28,14 @@ Class location: C3-029 (IM Lab)
 This is subject to change
 
 This file: Student Github Repositories and Discord account names
-- [Ryan]() Discord: Ryan Wu#3904
+- [Ryan](https://github.com/ryanwu1111/Performing-Robots-Fall-23) Discord: Ryan Wu#3904
 - [Hamad](https://github.com/hmd-shamsi/performingRobots) Discord: hmd_shamsi (BabaRanAway#4868)
 - [Marta](https://github.com/martapienkosz/performingrobots) Discord: Marta#3915
-
+- [Shaikha](https://github.com/ShaikhaAlN/PerformingRobots)
+- [Shanaia](https://github.com/sparuthi/performingrobots) Discord:
+  Shanaia#9205
+- [Aadhar](https://github.com/lm-rawr/PerformingRobots)
+- [Yerk](https://github.com/New-Yerk/performing_robots) Discord: new_yerk
+- [Andres](https://github.com/andresugartechea/PerformingRobots) Discord: andresugartechea
+- [Akhat](https://github.com/akhatsuleimenov) Discord: daisy00000
 

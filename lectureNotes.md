@@ -209,13 +209,25 @@ What is the difference between a schematic and a wiring diagram?
 - Attendance
   
 #### Today
-- Review more Arduino 
-- Homework: build a robot 1m height minimum
+- Play theme
+- Homework
 - Construction techniques
 
-##### Arduino review
+##### Play theme
 
-See above
+The topic that we will explore this year is whether conscious robots
+deserve rights. 
+
+
+##### Homework
+
+Normally in the weeklySchedule file but I damaged it and have to restore it
+  from Github. For now it's here:
+
+Each of you is to write two papers:
+- An artist or art collective that is working with robotic art (by
+  some definition) 
+- A researcher or writer or group or book discussing robot ethics
 
 ##### Construction techniques
 

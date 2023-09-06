@@ -38,4 +38,4 @@ This file: Student Github Repositories and Discord account names
 - [Yerk](https://github.com/New-Yerk/performing_robots) Discord: new_yerk
 - [Andres](https://github.com/andresugartechea/PerformingRobots) Discord: andresugartechea
 - [Akhat](https://github.com/akhatsuleimenov) Discord: daisy00000
-
+- [Jannah](https://github.com/j-da-savage/Performing-robots) Discord: jannahmokhtar

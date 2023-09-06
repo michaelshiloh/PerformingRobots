@@ -74,11 +74,6 @@ Introduction
 	- Have you used Arduino before?
 
 ### Monday 4 Sept 2023
-##### todays-lecture
-
-#### Administration
-- Attendance
-  
 #### Today
 - Accounts
     - Review Github?
@@ -206,4 +201,113 @@ Arduino reference
 
 ##### Schematics
 What is the difference between a schematic and a wiring diagram?
+
+### Wednesday 6 Sept 2023
+##### todays-lecture
+
+#### Administration
+- Attendance
+  
+#### Today
+- Review more Arduino 
+- Homework: build a robot 1m height minimum
+- Construction techniques
+
+##### Arduino review
+
+See above
+
+##### Construction techniques
+
+Metric vs. Imperial dimensions
+
+Holding things together 
+
+Screws vs. bolts
+- Screws cut their own threads e.g. in wood
+- Bolts go into something that is already threaded e.g. a nut or a threaded
+  hole
+- Don't force a bolt into a threaded hole. It should go in smoothly. If it
+  doesn't it's either the wrong size or it's not straight
+
+Holes
+- Through holes for screws or bolts or rods to fit **through**
+- Pilot holes are used for screws that will cut their own threads so they
+  should be a little smaller than the screw (depends on the strength of the
+  material etc., trial and error are sometimes required)
+- Threaded holes (something a bolt will fit)
+
+Bolt or screw head patterns
+- Slotted
+- Phillips
+- Allen or hex (metric, imperial)
+- Torx
+
+General advice
+- Always use the largest screwdriver that fits the screw properly. Using a
+  smaller screwdriver can damage the screw, the screwdriver, or both
+- When there are multiple screws in something, first put them all in place
+  loosly, and
+  then tighten after all are in place
+- Tighten screws quite snugly but not with all your strength (so you always
+  have a bit more strength to undo it)
+- Ideally, use the largest screw that fits the hole, but sometimes, if the
+  holes don't line up, you can use smaller screws to get a bit of wiggle room.
+  Or you can enlarge one of the holes so it lines up with the other.
+- Avoid the use of glue or tape on plastic parts. Hot glue is great for
+  cardboard and wood, less so on plastic and really bad on metal. Try to
+  design parts that attach with screws or nuts and bolts; that's much more
+  reliable and they can be removed and reattached easily
+
+Your robot base:
+- Wood base
+    - What size? What shape?
+- Brackets for motors
+    - The screws that come with the motor bracket are the wrong size. Give
+      them to me (separate the M3 and M4 sizes)
+    - Mount them so you can access the wheels
+    - Use the correct screws (M4 x 6) 
+    - Use the correct screwdriver
+- Mount the bracket to the base first, otherwise you can't access the screws
+  that hold the bracket to the base
+- Mount the wheel to the hub 
+    - M4, something short but long enough to go through the hub and the
+      wheel and a nut
+- Mount the tire on the wheel
+- mount the hub to the motor
+    - Because the wheel is turning it will constantly be trying to get loose.
+    - There are two Allen screws. Put one against the flat part of the motor
+      shaft.
+    - Tighten the Allen screws really tightly. 
+    - **Return the Allen wrench to the container**
+- Get the base moving reliably, and then build the body
+- Make sure that you can easily access 
+    - Arduino
+    - Battery
+    - Wheels (you will probably have to tighten or replace wheels)
+
+Design for ease of maintenance, modification, and repair
+- Always assume that you will have to take things apart many times, either
+  because you changed your mind, or you discovered that something isn't going
+  to fit, or you forgot to put something on, or it broke, or so many other
+  things. Always design for your future self who is going to have to modify,
+  repair, and maintain what you make. 
+- If you put the Arduino and battery on the bottom, it will be very awkward to
+  access them. But the motor wires are short: Learn how to solder longer wires
+  on the motors
+- Whenever you run wires around, use strain relief. Where are the motor wires
+  most likely to break? Right where they go into the motor, and you most
+  likely can not repair that. Motor wires are delicate, so you must protect
+  them so that if the wires are yanked, that yank is not transmitted to the
+  motor.
+- Don't use metal screws to attach your Arduino or H-Bridge to the base, as
+  they may create a short circuit. Hot glue is OK for this and can easily be
+  removed.
+- Heavy things like the battery pack can be attached with zip ties.
+
+
+shopping list
+- 2mm T-handle Allen wrench
+- m4 x 10 socket head cap screw
+- T-handle Allen wrench to fit m4 x 10 socket head cap screw
 

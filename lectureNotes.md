@@ -295,6 +295,7 @@ Design for ease of maintenance, modification, and repair
 - If you put the Arduino and battery on the bottom, it will be very awkward to
   access them. But the motor wires are short: Learn how to solder longer wires
   on the motors
+- Always make wires longer than you need
 - Whenever you run wires around, use strain relief. Where are the motor wires
   most likely to break? Right where they go into the motor, and you most
   likely can not repair that. Motor wires are delicate, so you must protect
@@ -304,6 +305,7 @@ Design for ease of maintenance, modification, and repair
   they may create a short circuit. Hot glue is OK for this and can easily be
   removed.
 - Heavy things like the battery pack can be attached with zip ties.
+- Always leave more room than you think you'll need
 
 
 shopping list

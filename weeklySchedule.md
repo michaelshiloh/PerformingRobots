@@ -55,4 +55,51 @@ This is all subject to change:
 - Sunday Dec 11 - Legislative day, class meets on a Wed schedule
 - End of semester show: Probably December 13 or 14
 
+#### Assignments Due Monday Sep 4
 
+Email Assignment:
+
+- Join Discord. Email me if you are missing the invitation.
+- Create your Github account and repository. Email me a link to your github repository.
+
+Reading Assignment:
+
+Read, review, or skim as you feel is necessary:
+- Sparkfun [breadboard tutorial](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
+- [Microcontrollers, the basics](https://itp.nyu.edu/physcomp/lessons//microcontrollers-the-basics/)
+- [Digital Input & Output](https://itp.nyu.edu/physcomp/lessons//digital-input-output/)
+- Read about 
+[analog output](https://itp.nyu.edu/physcomp/lessons/analog-output)
+- Read about
+[analog Input](https://itp.nyu.edu/physcomp/lessons/analog-input/)
+- If you are new to functions or want to review, 
+watch Dan 
+Shiffman's [functions](https://www.youtube.com/watch?v=XCu7JSkgl04&list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR) tutorials. There are four videos, each less than 10 minutes.
+
+#### Assignments Due Monday Sep 11
+
+Clothing Assignment:
+
+On Monday we will have tool training during class time. Proper clothing
+is required for this tool training:
+- Closed toed shoes
+- No baggy sleeves
+- tied up hair
+
+Also as you will be cutting, drilling, sawing, and sanding, you might want to
+wear clothes that you feel comfortable getting a little dusty.
+
+#### Assignments Due Wednesday Sep 13
+
+Email Assignment:
+
+Each of you is to write two papers:
+- An artist or art collective that is working with robotic art (by some
+  definition)
+- A researcher or writer or group or book (non-fiction) discussing robot
+  ethics. Fiction or movies might also be options but you have to make a
+  strong case for the serious discussion taking place
+
+Send me the subject of each of your papers by this deadline. If a subject is
+selected by more than one student, the first student gets it and all others
+much select a different subject

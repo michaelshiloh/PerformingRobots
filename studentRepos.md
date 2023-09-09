@@ -40,3 +40,5 @@ This file: Student Github Repositories and Discord account names
 - [Akhat](https://github.com/akhatsuleimenov) Discord: daisy00000
 - [Jannah](https://github.com/j-da-savage/Performing-robots) Discord: jannahmokhtar
 - [Yunho](https://github.com/whatisyourusername/Performing-Robots.git) Discord
+- [Fatema](https://github.com/fnassar/Preforming_Robots) Discord: fnassar
+- [Aakif](https://github.com/asr637/Performing-Robots-Fall-23) Discord: unsuccessful_teacher

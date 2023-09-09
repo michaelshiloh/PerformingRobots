@@ -55,6 +55,7 @@ This is all subject to change:
 - Sunday Dec 11 - Legislative day, class meets on a Wed schedule
 - End of semester show: Probably December 13 or 14
 
+##### todays-assignment
 #### Assignments Due Monday Sep 4
 
 Email Assignment:
@@ -91,15 +92,33 @@ wear clothes that you feel comfortable getting a little dusty.
 
 #### Assignments Due Wednesday Sep 13
 
-Email Assignment:
+There are two assignments due:
 
-Each of you is to write two papers:
+1. Email Assignment:
+
+Each of you is to write two papers. Your assignment for Wednesday is to tell
+me the subjects of your two papers:
+
 - An artist or art collective that is working with robotic art (by some
   definition)
 - A researcher or writer or group or book (non-fiction) discussing robot
   ethics. Fiction or movies might also be options but you have to make a
   strong case for the serious discussion taking place
 
-Send me the subject of each of your papers by this deadline. If a subject is
+Your selection is due in my mailbox before class starts
+
+If a subject is
 selected by more than one student, the first student gets it and all others
 much select a different subject
+
+2. Sketching Assignment with your partner:
+
+As discussed in class, you will shortly be building a robot body as an
+exercise. For this assignment, I want you to roughly sketch out your robot
+body. This should not be too detailed as a lot will change as you start
+building. Do pay attention to these important features:
+- The body should be at least 90cm tall (the wheels will add about 10cm
+  to meet the minimal height requirement of 1m) 
+- The body should provide easy access to the components on the base: Arduino,
+  battery, H-Bridge, and an easy way to plug in the battery charger and the
+  USB cable

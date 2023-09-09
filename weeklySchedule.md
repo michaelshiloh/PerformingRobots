@@ -55,13 +55,17 @@ This is all subject to change:
 - Sunday Dec 11 - Legislative day, class meets on a Wed schedule
 - End of semester show: Probably December 13 or 14
 
-##### todays-assignment
 #### Assignments Due Monday Sep 4
 
 Email Assignment:
 
 - Join Discord. Email me if you are missing the invitation.
 - Create your Github account and repository. Email me a link to your github repository.
+
+##### todays-assignment
+#### Assignments Due Monday Sep 11
+
+There is both a reading assignment and a clothing assignment for Monday:
 
 Reading Assignment:
 
@@ -76,8 +80,6 @@ Read, review, or skim as you feel is necessary:
 - If you are new to functions or want to review, 
 watch Dan 
 Shiffman's [functions](https://www.youtube.com/watch?v=XCu7JSkgl04&list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR) tutorials. There are four videos, each less than 10 minutes.
-
-#### Assignments Due Monday Sep 11
 
 Clothing Assignment:
 
@@ -122,3 +124,7 @@ building. Do pay attention to these important features:
 - The body should provide easy access to the components on the base: Arduino,
   battery, H-Bridge, and an easy way to plug in the battery charger and the
   USB cable
+
+Take a picture of your sketch and upload it to your Github repository in the
+README.md file. Add the date. This will be your journal of progress in this
+class.

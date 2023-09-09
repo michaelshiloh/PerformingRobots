@@ -77,9 +77,17 @@ Read, review, or skim as you feel is necessary:
 [analog output](https://itp.nyu.edu/physcomp/lessons/analog-output)
 - Read about
 [analog Input](https://itp.nyu.edu/physcomp/lessons/analog-input/)
-- If you are new to functions or want to review, 
+- If you are new to functions or need to review, 
 watch Dan 
-Shiffman's [functions](https://www.youtube.com/watch?v=XCu7JSkgl04&list=PLRqwX-V7Uu6ajGB2OI3hl5DZsD1Fw1WzR) tutorials. There are four videos, each less than 10 minutes.
+Shiffman's [functions](https://www.youtube.com/watch?v=wRHAitGzBrg)
+tutorials. I will not be teaching this in class and will presume that you know
+this.
+- If you are new to Object Oriented Programming or need to review, 
+watch Dan 
+Shiffman's
+[OOP](https://www.youtube.com/watch?v=xG2Vbnv0wvg&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=23)
+tutorials. I will not be teaching this in class and will presume that you know
+this.
 
 Clothing Assignment:
 

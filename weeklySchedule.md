@@ -91,11 +91,11 @@ this.
 
 Clothing Assignment:
 
-On Monday we will have tool training during class time. Proper clothing
-is required for this tool training:
+On Monday we will have tool training during class time. 
+**Proper clothing is required for this tool training**:
 - Closed toed shoes
 - No baggy sleeves
-- tied up hair
+- Tied up hair
 
 Also as you will be cutting, drilling, sawing, and sanding, you might want to
 wear clothes that you feel comfortable getting a little dusty.
@@ -115,7 +115,12 @@ me the subjects of your two papers:
   ethics. Fiction or movies might also be options but you have to make a
   strong case for the serious discussion taking place
 
-Your selection is due in my mailbox before class starts
+Your assignment for this week is to do a bit of research on your subjects 
+to determine that you can find enough material on them to compose a 
+paper of about 750 words. This is about 3 pages of double spaced, 12 point
+text with no images.
+Send me an email with you
+two subjects before class starts.
 
 If a subject is
 selected by more than one student, the first student gets it and all others

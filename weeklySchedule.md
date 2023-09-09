@@ -117,7 +117,8 @@ me the subjects of your two papers:
 
 Your assignment for this week is to do a bit of research on your subjects 
 to determine that you can find enough material on them to compose a 
-paper of about 750 words. This is about 3 pages of double spaced, 12 point
+paper on each subject
+of about 750 words. This is about 3 pages of double spaced, 12 point
 text with no images.
 Send me an email with you
 two subjects before class starts.
@@ -130,13 +131,16 @@ much select a different subject
 
 As discussed in class, you will shortly be building a robot body as an
 exercise. For this assignment, I want you to roughly sketch out your robot
-body. This should not be too detailed as a lot will change as you start
-building. Do pay attention to these important features:
+body. I encourage you to be creative and experimental, but consider how you
+will actually build this from cardboard.
+This should not be too detailed as it will probably change as you build.
+Do pay attention to these important features:
 - The body should be at least 90cm tall (the wheels will add about 10cm
   to meet the minimal height requirement of 1m) 
 - The body should provide easy access to the components on the base: Arduino,
   battery, H-Bridge, and an easy way to plug in the battery charger and the
-  USB cable
+  USB cable. Leaving the back open is acceptable but it must be strong enough
+  to support the rest of the body
 
 Take a picture of your sketch and upload it to your Github repository in the
 README.md file. Add the date. This will be your journal of progress in this

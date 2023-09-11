@@ -203,11 +203,6 @@ Arduino reference
 What is the difference between a schematic and a wiring diagram?
 
 ### Wednesday 6 Sept 2023
-##### todays-lecture
-
-#### Administration
-- Attendance
-  
 #### Today
 - Play theme
 - Homework
@@ -325,3 +320,13 @@ shopping list
 - m4 x 10 socket head cap screw
 - T-handle Allen wrench to fit m4 x 10 socket head cap screw
 
+### Monday 11 Sept 2023
+##### todays-lecture
+
+#### Administration
+- Attendance
+  
+#### Today
+- Tool training
+- Soldering
+- Base building finally!!!

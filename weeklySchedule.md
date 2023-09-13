@@ -62,7 +62,6 @@ Email Assignment:
 - Join Discord. Email me if you are missing the invitation.
 - Create your Github account and repository. Email me a link to your github repository.
 
-##### todays-assignment
 #### Assignments Due Monday Sep 11
 
 There is both a reading assignment and a clothing assignment for Monday:
@@ -145,3 +144,23 @@ Do pay attention to these important features:
 Take a picture of your sketch and upload it to your Github repository in the
 README.md file. Add the date. This will be your journal of progress in this
 class.
+
+##### todays-assignment
+#### Assignments Due Monday Sep 18
+
+Fabrication homework:
+
+- Finish your robot base
+- Program the Arduino to make the robot base dance
+- Take a short video and post it in the 
+
+#### Assignments Due Wednesday Sep 20
+
+Fabrication homework:
+
+- Finish robot body
+
+Reading homework:
+
+- Read about the sound shield[]()
+- Read about [hobby RC remote control]()

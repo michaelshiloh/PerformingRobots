@@ -152,7 +152,8 @@ Fabrication homework:
 
 - Finish your robot base
 - Program the Arduino to make the robot base dance
-- Take a short video and post it in the 
+- Take a short video and post it in your journal (README.md in your
+  repository)
 
 #### Assignments Due Wednesday Sep 20
 

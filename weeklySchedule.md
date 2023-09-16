@@ -150,18 +150,40 @@ class.
 
 Fabrication homework:
 
-- Finish your robot base
-- Program the Arduino to make the robot base dance
-- Take a short video and post it in your journal (README.md in your
-  repository)
+- Finish your robot base, except for the two casters. The casters should
+  arrive on Monday.
+- Write an Arduino program to make both motors work in some fashion. Verify
+  that the motors both turn.
+- Update your journal 
+    - Include some pictures of your robot base 
+    - Describe any issues you had and how you overcame them
+
+Reading homework:
+
+- Read [Chapter 7: Machines/Mechanicals]() from the book *Entangled: Technology
+and the Transformation of Performance* by Chris Salter
 
 #### Assignments Due Wednesday Sep 20
 
 Fabrication homework:
 
-- Finish robot body
+- Finish robot base 
+- Write an Arduino program to make your robot dance
 
 Reading homework:
 
+- Watch [this](https://www.youtube.com/watch?v=UZKxUFkwCc8)
+short video introducing the concept of hobby RC radio transmitters and
+receivers and how we will use them with Arduino
+- Read this more detailed tutorial on how to use
+[RC Hobby Controllers and Arduino](https://www.sparkfun.com/tutorials/348)
+
+#### Future assignments
+
 - Read about the sound shield[]()
 - Read about [hobby RC remote control]()
+- [Chapter 5: Robots: Asleep, Awake, Alone, and in
+    Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf).
+
+
+

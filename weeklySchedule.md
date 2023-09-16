@@ -162,6 +162,8 @@ Reading homework:
 
 - Read [Chapter 7: Machines/Mechanicals]() from the book *Entangled: Technology
 and the Transformation of Performance* by Chris Salter
+- Update your journal by noting the thing from the reading that interested you
+  the most, and why
 
 #### Assignments Due Wednesday Sep 20
 

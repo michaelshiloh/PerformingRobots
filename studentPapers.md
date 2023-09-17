@@ -47,7 +47,7 @@ Aakif
 - Robot Ethics: Ex-Machina and Mark Coeckelbergh 
 
 Marta
-- Artist: 
+- Artist: Nam June Paik
 - Robot Ethics: Westworld
 
 Ryan
@@ -55,12 +55,14 @@ Ryan
 - Robot Ethics: 
 
 Andres
-- Artist: 
+- Artist:  *Sisyphus* by Kachi Chan
 - Robot Ethics: Roger Andre Søraa 
 
-- Artist: Ken Rinaldo
+name
+- Artist: 
 - Robot Ethics: 
 
-- Artist: Ken Rinaldo
+name
+- Artist: 
 - Robot Ethics: 
 

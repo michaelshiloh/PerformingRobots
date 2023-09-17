@@ -58,11 +58,15 @@ Andres
 - Artist:  *Sisyphus* by Kachi Chan
 - Robot Ethics: Roger Andre Søraa 
 
-name
-- Artist: 
-- Robot Ethics: 
+Shanaia
+- Artist: Robolab
+- Robot Ethics: VC Muller's philosophical point of view on robot ethics from his book *Ethics of Artificial Intelligence and Robotics*
 
-name
-- Artist: 
-- Robot Ethics: 
+Aadhar
+- Artist: Ken Goldberg
+- Robot Ethics: Healthcare Robots: Ethics, Design, and Implementation, by Dr.
+  Aimee van Wynsberghe
 
+Nouf
+- Artist:
+- Robot Ethics: Dr Shannon Vallor *Technology and the Virtues: A Philosophical Guide to a Future Worth Wanting*

@@ -145,7 +145,6 @@ Take a picture of your sketch and upload it to your Github repository in the
 README.md file. Add the date. This will be your journal of progress in this
 class.
 
-##### todays-assignment
 #### Assignments Due Monday Sep 18
 
 Fabrication assignment:
@@ -166,12 +165,14 @@ and the Transformation of Performance* by Chris Salter
 - Update your journal by noting the thing from the reading that interested you
   the most, and why
 
+##### todays-assignment
 #### Assignments Due Wednesday Sep 20
 
 Fabrication assignment:
 
 - Finish robot base 
-- Write an Arduino program to make your robot dance
+- Write an Arduino program to make your robot dance **but pay attention to the
+  warning in the lecture notes**
 
 Reading assignment:
 
@@ -181,7 +182,7 @@ receivers and how we will use them with Arduino
 - Read this more detailed tutorial on how to use
 [RC Hobby Controllers and Arduino](https://www.sparkfun.com/tutorials/348)
 
-#### Assignments Due Monday Sep 18
+#### Assignments Due Monday Sep 25
 
 Reading assignment:
 

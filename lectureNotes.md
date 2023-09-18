@@ -134,7 +134,7 @@ simply Google "L298 Arduino".
 [Here](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/) is the first thing that showed up for me. The point here is that many of the components we use are quite generic and there is a lot of information on using components with Arduino.
 
 Code: 
-````
+```
 void setup() {
   // Pins 2 and 3 are connected to In1 and In2 respectively
   // of the L298 motor driver
@@ -153,7 +153,7 @@ void loop() {
   digitalWrite(3, LOW);
   delay(5000);
 }
-````
+```
 
 ##### Some more Arduino programming concepts
 ###### `AnalogWrite()`
@@ -339,11 +339,100 @@ shopping list
   
 #### Today
 - Motorize the base
-- Attaching the body to the base
-- Getting rid of jumper wires between the H-Bridge and the Arduino
+- **Warning** about reversing the motors too rapidly
 
-### Class Rules
+##### **Warning** about reversing the motors too rapidly
+
+Take a look at this code:
+
+```
+void loop() {
+  // make the motor turn in one direction
+  digitalWrite(2, LOW);
+  digitalWrite(3, HIGH);
+  delay(5000); // let it turn for 5 seconds
+
+  // now reverse direction
+  // WARNING THIS IS BAD
+  digitalWrite(2, HIGH);
+  digitalWrite(3, LOW);
+  delay(5000);
+  // WARNING THIS IS BAD AS WELL 
+}
+```
+
+While the code works, there is potential here to damage the motor and/or the
+H-bridge. Note that the motor is rotating full speed in one direction and then
+instantly reverses to go at full speed in the other direction. This puts
+stress on both the motor and the H-bridge. Instead I want you to do the
+insert a delay whenever you change direction:
+
+```
+void loop() {
+  // make the motor turn in one direction
+  digitalWrite(2, LOW);
+  digitalWrite(3, HIGH);
+  delay(5000); // let it turn for 5 seconds
+
+  // now stop the motor
+  digitalWrite(2, LOW);
+  digitalWrite(3, LOW);
+  delay(1000); // allow it to stop
+
+  // now reverse direction
+  digitalWrite(2, HIGH);
+  digitalWrite(3, LOW);
+  delay(5000);
+
+  // Need to stop the motor here as well 
+  // before the loop starts again which 
+  // will suddenly change direction again
+  digitalWrite(2, LOW);
+  digitalWrite(3, LOW);
+  delay(1000); // allow it to stop
+}
+```
+
+Good programming practice would be to use functions:
+
+```
+void loop() {
+
+  clockwise( 5000);
+  stop();
+  delay(1000); // allow it to stop
+
+  // now reverse direction
+  counterClockwise( 5000);
+  stop();
+  delay(1000); // allow it to stop
+}
+
+void clockwise (int duration) {
+  digitalWrite(2, LOW);
+  digitalWrite(3, HIGH);
+  delay(duration);
+}
+
+void stop() {
+  digitalWrite(2, LOW);
+  digitalWrite(3, LOW);
+}
+
+void counterClockwise (int duration) {
+  digitalWrite(2, HIGH);
+  digitalWrite(3, LOW);
+  delay(duration);
+}
+```
+
+### Electronic Fabrication Rules
 - Red wire only for +5V (with the exception of the motor wires)
 - Black wire only for ground
 - No solderless breadboard
 - No jumper wires
+- Use hot glue, not screws, to attach H-bridge and Arduino to the base
+- Always make the wires longer than you think you need
+
+- Attaching the body to the base
+- Getting rid of jumper wires between the H-Bridge and the Arduino

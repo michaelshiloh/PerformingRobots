@@ -321,12 +321,29 @@ shopping list
 - T-handle Allen wrench to fit m4 x 10 socket head cap screw
 
 ### Monday 11 Sept 2023
+#### Today
+- Tool training
+- Soldering
+
+### Wednesday 13 Sept 2023
+##### todays-lecture
+
+#### Today
+- Base building finally!!!
+
+### Monday 18 Sept 2023
 ##### todays-lecture
 
 #### Administration
 - Attendance
   
 #### Today
-- Tool training
-- Soldering
-- Base building finally!!!
+- Motorize the base
+- Attaching the body to the base
+- Getting rid of jumper wires between the H-Bridge and the Arduino
+
+### Class Rules
+- Red wire only for +5V (with the exception of the motor wires)
+- Black wire only for ground
+- No solderless breadboard
+- No jumper wires

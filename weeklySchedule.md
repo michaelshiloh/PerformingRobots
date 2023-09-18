@@ -148,7 +148,7 @@ class.
 ##### todays-assignment
 #### Assignments Due Monday Sep 18
 
-Fabrication homework:
+Fabrication assignment:
 
 - Finish your robot base, except for the two casters. The casters should
   arrive on Monday.
@@ -158,7 +158,7 @@ Fabrication homework:
     - Include some pictures of your robot base 
     - Describe any issues you had and how you overcame them
 
-Reading homework:
+Reading assignment:
 
 - Read [Chapter 7: Machines/Mechanicals]() from the book *Entangled: Technology
 and the Transformation of Performance* by Chris Salter
@@ -167,12 +167,12 @@ and the Transformation of Performance* by Chris Salter
 
 #### Assignments Due Wednesday Sep 20
 
-Fabrication homework:
+Fabrication assignment:
 
 - Finish robot base 
 - Write an Arduino program to make your robot dance
 
-Reading homework:
+Reading assignment:
 
 - Watch [this](https://www.youtube.com/watch?v=UZKxUFkwCc8)
 short video introducing the concept of hobby RC radio transmitters and
@@ -180,12 +180,20 @@ receivers and how we will use them with Arduino
 - Read this more detailed tutorial on how to use
 [RC Hobby Controllers and Arduino](https://www.sparkfun.com/tutorials/348)
 
-#### Future assignments
+#### Assignments Due Monday Sep 18
+
+Reading assignment:
 
 - Read about the sound shield[]()
 - Read about [hobby RC remote control]()
 - [Chapter 5: Robots: Asleep, Awake, Alone, and in
     Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf).
 
+Writing assignment:
 
+Write a short story (30 seconds - 1 minute) for your robot which can be
+depicted only using motion.  Program your robot to tell this story. Document
+your story in your journal and include a video of your robot performing this
+story.
 
+#### Future assignments

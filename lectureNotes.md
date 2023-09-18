@@ -364,7 +364,7 @@ void loop() {
 While the code works, there is potential here to damage the motor and/or the
 H-bridge. Note that the motor is rotating full speed in one direction and then
 instantly reverses to go at full speed in the other direction. This puts
-stress on both the motor and the H-bridge. Instead I want you to do the
+stress on both the motor and the H-bridge. Instead I want you to 
 insert a delay whenever you change direction:
 
 ```

@@ -70,3 +70,7 @@ Aadhar
 Nouf
 - Artist:
 - Robot Ethics: Dr Shannon Vallor *Technology and the Virtues: A Philosophical Guide to a Future Worth Wanting*
+
+Yunho
+- Artist: Patrick Tresset
+- Robot Ethics: Self Learning Robots in War or other human-harming activities. Do robots themselves have responsibilities?

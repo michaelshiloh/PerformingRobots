@@ -186,7 +186,7 @@ receivers and how we will use them with Arduino
 
 Reading assignment:
 
-- Read about the sound shield[]()
+- Read about the [Adafruit Music Maker Shield](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all)
 - Read about [hobby RC remote control]()
 - [Chapter 5: Robots: Asleep, Awake, Alone, and in
     Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf).

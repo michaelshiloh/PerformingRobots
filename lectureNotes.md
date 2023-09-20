@@ -332,11 +332,6 @@ shopping list
 - Base building finally!!!
 
 ### Monday 18 Sept 2023
-##### todays-lecture
-
-#### Administration
-- Attendance
-  
 #### Today
 - Motorize the base
 - **Warning** about reversing the motors too rapidly
@@ -426,13 +421,52 @@ void counterClockwise (int duration) {
 }
 ```
 
-### Electronic Fabrication Rules
+### Wednesday 20 Sept 2023
+##### todays-lecture
+
+#### Administration
+- Attendance
+
+#### Today
+- Demo robot dance (pass/fail)
+- Papers
+- Getting rid of jumper wires between the H-Bridge and the Arduino
+- Electronic Fabrication Rules
+- Hobby RC radio
+  
+#### Papers
+
+[Homework
+assignment](https://github.com/michaelshiloh/PerformingRobots/blob/master/weeklySchedule.md#assignments-due-wednesday-sep-13)
+I don't want a superficial review. I want you to do some
+serious research into the subject. Don't draw on a single source. 
+Find articles, books, websites, blogs, scholarly articles, etc. 
+on the subject. 
+Visit the library and ask a librarian for help.
+Use both primary and
+[secondary material](https://umb.libguides.com/PrimarySources/secondary)
+Find opposing points of
+view, study them, and offer your own opinion along with your reasoning. 
+For the artists, research their philosophy, concept, methodology, inspiration.
+How are they influenced by their personal background, culture, or other factors?
+This will all take time so start now (especially asking the librarian; they
+will need to schedule some time to do the research for you)
+
+#### Getting rid of jumper wires between the H-Bridge and the Arduino
+- soldering
+- soldering header sockets and pins
+- sanding the socket to fit the H-bridge
+
+#### Electronic Fabrication Rules
 - Red wire only for +5V (with the exception of the motor wires)
+- Orange wire only for +9 or +12
 - Black wire only for ground
+- Use only the remaining colours for other signals
 - No solderless breadboard
 - No jumper wires
 - Use hot glue, not screws, to attach H-bridge and Arduino to the base
 - Always make the wires longer than you think you need
 
-- Attaching the body to the base
-- Getting rid of jumper wires between the H-Bridge and the Arduino
+#### Hobby RC radio
+Behold the Hobby RC shield! And
+[code](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/hobbyRC/minimalMoreChannels/minimalMoreChannels.ino)!

@@ -422,11 +422,6 @@ void counterClockwise (int duration) {
 ```
 
 ### Wednesday 20 Sept 2023
-##### todays-lecture
-
-#### Administration
-- Attendance
-
 #### Today
 - Demo robot dance (pass/fail)
 - Papers
@@ -452,12 +447,36 @@ How are they influenced by their personal background, culture, or other factors?
 This will all take time so start now (especially asking the librarian; they
 will need to schedule some time to do the research for you)
 
-#### Getting rid of jumper wires between the H-Bridge and the Arduino
+#### Hobby RC radio
+Behold the Hobby RC shield! And
+[code](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/hobbyRC/minimalMoreChannels/minimalMoreChannels.ino)!
+
+### Monday 25 Sept 2023
+##### todays-lecture
+
+#### Administration
+- Attendance
+- Charge batteries
+
+#### Today
+- Hobby RC shield to control your robots
+- Soldering
+- Music Maker Shield
+
+#### Hobby RC shield 
+Load the code from last week
+
+#### Soldering
+- Basics
+- Wire to wire
+- Wire to board
+
+##### Getting rid of jumper wires between the H-Bridge and the Arduino
 - soldering
 - soldering header sockets and pins
 - sanding the socket to fit the H-bridge
 
-#### Electronic Fabrication Rules
+##### Electronic Fabrication Rules
 - Red wire only for +5V (with the exception of the motor wires)
 - Orange wire only for +9 or +12
 - Black wire only for ground
@@ -467,6 +486,10 @@ will need to schedule some time to do the research for you)
 - Use hot glue, not screws, to attach H-bridge and Arduino to the base
 - Always make the wires longer than you think you need
 
-#### Hobby RC radio
-Behold the Hobby RC shield! And
-[code](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/hobbyRC/minimalMoreChannels/minimalMoreChannels.ino)!
+####  Music Maker Shield
+From the
+  [instructions](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all)
+- Solder pins
+- Install software
+- Play music
+

@@ -165,7 +165,6 @@ and the Transformation of Performance* by Chris Salter
 - Update your journal by noting the thing from the reading that interested you
   the most, and why
 
-##### todays-assignment
 #### Assignments Due Wednesday Sep 20
 
 Fabrication assignment:
@@ -182,12 +181,12 @@ receivers and how we will use them with Arduino
 - Read this more detailed tutorial on how to use
 [RC Hobby Controllers and Arduino](https://www.sparkfun.com/tutorials/348)
 
+##### todays-assignment
 #### Assignments Due Monday Sep 25
 
 Reading assignment:
 
 - Read about the [Adafruit Music Maker Shield](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all)
-- Read about [hobby RC remote control]()
 - [Chapter 5: Robots: Asleep, Awake, Alone, and in
     Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf).
 
@@ -198,4 +197,19 @@ depicted only using motion.  Program your robot to tell this story. Document
 your story in your journal and include a video of your robot performing this
 story.
 
-#### Future assignments
+#### Assignments Due October 28
+
+Writing assignment:
+
+One of your papers is due. You will give a short (~5 minutes) presentation to
+the class summarizing your research. Think of it as a trailer: an enticement
+to read your paper.
+
+#### Assignments Due November 15
+
+Writing assignment:
+
+Your second papers is due. You will give a short (~5 minutes) presentation to
+the class summarizing your research. Think of it as a trailer: an enticement
+to read your paper.
+

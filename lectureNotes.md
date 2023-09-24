@@ -326,7 +326,6 @@ shopping list
 - Soldering
 
 ### Wednesday 13 Sept 2023
-##### todays-lecture
 
 #### Today
 - Base building finally!!!

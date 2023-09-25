@@ -474,7 +474,11 @@ Behold the Hobby RC shield! And
 - Ryan, Shanaia
 
 #### Hobby RC shield 
-Load the code from last week
+- 2 more batteries
+- Write down your pin numbers
+- Get the code from last week
+- Correct the pin numbers
+- Pair the radios
 
 #### Soldering
 - Basics

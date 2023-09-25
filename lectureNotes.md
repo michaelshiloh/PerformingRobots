@@ -479,6 +479,14 @@ Behold the Hobby RC shield! And
 - Get the code from last week
 - Correct the pin numbers
 - Pair the radios
+    - turn on both transitter and receiver
+    - red LED on receiver will start flashing slowly
+    - press and hold the black binding button on the receiver for more than
+      one second. 
+    - the LED will flash quickly indicating that binding is taking place
+    - When the LED is stops flashing then binding is done. The transmitter
+      will indicate this by displaying a signal strength "tower".
+    - IF this fails try again
 
 #### Soldering
 - Basics

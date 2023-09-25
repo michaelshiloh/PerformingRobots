@@ -459,9 +459,19 @@ Behold the Hobby RC shield! And
 
 #### Today
 - Homework
+- New teams!
 - Hobby RC shield to control your robots
 - Soldering
 - Music Maker Shield
+
+#### New teams!
+- Fatema, Andres
+- Nouf, Aadhar
+- Shaikha, Akhat
+- Jannah, Aakif
+- Yunho, Yerk
+- Hamad, Marta
+- Ryan, Shanaia
 
 #### Hobby RC shield 
 Load the code from last week

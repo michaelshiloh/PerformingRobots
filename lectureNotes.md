@@ -458,6 +458,7 @@ Behold the Hobby RC shield! And
 - Charge batteries
 
 #### Today
+- Homework
 - Hobby RC shield to control your robots
 - Soldering
 - Music Maker Shield

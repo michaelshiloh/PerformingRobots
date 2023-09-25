@@ -477,6 +477,7 @@ Behold the Hobby RC shield! And
 - 2 more batteries
 - Write down your pin numbers
 - Get the code from last week
+    - Note that you will have to install the library as indicated in the code
 - Correct the pin numbers
 - Pair the radios
     - turn on both transitter and receiver

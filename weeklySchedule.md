@@ -181,7 +181,6 @@ receivers and how we will use them with Arduino
 - Read this more detailed tutorial on how to use
 [RC Hobby Controllers and Arduino](https://www.sparkfun.com/tutorials/348)
 
-##### todays-assignment
 #### Assignments Due Monday Sep 25
 
 Reading assignment:
@@ -196,6 +195,13 @@ Write a short story (30 seconds - 1 minute) for your robot which can be
 depicted only using motion.  Program your robot to tell this story. Document
 your story in your journal and include a video of your robot performing this
 story.
+
+##### todays-assignment
+#### Assignments Due Wednesday Sep 27
+Reply on Discord, one person from each new team with the following information:
+1. Were you able to pair your hobby RC transmitter and receiver?
+1. Were you able to upload the code to see the values for the four radio channels?
+1. Could you reliably control the values being displayed for all four radio channels by manipulating the appropriate 4 input on the transmitter?
 
 #### Assignments Due October 28
 

@@ -451,27 +451,20 @@ Behold the Hobby RC shield! And
 [code](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/hobbyRC/minimalMoreChannels/minimalMoreChannels.ino)!
 
 ### Monday 25 Sept 2023
-##### todays-lecture
-
-#### Administration
-- Attendance
-- Charge batteries
 
 #### Today
 - Homework
 - New teams!
 - Hobby RC shield to control your robots
-- Soldering
-- Music Maker Shield
 
 #### New teams!
-- Fatema, Andres
-- Nouf, Aadhar
+- Fatema, Andres - ok
+- Nouf, Aadhar - pairing OK
 - Shaikha, Akhat
-- Jannah, Aakif
-- Yunho, Yerk
+- Jannah, Aakif 
+- Yunho, Yerk - ok
 - Hamad, Marta
-- Ryan, Shanaia
+- Ryan, Shanaia - ok
 
 #### Hobby RC shield 
 - 2 more batteries
@@ -488,6 +481,30 @@ Behold the Hobby RC shield! And
     - When the LED is stops flashing then binding is done. The transmitter
       will indicate this by displaying a signal strength "tower".
     - IF this fails try again
+
+### Wednesday 27 Sept 2023
+##### todays-lecture
+
+#### Administration
+- Attendance
+
+#### Today
+- Discord; batteries
+- Music Maker Shield
+- Soldering
+
+#### Discord; batteries
+- @SHAIKHA @Daisy @hamad  @Marta did not respond to my question
+- Put your names on your batteries
+
+####  Music Maker Shield
+- Arduino Mega
+- Music Maker Shield
+  [instructions](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all)
+- Solder pins
+- ICSP header
+- Install software
+- Play music
 
 #### Soldering
 - Basics
@@ -508,11 +525,4 @@ Behold the Hobby RC shield! And
 - No jumper wires
 - Use hot glue, not screws, to attach H-bridge and Arduino to the base
 - Always make the wires longer than you think you need
-
-####  Music Maker Shield
-From the
-  [instructions](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all)
-- Solder pins
-- Install software
-- Play music
 

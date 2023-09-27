@@ -42,4 +42,4 @@ This file: Student Github Repositories and Discord account names
 - [Yunho](https://github.com/whatisyourusername/Performing-Robots.git) Discord
 - [Fatema](https://github.com/fnassar/Preforming_Robots) Discord: fnassar
 - [Aakif](https://github.com/asr637/Performing-Robots-Fall-23) Discord: unsuccessful_teacher
-- [Nouf](https://github.com/NoufAAlnuaimi/PerformingRobots)
+- [Nouf](https://github.com/NoufAAlnuaimi/PerformingRobots) Discord: nova.aln

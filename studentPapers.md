@@ -68,7 +68,7 @@ Aadhar
   Aimee van Wynsberghe
 
 Nouf
-- Artist:
+- Artist: Leonel Moura
 - Robot Ethics: Dr Shannon Vallor *Technology and the Virtues: A Philosophical Guide to a Future Worth Wanting*
 
 Yunho

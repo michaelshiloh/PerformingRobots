@@ -494,7 +494,8 @@ Behold the Hobby RC shield! And
 - Soldering
 
 #### Discord; batteries
-- @SHAIKHA @Daisy @hamad  @Marta did not respond to my question
+- Whenever I put an important message on Discord I will tell you on
+  Brightspace
 - Put your names on your batteries
 
 ####  Music Maker Shield

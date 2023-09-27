@@ -196,12 +196,36 @@ depicted only using motion.  Program your robot to tell this story. Document
 your story in your journal and include a video of your robot performing this
 story.
 
-##### todays-assignment
 #### Assignments Due Wednesday Sep 27
 Reply on Discord, one person from each new team with the following information:
 1. Were you able to pair your hobby RC transmitter and receiver?
 1. Were you able to upload the code to see the values for the four radio channels?
 1. Could you reliably control the values being displayed for all four radio channels by manipulating the appropriate 4 input on the transmitter?
+
+##### todays-assignment
+#### Assignments Due Monday October 02
+Working with your new partner (list is in the lecture notes), get your robot
+working with the hobby RC remote control. 
+1. First verify that you can reliably control the numbers being displayed for
+   all four radio channels. You only need two, but let's make sure all 4 work.
+1. Reconnect your L298 H-bridge to the Arduino. 
+1. Decide which pins are available for controlling the H-bridge. You need 4
+   pins. You can't use the pins that are in use by the radio, and as always,
+   don't use pins 0 or 1.
+1. Use the values from the radio to control your robot. e.g. 
+
+```
+// use whichever channel is the trigger to control forward and reverse movement
+if (rc_values[RC_CH3] > 17) reverse();
+if (rc_values[RC_CH3] < 13) forward();
+if ((rc_values[RC_CH3] < 17) && (rc_values[RC_CH3] < 13)) stop();
+
+// use whichever channel is the steering wheel to turn:
+if (rc_values[RC_CH2] > 18) turnRight();
+```
+
+Save your well organized and well commented code in Github,
+and document your process in your journal
 
 #### Assignments Due October 28
 

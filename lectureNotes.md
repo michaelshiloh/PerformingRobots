@@ -461,9 +461,9 @@ Behold the Hobby RC shield! And
 - Fatema, Andres - ok
 - Nouf, Aadhar - pairing OK
 - Shaikha, Akhat
-- Jannah, Aakif 
+- Jannah, Aakif - pairing OK
 - Yunho, Yerk - ok
-- Hamad, Marta
+- Hamad, Marta - ok
 - Ryan, Shanaia - ok
 
 #### Hobby RC shield 
@@ -483,11 +483,6 @@ Behold the Hobby RC shield! And
     - IF this fails try again
 
 ### Wednesday 27 Sept 2023
-##### todays-lecture
-
-#### Administration
-- Attendance
-
 #### Today
 - Discord; batteries
 - Music Maker Shield
@@ -526,4 +521,17 @@ Behold the Hobby RC shield! And
 - No jumper wires
 - Use hot glue, not screws, to attach H-bridge and Arduino to the base
 - Always make the wires longer than you think you need
+
+### Monday 2 Oct 2023
+##### todays-lecture
+
+#### Administration
+- Attendance
+
+#### Today
+- Finish Music Maker Shield 
+- [Neopixels](https://learn.adafruit.com/adafruit-neopixel-uberguide?view=all)
+- [nRF24L01
+  radios](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01)
+- Plan for next week
 

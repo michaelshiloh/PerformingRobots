@@ -202,7 +202,6 @@ Reply on Discord, one person from each new team with the following information:
 1. Were you able to upload the code to see the values for the four radio channels?
 1. Could you reliably control the values being displayed for all four radio channels by manipulating the appropriate 4 input on the transmitter?
 
-##### todays-assignment
 #### Assignments Due Monday October 02
 Working with your new partner (list is in the lecture notes), get your robot
 working with the hobby RC remote control. 
@@ -226,6 +225,18 @@ if (rc_values[RC_CH2] > 18) turnRight();
 
 Save your well organized and well commented code in Github,
 and document your process in your journal
+
+##### todays-assignment
+#### Assignments Due Wednesday October 04
+
+- Finish soldering the wires between the Hobby RC shield and the H-bridge. You
+  may need to send the edges of the connector to fit into the H-bridge as the
+  space is pretty tight. Let me know if you need me to show you how to do
+  that.
+- I found a bunch of 16GB micro SD cards. Bring me your big ones and I'll
+  exchange for 16GB.
+- Test the Music Maker Shield and get it to play audio. 
+
 
 #### Assignments Due October 28
 

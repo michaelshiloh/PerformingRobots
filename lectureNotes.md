@@ -507,11 +507,6 @@ Behold the Hobby RC shield! And
 - Wire to wire
 - Wire to board
 
-##### Getting rid of jumper wires between the H-Bridge and the Arduino
-- soldering
-- soldering header sockets and pins
-- sanding the socket to fit the H-bridge
-
 ##### Electronic Fabrication Rules
 - Red wire only for +5V (with the exception of the motor wires)
 - Orange wire only for +9 or +12
@@ -529,9 +524,16 @@ Behold the Hobby RC shield! And
 - Attendance
 
 #### Today
+- Getting rid of jumper wires between the H-Bridge and the Arduino
 - Finish Music Maker Shield 
-- [Neopixels](https://learn.adafruit.com/adafruit-neopixel-uberguide?view=all)
-- [nRF24L01
-  radios](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01)
+- Neopixels
+- nRF24L01 radios
 - Plan for next week
 
+##### Getting rid of jumper wires between the H-Bridge and the Arduino
+- soldering
+- soldering header sockets and pins
+- sanding the socket to fit the H-bridge
+
+#### [Neopixels](https://learn.adafruit.com/adafruit-neopixel-uberguide?view=all)
+#### [nRF24L01 radios](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01)

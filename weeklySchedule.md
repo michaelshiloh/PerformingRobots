@@ -240,59 +240,76 @@ and document your process in your journal
 
 #### Assignments Due Monday October 09
 
-- Read [this](doc/autonomousRobotsAsPerformingAgents.pdf) paper
+Required reading:
 - [Chapter 5: Robots: Asleep, Awake, Alone, and in
-    Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf).
+  Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf).
+- [Do Large language models understand
+  us?](https://medium.com/@blaisea/do-large-language-models-understand-us-6f881d6d8e75)
+- Introduction and the first story (Robbie) in [*I,
+  Robot*](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/I_Robot.pdf)
+  by Isaac Asimov
+- From chapter 1 of [The Machine Question by David J.
+  Gunkel](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/theMachineQuestion/chapter1.pdf)
+    - 1.1 Introduction
+    - 1.2 Agency
+    - 1.3 The Mechanisms of Exclusion
+
+Required watching:
+- [*The Measure of A
+  Man*](https://stream.nyu.edu/media/Star+Trek+TNG+-+The+Measure+of+a+Man/1_qjeerkgv)
+  from *Star Trek: The Next Generation*
+- [*No Woman
+  Born*](https://hell.pl//agnus/anglistyka/2211/C.%20L.%20Moore%20-%20No%20Woman%20Born.pdf)
+  by C. L. Moore 
+
+
+Optional readings:
+- [Autonomous Robots as Performing
+  Agents](doc/autonomousRobotsAsPerformingAgents.pdf) 
 - [On Stage: Robots as Performers](doc/On_Stage_Robots_as_Performers.pdf).
-- The first paragraph (page 121) and *Mechanical Actors* (pages 140-151) of chapter 6
-from the book [Digital Theatre](doc/Masura2020_Book_DigitalTheatre.pdf)
-by Nadja Masura
-
-
+- The first paragraph (page 121) and *Mechanical Actors* (pages 140-151) of
+  chapter 6 (The 'Other' Actor) from [Digital
+  Theatre](doc/Masura2020_Book_DigitalTheatre.pdf) by Nadja Masura
+- [Thinking Something Makes it
+  So](doc/LePage2016_Chapter_ThinkingSomethingMakesItSoPerf.pdf)
 - [Introduction](doc/TheFreudianRobot_DigitalMediaandtheFutureoftheUnconscious_LydiaHLiu/introduction.pdf)
   from *The Freudian Robot: Digital Media and the Future of the Unconscious*
   by Lydia H. Liu (the rest of the book is in the same folder if you are
   curious to read the rest - it is fascinating)
-- [Thinking Something Makes it So](doc/LePage2016_Chapter_ThinkingSomethingMakesItSoPerf.pdf)
-1. [Do Large language models understand
-     us?](https://medium.com/@blaisea/do-large-language-models-understand-us-6f881d6d8e75)
-1.  [Introduction](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/godsAndRobots/%255BGods%2520and%2520Robots%255D%2520INTRODUCTION.%2520MADE%252C%2520NOT%2520BORN.pdf) to *Gods and Robots*
-1.  [Preface](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/theMachineQuestion/preface.pdf)
-to The Machine Question
-1. [Introduction](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/theMachineQuestion/introduction.pdf)
-to The Machine Question
-- Introduction and the first story (Robbie) in [*I, Robot*](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/I_Robot.pdf) by Isaac Asimov
-- Watch the episode [*The Measure of A
-Man*](https://stream.nyu.edu/media/Star+Trek+TNG+-+The+Measure+of+a+Man/1_qjeerkgv) from
-*Star Trek: The Next Generation*
-- [*No Woman Born*](https://hell.pl//agnus/anglistyka/2211/C.%20L.%20Moore%20-%20No%20Woman%20Born.pdf)
-  by C. L. Moore 
-- In chapter 1 of [The Machine Question by David J. Gunkel](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/theMachineQuestion/chapter1.pdf)
-    - 1.1 Introduction
-    - 1.2 Agency
-    - 1.3 The Mechanisms of Exclusion
-- Optionally, you may also read the
-    [Preface](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/theMachineQuestion/preface.pdf)
-    and
-    [Introduction](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/theMachineQuestion/introduction.pdf)
-- Preface and Introduction to [Science Fiction, Alien Encounters, and the Ethics of Posthumanism](https://github.com/michaelshiloh/resourcesForClasses/tree/master/doc/ScienceFictionAlienEncountersAndTheEthicsOfPosthumanism) by Elana Gomel.
-- The third story (Reason) in
-[*I, Robot*](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/I_Robot.pdf)
-by Isaac Asimov
-- [Affective Computers](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/affectiveComputers_Picard.pdf)
-- Watch [Be Right Back](https://www.youtube.com/watch?v=Y4MvarkRRTs)
-    episode of Black Mirror.
-    **Warning:** This episode is a little dark and contains a sex scene,
-    although there is no nudity. You can skip over these parts if you wish.
-    If you feel uncomfortable watching the episode you don't need to watch it.
+- [Introduction](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/godsAndRobots/%255BGods%2520and%2520Robots%255D%2520INTRODUCTION.%2520MADE%252C%2520NOT%2520BORN.pdf)
+  to *Gods and Robots*
+- [Preface](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/theMachineQuestion/preface.pdf)
+  to The Machine Question
+- [Introduction](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/theMachineQuestion/introduction.pdf)
+  to The Machine Question
+- Introduction to [Science Fiction, Alien Encounters, and the
+  Ethics of
+  Posthumanism](https://github.com/michaelshiloh/resourcesForClasses/tree/master/doc/ScienceFictionAlienEncountersAndTheEthicsOfPosthumanism)
+  by Elana Gomel.
+- The third story (Reason) in [*I,
+  Robot*](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/I_Robot.pdf)
+  by Isaac Asimov
+- [Affective
+  Computers](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/affectiveComputers_Picard.pdf)
 - [Chapter
-1](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/TheSingularityIsNear/TSIN_chapter1.pdf)
-- [The Nonexistent Moral Agency of Robots – A Lack of Intentionality and Free Will](https://montrealethics.ai/the-nonexistent-moral-agency-of-robots-a-lack-of-intentionality-and-free-will/)
+  1](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/TheSingularityIsNear/TSIN_chapter1.pdf) of The Singularity Is Near
+- [The Nonexistent Moral Agency of Robots – A Lack of Intentionality and Free
+  Will](https://montrealethics.ai/the-nonexistent-moral-agency-of-robots-a-lack-of-intentionality-and-free-will/)
 - [Free will and AI](https://becominghuman.ai/free-will-and-ai-85adbb09ac07)
-- [Killer robots, free will and the illusion of control](https://theconversation.com/killer-robots-free-will-and-the-illusion-of-control-87460)
-- [Free Will—Even For Robots](http://jmc.stanford.edu/articles/freewill/freewill.pdf) This article is optional. It argues that it's possible to design free will into a robot
-- Chapter 5: Toys, Totems, and Tools, in [The Living Brain](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/TheLivingBrain.pdf)
-- Chapter 2: The Quest for an Artificial Creature in [Flesh and Machines](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/FleshAndMachinesHowRobotsWillChangeUs.pdf)
+- [Killer robots, free will and the illusion of
+  control](https://theconversation.com/killer-robots-free-will-and-the-illusion-of-control-87460)
+- [Free Will—Even For
+  Robots](http://jmc.stanford.edu/articles/freewill/freewill.pdf) 
+- Chapter 5: Toys, Totems, and Tools, in [The Living
+  Brain](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/TheLivingBrain.pdf)
+- Chapter 2: The Quest for an Artificial Creature in [Flesh and
+  Machines](https://github.com/michaelshiloh/resourcesForClasses/blob/master/doc/FleshAndMachinesHowRobotsWillChangeUs.pdf)
+
+Optional watching:
+- [Be Right Back](https://www.youtube.com/watch?v=Y4MvarkRRTs) episode
+  of Black Mirror.  **Warning:** This episode is a little dark and contains a
+  sex scene, although there is no nudity. You can skip over these parts
+  without missing anything important.
 
 
 

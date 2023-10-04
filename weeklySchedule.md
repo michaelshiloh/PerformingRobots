@@ -226,7 +226,6 @@ if (rc_values[RC_CH2] > 18) turnRight();
 Save your well organized and well commented code in Github,
 and document your process in your journal
 
-##### todays-assignment
 #### Assignments Due Wednesday October 04
 
 - Finish soldering the wires between the Hobby RC shield and the H-bridge. You
@@ -238,6 +237,7 @@ and document your process in your journal
 - Test the Music Maker Shield and get it to play audio. 
 
 
+##### todays-assignment
 #### Assignments Due Monday October 09
 
 Make sure your robot base is ready: 

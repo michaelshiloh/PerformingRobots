@@ -240,6 +240,14 @@ and document your process in your journal
 
 #### Assignments Due Monday October 09
 
+Make sure your robot base is ready: 
+- Test that you can control the robot base from the hobby RC transmitter
+- Be able to drive the robot base forwards, backwards, left, and right. 
+- You do not need to implement proportional speed control. Your robot base can
+  operate at a single fixed speed.
+- Charge all batteries (AA in the transmitter and the large portable charger
+  in the base)
+
 Required reading:
 - [Chapter 5: Robots: Asleep, Awake, Alone, and in
   Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf).

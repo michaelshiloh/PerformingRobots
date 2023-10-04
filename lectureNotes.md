@@ -518,11 +518,6 @@ Behold the Hobby RC shield! And
 - Always make the wires longer than you think you need
 
 ### Monday 2 Oct 2023
-##### todays-lecture
-
-#### Administration
-- Attendance
-
 #### Today
 - Getting rid of jumper wires between the H-Bridge and the Arduino
 - Finish Music Maker Shield 
@@ -533,7 +528,27 @@ Behold the Hobby RC shield! And
 ##### Getting rid of jumper wires between the H-Bridge and the Arduino
 - soldering
 - soldering header sockets and pins
-- sanding the socket to fit the H-bridge
 
 #### [Neopixels](https://learn.adafruit.com/adafruit-neopixel-uberguide?view=all)
 #### [nRF24L01 radios](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01)
+
+### Wednesday 4 Oct 2023
+##### todays-lecture
+
+#### Administration
+- Attendance
+
+#### Today
+- Sanding the socket to fit the H-bridge
+- Status
+- Plan for next week
+- Building with Cardboard
+
+##### Status
+- Fatema, Andres - RC control, Neopixel, Music Maker Shield, H-bridge 
+- Nouf, Aadhar - RC control, Neopixel, Music Maker Shield, H-bridge 
+- Shaikha, Akhat RC control, Neopixel, Music Maker Shield, H-bridge 
+- Jannah, Aakif - RC control, Neopixel, Music Maker Shield, H-bridge 
+- Yunho, Yerk - RC control, Neopixel, Music Maker Shield, H-bridge 
+- Hamad, Marta - RC control, Neopixel, Music Maker Shield, H-bridge 
+- Ryan, Shanaia - RC control, Neopixel, Music Maker Shield, H-bridge 

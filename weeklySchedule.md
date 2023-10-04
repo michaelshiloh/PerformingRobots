@@ -250,7 +250,7 @@ Make sure your robot base is ready:
 
 Required reading:
 - [Chapter 5: Robots: Asleep, Awake, Alone, and in
-  Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf).
+  Love](doc/New_Media_Dramaturgy_Performance_Media_and_New-Materialism_5_Robots_Asleep_Awake_Alone_and_in_Love.pdf)
 - [Do Large language models understand
   us?](https://medium.com/@blaisea/do-large-language-models-understand-us-6f881d6d8e75)
 - Introduction and the first story (Robbie) in [*I,
@@ -261,14 +261,14 @@ Required reading:
     - 1.1 Introduction
     - 1.2 Agency
     - 1.3 The Mechanisms of Exclusion
+- [*No Woman
+  Born*](https://hell.pl//agnus/anglistyka/2211/C.%20L.%20Moore%20-%20No%20Woman%20Born.pdf)
+  by C. L. Moore 
 
 Required watching:
 - [*The Measure of A
   Man*](https://stream.nyu.edu/media/Star+Trek+TNG+-+The+Measure+of+a+Man/1_qjeerkgv)
   from *Star Trek: The Next Generation*
-- [*No Woman
-  Born*](https://hell.pl//agnus/anglistyka/2211/C.%20L.%20Moore%20-%20No%20Woman%20Born.pdf)
-  by C. L. Moore 
 
 
 Optional readings:

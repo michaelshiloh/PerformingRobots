@@ -240,6 +240,9 @@ and document your process in your journal
 ##### todays-assignment
 #### Assignments Due Monday October 09
 
+**Note that on  Monday October 09 class will take place in the West Forum.
+Bring your robot base, batteries, and hobby RC transmitter.**
+
 Make sure your robot base is ready: 
 - Test that you can control the robot base from the hobby RC transmitter
 - Be able to drive the robot base forwards, backwards, left, and right. 

@@ -555,7 +555,7 @@ Behold the Hobby RC shield! And
 - Attendance
 
 #### Today
-- Homework
+- [Homework](weeklySchedule.md#todays-assignment)  
 - Demonstration of
   [transmitter](https://github.com/michaelshiloh/resourcesForClasses/tree/master/kicad/Arduino_Shield_RC_Controller)
   and

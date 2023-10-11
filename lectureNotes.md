@@ -533,11 +533,6 @@ Behold the Hobby RC shield! And
 #### [nRF24L01 radios](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01)
 
 ### Wednesday 4 Oct 2023
-##### todays-lecture
-
-#### Administration
-- Attendance
-
 #### Today
 - Sanding the socket to fit the H-bridge
 - Status
@@ -552,3 +547,18 @@ Behold the Hobby RC shield! And
 - Yunho, Yerk - RC control, Neopixel, Music Maker Shield, H-bridge 
 - Hamad, Marta - RC control, Neopixel, Music Maker Shield, H-bridge 
 - Ryan, Shanaia - RC control, Neopixel, Music Maker Shield, H-bridge 
+
+### Wednesday 11 Oct 2023
+##### todays-lecture
+
+#### Administration
+- Attendance
+
+#### Today
+- Homework
+- Demonstration of
+  [transmitter](https://github.com/michaelshiloh/resourcesForClasses/tree/master/kicad/Arduino_Shield_RC_Controller)
+  and
+  [receiver](https://github.com/instituteforcriticalrobotics/instituteforcriticalrobotics.github.io/tree/main/kicad/nRF_Mega)
+- Walk through
+  [code](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01/rf24PerformingRobotsTemplate_2023)

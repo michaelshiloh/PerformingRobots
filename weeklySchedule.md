@@ -237,7 +237,6 @@ and document your process in your journal
 - Test the Music Maker Shield and get it to play audio. 
 
 
-##### todays-assignment
 #### Assignments Due Monday October 09
 
 **Note that on  Monday October 09 class will take place in the West Forum.
@@ -322,6 +321,29 @@ Optional watching:
   sex scene, although there is no nudity. You can skip over these parts
   without missing anything important.
 
+
+##### todays-assignment
+#### Assignments Due Monday October 16
+
+##### Individual assignment
+- Read or watch all of the optional material above
+- Write a proposal for a play for all 7 of our robots (with or without human
+  actors) that will address the question of robot ethics
+- Read about the [NeoMatrix
+  library](https://learn.adafruit.com/adafruit-neopixel-uberguide/neomatrix-library)
+
+##### With your partner
+- One or both of you work with me during the rest of this week and over the
+  weekend (i.e. before Monday) to get all your technical issues resolved
+- Using the NeoMatrix library, create 3 display images of any kind. They do no
+  need to be fancy at all, just make sure you know how to use the library
+- Build a circuit with your Arduino Mega, Music Maker Shield, and NeoPixel
+  Matrix
+- Prepare 3 short tracks on your microSD card
+- Write a program which will play a track from your microSD card while
+  displaying one of the graphic displays, then play the next track and display
+  another graphic display, then a third track and the third display and then
+  back to the beginning
 
 
 

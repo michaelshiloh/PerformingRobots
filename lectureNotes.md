@@ -553,6 +553,9 @@ Behold the Hobby RC shield! And
 
 #### Administration
 - Attendance
+- Note that Monday is our last class before the break, and then our first
+  class after the break is Saturday October 28 which is a legislative day
+  (Wednesday schedule), and than your first presentations are due that day
 
 #### Today
 - [Homework](weeklySchedule.md#todays-assignment)  

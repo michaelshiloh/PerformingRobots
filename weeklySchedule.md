@@ -328,7 +328,9 @@ Optional watching:
 ##### Individual assignment
 - Read or watch all of the optional material above
 - Write a proposal for a play for all 7 of our robots (with or without human
-  actors) that will address the question of robot ethics
+  actors) that will address the question of robot ethics. Your proposal should
+  include a concept and an outline, and should be put on your Github
+  repository.
 - Read about the [NeoMatrix
   library](https://learn.adafruit.com/adafruit-neopixel-uberguide/neomatrix-library)
 
@@ -343,7 +345,10 @@ Optional watching:
 - Write a program which will play a track from your microSD card while
   displaying one of the graphic displays, then play the next track and display
   another graphic display, then a third track and the third display and then
-  back to the beginning
+  back to the beginning. Once it's working, put your program in the Github
+  repository of one of you, and the other put a link in your Github repository
+  to
+  your partner
 
 
 

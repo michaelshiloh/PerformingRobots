@@ -380,10 +380,10 @@ In your robot teams of two:
    1. We have servo motors of different sizes and strength,
     and you can use up to six.
 1. Pay particular attention to:
-1.1. How the servo motors will be mounted so that they can move whatever they
+   1. How the servo motors will be mounted so that they can move whatever they
 need to move.
-1.1. Where the Arduino, speaker, and battery will be
-1.1. Accessibility to electronics and motors in case repairs or modifications
+   1. Where the Arduino, speaker, and battery will be
+   1. Accessibility to electronics and motors in case repairs or modifications
 are necessary
 
 Individually:

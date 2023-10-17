@@ -361,13 +361,13 @@ Writing assignment:
 As a group:
 1. Finish the play script . There can still be some
    changes later, but it must be about 90% finished and must include:
-1. Each robot character must be described
-1. All dialogue must be present
+   1. Each robot character must be described
+   1. All dialogue must be present
     e.g. ROBOT1: "Friends, Romans, and countrymen; lend me your ears!"
-1.3. Location and movement of each robot must be indicated
+   1. Location and movement of each robot must be indicated
 e.g. ROBOT1: moves from behind robots 3 and 4, stands in center of circle,
 faces audience
-1.4. Indicate any servo motor movement or LED activity
+   1. Indicate any servo motor movement or LED activity
 e.g. ROBOT1: tail moves back and forth, NeoPixel Matrix displays green circle
 moving from side to side, left tentacle goes up, and NeoPixel strip on middle
 tentacle turns orange

@@ -359,7 +359,7 @@ Optional watching:
 Writing assignment:
 
 As a group:
-1. Finish the play script . There can still be some
+1. **Finish the play script**. There can still be some
    changes later, but it must be about 90% finished and must include:
    1. Each robot character must be described
    1. All dialogue must be present
@@ -373,7 +373,7 @@ moving from side to side, left tentacle goes up, and NeoPixel strip on middle
 tentacle turns orange
 
 In your robot teams of two:
-1. Based on the script, design your robot. You may use
+1. Based on the script, **design your robot**. You may use
    NeoPixels and servo motors if you wish.
    1. You have the NeoPixel Matrix, and we have
     NeoPixel strips and NeoPixel rings of different sizes.
@@ -387,7 +387,7 @@ need to move.
 are necessary
 
 Individually:
-1. One of your papers is due. You will give a short (~5 minutes) presentation to
+1. **One of your papers is due**. You will give a short (~5 minutes) presentation to
 the class summarizing your research. Think of it as a trailer: an enticement
 to read your paper.
 1. Send me an email indicating that you, your robot team, and the entire group

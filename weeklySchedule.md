@@ -322,7 +322,6 @@ Optional watching:
   without missing anything important.
 
 
-##### todays-assignment
 #### Assignments Due Monday October 16
 
 ##### Individual assignment
@@ -353,13 +352,43 @@ Optional watching:
 
 
 
+##### todays-assignment
 #### Assignments Due October 28
+
+Note that the use of the NeoPixel Matrix is optional, and that we also have
+NeoPixel strips and rings
 
 Writing assignment:
 
-One of your papers is due. You will give a short (~5 minutes) presentation to
+As a group:
+1. Finish the play script . There can still be some
+   changes later, but it must be about 90% finished and must include:
+1.1. Each robot character must be described
+1.2. All dialogue must be present
+e.g. ROBOT1: "Friends, Romans, and countrymen; lend me your ears!"
+1.3. Location and movement of each robot must be indicated
+e.g. ROBOT1: moves from behind robots 3 and 4, stands in center of circle,
+faces audience
+1.4. Indicate any servo motor movement or LED activity
+e.g. ROBOT1: tail moves back and forth, NeoPixel Matrix displays green circle
+moving from side to side, left tentacle goes up, and NeoPixel strip on middle
+tentacle turns orange
+
+In your robot teams of two:
+1. Design your robot. Indicate any
+   NeoPixels and servo motors. Pay particular attention to:
+1.1. How the servo motors will be mounted so that they can move whatever they
+need to move.
+1.1. Where the Arduino, speaker, and battery will be
+1.1. Accessibility to electronics and motors in case repairs or modifications
+are necessary
+
+Individually:
+1. One of your papers is due. You will give a short (~5 minutes) presentation to
 the class summarizing your research. Think of it as a trailer: an enticement
 to read your paper.
+1. Send me an email indicating that you, your robot team, and the entire group
+   has completed all the homework indicated above
 
 #### Assignments Due November 15
 

@@ -355,8 +355,6 @@ Optional watching:
 ##### todays-assignment
 #### Assignments Due October 28
 
-Note that the use of the NeoPixel Matrix is optional, and that we also have
-NeoPixel strips and rings
 
 Writing assignment:
 
@@ -375,8 +373,13 @@ moving from side to side, left tentacle goes up, and NeoPixel strip on middle
 tentacle turns orange
 
 In your robot teams of two:
-1. Design your robot. Indicate any
-   NeoPixels and servo motors. Pay particular attention to:
+1. Based on the script, design your robot. You may use
+    NeoPixels and servo motors if you wish.
+1.1.  You have the NeoPixel Matrix, and we have
+    NeoPixel strips and NeoPixel rings of different sizes.
+1.1. We have servo motors of different sizes and strength,
+    and you can use up to six.
+1. Pay particular attention to:
 1.1. How the servo motors will be mounted so that they can move whatever they
 need to move.
 1.1. Where the Arduino, speaker, and battery will be

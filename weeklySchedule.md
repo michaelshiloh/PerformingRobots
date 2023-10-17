@@ -361,9 +361,9 @@ Writing assignment:
 As a group:
 1. Finish the play script . There can still be some
    changes later, but it must be about 90% finished and must include:
-1.1. Each robot character must be described
-1.2. All dialogue must be present
-e.g. ROBOT1: "Friends, Romans, and countrymen; lend me your ears!"
+1. Each robot character must be described
+1. All dialogue must be present
+    e.g. ROBOT1: "Friends, Romans, and countrymen; lend me your ears!"
 1.3. Location and movement of each robot must be indicated
 e.g. ROBOT1: moves from behind robots 3 and 4, stands in center of circle,
 faces audience
@@ -374,10 +374,10 @@ tentacle turns orange
 
 In your robot teams of two:
 1. Based on the script, design your robot. You may use
-    NeoPixels and servo motors if you wish.
-1.1.  You have the NeoPixel Matrix, and we have
+   NeoPixels and servo motors if you wish.
+   1. You have the NeoPixel Matrix, and we have
     NeoPixel strips and NeoPixel rings of different sizes.
-1.1. We have servo motors of different sizes and strength,
+   1. We have servo motors of different sizes and strength,
     and you can use up to six.
 1. Pay particular attention to:
 1.1. How the servo motors will be mounted so that they can move whatever they

@@ -359,7 +359,8 @@ Optional watching:
 Writing assignment:
 
 As a group:
-1. **Finish the play script**. There can still be some
+1. **Finish the [play
+   script](https://docs.google.com/document/d/1nOEF6REy5CgL2KIhYRLTIqgwFIGuVX1MHaLyYVF0rk8/edit)**. There can still be some
    changes later, but it must be about 90% finished and must include:
    1. Each robot character must be described
    1. All dialogue must be present

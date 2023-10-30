@@ -549,14 +549,6 @@ Behold the Hobby RC shield! And
 - Ryan, Shanaia - RC control, Neopixel, Music Maker Shield, H-bridge 
 
 ### Wednesday 11 Oct 2023
-##### todays-lecture
-
-#### Administration
-- Attendance
-- Note that Monday is our last class before the break, and then our first
-  class after the break is Saturday October 28 which is a legislative day
-  (Wednesday schedule), and than your first presentations are due that day
-
 #### Today
 - [Homework](weeklySchedule.md#todays-assignment)  
 - Demonstration of
@@ -565,3 +557,15 @@ Behold the Hobby RC shield! And
   [receiver](https://github.com/instituteforcriticalrobotics/instituteforcriticalrobotics.github.io/tree/main/kicad/nRF_Mega)
 - Walk through
   [code](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01/rf24PerformingRobotsTemplate_2023)
+
+### Monday 30 Oct 2023
+##### todays-lecture
+
+#### Administration
+- Attendance
+
+#### Today
+- Play script
+- Robot designs
+- Construction techniques
+- Solder nRF_Servo_Mega shield

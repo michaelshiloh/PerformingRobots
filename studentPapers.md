@@ -48,7 +48,7 @@ Aakif
 
 Marta
 - Artist: Nam June Paik
-- Robot Ethics: Westworld
+- Robot Ethics:  "Moral machines : teaching robots right from wrong"
 
 Ryan
 - Artist: Wafaa Bilal

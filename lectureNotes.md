@@ -569,3 +569,23 @@ Behold the Hobby RC shield! And
 - Robot designs
 - Construction techniques
 - Solder nRF_Servo_Mega shield
+
+#### Giant servo
+
+Before doing anything else make sure the jumpers are configured correctly.
+That's the set of yellow pins at the bottom, with the blue and red jumpers.
+The colors don't matter, but the positions must be exactly as shown below:
+
+![](https://github.com/michaelshiloh/resourcesForClasses/tree/master/media/ASME-04_servo_motor_configured_as_a_servoMotor.jpg)
+
+After the jumpers are configured correctly you need to connect 12 V power to
+the servo motor using the green screw terminals in the upper left corner of
+the picture below. **Make sure you get the polarity correct or you will damage
+the motor!** Double check the wires before you turn on the power supply
+
+Once you have done the above two steps you can connect the servo control cable
+(that's the black, red, and white cable that looks like the servo cables you
+are familiar with) to your Arduino.
+
+Once attached you can control the giant servo motor as you would any servo
+motor in Arduino.

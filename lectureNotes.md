@@ -573,8 +573,9 @@ Behold the Hobby RC shield! And
 #### Giant servo
 
 Before doing anything else make sure the jumpers are configured correctly.
-That's the set of yellow pins at the bottom, with the blue and red jumpers.
-The colors don't matter, but the positions must be exactly as shown below:
+That's the set of yellow pins at the bottom of the picture, with the blue and
+red jumpers.  The colors don't matter, but the positions must be exactly as
+shown below:
 
 ![](https://github.com/michaelshiloh/resourcesForClasses/tree/master/media/ASME-04_servo_motor_configured_as_a_servoMotor.jpg)
 

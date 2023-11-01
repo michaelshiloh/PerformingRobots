@@ -352,7 +352,6 @@ Optional watching:
 
 
 
-##### todays-assignment
 #### Assignments Due October 28
 
 
@@ -394,6 +393,7 @@ to read your paper.
 1. Send me an email indicating that you, your robot team, and the entire group
    has completed all the homework indicated above
 
+##### todays-assignment
 #### Assignments Due November 13
 
 All robots must be mechanically and electrically functional. Decorations,

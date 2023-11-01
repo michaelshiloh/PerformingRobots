@@ -583,7 +583,7 @@ That's the set of yellow pins at the bottom of the picture, with the blue and
 red jumpers.  The colors don't matter, but the positions must be exactly as
 shown below:
 
-![](https://github.com/michaelshiloh/resourcesForClasses/tree/master/media/ASME-04_servo_motor_configured_as_a_servoMotor.jpg)
+![](https://github.com/michaelshiloh/resourcesForClasses/blob/master/media/ASME-04_servo_motor_configured_as_a_servoMotor.jpg)
 
 After the jumpers are configured correctly you need to connect 12 V power to
 the servo motor using the green screw terminals in the upper left corner of

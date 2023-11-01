@@ -559,15 +559,21 @@ Behold the Hobby RC shield! And
   [code](https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01/rf24PerformingRobotsTemplate_2023)
 
 ### Monday 30 Oct 2023
+#### Today
+- Play script
+- Robot designs
+- Construction techniques
+
+### Wednesday 1 Nov 2023
 ##### todays-lecture
 
 #### Administration
 - Attendance
 
 #### Today
-- Play script
-- Robot designs
-- Construction techniques
+- Giant servo
+- Separate power supplies
+- Homework
 - Solder nRF_Servo_Mega shield
 
 #### Giant servo
@@ -590,3 +596,32 @@ are familiar with) to your Arduino.
 
 Once attached you can control the giant servo motor as you would any servo
 motor in Arduino.
+
+#### Separate power supplies
+
+#### Homework
+
+#### Solder nRF_Servo_Mega shield
+
+![](https://github.com/michaelshiloh/resourcesForClasses/blob/master/kicad/nRF_servo_Mega/documentation/nRF_servo_Mega_schematic.pdf)
+
+**If you make any mistakes don't try to repair yourself; you will likely
+damage the board. Come to me and I can show you how to fix it.**
+
+- Double check the right side of the board by lining it up against your Mega
+- Check again
+- Start with the shortest components (the 0.1 uFd capacitor)
+- Double check again that you're on the right side of the board
+- Next are the feed through headers. 
+    - Solder only 1 pin of one header
+    - Double check the right side of the board by lining it up against your Mega
+    - Solder 1 pin on each header
+    - Heat the 1 soldered pin to melt the solder and straighten the headers
+    - Solder the rest of the pins
+- Add the pins for the servo motors 
+    - Solder only 1 pin of one header
+    - Heat the 1 soldered pin to melt the solder and straighten the headers
+    - Solder the rest of the pins
+- Add the 470 uFD capacitors **Note that these are polarized!!!!!**
+- Finally the screw terminal **Make sure the opening is pointing the right
+  way**

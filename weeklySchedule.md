@@ -394,6 +394,16 @@ to read your paper.
 1. Send me an email indicating that you, your robot team, and the entire group
    has completed all the homework indicated above
 
+#### Assignments Due November 13
+
+All robots must be mechanically and electrically functional. Decorations,
+painting, accessories, etc. can be added later. 
+- Robots must be able to perform all the functions described in the script:
+    - Locomotion (driving around)
+    - Local movement (servo motors, other actuators)
+    - LED activity
+    - Speaking
+
 #### Assignments Due November 15
 
 Writing assignment:

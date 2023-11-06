@@ -565,11 +565,6 @@ Behold the Hobby RC shield! And
 - Construction techniques
 
 ### Wednesday 1 Nov 2023
-##### todays-lecture
-
-#### Administration
-- Attendance
-
 #### Today
 - Giant servo
 - Separate power supplies
@@ -600,6 +595,17 @@ motor in Arduino.
 #### Separate power supplies
 
 #### Homework
+
+### Monday 6 Nov 2023
+##### todays-lecture
+
+#### Administration
+- Attendance
+
+#### Today
+- Robot status
+- Play status
+- Do you want to solder the shields or should I
 
 #### Solder nRF_Servo_Mega shield
 

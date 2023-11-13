@@ -404,7 +404,7 @@ painting, accessories, etc. can be added later.
     - LED activity
     - Speaking
 
-#### Assignments Due November 15
+#### Assignments Due November 22
 
 Writing assignment:
 

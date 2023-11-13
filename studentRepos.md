@@ -37,7 +37,7 @@ This file: Student Github Repositories and Discord account names
 - [Aadhar](https://github.com/lm-rawr/PerformingRobots)
 - [Yerk](https://github.com/New-Yerk/performing_robots) Discord: new_yerk
 - [Andres](https://github.com/andresugartechea/PerformingRobots) Discord: andresugartechea
-- [Akhat](https://github.com/akhatsuleimenov) Discord: daisy00000
+- [Akhat](https://github.com/akhatsuleimenov/Performing-Robots-Fall-2023) Discord: daisy00000
 - [Jannah](https://github.com/j-da-savage/Performing-robots) Discord: jannahmokhtar
 - [Yunho](https://github.com/whatisyourusername/Performing-Robots.git) Discord
 - [Fatema](https://github.com/fnassar/Preforming_Robots) Discord: fnassar

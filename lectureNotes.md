@@ -597,11 +597,6 @@ motor in Arduino.
 #### Homework
 
 ### Monday 6 Nov 2023
-##### todays-lecture
-
-#### Administration
-- Attendance
-
 #### Today
 - Robot status
 - Play status
@@ -631,3 +626,40 @@ damage the board. Come to me and I can show you how to fix it.**
 - Add the 470 uFD capacitors **Note that these are polarized!!!!!**
 - Finally the screw terminal **Make sure the opening is pointing the right
   way**
+
+### Monday 13 Nov 2023
+##### todays-lecture
+
+#### Administration
+- Attendance
+
+#### Today
+- Journal
+    - Don't shorten wires!
+- Robot status
+- Play status
+
+#### Robot status
+- Demonstrate mechanical and electrical functionality. 
+    - Locomotion (driving around)
+    - Local movement (servo motors, other actuators)
+    - LED activity
+    - Speaking
+- What will you do by Wednesday?
+    - Fatema, Jannah:
+    - Andres, Ryan:
+    - Nouf, Shaikha:
+    - Aadhar, Shanaia:
+    - Akhat, Yunho:
+    - Aakif, Marta:
+    - Yerk, Hamad:
+- What will you do by next Monday November 20?
+    - Fatema, Jannah:
+    - Andres, Ryan:
+    - Nouf, Shaikha:
+    - Aadhar, Shanaia:
+    - Akhat, Yunho:
+    - Aakif, Marta:
+    - Yerk, Hamad:
+
+

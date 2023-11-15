@@ -628,11 +628,6 @@ damage the board. Come to me and I can show you how to fix it.**
   way**
 
 ### Monday 13 Nov 2023
-##### todays-lecture
-
-#### Administration
-- Attendance
-
 #### Today
 - Journal
     - Don't shorten wires!
@@ -645,21 +640,101 @@ damage the board. Come to me and I can show you how to fix it.**
     - Local movement (servo motors, other actuators)
     - LED activity
     - Speaking
-- What will you do by Wednesday?
-    - Fatema, Jannah:
-    - Andres, Ryan:
-    - Nouf, Shaikha:
-    - Aadhar, Shanaia:
-    - Akhat, Yunho:
-    - Aakif, Marta:
-    - Yerk, Hamad:
+
+### Wednesday 15 Nov 2023
+##### todays-lecture
+
+#### Administration
+- Attendance
+
+#### Today
+- What you promised to do by today
+- Tools
+- Plan for next week
+
+
+#### What will you do by Wednesday?
+- Fatema, Jannah:
+  - wire up power
+- Andres, Ryan:
+  - fix lazy susan - top priority
+  - wire servo motor
+  - add NP - after body
+- Nouf, Shaikha:
+  - servo shield 
+  - mount bird
+  - dress last priority
+- Aadhar, Shanaia:
+  - test big servo motor
+  - wire up NP;
+- Akhat, Yunho:
+  - wire up servo motors
+  - acrylic window
+  - window mechanics
+- Aakif, Marta:
+  - done!
+- Yerk, Hamad:
+  - assemble body
+  - add second pipe support
+- everyone except Marta and Aakif 
+  - test MMS and NP
+
+#### Tools
+
+#### Plan for next week
+- Monday: 
+  - radios
+  - Read through the script
+- Wednesday: 
+  - Paper presentations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+clear out boxes of spare parts
+nRF radios!
+
 - What will you do by next Monday November 20?
-    - Fatema, Jannah:
-    - Andres, Ryan:
-    - Nouf, Shaikha:
-    - Aadhar, Shanaia:
-    - Akhat, Yunho:
-    - Aakif, Marta:
-    - Yerk, Hamad:
+- Fatema, Jannah:
+- Andres, Ryan:
+- Nouf, Shaikha:
+- Aadhar, Shanaia:
+- Akhat, Yunho:
+- Aakif, Marta:
+- Yerk, Hamad:
 
 

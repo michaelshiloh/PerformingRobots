@@ -652,32 +652,45 @@ damage the board. Come to me and I can show you how to fix it.**
 - Tools
 - Plan for next week
 
-
-#### What will you do by Wednesday?
+#### Robot status: what is done, what is not done
 - Fatema, Jannah:
-  - wire up power
+  - wire up power - done
+  - NP - not done
+  - MMS - not done
 - Andres, Ryan:
-  - fix lazy susan - top priority
-  - wire servo motor
+  - fix lazy susan - top priority - done
+  - wire servo motor - not done
   - add NP - after body
+  - MMS - not done
 - Nouf, Shaikha:
-  - servo shield 
-  - mount bird
-  - dress last priority
+  - servo shield - done
+  - mount bird - not done
+  - dress last priority - not done
+  - add NP - done
+  - MMS - not done
 - Aadhar, Shanaia:
-  - test big servo motor
-  - wire up NP;
+  - test big servo motor - done
+  - wire up NP - not done
+  - MMS - not done
 - Akhat, Yunho:
-  - wire up servo motors
-  - acrylic window
-  - window mechanics
+  - wire up servo motors - done
+  - acrylic window - done
+  - window mechanics - done
+  - add NP - done
+  - MMS - done
 - Aakif, Marta:
   - done!
 - Yerk, Hamad:
-  - assemble body
-  - add second pipe support
-- everyone except Marta and Aakif 
-  - test MMS and NP
+  - assemble body - not done
+  - add second pipe support - done
+  - add NP - not done
+  - MMS - not done
+- Everyone
+  - [script](https://docs.google.com/document/d/1THt3NI6B_j0cJAwRhKGbFZDU0syxH9ymHoYNkrd0hv4/edit#heading=h.ntjzrqg3dtq1)
+    - action (movement, NP, speech
+    - recap
+    - finish individual scenes
+    - finish the monologues for the competition
 
 #### Tools
 
@@ -687,6 +700,10 @@ damage the board. Come to me and I can show you how to fix it.**
   - Read through the script
 - Wednesday: 
   - Paper presentations
+
+# Which Arduino pin goes to which servo/NeoPixel connector?
+
+M1——19; M2——21; M3——20; M4——16; M5——18; M6——17
 
 
 

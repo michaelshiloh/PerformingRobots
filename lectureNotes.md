@@ -727,6 +727,13 @@ M6      17
     - Change your channel and addr
 - Read through the script
 
+#### **Important things to remember**
+1. Change the channel number for your group
+1. Change the address for your group
+1. Use the correct pins for the radio CE and CSN pins:
+1. Cut the traces for #11, 13, and #12 as show in the picture below:
+![](media/cutTracesMusicMakerShield.jpg)
+
 Wednesday
 - presentations
 

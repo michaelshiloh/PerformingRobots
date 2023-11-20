@@ -642,11 +642,6 @@ damage the board. Come to me and I can show you how to fix it.**
     - Speaking
 
 ### Wednesday 15 Nov 2023
-##### todays-lecture
-
-#### Administration
-- Attendance
-
 #### Today
 - What you promised to do by today
 - Tools
@@ -703,55 +698,37 @@ damage the board. Come to me and I can show you how to fix it.**
 
 # Which Arduino pin goes to which servo/NeoPixel connector?
 
-M1——19; M2——21; M3——20; M4——16; M5——18; M6——17
+```
+label   
+on      Arduino 
+board   pin
+M1      19
+M2      21
+M3      20
+M4      16
+M5      18
+M6      17
+```
 
+### Monday 20 Nov 2023
+##### todays-lecture
 
+#### Administration
+- Attendance
 
+#### Today
+- Everyone finished what you promised to do by today
+- Clean up shelves; return unused parts
+- Robot parade
+- Remote control panel
+  - Hardware
+    - Batteries: charge, label, zip ties
+  - [Code](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/nRF24L01/rf24PerformingRobotsTemplate_2023/rf24PerformingRobotsTemplate_2023.ino)
+    - Change your channel and addr
+- Read through the script
 
+Wednesday
+- presentations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-clear out boxes of spare parts
-nRF radios!
-
-- What will you do by next Monday November 20?
-- Fatema, Jannah:
-- Andres, Ryan:
-- Nouf, Shaikha:
-- Aadhar, Shanaia:
-- Akhat, Yunho:
-- Aakif, Marta:
-- Yerk, Hamad:
-
-
+Monday
+- Adapt remote control panel code to your robot

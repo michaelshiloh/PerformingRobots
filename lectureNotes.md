@@ -740,3 +740,6 @@ M6      17
 - [Names](https://docs.google.com/spreadsheets/d/1byuRR6G3yTvRWM1TbXpKrws91HYkNCNC-WJ2bwObxiQ/edit#gid=0) of your robots
 - The robots must be finished (really REALLY finished) by Sunday at midnight
 - Reach out to me as needed
+
+#### Robots
+- Ideally, decorate with UAE flag and/or UAE colors (can use NeoPixels)

@@ -711,11 +711,6 @@ M6      17
 ```
 
 ### Monday 20 Nov 2023
-##### todays-lecture
-
-#### Administration
-- Attendance
-
 #### Today
 - Everyone finished what you promised to do by today
 - Clean up shelves; return unused parts
@@ -730,12 +725,18 @@ M6      17
 #### **Important things to remember**
 1. Change the channel number for your group
 1. Change the address for your group
-1. Use the correct pins for the radio CE and CSN pins:
+1. Use the correct pins for the radio CE and CSN pins
 1. Cut the traces for #11, 13, and #12 as show in the picture below:
 ![](media/cutTracesMusicMakerShield.jpg)
 
-Wednesday
-- presentations
+### Wednesday 22 Nov 2023
+##### todays-lecture
 
-Monday
-- Adapt remote control panel code to your robot
+#### Administration
+- Attendance
+- Presentations delayed 
+
+#### Today
+- [Names](https://docs.google.com/spreadsheets/d/1byuRR6G3yTvRWM1TbXpKrws91HYkNCNC-WJ2bwObxiQ/edit#gid=0) of your robots
+- The robots must be finished (really REALLY finished) by Sunday at midnight
+- Reach out to me as needed

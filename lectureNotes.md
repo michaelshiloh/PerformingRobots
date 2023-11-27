@@ -730,16 +730,32 @@ M6      17
 ![](media/cutTracesMusicMakerShield.jpg)
 
 ### Wednesday 22 Nov 2023
-##### todays-lecture
-
-#### Administration
-- Attendance
-- Presentations delayed 
-
 #### Today
 - [Names](https://docs.google.com/spreadsheets/d/1byuRR6G3yTvRWM1TbXpKrws91HYkNCNC-WJ2bwObxiQ/edit#gid=0) of your robots
 - The robots must be finished (really REALLY finished) by Sunday at midnight
 - Reach out to me as needed
+- Fix radio problems
+    - Hamad/Yerk
+    - Shanaia/Aadhar
+    - Fatema/Jannah
 
 #### Robots
 - Ideally, decorate with UAE flag and/or UAE colors (can use NeoPixels)
+
+### Monday 27 Nov 2023
+##### todays-lecture
+
+#### Administration
+- Attendance
+
+#### Today
+- Demo functional robots
+- Invitation to join the NYUAD iGEM team
+- Read script
+- Start rehearsals
+
+
+#### Demo functional robots
+
+Problems:
+

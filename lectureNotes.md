@@ -742,20 +742,25 @@ M6      17
 #### Robots
 - Ideally, decorate with UAE flag and/or UAE colors (can use NeoPixels)
 
-### Monday 27 Nov 2023
+### Wednesday 6 Dec 2023
 ##### todays-lecture
 
 #### Administration
 - Attendance
+- Course evaluations
 
 #### Today
-- Demo functional robots
-- Invitation to join the NYUAD iGEM team
-- Read script
+- Robot
 - Start rehearsals
 
 
-#### Demo functional robots
+#### Robot status
 
-Problems:
+- Fatema, Jannah:
 
+- Nouf, Shaikha: Everything functional
+- Yerk, Hamad: pipe, neopixels work but not installed
+- Andres, Ryan: Everything functional
+- Aadhar, Shanaia: Everything functional
+- Akhat, Yunho: Everything functional
+- Aakif, Marta: Everything functional

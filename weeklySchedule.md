@@ -393,7 +393,6 @@ to read your paper.
 1. Send me an email indicating that you, your robot team, and the entire group
    has completed all the homework indicated above
 
-##### todays-assignment
 #### Assignments Due November 13
 
 All robots must be mechanically and electrically functional. Decorations,
@@ -412,3 +411,15 @@ Your second papers is due. You will give a short (~5 minutes) presentation to
 the class summarizing your research. Think of it as a trailer: an enticement
 to read your paper.
 
+##### todays-assignment
+#### Assignments Due December 10
+* Charge all 4 of your batteries:
+    - Talentcell
+    - Anker
+    - 6 AA in the hobby RC transmitter
+    - 9V in the Marshall amplifier
+* Implement at least 20 of the states including:
+    - Any lighting, dialogue and/or servo motor activity 
+    - `case()` statements for each state
+    - Check if your wheels are loose, and if so, get the allen wrenches from
+      me and replace the little set screws with large socket head cap screws

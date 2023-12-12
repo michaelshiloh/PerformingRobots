@@ -743,6 +743,11 @@ M6      17
 - Ideally, decorate with UAE flag and/or UAE colors (can use NeoPixels)
 
 ### Wednesday 6 Dec 2023
+#### Today
+- Robot
+- Start rehearsals
+
+### Monday 11 Dec 2023
 ##### todays-lecture
 
 #### Administration
@@ -750,17 +755,10 @@ M6      17
 - Course evaluations
 
 #### Today
-- Robot
-- Start rehearsals
+- Schedule for the rest of the week
 
-
-#### Robot status
-
-- Fatema, Jannah:
-
-- Nouf, Shaikha: Everything functional
-- Yerk, Hamad: pipe, neopixels work but not installed
-- Andres, Ryan: Everything functional
-- Aadhar, Shanaia: Everything functional
-- Akhat, Yunho: Everything functional
-- Aakif, Marta: Everything functional
+#### Schedule for the rest of the week
+- Wednesday: Be in place and ready to rehearse by 2:20pm
+- Thursday: Rehearsals 11 am - 2 pm
+- Friday: Bring your robot to the Black Box Theatre before 2:30pm
+- Deadlines for second paper and journal is Saturday 3:30pm

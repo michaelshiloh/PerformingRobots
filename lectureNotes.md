@@ -764,6 +764,7 @@ Thursday morning
 
 #### Schedule for the rest of the week
 - Wednesday: Be in place and ready to rehearse by 2:20pm
+    - Charge two of your 6 AA batteries!
 - Thursday: Rehearsals 11 am - 2 pm
 - Friday: Bring your robot to the Black Box Theatre before 2:30pm
 - Deadlines for second paper and journal is Saturday 3:30pm

@@ -748,14 +748,19 @@ M6      17
 - Start rehearsals
 
 ### Monday 11 Dec 2023
-##### todays-lecture
-
-#### Administration
-- Attendance
-- Course evaluations
-
 #### Today
 - Schedule for the rest of the week
+
+### Wednesday 13 Dec 2023
+
+#### Today
+Textile studio: Varvara Snitko <vgs6617@nyu.edu> will be in the studio today
+from 2:30 PM to 5:00 PM, and tomorrow from 1:30 PM to 3:30 PM.  If none of the
+time slots work for certain students they can reach out directly and she can
+arrange another time.
+
+The script must include instructions for lighting which I will give John on
+Thursday morning
 
 #### Schedule for the rest of the week
 - Wednesday: Be in place and ready to rehearse by 2:20pm

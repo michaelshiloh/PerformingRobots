@@ -580,6 +580,9 @@ shown below:
 
 ![](https://github.com/michaelshiloh/resourcesForClasses/blob/master/media/ASME-04_servo_motor_configured_as_a_servoMotor.jpg)
 
+If you want to know what the different configurations here is description:
+![](https://github.com/michaelshiloh/resourcesForClasses/blob/master/media/ASMC_dataSheet.pdf)
+
 After the jumpers are configured correctly you need to connect 12 V power to
 the servo motor using the green screw terminals in the upper left corner of
 the picture below. **Make sure you get the polarity correct or you will damage
@@ -765,6 +768,6 @@ Thursday morning
 #### Schedule for the rest of the week
 - Wednesday: Be in place and ready to rehearse by 2:20pm
     - Charge two of your 6 AA batteries!
-- Thursday: Rehearsals 11 am - 2 pm
+- Thursday: Rehearsals 10 am - 1:30 pm
 - Friday: Bring your robot to the Black Box Theatre before 2:30pm
 - Deadlines for second paper and journal is Saturday 3:30pm

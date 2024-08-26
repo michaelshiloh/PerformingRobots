@@ -342,28 +342,35 @@ available in the hopes that others might benefit.
 1. Attend every lesson unless you are sick
 1. Silence all notifications on your laptop, phone, and watch
 1. Keep your watch and phone in your bag. Do not take them out during class.
-1. Take notes on paper in class
+1. Bring a notebook to class and take notes during class
 1. Ask questions and participate in discussions and critique
 1. During in-class hands-on activities, work diligently. Once you have the
    basic thing working, experiment with modifications.
 1. Start homework and projects early
 1. Document your work as you go along, writing directly in your journal. Take
    photographs (it's ok to use your phone for this) and videos as appropriate.
-   Draw sketches in your notebook.
+   Draw sketches in your notebook, photograph them, and add to your journal.
 1. Pay attention when things go wrong. Try to understand why. Ask questions,
    do research on the internet.
 1. Aim to have your robot assignments done two days before they are due
 1. Expect things to take much longer than you think. Be pleasantly surprised
-   when they don't. Feel free to tell me that I was wrong.
+   when they don't. 
+   Feel free to tell me that I was wrong.
 1. Expect unexpected problems and failures
-1. Reach out to me early and often. Don't be afraid of becoming a nuisance to
-   me. That is my responsibility, and in my years of teaching that has never
-   happened.
+1. Expect things to not work when you think they should
+1. Reach out to me early and often. 
+    I like it when students ask me questions.
+    Don't be afraid of becoming a nuisance to me. 
+    That is my responsibility, 
+    and in all my years of teaching that has never happened.
 1. Beware of the word "should", such as "this shouldn't take too long" or
    "this should work". Unless you've built many robots in the past, you have
    no basis for making this judgement and you are probably wrong.
 
 #### Schedule
+
+This is likely to change as we see what sort of robots you choose to make
+and what sort of problems develop
 
 - Week 1: Arduino review, Github and Discord accounts
 - Week 2: Motors with external power supplies

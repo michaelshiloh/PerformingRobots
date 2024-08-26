@@ -33,7 +33,7 @@ Welcome to Performing Robots. All class material can be found here.
 
 [Lecture notes](lectureNotes.md)
 
-[Weekly Schedule](weeklySchedule.md) Includes homework and projects assignments
+[Homework](homework.md) 
 
 Student Github [repositories](studentRepositories.md)
 

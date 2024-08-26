@@ -1,5 +1,5 @@
-Shortcut to [today's assignment](weeklySchedule.md#todays-assignment)  
-Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
+Shortcut to [today's assignment](#todays-assignment)  
+Shortcut to [today's lecture](#todays-lecture)
 
 ## New York University Abu Dhabi  
 ## Interactive Media Program
@@ -10,18 +10,18 @@ Credit Hours: 4
 
 Prerequisites: None     
 
-Session: Fall 2023       
+Session: Fall 2024       
 
 Course website:
 [https://github.com/michaelshiloh/PerformingRobots](https://github.com/michaelshiloh/PerformingRobots)  
 
 Instructor: Michael Shiloh mshiloh@nyu.edu   
 
-Office hours: If you want to meet schedule an appointment [here](https://calendly.com/michaelshiloh/office_hours)
+Office hours: Schedule an appointment [here](https://calendly.com/michaelshiloh/office_hours)
 
 Meeting times:    
-- 2:10-4:50 Monday     
-- 2:10-3:25 Wednesday     
+- 2:10-3:25 Tuesday
+- 2:10-4:50 Thursday
 
 Class location: C3-029 (IM Lab)
 
@@ -98,7 +98,7 @@ creative and technical discussion. The course embraces a process-oriented
 philosophy believing that programming, electronics, and mechatronics
 development are best learned by doing. 
 
-In a way, this class has three tracks:
+This class has three components:
 
 1. Readings and discussion
 1. Skills
@@ -106,11 +106,11 @@ In a way, this class has three tracks:
 
 ### Grading
 
-**10%** Attendance  
-**15%** Participation  
-**10%** Journal  
-**30%** Assignments 
-**35%** Final Project    
+- **10%** Attendance  
+- **15%** Participation  
+- **10%** Journal  
+- **30%** Assignments  
+- **35%** Final Project    
 
 ### Grading Rubric
 
@@ -118,22 +118,22 @@ In a way, this class has three tracks:
 
 - 30% Technical Operation
 - 30% Creativity
-- 30% Clear Interaction (if applicable)
+- 30% Reliability 
 - 10% Above & beyond
 
 **Midterm and Final projects**
-- Functionality: 35%
+- Functionality: 35%  
 The robot must function as you have described 
-- Construction: 30%
+- Construction: 30%  
 Your robot must be robust and well constructed. 
 For example, you must be able to move it
 around or bump into it without it falling apart. It must not be delicate.
 Any movement must have sufficient power to do so reliably.
-- Creative appearance 15%
-Appearance should evidence experimentation and creativity, but final result is
-not so important, by which I mean I don't really care how it looks as long as
-you've experimented
-- Intentional behavior: 20%
+- Creative appearance 15%  
+Appearance should evidence experimentation and creativity, and
+be able to effectively express itself in the personality 
+of the character it represents in the performance
+- Intentional behavior: 20%  
 This is a course in performing robots, 
 and so your robot, as an actor, must be able to act in 
 an intentional, repeatable manner. By this I mean that 
@@ -156,16 +156,13 @@ training in electronics, programming, and mechatronics; designing,
 fabricating, and programming a performing robot; and putting on a final
 performance.
 
-Each week there’s a “walk-through” element that will be covered in class,
-which you are expected to do on your own, and an improvisational aspect, where
-you take the lesson and make something unique and interesting based on the
-in-class review. We will spend time in each class reviewing your work, and
-using this as an opportunity to review concepts that are unclear, or
-investigate solutions to common problems. Expect to be asked to show your work
-every time we meet. Some classes everyone may demonstrate their work, other
-classes only a few students may, but always be prepared.
+This is a very hands-on class. Some lessons might be mostly instruction,
+some will be a combination of instruction and hands-on activity that
+demonstrates your mastery of the content. Towards the end of the semester
+you will spend much time in class demonstrating your robot 
+and engaging in constructive criticism of your classmates robots.
 
-All of your work must be documented on your Github repository. Instructions
+All of your work must be documented in your Github repository. Instructions
 will be given in class.
 
 ### Project documentation:
@@ -174,8 +171,9 @@ You are expected to document your work on your Github repository.
 The purpose of
 this is twofold. First, it is a valuable way for you to communicate to
 me that you are keeping up with the work in the class. I read the site to see
-how you are doing. At a minimum, reference to your work is expected, as well
-as reference to the readings, and thorough documentation of any research.
+how you are doing. You are expected to document your progress each week in 
+detail, along with any other requested responses e.g. to readings, class
+discussions, or student presentations.
 Secondly, it is a way to document your work for your own use and that
 of others.
 
@@ -187,11 +185,12 @@ documentation. Explain the project at the beginning of your documentation, so
 that people who come to your site from outside this class can understand your
 work quickly.
 
-Use pictures, drawings, and videos liberally to explain your work. Don’t
-directly upload videos to WordPress. Use Vimeo, Youtube, or another video
-hosting site and embed the video in your post.
+Use pictures, drawings, and videos liberally to explain your work. 
+Videos can be uploaded to Vimeo, Youtube, or another video
+hosting site and links provided in your Github documentation.
 
-Always cite the sources of your code, the places you learned techniques from,
+Always cite the sources of any technical information such as code or
+schematics, the places you learned techniques from,
 and the inspirations of your ideas. Copying code or techniques without
 attribution is plagiarism.  Few ideas come out of the blue, and your readers
 can learn a lot from the sources from which you learned and by which you were
@@ -219,65 +218,51 @@ of class.
 Throughout the semester there will be readings assigned to students
 to lead subsequent discussion regarding the readings (or videos).
 
-Instructions to participants:
-
-* If a male and a female both try to speak, let the female go first
-* Don’t repeat what someone has already said
-* Don’t just say that you liked or disliked the reading. Offer critical insight. Why did you like or dislike it? What does it connect to?
-Did it change your mind about something?
-
-Instructions to leader:
-
-You have 15 minutes. Allow 3-5 minutes at the end to wrap up, so
-divide the remaining 12-15 minutes into your questions or topics (say
-2-5 minutes each) and move on to the next question or topic even if
-there are still hands raised Make sure you know what you think the key
-points of the reading are, and what is important for everyone to take
-away from the reading.  Ask questions that engage the class fully in
-critical discussion of the readings. Lead people to the main points of
-the reading through questions, but don’t tell people the main points. 
-
 #### Final Project
 
 Details will be provided in class
 
 #### Attendance
 
-Attendance in all classes is mandatory. Be on time and ready to start work at
-the posted start time.  Arriving more than ten minutes late to class will
-count as an unexcused absence.  Unexcused absences or habitual lateness will
-negatively impact your final grade for the class. 
+This is an intense course. 
+You should be prepared to spend many hours working on your robot.
+I expect your attendance, attention, and engagement throughout the semester. 
+If you do not feel that you can remain fully engaged in this course,
+consider dropping it.
+Your attention is demonstrated by not using phones or laptops or other
+distractions. Your engagement is demonstrated by taking notes, by asking
+questions, and by participating in dicussions.
 
+Attendance in all classes is mandatory. 
+Be on time and ready to start work at the start of class.
+If you plan on not attending more than 2 sessions during the semester, 
+consider taking the course at some other time.
+
+Arriving more than ten minutes late to class counts as an unexcused absence.
 More than one unexcused absence will result in a 5-percentage point drop in
 your attendance grade per absence. **After four unexcused absences, you will
 fail the class.**
 
+I do recognize that some absences are unavoidable.
 If you know you are going to be late or absent, please email me in advance. If
-you have an emergency, let me know as soon as you can.  To receive an excused
+you have an emergency, let me know as soon as you can. To receive an excused
 absence, you must ask in advance, and receive permission from me.
-Excusable absences include family emergencies, job interviews, vastly
-different time zones, presenting at a conference, and poor internet
-connectivity.
 
-In order to receive credit for an excused absence, you must watch the 
-recording and write about it. 
-If you miss a discussion, you must write about the subject discussed. 
-If you miss a lecture, you must write questions on the subject of the
-lecture.
+Absences due to holiday or vacation travel are unexcused asbsences.
+
 
 #### Participation
 
 Engaging in the class discussion, and offering advice and input in the class
-is a major part of your grade. Participating in class discussions is helpful
+is part of your grade. Participating in class discussions is helpful
 for me to get to know you as an individual and keep track of your progress,
 but most importantly, it provides you and your classmates with the opportunity
 to share failures, successes, and insights on the work you are doing.
 
-You are expected to show work in class. This includes working prototypes,
-failed assignments, things that don’t work the way you expect, and so forth.
-Each week some time is given over to your work, expect to be called on and
-show something. Don’t be afraid to volunteer to show what you did, or failed
-to do.
+You are expected to show your work in class. This includes working projects 
+as well as failed assignments or things that didn’t work the way you expected.
+We often learn more from what didn't work than what did, so don't feel ashamed
+to share. Celebrate what you learned in the course of the failure.
 
 If you do not ask questions, I can only assume you understand the material
 completely. Asking questions about concepts you do not understand and showing
@@ -297,16 +282,7 @@ attention and active participation, so please respect that and close your lid.
 Do not use your phone in class unless it is part of the lesson.
 If you
 have an emergency that requires you to answer your phone during class, please
-tell me ahead of time.￼
-
-#### Homework exercises
-Occasional homework exercises will be used to deepen understanding and
-familiarity with technical material such as electronics and programming. All
-material will be provided in the required course kit.
-
-#### Projects
-
-Details will be provided in class
+tell me ahead of time.
 
 #### Supplemental Textbooks
 
@@ -316,7 +292,7 @@ Details will be provided in class
 
 If you have any questions, would like extra help, or need further instruction,
 please reach out to me. You can communicate with me via email, sign up for
-office hours, speak with me before class, or after class.
+office hours, or any time you see me.
 Please let me know if you have any concerns about the material or your
 progress in the course. I am very willing to help, but you have to take the
 first step of reaching out to me.

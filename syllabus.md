@@ -1,5 +1,5 @@
-Shortcut to [today's assignment](#todays-assignment)  
-Shortcut to [today's lecture](#todays-lecture)
+Shortcut to [today's assignment](homework.md#todays-assignment)  
+Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
 
 ## New York University Abu Dhabi  
 ## Interactive Media Program
@@ -231,7 +231,7 @@ If you do not feel that you can remain fully engaged in this course,
 consider dropping it.
 Your attention is demonstrated by not using phones or laptops or other
 distractions. Your engagement is demonstrated by taking notes, by asking
-questions, and by participating in dicussions.
+questions, and by participating in discussions.
 
 Attendance in all classes is mandatory. 
 Be on time and ready to start work at the start of class.
@@ -337,4 +337,47 @@ Third, we all make extensive use of online resources generously created by
 others. By sharing our own work, we pay forward, making what we learned
 available in the hopes that others might benefit.
 
+#### How to succeed in this course
+1. Arrive on time or a few minutes early
+1. Attend every lesson unless you are sick
+1. Silence all notifications on your laptop, phone, and watch
+1. Keep your watch and phone in your bag. Do not take them out during class.
+1. Take notes on paper in class
+1. Ask questions and participate in discussions and critique
+1. During in-class hands-on activities, work diligently. Once you have the
+   basic thing working, experiment with modifications.
+1. Start homework and projects early
+1. Document your work as you go along, writing directly in your journal. Take
+   photographs (it's ok to use your phone for this) and videos as appropriate.
+   Draw sketches in your notebook.
+1. Pay attention when things go wrong. Try to understand why. Ask questions,
+   do research on the internet.
+1. Aim to have your robot assignments done two days before they are due
+1. Expect things to take much longer than you think. Be pleasantly surprised
+   when they don't. Feel free to tell me that I was wrong.
+1. Expect unexpected problems and failures
+1. Reach out to me early and often. Don't be afraid of becoming a nuisance to
+   me. That is my responsibility, and in my years of teaching that has never
+   happened.
+1. Beware of the word "should", such as "this shouldn't take too long" or
+   "this should work". Unless you've built many robots in the past, you have
+   no basis for making this judgement and you are probably wrong.
+
+#### Schedule
+
+- Week 1: Arduino review, Github and Discord accounts
+- Week 2: Motors with external power supplies
+- Week 3: Play theme, construction techniques
+- Week 4: Tool training
+- Week 5: Robot base, electronic fabrication rules, soldering
+- Week 6: Robot base due, determine play characters
+- Week 7: Advanced Arduino and motor control
+- Week 8: Remote control of robot base
+- Week 8: Robot features: "regular" servo motors, giant servo motors, Neo Pixels, Music Maker Shield
+- Week 9: Feature fabrication techniques, fix problems
+- Week 10: Remote control of robot features, fix problems
+- Week 11: Script complete; finish fabricating robots, fix problems
+- Week 12: Fix problems, rehearse, fix problems
+- Week 13: Fix problems, rehearse, fix problems
+- Week 14: Perform at the IM End of Semester Showcase!
 

@@ -16,6 +16,7 @@ Course website:
 [https://github.com/michaelshiloh/PerformingRobots](https://github.com/michaelshiloh/PerformingRobots)  
 
 Instructor: Michael Shiloh mshiloh@nyu.edu   
+Support staff: Stefania Avramidi sa8410@nyu.edu
 
 Office hours: Schedule an appointment [here](https://calendly.com/michaelshiloh/office_hours)
 
@@ -32,9 +33,6 @@ This document: Lecture Notes
 ### Tuesday August 27
 
 #### Administration
-- I expect you to bring a notebook to class and to take notes
-- I expect you to be on time
-- I expect you to participate by thinking, discussing, and making
 
 #### In-class activity
 
@@ -56,19 +54,8 @@ Introduction
 - What is this class about?
 - [weekly schedule](weeklySchedule.md)
 - [Syllabus](syllabus.md)
-- Summary:
-  - Be on time
-  - Bring a notebook to class to take notes
-  - Be present and participate in class by thinking, discussing, and making
-  - Be experimental: try things you don't know
-  - No electronic distractions
-  - Be proactive: Communicate with me regarding difficulties, problems, illness, etc. Don't wait until the last minute when I can't help you
-  -  Allow lots of time for homework as physical construction
-  and debugging circuits and programs can be very time consuming, and your
-  ability to estimate how long something should take is very likely wrong
-  unless you've done something very much like this before
 
-- Who am I?
+- Who are we?
 - Who are you?
 	- Have you used Arduino before?
     - What experience do you have with construction?

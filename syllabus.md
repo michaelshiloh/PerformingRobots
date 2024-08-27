@@ -16,6 +16,7 @@ Course website:
 [https://github.com/michaelshiloh/PerformingRobots](https://github.com/michaelshiloh/PerformingRobots)  
 
 Instructor: Michael Shiloh mshiloh@nyu.edu   
+Support staff: Stefania Avramidi sa8410@nyu.edu
 
 Office hours: Schedule an appointment [here](https://calendly.com/michaelshiloh/office_hours)
 
@@ -377,13 +378,14 @@ and what sort of problems develop
 - Week 3: Play theme, construction techniques
 - Week 4: Tool training
 - Week 5: Robot base, electronic fabrication rules, soldering
-- Week 6: Robot base due, determine play characters
-- Week 7: Advanced Arduino and motor control
-- Week 8: Remote control of robot base
-- Week 8: Robot features: "regular" servo motors, giant servo motors, Neo Pixels, Music Maker Shield
-- Week 9: Feature fabrication techniques, fix problems
-- Week 10: Remote control of robot features, fix problems
-- Week 11: Script complete; finish fabricating robots, fix problems
+- Week 6: Robot base due, determine play characters; presentations
+- Week 7: Advanced Arduino and motor control; presentations
+- Week 8: Remote control of robot base; presentations
+- Week 8: Robot features: "regular" servo motors, giant servo motors, Neo Pixels, Music Maker Shield; presentations
+- Week 9: Feature fabrication techniques, fix problems; presentations
+- Week 10: Remote control of robot features, fix problems; presentations
+- Week 11: Script complete; finish fabricating robots, fix problems;
+  presentations
 - Week 12: Fix problems, rehearse, fix problems
 - Week 13: Fix problems, rehearse, fix problems
 - Week 14: Perform at the IM End of Semester Showcase!

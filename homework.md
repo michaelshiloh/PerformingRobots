@@ -16,6 +16,7 @@ Course website:
 [https://github.com/michaelshiloh/PerformingRobots](https://github.com/michaelshiloh/PerformingRobots)  
 
 Instructor: Michael Shiloh mshiloh@nyu.edu   
+Support staff: Stefania Avramidi sa8410@nyu.edu
 
 Office hours: Schedule an appointment [here](https://calendly.com/michaelshiloh/office_hours)
 

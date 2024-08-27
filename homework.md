@@ -28,32 +28,31 @@ Class location: C3-029 (IM Lab)
 
 This is subject to change
 
+##### todays-assignment
 #### Assignments Due Thursday August 29
 
 Email Assignment:
 
-- Join Discord. Email me if you are missing the invitation.
-- Create your Github account and repository. Email me a link to your github repository.
+- Join Discord. 
+Email 
+Stefania (sa8410@nyu.edu) 
+if you are missing the invitation 
+or have problems.
+- Create a repository called "performingrobots" in your Github account. 
+Email 
+Stefania (sa8410@nyu.edu) 
+the link to your github repository.
 
 Reading Assignment:
 
-Read, review, or skim as you feel is necessary:
-- Sparkfun [breadboard tutorial](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all)
-- [Microcontrollers, the basics](https://itp.nyu.edu/physcomp/lessons//microcontrollers-the-basics/)
-- [Digital Input & Output](https://itp.nyu.edu/physcomp/lessons//digital-input-output/)
-- Read about 
-[analog output](https://itp.nyu.edu/physcomp/lessons/analog-output)
-- Read about
-[analog Input](https://itp.nyu.edu/physcomp/lessons/analog-input/)
-- If you are new to functions or need to review, 
-watch Dan 
-Shiffman's [functions](https://www.youtube.com/watch?v=wRHAitGzBrg)
-tutorials. I will not be teaching this in class and will presume that you know
-this.
-- If you are new to Object Oriented Programming or need to review, 
-watch Dan 
-Shiffman's
-[OOP](https://www.youtube.com/watch?v=xG2Vbnv0wvg&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=23)
-tutorials. I will not be teaching this in class and will presume that you know
-this.
-
+- Read, review, or skim as necessary the Arduino refresher that
+Stefania sent earlier this evening, or use other resources.
+I want you to know the following:
+- How to use 'setup()' and 'loop()'
+- How to use the 
+'digitalWrite()',
+'digitalRead()',
+'analogWrite()', and
+'analogRead()' functions
+- How to wire up a switch and an LED on a solderless breadboard
+- How to use the 'if ... else' construct

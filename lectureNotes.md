@@ -50,6 +50,8 @@ Introduction
 	- [Bot and Dolly](https://youtu.be/lX6JcybgDFo?t=132)
 	- [Oriza Hirata](https://youtu.be/CWnnqObk1qM)
 	- [Robotic Church](https://vimeo.com/114296519#t=120s)
+    - [Last
+      year](https://drive.google.com/file/d/1WoT0_J1sPGSjmjJODrpIFxpetJMYGRMR/view?usp=sharing)
 
 - What is this class about?
 - [weekly schedule](weeklySchedule.md)

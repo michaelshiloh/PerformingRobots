@@ -34,25 +34,19 @@ This is subject to change
 Email Assignment:
 
 - Join Discord. 
-Email 
-Stefania (sa8410@nyu.edu) 
-if you are missing the invitation 
-or have problems.
 - Create a repository called "performingrobots" in your Github account. 
-Email 
+- Email 
 Stefania (sa8410@nyu.edu) 
-the link to your github repository.
+the link to your github repository
+and your screen name on Discord
 
 Reading Assignment:
 
 - Read, review, or skim as necessary the Arduino refresher that
 Stefania sent earlier this evening, or use other resources.
 I want you to know the following:
-- How to use 'setup()' and 'loop()'
-- How to use the 
-'digitalWrite()',
-'digitalRead()',
-'analogWrite()', and
-'analogRead()' functions
-- How to wire up a switch and an LED on a solderless breadboard
-- How to use the 'if ... else' construct
+    - How to use `setup()` and `loop()`
+    - How to use the `digitalWrite()`, `digitalRead()`, `analogWrite()`, and
+      `analogRead()` functions
+    - How to wire up a switch and an LED on a solderless breadboard
+    - How to use the `if ... else` construct

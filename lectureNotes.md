@@ -67,7 +67,7 @@ Homework
 - Github
 - Discord
 
-####todays-lecture
+#### todays-lecture
 ### Tuesday August 27
 #### Today
 - Very quick review of Arduino

@@ -28,7 +28,7 @@ Class location: C3-029 (IM Lab)
 
 This is subject to change
 
-#### Assignments Due Thursday August 29
+### Assignments Due Thursday August 29
 
 Email Assignment:
 
@@ -51,14 +51,15 @@ I want you to know the following:
     - How to use the `if ... else` construct
 
 ##### todays-assignment
-#### Assignments Due Tuesday September 3
+### Assignments Due Tuesday September 3
 
-Reading Assignments:
+##### Reading Assignments:
+
 - [Adafruit Music Maker Shield](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all)
 - [Neopixels](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels) 
 
 
-Writing Assignments:
+##### Writing Assignments:
 
 - Read the [Fall 2024 Performing Robots Performance
   Ideas](https://docs.google.com/document/d/1ALBWsvQLPxUe5rj69ZUUuQ77TZxwMeKTieyRj6-6uic/edit) shared Google document which has the ideas we came up with in
@@ -72,7 +73,7 @@ Writing Assignments:
   that will perform in this play. Put all this in the file
   "firstDraft03Sept2024" 
 
-Thinking Assignments
+##### Thinking Assignments:
 
 Later in the semester each one of you will give two presentation. I want you
 to do some preliminary research and think about your topics:
@@ -99,4 +100,4 @@ will get the topic and the second must make an alternate choice.
 If you wish, you may send me your topic earlier. 
 
 You might be inspired by topics chosen by students in previous sessions, as
-well as ideas from [this]() list
+well as ideas from [this](https://github.com/michaelshiloh/PerformingRobots/blob/master/references.md) list

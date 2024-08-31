@@ -30,3 +30,19 @@ This is subject to change
 
 This file: Student Github Repositories and Discord account names
 - [name]() Discord: 
+
+- [Hind Younus](https://github.com/hanoodd/Performing_Robots_Fall_24) - Discord: bastos
+- [Freddi Yang](https://github.com/FreddiYang/Performing-Robots)
+- [Hind Alharmoodi](https://github.com/hindahhmed/Performing-Robots)
+- [Rama Alwidian](https://github.com/ramawid/Performing-Robots)
+- [Vahagn Yeritsyan](https://github.com/Vayer88/PerformingRobotsRepo)
+- [Fatima Alijunaibi](https://github.com/oomie/performingRobots) - Discord: toomie
+- [Ahsen Saaim](https://github.com/ahsen10s/PerformingRobots)
+- [Sri Pranav Srivatsavai](https://github.com/sripranav9/PerformingRobots) - Discord: sripranav.sv
+- [Aaron Wajah](https://github.com/r-0n/performingrobots) - Discord: R-on
+- [Linh Tran](https://github.com/LinhTran263/performingrobots) - Discord: Linh Tran
+- [Javeria Haq](https://github.com/javeria-h/performingrobots) - Discord: Javeria
+- [Luke Nguyen](https://github.com/lukenguyen197/performingrobots) - Discord: luke.nguyen
+- [Avinash Gyawali](https://github.com/Tauke190/performingrobots) - Discord: avinash1838
+- [Mbebo Nonna](https://github.com/nonnabyte/PerformingRobots) - Discord: alpha_nonna
+- [Sara Almulla](https://github.com/saraalmulla03/performingrobots) - Discord: sara_almulla 

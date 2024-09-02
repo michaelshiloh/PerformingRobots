@@ -67,7 +67,6 @@ Homework
 - Github
 - Discord
 
-#### todays-lecture
 ### Tuesday August 27
 #### Today
 - Very quick review of Arduino
@@ -113,3 +112,20 @@ void loop() {
   delay(5000);
 }
 ```
+
+#### todays-lecture
+### Tuesday August 27
+#### Today
+- Soldering
+- Music Maker Shield
+- NeoPixels
+#### Lecture
+
+##### Soldering demonstration 
+- Music Maker Shield pins
+- NeoPixel Pins
+- Fixing problems
+
+##### Music Maker Shield
+
+##### NeoPixels

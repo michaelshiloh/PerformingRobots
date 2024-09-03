@@ -122,6 +122,7 @@ void loop() {
 #### Lecture
 
 ##### Soldering demonstration 
+- Wires to boards
 - Music Maker Shield pins
 - NeoPixel Pins
 - Fixing problems

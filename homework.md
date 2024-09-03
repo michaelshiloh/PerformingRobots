@@ -50,7 +50,6 @@ I want you to know the following:
     - How to wire up a switch and an LED on a solderless breadboard
     - How to use the `if ... else` construct
 
-##### todays-assignment
 ### Assignments Due Tuesday September 3
 
 ##### Reading Assignments:
@@ -101,3 +100,19 @@ If you wish, you may send me your topic earlier.
 
 You might be inspired by topics chosen by students in previous sessions, as
 well as ideas from [this](https://github.com/michaelshiloh/PerformingRobots/blob/master/references.md) list
+
+##### todays-assignment
+### Assignments Due Thursday September 5
+
+Using scrap circuit boards 
+and scrap wire
+from the blue bins on top of the soldering area, 
+practice soldering. 
+
+* Practice until you can solder wires on adjacent holes without
+  making a short circuit
+* Practice with header pins (or sockets) from the consumables area
+    * Use lengths of about 5 pins
+    * Make sure the header pins are straight and sitting flush on the board
+
+Bring examples of your best work to class so that we can learn from each other

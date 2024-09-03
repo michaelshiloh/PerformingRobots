@@ -116,10 +116,19 @@ void loop() {
 #### todays-lecture
 ### Tuesday August 27
 #### Today
+- Shields
 - Soldering
 - Music Maker Shield
 - NeoPixels
 #### Lecture
+
+##### Shields
+- Ready made shields
+    - Music Maker Shield
+- Prototyping shields
+    - No solderless breadboard!
+- Custom shields
+    - Servo shield
 
 ##### Soldering demonstration 
 - Wires to boards

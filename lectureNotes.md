@@ -127,13 +127,18 @@ void loop() {
     - Music Maker Shield
 - Prototyping shields
     - No solderless breadboard!
+    - What can go wrong?
 - Custom shields
     - Servo shield
+- Other PCBs
 
 ##### Soldering demonstration 
 - Wires to boards
+    - What can go wrong?
 - Music Maker Shield pins
+    - What can go wrong?
 - NeoPixel Pins
+    - What can go wrong?
 - Fixing problems
 
 ##### Music Maker Shield

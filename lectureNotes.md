@@ -113,13 +113,10 @@ void loop() {
 }
 ```
 
-#### todays-lecture
 ### Tuesday August 27
 #### Today
 - Shields
 - Soldering
-- Music Maker Shield
-- NeoPixels
 #### Lecture
 
 ##### Shields
@@ -141,6 +138,16 @@ void loop() {
     - What can go wrong?
 - Fixing problems
 
+#### todays-lecture
+### Tuesday August 27
+#### Today
+- Homework
+- Music Maker Shield
+- NeoPixels
+
 ##### Music Maker Shield
+- [Adafruit Music Maker Shield](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all)
 
 ##### NeoPixels
+- [Neopixels](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels)
+

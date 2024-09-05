@@ -101,7 +101,6 @@ If you wish, you may send me your topic earlier.
 You might be inspired by topics chosen by students in previous sessions, as
 well as ideas from [this](https://github.com/michaelshiloh/PerformingRobots/blob/master/references.md) list
 
-##### todays-assignment
 ### Assignments Due Thursday September 5
 
 Using scrap circuit boards 
@@ -116,3 +115,28 @@ practice soldering.
     * Make sure the header pins are straight and sitting flush on the board
 
 Bring examples of your best work to class so that we can learn from each other
+
+##### todays-assignment
+### Assignments Due Tuesday September 10
+Thank you all for your great work today! You made great progress. Here is what
+I want you to finish for next week:
+
+1. If you have not done so, finish getting the Music Maker Shield to play your
+   sound file. As we have discovered we had a bad Arduino, two bad speakers,
+   and a bad microSD card. If you can't get yours to work reach out on the
+   class Discord channel and describe your problem, and either I or someone
+   else will help.
+2. Get your NeoPixel strip working
+    1.1. Very carefully solder **stranded** wires to the 
+    `DIN`, `5V`, and `GND` pins. 
+    You only need one wire on each of the 
+    `5V` and `GND` pins. 
+    1.1. At the end of the stranded wire, solder on a short piece of **solid**
+    core wire so that you can poke the wire into your Arduino sockets
+    1.1. Cover the exposed junction of the stranded wire and the solid core
+    wire with heat shrink tubing.
+    1.1. Open your Arduino IDE and Install the Adafruit_NeoPixel library 
+    1.1. Test your NeoPixel by using the simple built-in example:
+    `File->Examples->Adafruit NeoPixel->Simple`
+    1.1. Upload to Discord a video of your NeoPixel blinking!
+

@@ -127,16 +127,16 @@ I want you to finish for next week:
    class Discord channel and describe your problem, and either I or someone
    else will help.
 2. Get your NeoPixel strip working
-	1.1. Very carefully solder **stranded** wires to the 
+	1. Very carefully solder **stranded** wires to the 
     `DIN`, `5V`, and `GND` pins. 
     You only need one wire on each of the 
     `5V` and `GND` pins. 
-	1.1. At the end of the stranded wire, solder on a short piece of **solid**
+	1. At the end of the stranded wire, solder on a short piece of **solid**
     core wire so that you can poke the wire into your Arduino sockets
-	1.1. Cover the exposed junction of the stranded wire and the solid core
+	1. Cover the exposed junction of the stranded wire and the solid core
     wire with heat shrink tubing.
-	1.1. Open your Arduino IDE and Install the Adafruit_NeoPixel library 
-	1.1. Test your NeoPixel by using the simple built-in example:
+	1. Open your Arduino IDE and Install the Adafruit_NeoPixel library 
+	1. Test your NeoPixel by using the simple built-in example:
     `File->Examples->Adafruit NeoPixel->Simple`
-	1.1. Upload to Discord a video of your NeoPixel blinking!
+	1. Upload to Discord a video of your NeoPixel blinking!
 

@@ -145,20 +145,22 @@ I want you to finish for next week:
 
 This was supposed to be due on Tuesday, but since I forgot to include it I'll
 delay this until Thursday. It is the thinking assignment from last week, but
-now it is to be written:
+now your results are to be emailed to me:
 
 ##### Email Assignment:
 
-Later in the semester each one of you will give two presentation. You may
+Starting on September 17,
+each one of you will give two presentation. You may
 choose two of the following three topics:
 
-- An artist, art collective that is using robots in a performative way, or a
-  specific robot that is being used in a performative way
+- An artist or art collective that is using robots in a performative way, or a
+  specific robot that is being used in a performative way.
 - An academic or otherwise substantial book, research paper, lecture, etc.
-  that explores the way robots are being used in performative ways
+  that explores the way robots are being used in performative ways.
 - A researcher or writer or group or book (non-fiction) discussing robot
   ethics. Fiction or movies might also be options but you have to make a
-  strong case for the serious discussion taking place
+  strong case for the serious discussion taking place,
+  and you have to scholarly material to support your claims.
 
 Your presentations must be at least 12 minutes long up to a maximum of 20
 minutes. Your presentation must show evidence of serious research, and not

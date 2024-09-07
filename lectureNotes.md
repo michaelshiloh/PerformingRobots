@@ -67,7 +67,7 @@ Homework
 - Github
 - Discord
 
-### Tuesday August 27
+### Thursday August 29
 #### Today
 - Very quick review of Arduino
 - Very quick review of switch on solderless breadboard
@@ -113,7 +113,7 @@ void loop() {
 }
 ```
 
-### Tuesday August 27
+### Tuesday September 3
 #### Today
 - Shields
 - Soldering
@@ -138,10 +138,8 @@ void loop() {
     - What can go wrong?
 - Fixing problems
 
-#### todays-lecture
-### Tuesday August 27
+### Thursday September 5
 #### Today
-- Homework
 - Music Maker Shield
 - NeoPixels
 
@@ -151,3 +149,9 @@ void loop() {
 ##### NeoPixels
 - [Neopixels](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels)
 
+
+#### todays-lecture
+### Thursday September 10
+#### Today
+- Homework
+- Performance

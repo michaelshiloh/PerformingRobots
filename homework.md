@@ -141,3 +141,39 @@ I want you to finish for next week:
 	1. Upload to Discord a video of your NeoPixel blinking!
 	1. Problems? Discord! Class channel!
 
+### Assignments Due Thursday September 12
+
+This was supposed to be due on Tuesday, but since I forgot to include it I'll
+delay this until Thursday. It is the thinking assignment from last week, but
+now it is to be written:
+
+##### Email Assignment:
+
+Later in the semester each one of you will give two presentation. You may
+choose two of the following three topics:
+
+- An artist, art collective that is using robots in a performative way, or a
+  specific robot that is being used in a performative way
+- An academic or otherwise substantial book, research paper, lecture, etc.
+  that explores the way robots are being used in performative ways
+- A researcher or writer or group or book (non-fiction) discussing robot
+  ethics. Fiction or movies might also be options but you have to make a
+  strong case for the serious discussion taking place
+
+Your presentations must be at least 12 minutes long up to a maximum of 20
+minutes. Your presentation must show evidence of serious research, and not
+just a summary of a website or wikipedia entry. If in doubt, ask me.
+
+Topics are to be **delivered by email** to mshiloh@nyu.edu. 
+I will evaluate your topic and 
+in some cases may send it back to you for further development. 
+If two people choose the same topic, 
+the first email timestamp
+will get the topic and the second must make an alternate choice.
+
+You might be inspired by topics chosen by students in previous sessions, as
+well as ideas from [this](https://github.com/michaelshiloh/PerformingRobots/blob/master/references.md) list.
+
+Presentations will start on September 17. You may schedule your 
+presentations on
+[this](https://docs.google.com/spreadsheets/d/1s8S0qX6co3bIBSuFY7zDSmBrV4rCpc_IT61iG6xhgfM/edit?gid=0#gid=0) spreadsheet. 

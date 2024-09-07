@@ -32,4 +32,8 @@ This is subject to change
 
 Hind Alharmoodi
 - Artist: Stelarc
-- Robot/Artwork: Can't Help Myself - Sun Yuan and Peng Yu
+- Robot/Artwork: Ethics of Military Robots and Autonomous Weapons
+
+Pranav
+- Artist: Robotic Theatre by Engineered Arts
+- Robot Ethics: Examining the Role of Care Robots for the Elderly

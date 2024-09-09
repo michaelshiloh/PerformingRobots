@@ -37,3 +37,11 @@ Hind Alharmoodi
 Pranav
 - Artist: Robotic Theatre by Engineered Arts
 - Robot Ethics: Examining the Role of Care Robots for the Elderly
+
+Sara Almulla
+- Artist: Golan Levin
+- Robot ethics: The Stepford Wives, Ron's Gone Wrong, and Bicentennial man.
+
+Fatima Aljunaibi
+- Artist: Hiroshi Ishiguro
+- Robot Ethics: Her

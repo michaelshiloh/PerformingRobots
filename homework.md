@@ -116,7 +116,6 @@ practice soldering.
 
 Bring examples of your best work to class so that we can learn from each other
 
-##### todays-assignment
 ### Assignments Due Tuesday September 10
 Thank you all for your great work today! You made great progress. Here is what
 I want you to finish for next week:
@@ -141,6 +140,7 @@ I want you to finish for next week:
 	1. Upload to Discord a video of your NeoPixel blinking!
 	1. Problems? Discord! Class channel!
 
+##### todays-assignment
 ### Assignments Due Thursday September 12
 
 There are two assignments for Thursday: the one I assigned on Saturday,

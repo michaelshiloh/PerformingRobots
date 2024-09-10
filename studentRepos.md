@@ -29,10 +29,8 @@ Class location: C3-029 (IM Lab)
 This is subject to change
 
 This file: Student Github Repositories and Discord account names
-- [name]() Discord: 
 
 - [Hind Younus](https://github.com/hanoodd/Performing_Robots_Fall_24) - Discord: bastos
-- [Freddi Yang](https://github.com/FreddiYang/Performing-Robots)
 - [Hind Alharmoodi](https://github.com/hindahhmed/Performing-Robots)
 - [Rama Alwidian](https://github.com/ramawid/Performing-Robots)
 - [Vahagn Yeritsyan](https://github.com/Vayer88/PerformingRobotsRepo)

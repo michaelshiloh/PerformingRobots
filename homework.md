@@ -143,9 +143,18 @@ I want you to finish for next week:
 
 ### Assignments Due Thursday September 12
 
-This was supposed to be due on Tuesday, but since I forgot to include it I'll
-delay this until Thursday. It is the thinking assignment from last week, but
-now your results are to be emailed to me:
+There are two assignments for Thursday: the one I assigned on Saturday,
+and the new one from class on Tuesday. Both are due on Thursday:
+
+##### Voting Assignment:
+
+Read the play outlines that each of your classmates wrote. 
+You can find links to all the repositories 
+[here](https://github.com/michaelshiloh/PerformingRobots/blob/master/studentRepos.md)
+
+Vote for your top 3 using
+[this](https://docs.google.com/forms/d/e/1FAIpQLSf52IvdQ2OGLJ6Ww-iewBF7EI9MZxUSMB0hr8HYTg8cpUkTXg/viewform)
+form
 
 ##### Email Assignment:
 

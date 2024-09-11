@@ -158,5 +158,49 @@ void loop() {
 #### todays-lecture
 ### Thursday September 10
 #### Today
-- results of vote!
+- Results of vote!
 - Presentation schedule!
+- Robot Base!
+
+##### Results of vote!
+
+##### Presentation schedule!
+
+##### Robot Base
+
+- Motors
+- Arduino
+- L298 Motor Driver 
+- External battery 
+
+How does it drive?
+
+- Wheels 
+- Tires
+- Hubs
+- Steering
+
+How do we build it?
+
+- Wooden base
+- Where should the wheels go?
+- How does it keep from tipping over?
+
+Construction techniques
+
+- Motor mounting brackets
+- Screws vs. Nuts and Bolts
+- Working with wood
+- Wire management
+- Holding down the circuits (Arduino, L298)
+- Holding down the battery
+
+How do we connect things without the solderless breadboard?
+
+- L298 Interface Board
+
+What about the body?
+
+- Cardboard
+- Wood
+- Aluminum

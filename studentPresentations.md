@@ -45,3 +45,11 @@ Sara Almulla
 Fatima Aljunaibi
 - Artist: Hiroshi Ishiguro
 - Robot Ethics: Her
+
+Linh Tran
+- Artist: Oriza Hirata's Robot Theatre
+- Robot Ethics: Who is responsible when robots injure humans?
+
+Ahsen
+- Art Collective: Amorphic Robot Works 
+- Paper: On Stage: Robots as Performers 

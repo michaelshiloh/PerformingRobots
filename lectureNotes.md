@@ -150,8 +150,13 @@ void loop() {
 - [Neopixels](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels)
 
 
-#### todays-lecture
 ### Thursday September 10
 #### Today
 - Homework
 - Performance
+
+#### todays-lecture
+### Thursday September 10
+#### Today
+- results of vote!
+- Presentation schedule!

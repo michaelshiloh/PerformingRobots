@@ -140,7 +140,6 @@ I want you to finish for next week:
 	1. Upload to Discord a video of your NeoPixel blinking!
 	1. Problems? Discord! Class channel!
 
-##### todays-assignment
 ### Assignments Due Thursday September 12
 
 There are two assignments for Thursday: the one I assigned on Saturday,
@@ -188,3 +187,48 @@ well as ideas from [this](https://github.com/michaelshiloh/PerformingRobots/blob
 Presentations will start on September 17. You may schedule your 
 presentations on
 [this](https://docs.google.com/spreadsheets/d/1s8S0qX6co3bIBSuFY7zDSmBrV4rCpc_IT61iG6xhgfM/edit?gid=0#gid=0) spreadsheet. 
+
+##### todays-assignment
+### Assignments Due Tuesday September 17
+
+There are three assignments due:
+
+(I) Play Outline
+
+1. Collaborate with entire class (use whatever communication method you wish)
+    to create an outline of the play collaboratively. Pay particular attention
+    to the character that you have chosen to make sure you are happy with your
+    character's role. Add as much detail as possible. The shared document is
+    [here](https://docs.google.com/document/d/14n8aM1Zh9eJmkvJriH-87WQnF9FcQNhilrOcNERecpM/edit)
+1. 1. Choose a partner and a character that you and your partner would like to
+   work on
+1. Start thinking about how your robot will express your
+    character.
+
+(II) Journal
+
+1. Each of you will keep a journal of your progress. Each entry in the journal
+   will be dated.
+1. In your Github repository create a file called "journal.md". 
+1. Start designing your robot. What special 
+  features does it need? How will you construct it? Make a quick sketch and
+  include it in your journal, along with a description. 
+1. Each entry in the journal must be preceeded by the date
+    like this '### 99 September 2024'. The hash marks will create
+    a heading link.
+  Use proper markdown to format your journal properly.
+1. Since you are working in teams, only one of you needs to create
+    a given journal entry, but you both need to have a journal,
+    and when the entry is in your partner's journal, you need to create a link
+    in yours. For an example, see the top two lines of this file, where
+    I have created links to the next homework assignment and today's lecture.
+
+(III)
+
+1. Presentations start on Tuesday September 17 according to the
+[schedule](https://docs.google.com/spreadsheets/d/1s8S0qX6co3bIBSuFY7zDSmBrV4rCpc_IT61iG6xhgfM/edit?gid=0#gid=0)
+1. As mentioned above, presentations must be at least 12 minutes long up to a
+   maximum of 20 minutes. Your presentation must show evidence of serious
+   research, and not just a summary of a website or wikipedia entry. If in
+   doubt, ask me. I encourage you to use the library and the librarians for
+   help in research.

@@ -163,6 +163,13 @@ void loop() {
 - Robot Base!
 
 ##### Results of vote!
+* Which play are we doing?
+* Homework for next week: 
+
+1. Choose a partner and a character that you and your partner would like to
+   work on
+1. Collaborate with entire class (use Discord or create any group you wish)
+    to create outline of play collaboratively
 
 ##### Presentation schedule!
 

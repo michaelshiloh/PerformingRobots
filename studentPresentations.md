@@ -53,3 +53,11 @@ Linh Tran
 Ahsen
 - Art Collective: Amorphic Robot Works 
 - Paper: On Stage: Robots as Performers 
+
+Javeria
+- Z-Machines: The Robot Rock Band
+- Ethics: The New Breed: What Our History with Animals Reveals About Our Future with Robots 
+
+Aaron:
+- Artist: Merritt Moore
+- 

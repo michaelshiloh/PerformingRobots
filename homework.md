@@ -214,7 +214,7 @@ There are three assignments due:
   features does it need? How will you construct it? Make a quick sketch and
   include it in your journal, along with a description. 
 1. Each entry in the journal must be preceeded by the date
-    like this <pre>### 99 September 2024</pre>. The hash marks will create
+    like this: <pre>### 99 September 2024</pre>. The hash marks will create
     a heading link. For an example, look in this file at the heading
     <pre>#### todays-assignment</pre>.
 1. Use proper markdown to format your journal properly.

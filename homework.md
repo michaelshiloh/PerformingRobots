@@ -199,10 +199,10 @@ There are three assignments due:
     to create an outline of the play collaboratively. Pay particular attention
     to the character that you have chosen to make sure you are happy with your
     character's role. Add as much detail as possible. The shared document is
-    [here](https://docs.google.com/document/d/14n8aM1Zh9eJmkvJriH-87WQnF9FcQNhilrOcNERecpM/edit)
-1. 1. Choose a partner and a character that you and your partner would like to
+    [here](https://docs.google.com/document/d/14n8aM1Zh9eJmkvJriH-87WQnF9FcQNhilrOcNERecpM/edit).
+1. Choose a partner and a character that you and your partner would like to
    work on
-1. Start thinking about how your robot will express your
+1. Start thinking about how your robot will express the personality of your
     character.
 
 (II) Journal
@@ -214,16 +214,17 @@ There are three assignments due:
   features does it need? How will you construct it? Make a quick sketch and
   include it in your journal, along with a description. 
 1. Each entry in the journal must be preceeded by the date
-    like this '### 99 September 2024'. The hash marks will create
-    a heading link.
-  Use proper markdown to format your journal properly.
+    like this <pre>### 99 September 2024</pre>. The hash marks will create
+    a heading link. For an example, look in this file at the heading
+    <pre>#### todays-assignment</pre>.
+1. Use proper markdown to format your journal properly.
 1. Since you are working in teams, only one of you needs to create
     a given journal entry, but you both need to have a journal,
     and when the entry is in your partner's journal, you need to create a link
     in yours. For an example, see the top two lines of this file, where
     I have created links to the next homework assignment and today's lecture.
 
-(III)
+(III) Presentations
 
 1. Presentations start on Tuesday September 17 according to the
 [schedule](https://docs.google.com/spreadsheets/d/1s8S0qX6co3bIBSuFY7zDSmBrV4rCpc_IT61iG6xhgfM/edit?gid=0#gid=0)

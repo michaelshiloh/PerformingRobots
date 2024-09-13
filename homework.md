@@ -232,4 +232,5 @@ There are three assignments due:
    maximum of 20 minutes. Your presentation must show evidence of serious
    research, and not just a summary of a website or wikipedia entry. If in
    doubt, ask me. I encourage you to use the library and the librarians for
-   help in research.
+   help in research. Following your presentation you must initiate a
+   discussion by providing at least three thought-provoking questions.

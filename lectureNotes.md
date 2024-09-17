@@ -150,13 +150,12 @@ void loop() {
 - [Neopixels](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels)
 
 
-### Thursday September 10
+### Tuesday September 10
 #### Today
 - Homework
 - Performance
 
-#### todays-lecture
-### Thursday September 10
+### Thursday September 12
 #### Today
 - Results of vote!
 - Presentation schedule!
@@ -172,6 +171,7 @@ void loop() {
     to create outline of play collaboratively
 
 ##### Presentation schedule!
+[here](https://docs.google.com/spreadsheets/d/1s8S0qX6co3bIBSuFY7zDSmBrV4rCpc_IT61iG6xhgfM/edit?gid=0#gid=0)
 
 ##### Robot Base
 
@@ -202,12 +202,30 @@ Construction techniques
 - Holding down the circuits (Arduino, L298)
 - Holding down the battery
 
-How do we connect things without the solderless breadboard?
+#### todays-lecture
+### Tuesday September 17
+#### Today
+- Announcements
+- Presentations
+- Design workshop
 
-- L298 Interface Board
+##### Announcements
+- Student-lead workshops
+    - certificate
+- IM Program Gathering
+    - Thursday right after class
 
-What about the body?
+##### Presentations
 
-- Cardboard
-- Wood
-- Aluminum
+[Presentation
+schedule](https://docs.google.com/spreadsheets/d/1s8S0qX6co3bIBSuFY7zDSmBrV4rCpc_IT61iG6xhgfM/edit?gid=0#gid=0)
+
+##### Design workshop
+Time permitting
+
+
+Thursday
+- How do we connect things without the solderless breadboard?
+    - L298 Interface Board
+- Giant servo motors and external power supply
+

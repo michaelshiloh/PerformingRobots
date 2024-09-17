@@ -29,6 +29,8 @@ Class location: C3-029 (IM Lab)
 This is subject to change
 
 ### Student Presentations
+[Presentation
+Schedule](https://docs.google.com/spreadsheets/d/1s8S0qX6co3bIBSuFY7zDSmBrV4rCpc_IT61iG6xhgfM/edit?gid=0#gid=0)
 
 Hind Alharmoodi
 - Artist: Stelarc

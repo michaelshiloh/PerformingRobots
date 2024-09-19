@@ -202,7 +202,6 @@ Construction techniques
 - Holding down the circuits (Arduino, L298)
 - Holding down the battery
 
-#### todays-lecture
 ### Tuesday September 17
 #### Today
 - Announcements
@@ -221,11 +220,15 @@ Construction techniques
 schedule](https://docs.google.com/spreadsheets/d/1s8S0qX6co3bIBSuFY7zDSmBrV4rCpc_IT61iG6xhgfM/edit?gid=0#gid=0)
 
 ##### Design workshop
-Time permitting
+(add link here)
 
+#### todays-lecture
+### Thursday September 19
+#### Today
+- Hind presentation
+- Build robots!
+- L298 board
 
-Thursday
-- How do we connect things without the solderless breadboard?
-    - L298 Interface Board
+Time permitting:
 - Giant servo motors and external power supply
-
+- Solder other PCBs

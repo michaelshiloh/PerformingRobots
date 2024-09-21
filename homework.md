@@ -195,7 +195,8 @@ There are three assignments due:
 (I) Play Outline
 
 1. Collaborate with entire class (use whatever communication method you wish)
-    to create an outline of the play collaboratively. Pay particular attention
+    to create an outline of the entire script for the play collaboratively. 
+    Pay particular attention
     to the character that you have chosen to make sure you are happy with your
     character's role. Add as much detail as you can. The shared document is
     [here](https://docs.google.com/document/d/14n8aM1Zh9eJmkvJriH-87WQnF9FcQNhilrOcNERecpM/edit).

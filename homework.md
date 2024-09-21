@@ -237,6 +237,7 @@ There are three assignments due:
 ##### todays-assignment
 ### Assignments Due Tuesday September 23
 
+(1)
 Complete a rough outline of the play in
 [this](https://docs.google.com/document/d/14n8aM1Zh9eJmkvJriH-87WQnF9FcQNhilrOcNERecpM/edit)
 shared document. We don't need the full script at this point, but 
@@ -249,5 +250,8 @@ Each of you should respect what others
 have already written, but I encourage you to 
 suggest changes that you feel will make the play better.
 
+(2)
+In your journal, describe what you did in class on Thursday, and add a few
+pictures of your process
 
 '

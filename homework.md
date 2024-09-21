@@ -235,7 +235,7 @@ There are three assignments due:
    discussion by providing at least three thought-provoking questions.
 
 ##### todays-assignment
-### Assignments Due Tuesday September 23
+### Assignments Due Tuesday September 24
 
 (1)
 Complete a rough outline of the play in

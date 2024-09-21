@@ -212,7 +212,7 @@ There are three assignments due:
 1. Start designing your robot. What special 
   features does it need? How will you construct it? Make a quick sketch and
   include it in your journal, along with a description. 
-1. Each entry in the journal must be preceeded by the date
+1. Each entry in the journal must be preceded by the date
     like this: <pre>### 17 September 2024</pre>. The hash marks will create
     a heading link. For an example, look in this file at the heading
     <pre>#### todays-assignment</pre>.
@@ -238,12 +238,16 @@ There are three assignments due:
 ### Assignments Due Tuesday September 24
 
 (1)
-Complete a rough outline of the play in
+Create a rough but complete outline of the play in
 [this](https://docs.google.com/document/d/14n8aM1Zh9eJmkvJriH-87WQnF9FcQNhilrOcNERecpM/edit)
 shared document. We don't need the full script at this point, but 
 the entire story should be mapped out. I suggest that for now you do not
 allow audience input and alternative plots. You can add that later if you have
 time.
+
+A good way to start might be with your own character and whatever
+other characters you want to interact with. As each of you do this,
+the entire play will slowly start to take shape.
 
 Everyone should participate, and you should work on this collaboratively.
 Each of you should respect what others 

@@ -195,7 +195,7 @@ There are three assignments due:
 (I) Play Outline
 
 1. Collaborate with entire class (use whatever communication method you wish)
-    to create an outline of the entire script for the play collaboratively. 
+    to create a rough outline for the play collaboratively. 
     Pay particular attention
     to the character that you have chosen to make sure you are happy with your
     character's role. Add as much detail as you can. The shared document is
@@ -239,10 +239,16 @@ There are three assignments due:
 ### Assignments Due Tuesday September 24
 
 (1)
-Create a rough but complete outline of the play in
+Add details to the outline of the 
+play in
 [this](https://docs.google.com/document/d/14n8aM1Zh9eJmkvJriH-87WQnF9FcQNhilrOcNERecpM/edit)
-shared document. We don't need the full script at this point, but 
-the entire story should be mapped out. I suggest that for now you do not
+shared document. 
+Map out each scene, identify which characters are involved,
+and describe the conversations.
+We don't need the full script at this point, but 
+the entire story should be mapped out. 
+
+I suggest that for now you do not
 allow audience input and alternative plots. You can add that later if you have
 time.
 

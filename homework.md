@@ -188,7 +188,6 @@ Presentations will start on September 17. You may schedule your
 presentations on
 [this](https://docs.google.com/spreadsheets/d/1s8S0qX6co3bIBSuFY7zDSmBrV4rCpc_IT61iG6xhgfM/edit?gid=0#gid=0) spreadsheet. 
 
-##### todays-assignment
 ### Assignments Due Tuesday September 17
 
 There are three assignments due:
@@ -234,3 +233,21 @@ There are three assignments due:
    doubt, ask me. I encourage you to use the library and the librarians for
    help in research. Following your presentation you must initiate a
    discussion by providing at least three thought-provoking questions.
+
+##### todays-assignment
+### Assignments Due Tuesday September 23
+
+Complete a rough outline of the play in
+[this](https://docs.google.com/document/d/14n8aM1Zh9eJmkvJriH-87WQnF9FcQNhilrOcNERecpM/edit)
+shared document. We don't need the full script at this point, but 
+the entire story should be mapped out. I suggest that for now you do not
+allow audience input and alternative plots. You can add that later if you have
+time.
+
+Everyone should participate, and you should work on this collaboratively.
+Each of you should respect what others 
+have already written, but I encourage you to 
+suggest changes that you feel will make the play better.
+
+
+'

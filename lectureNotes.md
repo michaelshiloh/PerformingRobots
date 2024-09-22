@@ -223,8 +223,9 @@ Construction techniques
 [Presentation
 schedule](https://docs.google.com/spreadsheets/d/1s8S0qX6co3bIBSuFY7zDSmBrV4rCpc_IT61iG6xhgfM/edit?gid=0#gid=0)
 
-##### Design workshop
-(add link here)
+##### Designing Robots
+Stefania gave a wonderful presentation on [Designing
+Robots](https://docs.google.com/presentation/d/1L1_uAU-QNXxY9JEUMLb3Z23RMs5x94aMDoCwe21gwoY/edit#slide=id.p)
 
 #### todays-lecture
 ### Thursday September 19

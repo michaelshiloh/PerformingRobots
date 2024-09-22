@@ -229,10 +229,20 @@ schedule](https://docs.google.com/spreadsheets/d/1s8S0qX6co3bIBSuFY7zDSmBrV4rCpc
 #### todays-lecture
 ### Thursday September 19
 #### Today
-- Hind Y presentation
 - Build robots!
-- L298 board
 
-Time permitting:
-- Giant servo motors and external power supply
-- Solder other PCBs
+Parts needed
+- Wooden base (about 55cm x 65 cm)
+- Motors (2x)
+- Hub (2x)
+- Motor bracket (2x)
+- M4x8 bolts to attach motors to motor brackets (8x)
+- M4x10 bolts to attach hub to shaft (4x)
+- Acrylic wheels (2x)
+- Rubber tires (2x)
+- Casters (2x)
+
+![](media/driveMotorAssembly.jpg)
+
+In addition, you will need to extend the wires on the motors, 
+and drill a hole in the wooden base for the wires to come through

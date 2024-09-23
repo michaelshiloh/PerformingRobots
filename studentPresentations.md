@@ -61,5 +61,25 @@ Javeria
 - Ethics: The New Breed: What Our History with Animals Reveals About Our Future with Robots 
 
 Aaron:
-- Artist: Merritt Moore
+- Artist: Dr. Merritt Moore
 - 
+
+Luke:
+- Artist: French multi-media artist ORLAN
+- Ethics: "Ex-machina" (2014) and "Ghost in the Shell" 
+
+Avinash:
+- Human-Robot Artistic Co-Creation: a Study in Improvised Robot Dance
+- Machines on Stage: Exploring the World of Robot Opera
+
+Hind Younus
+- Artist: Sougwen Chung
+- Ethics: Should we be morally obligated to treat robots with respect?
+
+Vahagn:
+- Artist: Shimon the Robot Musician.
+- Ethics: "Robots Should Be Slaves" by Joanna Bryson.
+
+Rama
+- Artist: Dr. Merritt Moore
+- Robot: Lovot

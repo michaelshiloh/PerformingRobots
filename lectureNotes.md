@@ -227,7 +227,6 @@ schedule](https://docs.google.com/spreadsheets/d/1s8S0qX6co3bIBSuFY7zDSmBrV4rCpc
 Stefania gave a wonderful presentation on [Designing
 Robots](https://docs.google.com/presentation/d/1L1_uAU-QNXxY9JEUMLb3Z23RMs5x94aMDoCwe21gwoY/edit#slide=id.p)
 
-#### todays-lecture
 ### Thursday September 19
 #### Today
 - Build robots!
@@ -247,3 +246,24 @@ Parts needed
 
 In addition, you will need to extend the wires on the motors, 
 and drill a hole in the wooden base for the wires to come through
+
+#### todays-lecture
+### Tuesday September 24
+#### Today
+- How to do research
+- Presentations
+
+##### How to do research
+- Why the delay?
+- What I want
+- Presentation by Grace Adeneye, Research Librarian for the Arts. Grace has an
+  educational background in English literature and Museum and Gallery
+  Practice. Grace also serves the first year student community, and is a
+  published author.
+
+##### Presentations
+
+- What is the significance of this work? What have others said or written about this project?
+- Does the use of robots make the project better? Does it affect us differently? How or how not?
+- Why are we so fascinated by robots? How does this fascination affect this project? (this relates to the question above)
+- What does the project, and the fact of using robots, say about the Human Condition?

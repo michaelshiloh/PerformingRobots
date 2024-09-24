@@ -1,9 +1,9 @@
 Shortcut to [today's assignment](homework.md#todays-assignment)  
-Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
+Shortcut to [today's lecture](lectureNotes.md#todays-lecture)  
 [Presentation
-schedule](https://docs.google.com/spreadsheets/d/1s8S0qX6co3bIBSuFY7zDSmBrV4rCpc_IT61iG6xhgfM/edit?gid=0#gid=0)
+schedule](https://docs.google.com/spreadsheets/d/1s8S0qX6co3bIBSuFY7zDSmBrV4rCpc_IT61iG6xhgfM/edit?gid=0#gid=0)  
 [Play
-script](https://docs.google.com/document/d/14n8aM1Zh9eJmkvJriH-87WQnF9FcQNhilrOcNERecpM/edit)
+script](https://docs.google.com/document/d/14n8aM1Zh9eJmkvJriH-87WQnF9FcQNhilrOcNERecpM/edit)  
 
 ## New York University Abu Dhabi  
 ## Interactive Media Program

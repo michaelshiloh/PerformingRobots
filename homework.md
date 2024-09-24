@@ -235,7 +235,6 @@ There are three assignments due:
    help in research. Following your presentation you must initiate a
    discussion by providing at least three thought-provoking questions.
 
-##### todays-assignment
 ### Assignments Due Tuesday September 24
 
 (1)
@@ -264,5 +263,26 @@ suggest changes that you feel will make the play better.
 (2)
 In your journal, describe what you did in class on Thursday, and add a few
 pictures of your process
+
+##### todays-assignment
+### Assignments Due Thursday September 26
+
+I'm pleased to see that the play outline is taking shape. For Thursday, I'd
+like you to add the 2-3 scenes where the characters split up and look for
+clues.
+
+1. Since there are 7 characters in the play (including detective and butler),
+   you can break up into groups of 2, 2, and 3 characters.
+1. Decide which other character(s) you would like to work with for this scene.
+   For example, Dr. Orchid might be with Wadsworth. Don't take too long
+   thinking about this, just reach out and start working out what you'll do in
+   this scene
+1. With the other team(s), outline what you will do in this scene.  This might
+   be an opportunity to ask each other questions, revealing your prior
+   relationship with Mr. Boddy and hints as to what your motives may have
+   been. You might decide you like the other character, or you may start
+   arguing with each other. You can start adding some dialogue to give us an
+   idea of how this will go.
+1. Add your scene, outline, and dialogue to the collaborative outline
 
 '

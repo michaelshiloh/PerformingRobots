@@ -247,7 +247,6 @@ Parts needed
 In addition, you will need to extend the wires on the motors, 
 and drill a hole in the wooden base for the wires to come through
 
-#### todays-lecture
 ### Tuesday September 24
 #### Today
 - How to do research
@@ -267,3 +266,16 @@ and drill a hole in the wooden base for the wires to come through
 - Does the use of robots make the project better? Does it affect us differently? How or how not?
 - Why are we so fascinated by robots? How does this fascination affect this project? (this relates to the question above)
 - What does the project, and the fact of using robots, say about the Human Condition?
+
+#### todays-lecture
+### Thursday September 26
+#### Today
+- Finish robot bases
+- Build [Hobby RC and Motor Controller shield](https://youtu.be/TmrvE1iV0zE)
+    - Skip the receiver for now
+- Add L298, Arduino, and battery
+- Make it go!
+
+Homework:
+- Program a movement that expresses a personality
+- 

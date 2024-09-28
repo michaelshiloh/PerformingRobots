@@ -264,7 +264,6 @@ suggest changes that you feel will make the play better.
 In your journal, describe what you did in class on Thursday, and add a few
 pictures of your process
 
-##### todays-assignment
 ### Assignments Due Thursday September 26
 
 I'm pleased to see that the play outline is taking shape. For Thursday, I'd
@@ -284,5 +283,33 @@ clues.
    arguing with each other. You can start adding some dialogue to give us an
    idea of how this will go.
 1. Add your scene, outline, and dialogue to the collaborative outline
+
+##### todays-assignment
+### Assignments Due Tuesday October 1
+
+The play seems to be coming along well but we need a lot more detailed
+dialogue. Some of you have not contributed your small group interaction
+(Peacock and Orchid I think). Please do so by Tuesday.
+
+The rest of you keep adding details, refining the story, and improving the
+dialogue. 
+
+* There are several scenes in which characters pick up something or give
+  something. It is very difficult to build robots that can do this. Think of
+  another way to move the plot forward. For instance, when Mr. Green finds
+  something, that might be in his hand all along, but only now is attention
+  drawn to it. Maybe this hand isn't raised until now. Or maybe it lights up
+  to draw attention to it.
+
+* Some scenes refer to a desk or unlocking a door. None of this exists unless
+  we make it. We could borrow a table and bring it on stage between
+  scenes. We will have to carefully plan who moves it.
+
+* Scene 1 needs to be written. The first four items in "(Potential) Play
+  outline" seem to be a summary of Scene 1 so that a good starting point, so
+  use that and write the script
+
+* The final scene needs to be written. The last item (7 FINAL SCENE: seems to
+  be  a good start, so use that and write the script. 
 
 '

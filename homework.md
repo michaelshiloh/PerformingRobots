@@ -287,6 +287,9 @@ clues.
 ##### todays-assignment
 ### Assignments Due Tuesday October 1
 
+(1)
+##### Play homework
+
 The play seems to be coming along well but we need a lot more detailed
 dialogue. Some of you have not contributed your small group interaction
 (Peacock and Orchid I think). Please do so by Tuesday.
@@ -311,5 +314,11 @@ dialogue.
 
 * The final scene needs to be written. The last item (7 FINAL SCENE: seems to
   be  a good start, so use that and write the script. 
+
+(2)
+##### Journal homework
+
+In your journal, describe what you did in class on Thursday, and add a few
+pictures of your process
 
 '

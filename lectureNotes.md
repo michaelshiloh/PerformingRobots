@@ -267,7 +267,6 @@ and drill a hole in the wooden base for the wires to come through
 - Why are we so fascinated by robots? How does this fascination affect this project? (this relates to the question above)
 - What does the project, and the fact of using robots, say about the Human Condition?
 
-#### todays-lecture
 ### Thursday September 26
 #### Today
 - Finish robot bases
@@ -276,6 +275,11 @@ and drill a hole in the wooden base for the wires to come through
 - Add L298, Arduino, and battery
 - Make it go!
 
-Homework:
-- Program a movement that expresses a personality
-- 
+#### todays-lecture
+### Tuesday October 1
+#### Today
+
+I am sick and won't be coming to campus. Please continue with your
+presentations. I want everyone to write down at least one question
+that comes out of each presentation today. Write the question in your journal
+with today's date.

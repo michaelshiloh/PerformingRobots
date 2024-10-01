@@ -284,7 +284,6 @@ clues.
    idea of how this will go.
 1. Add your scene, outline, and dialogue to the collaborative outline
 
-##### todays-assignment
 ### Assignments Due Tuesday October 1
 
 (1)
@@ -320,5 +319,13 @@ dialogue.
 
 In your journal, describe what you did in class on Thursday, and add a few
 pictures of your process
+
+##### todays-assignment
+### Assignments Due Thursday October 3
+Inspired by the presentations on Tuesday October 1,
+write down at least one question
+that you have from each presentation today. Write the questions in your journal
+with today's date.
+
 
 '

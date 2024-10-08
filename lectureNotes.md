@@ -293,9 +293,9 @@ movie
 | L298 Pin | Arduino Pin | Wire Color |
 | --- | --- | ----- |
 | EN1 | 9 | Yellow |
-| In1 | 8 | Blue |
-| In2 | 7 | Blue |
-| In3 | 10 | Green |
-| In4 | 12 | Green |
+| IN1 | 8 | Blue |
+| IN2 | 7 | Blue |
+| IN3 | 10 | Green |
+| IN4 | 12 | Green |
 | EN2 | 11 | White |
 | GND | GND | Black |

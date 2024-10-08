@@ -292,8 +292,7 @@ with today's date.
 1. Solder pins according to [this]() movie
 2. Add wires that will go to the L298 board
 
-| L298 | Arduino | Wire |
-| Pin | Pin | Color |
+| L298 Pin | Arduino Pin | Wire Color |
 | --- | --- | ----- |
 | EN1 | 9 | Yellow |
 | In1 | 8 | Blue |

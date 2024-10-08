@@ -275,11 +275,25 @@ and drill a hole in the wooden base for the wires to come through
 - Add L298, Arduino, and battery
 - Make it go!
 
-#### todays-lecture
 ### Tuesday October 1
-#### Today
 
 I am sick and won't be coming to campus. Please continue with your
 presentations. I want everyone to write down at least one question
 that comes out of each presentation today. Write the question in your journal
 with today's date.
+
+### Tuesday October 8
+#### todays-lecture
+#### Today
+- Presentations: Luke and Vahagn
+- Time permitting: Hobby RC and Motor Controller Shield
+
+##### Hobby RC and Motor Controller Shield
+1. Solder pins according to [this]() movie
+2. Add wires that will go to the L298 board
+
+| L298 | Arduino | Wire |
+| Pin | Pin | Color |
+| --- | --- | ----- |
+| EN1 | 9 | Yellow |
+| In1 | 8 | Blue |

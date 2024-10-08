@@ -270,10 +270,6 @@ and drill a hole in the wooden base for the wires to come through
 ### Thursday September 26
 #### Today
 - Finish robot bases
-- Build [Hobby RC and Motor Controller shield](https://youtu.be/TmrvE1iV0zE)
-    - Skip the receiver for now
-- Add L298, Arduino, and battery
-- Make it go!
 
 ### Tuesday October 1
 
@@ -289,7 +285,9 @@ with today's date.
 - Time permitting: Hobby RC and Motor Controller Shield
 
 ##### Hobby RC and Motor Controller Shield
-1. Solder pins according to [this]() movie
+1. Solder pins according to [this](https://youtu.be/TmrvE1iV0zE)
+movie
+    - Skip the receiver for now
 2. Add wires that will go to the L298 board
 
 | L298 Pin | Arduino Pin | Wire Color |

@@ -279,16 +279,21 @@ that comes out of each presentation today. Write the question in your journal
 with today's date.
 
 ### Tuesday October 8
-#### todays-lecture
 #### Today
 - Presentations: Luke and Vahagn
-- Time permitting: Hobby RC and Motor Controller Shield
+
+#### todays-lecture
+### Thursday October 10
+#### Today
+- Presentations: Aaron and Mbebo
+- Hobby RC and Motor Controller Shield
 
 ##### Hobby RC and Motor Controller Shield
 1. Solder pins according to board [video](https://youtu.be/TmrvE1iV0zE)
 movie
     - Skip the receiver for now
-2. Add wires that will go to the L298 board
+2. Connect the L298 Breakout Board to the Hobby RC and Motor Controller shield
+following the table below:
 
 | L298 Pin | Arduino Pin | Wire Color |
 | --- | --- | ----- |

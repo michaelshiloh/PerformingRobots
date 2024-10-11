@@ -285,7 +285,7 @@ with today's date.
 - Time permitting: Hobby RC and Motor Controller Shield
 
 ##### Hobby RC and Motor Controller Shield
-1. Solder pins according to [this](https://youtu.be/TmrvE1iV0zE)
+1. Solder pins according to board [video](https://youtu.be/TmrvE1iV0zE)
 movie
     - Skip the receiver for now
 2. Add wires that will go to the L298 board
@@ -299,3 +299,10 @@ movie
 | IN4 | 12 | Green |
 | EN2 | 11 | White |
 | GND | GND | Black |
+
+Videos:
+- [Soldering header socket to L298 Breakout Board](https://youtu.be/Eat3gU4fdVc)
+- Soldering wires between L298 Breakout Board and Hobby RC and Motor Controller Shield,
+  [part 1](https://youtu.be/473tP4C34UU) and [part
+  2](https://youtu.be/3yuinKMAYRI)
+

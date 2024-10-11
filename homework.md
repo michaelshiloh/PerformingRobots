@@ -320,12 +320,30 @@ dialogue.
 In your journal, describe what you did in class on Thursday, and add a few
 pictures of your process
 
-##### todays-assignment
 ### Assignments Due Thursday October 3
 Inspired by the presentations on Tuesday October 1,
 write down at least one question
 that you have from each presentation today. Write the questions in your journal
 with today's date.
+
+##### todays-assignment
+### Assignments Due Tuesday October 22
+(I)
+As promised in class, I have created a form for each of you to provide
+the who, how, and why of the murder.
+
+(II)
+Fall break ends on Sunday October 20. That gives you Monday and part of
+Tuesday to complete your robot base. I want to see everyone's robot base
+complete when class starts on Tuesday at 2:10pm:
+- Arduino in its metal bracket mounted to the wooden base
+- L298 H-Bridge in its plastic bracket mounted to the wooden base
+- Battery attached with zip ties to the wooden base
+- Motors wired to the L298 H-Bridge
+- L298 H-Bridge connected to the Arduino with the L298 Breakout Board
+  and the  Hobby RC and Motor Controller Shield. I have added detailed
+  [instructions](https://github.com/michaelshiloh/PerformingRobots/blob/master/lectureNotes.md#hobby-rc-and-motor-controller-shield) 
+  including videos of this to the lecture notes.
 
 
 '

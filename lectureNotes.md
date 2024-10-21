@@ -282,7 +282,6 @@ with today's date.
 #### Today
 - Presentations: Luke and Vahagn
 
-#### todays-lecture
 ### Thursday October 10
 #### Today
 - Presentations: Aaron and Mbebo
@@ -311,3 +310,21 @@ Videos:
   [part 1](https://youtu.be/473tP4C34UU) and [part
   2](https://youtu.be/3yuinKMAYRI)
 
+#### todays-lecture
+### Tuesday October 22
+#### Today
+- Presentations: Aaron and Hind A
+- IM workshop
+- Homework: 1) who, why, and how about the murder and 2) finish the robot base
+- Next steps: Design your robot!
+
+##### IM workshop
+
+The first workshop in the IM lab Workshop Series is this Thursday!
+
+![](media/IM_SANDBOX_SERIES.png)
+
+##### Next steps: Design your robot!
+- Identify components
+- Block diagram
+- Mechanical details

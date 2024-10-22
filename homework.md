@@ -354,10 +354,9 @@ As I mentioned, I am not travelling and am available to help.
 ### Assignments Due Thursday October 24
 
 Add an entry in your journal with the heading
-
-`
+<pre>
 ### 24 october 20204
-`
+</pre>
 
 Refine the design of your robot. Think about what it needs to do and sketch
 out how such a mechanism might be constructed. Include a sketch of the full

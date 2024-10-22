@@ -358,7 +358,9 @@ Add an entry in your journal with the heading
 ### 24 october 20204
 </pre>
 
-Refine the design of your robot. Think about what it needs to do and sketch
-out how such a mechanism might be constructed. Include a sketch of the full
+Refine the design of your robot. 
+Include a sketch of the full
 robot indicating placement and type of motors, and where the mechanisms are. 
+Think about what it needs to do and sketch
+out how each mechanism might be constructed. 
 Add details of each mechanism as a separate sketch.

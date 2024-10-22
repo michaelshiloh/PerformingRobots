@@ -326,7 +326,6 @@ write down at least one question
 that you have from each presentation today. Write the questions in your journal
 with today's date.
 
-##### todays-assignment
 ### Assignments Due Tuesday October 22
 (I)
 
@@ -351,4 +350,16 @@ when class starts on Tuesday at 2:10pm:
 
 As I mentioned, I am not travelling and am available to help.
 
-'
+##### todays-assignment
+### Assignments Due Thursday October 24
+
+Add an entry in your journal with the heading
+
+`
+### 24 october 20204
+`
+
+Refine the design of your robot. Think about what it needs to do and sketch
+out how such a mechanism might be constructed. Include a sketch of the full
+robot indicating placement and type of motors, and where the mechanisms are. 
+Add details of each mechanism as a separate sketch.

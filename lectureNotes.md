@@ -310,7 +310,6 @@ Videos:
   [part 1](https://youtu.be/473tP4C34UU) and [part
   2](https://youtu.be/3yuinKMAYRI)
 
-#### todays-lecture
 ### Tuesday October 22
 #### Today
 - Presentations: Aaron and Hind A
@@ -328,3 +327,18 @@ The first workshop in the IM lab Workshop Series is this Thursday!
 - Identify components
 - Block diagram
 - Mechanical details
+
+#### todays-lecture
+### Thursday October 24
+#### Today
+- Presentations: Linh and Luke
+- Finishing the bases: Power 
+- Building the robot
+
+##### Finishing the bases: Power 
+- Coaxial connector for the 12V for the motor
+- Coaxial connector for 9V for the Arduino
+
+##### Building the robot
+- Review your designs
+- servo motors for arms, hair

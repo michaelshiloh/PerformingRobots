@@ -368,6 +368,12 @@ Add details of each mechanism as a separate sketch.
 ### Assignments Due Tuesday October 29
 
 ##### (I)
+
+Your robot base was due on Tuesday October 22. Many of  you 
+have failed to do this. You must do this by Tuesday October 29. 
+
+##### (II)
+
 Choose one feature of your robot and build it. 
 This could be the peacock tail,
 the skeleton and arms, 
@@ -377,6 +383,6 @@ Ask for these things on Discord.
 
 Be ready to demonstrate this on Tuesday.
 
-##### (II)
+##### (III)
 Your journal.md should be in the top level of your repository.
 If it is not, move it there.

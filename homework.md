@@ -367,6 +367,7 @@ Add details of each mechanism as a separate sketch.
 ##### todays-assignment
 ### Assignments Due Tuesday October 29
 
+(I)
 Choose one feature of your robot and build it. 
 This could be the peacock tail,
 the skeleton and arms, 
@@ -375,3 +376,7 @@ You will need supplies like wood, motors, brackets, and hardware.
 Ask for these things on Discord.
 
 Be ready to demonstrate this on Tuesday.
+
+(II)
+Your journal.md should be in the top level of your repository.
+If it is not, move it there.

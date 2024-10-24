@@ -350,7 +350,6 @@ when class starts on Tuesday at 2:10pm:
 
 As I mentioned, I am not travelling and am available to help.
 
-##### todays-assignment
 ### Assignments Due Thursday October 24
 
 Add an entry in your journal with the heading
@@ -364,3 +363,15 @@ robot indicating placement and type of motors, and where the mechanisms are.
 Think about what it needs to do and sketch
 out how each mechanism might be constructed. 
 Add details of each mechanism as a separate sketch.
+
+##### todays-assignment
+### Assignments Due Tuesday October 29
+
+Choose one feature of your robot and build it. 
+This could be the peacock tail,
+the skeleton and arms, 
+the head with eyebrows or hair that is controlled by a servo motor. 
+You will need supplies like wood, motors, brackets, and hardware. 
+Ask for these things on Discord.
+
+Be ready to demonstrate this on Tuesday.

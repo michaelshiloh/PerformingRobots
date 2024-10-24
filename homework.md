@@ -367,7 +367,7 @@ Add details of each mechanism as a separate sketch.
 ##### todays-assignment
 ### Assignments Due Tuesday October 29
 
-(I)
+##### (I)
 Choose one feature of your robot and build it. 
 This could be the peacock tail,
 the skeleton and arms, 
@@ -377,6 +377,6 @@ Ask for these things on Discord.
 
 Be ready to demonstrate this on Tuesday.
 
-(II)
+##### (II)
 Your journal.md should be in the top level of your repository.
 If it is not, move it there.

@@ -401,3 +401,11 @@ If it is not, move it there.
 1. Hind Alharmoodi, Rama, Vahagn, and Ahsen: you must send me your Discord
    names
 
+Updates
+- I have asked about staffing the lab during the weekend. I'll send updates
+  when I know more
+- I put more servo brackets in the tipout bin behind the whiteboard
+- I did not have time to find the right size screwdriver for the L298
+    H-Bridge. I'll try to do that tomorrow
+- I did not have time to create the instructions for the servo board so I
+  removed that from the homework

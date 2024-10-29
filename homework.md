@@ -398,5 +398,6 @@ If it is not, move it there.
 1. Mount the Arduino Mega in the box using the little plastic standoffs
 1. Put all the leftover parts and little plastic bits back in my box
 1. Mount the Arduino Mega in its box somewhere on your robot body or skeleton
-
+1. Hind Alharmoodi, Rama, Vahagn, and Ahsen: you must send me your Discord
+   names
 

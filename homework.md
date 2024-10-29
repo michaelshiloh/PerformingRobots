@@ -364,7 +364,6 @@ Think about what it needs to do and sketch
 out how each mechanism might be constructed. 
 Add details of each mechanism as a separate sketch.
 
-##### todays-assignment
 ### Assignments Due Tuesday October 29
 
 ##### (I)
@@ -386,3 +385,18 @@ Be ready to demonstrate this on Tuesday.
 ##### (III)
 Your journal.md should be in the top level of your repository.
 If it is not, move it there.
+
+##### todays-assignment
+### Assignments Due Thursday October 31
+
+**If your base is not complete, you must finish it!**
+
+1. Build either the skeleton or the robot body. 
+1. Take from my plastic boxes behind the white board
+1.1. Arduino Mega 
+1.1. Arduino mounting box (like the one you used for the Arduino on the base) 
+1. Mount the Arduino Mega in the box using the little plastic standoffs
+1. Put all the leftover parts and little plastic bits back in my box
+1. Mount the Arduino Mega in its box somewhere on your robot body or skeleton
+
+

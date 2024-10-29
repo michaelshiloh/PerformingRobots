@@ -355,3 +355,6 @@ The first workshop in the IM lab Workshop Series is this Thursday!
     - Install Arduino Mega (mega, another bracket)
     - Solder Mega shield (shield, stacking headers, servo pins, servo power)
     - Solder header sockets for radio (radio, header sockets)
+    - solder sockets for the RadioLink receiver (starts at minute 10 in
+      [this](https://www.youtube.com/watch?v=TmrvE1iV0zE)
+      video)

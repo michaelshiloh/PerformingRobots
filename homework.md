@@ -393,8 +393,8 @@ If it is not, move it there.
 
 1. Build either the skeleton or the robot body. 
 1. Take from my plastic boxes behind the white board
-1.1. Arduino Mega 
-1.1. Arduino mounting box (like the one you used for the Arduino on the base) 
+    1. Arduino Mega 
+    1. Arduino mounting box (like the one you used for the Arduino on the base) 
 1. Mount the Arduino Mega in the box using the little plastic standoffs
 1. Put all the leftover parts and little plastic bits back in my box
 1. Mount the Arduino Mega in its box somewhere on your robot body or skeleton

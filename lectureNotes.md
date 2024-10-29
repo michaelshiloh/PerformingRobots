@@ -328,7 +328,6 @@ The first workshop in the IM lab Workshop Series is this Thursday!
 - Block diagram
 - Mechanical details
 
-#### todays-lecture
 ### Thursday October 24
 #### Today
 - Presentations: Linh and Luke
@@ -342,3 +341,17 @@ The first workshop in the IM lab Workshop Series is this Thursday!
 ##### Building the robot
 - Review your designs
 - servo motors for arms, hair
+
+#### todays-lecture
+### Tuesday October 29
+- Presentations: Javeria, Ahsen
+- State of your robot
+- What will you complete for Thursday
+- Calendar: oct 31, Nov 5, 12, 19, 26, Dec 3, 5
+    - Weekends
+- Homework
+    - Build skeleton
+    - Build platform for Arduino Mega
+    - Install Arduino Mega (mega, another bracket)
+    - Solder Mega shield (shield, stacking headers, servo pins, servo power)
+    - Solder header sockets for radio (radio, header sockets)

@@ -31,7 +31,8 @@ This is subject to change
 This file: Student Github Repositories and Discord account names
 
 - [Hind Younus](https://github.com/hanoodd/Performing_Robots_Fall_24) - Discord: bastos
-- [Hind Alharmoodi](https://github.com/hindahhmed/Performing-Robots)
+- [Hind Alharmoodi](https://github.com/hindahhmed/Performing-Robots) -
+  Discord: hind04195
 - [Rama Alwidian](https://github.com/ramawid/Performing-Robots)
 - [Vahagn Yeritsyan](https://github.com/Vayer88/PerformingRobotsRepo)
 - [Fatima Alijunaibi](https://github.com/oomie/performingRobots) - Discord: toomie

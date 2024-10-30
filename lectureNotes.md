@@ -342,7 +342,6 @@ The first workshop in the IM lab Workshop Series is this Thursday!
 - Review your designs
 - servo motors for arms, hair
 
-#### todays-lecture
 ### Tuesday October 29
 - Presentations: Javeria, Ahsen
 - State of your robot
@@ -350,16 +349,17 @@ The first workshop in the IM lab Workshop Series is this Thursday!
 - Calendar: oct 31, Nov 5, 12, 19, 26, Dec 3, 5
     - Weekends
 - Homework
-    - Build skeleton
-    - Build platform for Arduino Mega
-    - Install Arduino Mega (mega, another bracket)
-    - Solder Mega shield (shield, stacking headers, servo pins, servo power)
-    - Solder header sockets for radio (radio, header sockets)
-    - solder sockets for the RadioLink receiver (starts at minute 10 in
-      [this](https://www.youtube.com/watch?v=TmrvE1iV0zE)
-      video)
+
+#### todays-lecture
+### Thursday October 31
+#### Today
+- nRF Servo Mega shield
+- Building with cardboard
+- Attaching things to a servo motor
+- Socket for radio for controlling the robot base
 
 
+##### nRF Servo Mega shield
 
 nRF Servo Mega Shield [video](https://youtu.be/EMkqwKK7xOQ)
 
@@ -395,3 +395,12 @@ steps
    the board. Solder. These pins are quite thick and the hole is quite big, so
    keep feeding solder until the hole fills up.
 1. You are done! Yay! Take a picture for your journal.
+
+##### Building with cardboard
+
+##### Attaching things to a servo motor
+
+##### Socket for radio for controlling the robot base
+
+- Add sockets for the RadioLink receiver (starts at minute 10 in
+    [this](https://www.youtube.com/watch?v=TmrvE1iV0zE) video)

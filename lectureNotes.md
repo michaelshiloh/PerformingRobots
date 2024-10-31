@@ -353,6 +353,7 @@ The first workshop in the IM lab Workshop Series is this Thursday!
 #### todays-lecture
 ### Thursday October 31
 #### Today
+- Presentations: Sara, Toomie
 - nRF Servo Mega shield
 - Building with cardboard
 - Attaching things to a servo motor

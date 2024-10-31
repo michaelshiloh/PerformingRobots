@@ -386,7 +386,6 @@ Be ready to demonstrate this on Tuesday.
 Your journal.md should be in the top level of your repository.
 If it is not, move it there.
 
-##### todays-assignment
 ### Assignments Due Thursday October 31
 
 **If your base is not complete, you must finish it!**
@@ -409,3 +408,15 @@ Updates
     H-Bridge. I'll try to do that tomorrow
 - I did not have time to create the instructions for the servo board so I
   removed that from the homework
+
+##### todays-assignment
+### Assignments Due Tuesday November 5
+1. Build the nRF Servo Mega Shield [video](https://youtu.be/EMkqwKK7xOQ),
+   following the steps detailed in the [lecture
+   notes](https://github.com/michaelshiloh/PerformingRobots/blob/master/lectureNotes.md#nrf-servo-mega-shield)
+1. Add the headers sockets for the RadioLink receiver which start at the 10
+   minute mark in [this video](https://www.youtube.com/watch?v=TmrvE1iV0zE)
+1. Add to your robot something that uses a servo motor. Mount your servo motor
+   and the appendage strongly as we discussed in class.
+1. Connect the servo motor(s) to the nRF Servo Mega Shield, using servo wire
+   extensions if necessary.

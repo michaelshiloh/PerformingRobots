@@ -416,7 +416,8 @@ Updates
    notes](https://github.com/michaelshiloh/PerformingRobots/blob/master/lectureNotes.md#nrf-servo-mega-shield)
 1. Add the headers sockets for the RadioLink receiver which start at the 10
    minute mark in [this video](https://www.youtube.com/watch?v=TmrvE1iV0zE)
-1. Add to your robot something that uses a servo motor. Mount your servo motor
-   and the appendage strongly as we discussed in class.
+1. Add to your robot at least one item that uses a servo motor. 
+    Mount your servo motor
+    and the appendage strongly as we discussed in class.
 1. Connect the servo motor(s) to the nRF Servo Mega Shield, using servo wire
    extensions if necessary.

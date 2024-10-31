@@ -398,8 +398,11 @@ steps
 1. You are done! Yay! Take a picture for your journal.
 
 ##### Building with cardboard
+- strength
 
 ##### Attaching things to a servo motor
+- attaching motors
+- attaching to motors
 
 ##### Socket for radio for controlling the robot base
 

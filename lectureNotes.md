@@ -355,9 +355,9 @@ The first workshop in the IM lab Workshop Series is this Thursday!
 #### Today
 - Presentations: Sara, Toomie
 - nRF Servo Mega shield
+- Socket for radio for controlling the robot base
 - Building with cardboard
 - Attaching things to a servo motor
-- Socket for radio for controlling the robot base
 
 
 ##### nRF Servo Mega shield
@@ -397,14 +397,14 @@ steps
    keep feeding solder until the hole fills up.
 1. You are done! Yay! Take a picture for your journal.
 
+##### Socket for radio for controlling the robot base
+
+- Add sockets for the RadioLink receiver (starts at minute 10 in
+    [this](https://www.youtube.com/watch?v=TmrvE1iV0zE) video)
+
 ##### Building with cardboard
 - strength
 
 ##### Attaching things to a servo motor
 - attaching motors
 - attaching to motors
-
-##### Socket for radio for controlling the robot base
-
-- Add sockets for the RadioLink receiver (starts at minute 10 in
-    [this](https://www.youtube.com/watch?v=TmrvE1iV0zE) video)

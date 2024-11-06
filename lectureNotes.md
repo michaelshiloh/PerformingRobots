@@ -450,11 +450,11 @@ shown below:
 
 If you want to know what the different configurations are this is the best
 documentation I could find from the Amazon product pages:
-- [Explaining the jumpers #1](
+- [](
 ![](https://github.com/michaelshiloh/resourcesForClasses/blob/master/media/giantServoModeSelect.jpg)
-- [Explaining the jumpers #2](
+- [](
 ![](https://github.com/michaelshiloh/resourcesForClasses/blob/master/media/giantServoModeSelect2.jpg)
-- [Selecting rotation direction and range](
+- [](
 ![](https://github.com/michaelshiloh/resourcesForClasses/blob/master/media/giantServorotationRangeAndDirection.jpg)
 
 After the jumpers are configured correctly you need to connect 12 V power to

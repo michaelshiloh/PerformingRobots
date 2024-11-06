@@ -351,7 +351,6 @@ The first workshop in the IM lab Workshop Series is this Thursday!
     - Weekends
 - Homework
 
-#### todays-lecture
 ### Thursday October 31
 #### Today
 - Presentations: Sara, Toomie
@@ -450,7 +449,7 @@ shown below:
 ![](https://github.com/michaelshiloh/resourcesForClasses/blob/master/media/ASME-04_servo_motor_configured_as_a_servoMotor.jpg)
 
 If you want to know what the different configurations here is description:
-![](https://github.com/michaelshiloh/resourcesForClasses/blob/master/media/ASMC_dataSheet.pdf)
+![](https://github.com/michaelshiloh/resourcesForClasses/blob/master/media/ASME-04_servo_motor_configured_as_a_servoMotor.jpg)
 
 After the jumpers are configured correctly you need to connect 12 V power to
 the servo motor using the green screw terminals in the upper left corner of

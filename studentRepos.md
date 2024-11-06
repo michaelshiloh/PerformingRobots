@@ -34,7 +34,7 @@ This file: Student Github Repositories and Discord account names
 - [Hind Alharmoodi](https://github.com/hindahhmed/Performing-Robots) -
   Discord: hind04195
 - [Rama Alwidian](https://github.com/ramawid/Performing-Robots)
-- [Vahagn Yeritsyan](https://github.com/Vayer88/PerformingRobotsRepo)
+- [Vahagn Yeritsyan](https://github.com/Vayer88/PerformingRobotsRepo) - va_yer
 - [Fatima Alijunaibi](https://github.com/oomie/performingRobots) - Discord: toomie
 - [Ahsen Saaim](https://github.com/ahsen10s/PerformingRobots) - Discord: ahsen
 - [Sri Pranav Srivatsavai](https://github.com/sripranav9/PerformingRobots) - Discord: sripranav.sv

@@ -343,6 +343,7 @@ The first workshop in the IM lab Workshop Series is this Thursday!
 - servo motors for arms, hair
 
 ### Tuesday October 29
+#### Today
 - Presentations: Javeria, Ahsen
 - State of your robot
 - What will you complete for Thursday
@@ -408,3 +409,57 @@ steps
 ##### Attaching things to a servo motor
 - attaching motors
 - attaching to motors
+
+### Tuesday October 29
+#### Today
+- Presentations: Ahsen, Avinash
+- Check homework
+
+#### todays-lecture
+### Thursday November 7
+#### Today
+- Controlling the robot base
+- Understanding the giant servo
+
+##### Controlling the robot base
+- Radio system
+	- **put your name on all items received!!!!!!!!!!!!!!!!!!!!!!!!**
+- Pairing
+	- Follow the instructions in "How to bind receiver to transmitter" in 
+    the [RC4GS
+    manual](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/hobbyRC/RC4GSManual.pdf)
+- Code
+	- Follow for example [Marta's
+      code](https://github.com/martapienkosz/performingrobots/blob/main/code/Dec10_RC_Control.ino)
+      from last year and make the following changes:
+	- Change the pin numbers as necessary
+	- Marta's example didn't use the `EN` pin to control the speed. Modify her
+      functions `forward()`, `reverse()`, `left()`, and `right()` to use your
+      EN pin to control the speed instead of doing `analogWrite()` to the `IN`
+      pins.
+- Adjusting min and max speed
+
+
+##### Understanding the giant servo
+
+Before doing anything else make sure the jumpers are configured correctly.
+Those are the set of yellow pins at the bottom of the picture, with the blue and
+red jumpers.  The colors don't matter, but the positions must be exactly as
+shown below:
+
+![](https://github.com/michaelshiloh/resourcesForClasses/blob/master/media/ASME-04_servo_motor_configured_as_a_servoMotor.jpg)
+
+If you want to know what the different configurations here is description:
+![](https://github.com/michaelshiloh/resourcesForClasses/blob/master/media/ASMC_dataSheet.pdf)
+
+After the jumpers are configured correctly you need to connect 12 V power to
+the servo motor using the green screw terminals in the upper left corner of
+the picture below. **Make sure you get the polarity correct or you will damage
+the motor!** Double check the wires before you turn on the power supply
+
+Once you have done the above two steps you can connect the servo control cable
+(that's the black, red, and white cable that looks like the servo cables you
+are familiar with) to your Arduino.
+
+Once attached you can control the giant servo motor as you would any servo
+motor in Arduino.

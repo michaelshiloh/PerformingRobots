@@ -409,7 +409,6 @@ Updates
 - I did not have time to create the instructions for the servo board so I
   removed that from the homework
 
-##### todays-assignment
 ### Assignments Due Tuesday November 5
 1. Build the nRF Servo Mega Shield [video](https://youtu.be/EMkqwKK7xOQ),
    following the steps detailed in the [lecture
@@ -421,3 +420,9 @@ Updates
     and the appendage strongly as we discussed in class.
 1. Connect the servo motor(s) to the nRF Servo Mega Shield, using servo wire
    extensions if necessary.
+
+##### todays-assignment
+### Assignments Due Thursday November 7
+On Thursday we will learn how to control the robots. To be prepared, make sure
+that all parts are sufficiently well attached to the robot that it can drive
+without causing any damage.

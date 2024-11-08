@@ -428,6 +428,8 @@ without causing any damage.
 
 ##### todays-assignment
 ### Assignments Due Tuesday November 12
+1. If you have not finished getting your robot to move reliable under remote
+   control, finish that.
 1. Finish the robot body. Make sure you have access to the Arduino Mega. You
    may need to move it.
 1. Attach the rest of your servo motors (big or small) and/or NeoPixels. Test
@@ -442,3 +444,8 @@ the transmitter **before** turning on the motors. This is because if the
 transmitter isn't transmitting valid data, then the receiver receives random
 data and may activate the motors randomly and dangerously. Similarly, when you
 turn off, always turn the **motors off** first.
+
+Please take advantage of the staffed hours in the IM lab. We added weekend
+hours especially for you.
+
+As always, I am available to help. Reach out on Discord.

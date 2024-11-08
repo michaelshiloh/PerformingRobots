@@ -438,7 +438,7 @@ without causing any damage.
    all pins line up properly.
 
 **Important:** Whenever you are controlling something by radio, always turn on
-the transmitter before turning on the motors. This is because if the
+the transmitter **before** turning on the motors. This is because if the
 transmitter isn't transmitting valid data, then the receiver receives random
 data and may activate the motors randomly and dangerously. Similarly, when you
-turn off, always turn the motors off first.
+turn off, always turn the **motors off** first.

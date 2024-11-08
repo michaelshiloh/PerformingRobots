@@ -421,8 +421,22 @@ Updates
 1. Connect the servo motor(s) to the nRF Servo Mega Shield, using servo wire
    extensions if necessary.
 
-##### todays-assignment
 ### Assignments Due Thursday November 7
 On Thursday we will learn how to control the robots. To be prepared, make sure
 that all parts are sufficiently well attached to the robot that it can drive
 without causing any damage.
+
+##### todays-assignment
+### Assignments Due Tuesday November 12
+1. Finish the robot body. Make sure you have access to the Arduino Mega. You
+   may need to move it.
+1. Attach the rest of your servo motors (big or small) and/or NeoPixels. Test
+   everything with simple code, ideally the built-in examples. 
+1. Remove the Music Maker Shield from the robot base. This will be installed
+   on the Arduino Mega later on. You can leave it in your box for now.
+
+**Important:** Whenever you are controlling something by radio, always turn on
+the transmitter before turning on the motors. This is because if the
+transmitter isn't transmitting valid data, then the receiver receives random
+data and may activate the motors randomly and dangerously. Similarly, when you
+turn off, always turn the motors off first.

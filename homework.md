@@ -433,7 +433,9 @@ without causing any damage.
 1. Attach the rest of your servo motors (big or small) and/or NeoPixels. Test
    everything with simple code, ideally the built-in examples. 
 1. Remove the Music Maker Shield from the robot base. This will be installed
-   on the Arduino Mega later on. You can leave it in your box for now.
+   on the Arduino Mega later on. You can leave it in your box for now, or you
+   can install it on top of the nRF Mega Shield. Be careful to make sure that
+   all pins line up properly.
 
 **Important:** Whenever you are controlling something by radio, always turn on
 the transmitter before turning on the motors. This is because if the

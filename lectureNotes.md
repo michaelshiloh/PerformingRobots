@@ -428,16 +428,29 @@ steps
     the [RC4GS
     manual](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/hobbyRC/RC4GSManual.pdf)
 - Code
-	- Follow for example [Marta's
-      code](https://github.com/martapienkosz/performingrobots/blob/main/code/Dec10_RC_Control.ino)
-      from last year and make the following changes:
-	- Change the pin numbers as necessary
-	- Marta's example didn't use the `EN` pin to control the speed. Modify her
-      functions `forward()`, `reverse()`, `left()`, and `right()` to use your
-      EN pin to control the speed instead of doing `analogWrite()` to the `IN`
-      pins.
-- Adjusting min and max speed
+	- Follow for example Linh Tran's
+      [code](https://github.com/LinhTran263/performingrobots/blob/main/radio.ino). Note the pin assignments in the tables below:
 
+| L298 Pin | Arduino Pin | Wire Color |
+| --- | --- | ----- |
+| EN1 | 9 | Yellow |
+| IN1 | 8 | Blue |
+| IN2 | 7 | Blue |
+| IN3 | 10 | Green |
+| IN4 | 12 | Green |
+| EN2 | 11 | White |
+| GND | GND | Black |
+
+
+| Receiver Channel | Arduino Pin | 
+| --- | --- | ----- |
+| CH 1 | 6 | 
+| CH 2 | 5 |
+| CH 3 | 4 | 
+| CH 4 | 3 | 
+| CH 5 | 2 | 
+
+- Adjusting min and max speed
 
 ##### Understanding the giant servo
 

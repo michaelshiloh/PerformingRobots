@@ -443,7 +443,7 @@ steps
 
 
 | Receiver Channel | Arduino Pin | 
-| --- | --- | ----- |
+| --- | --- | 
 | CH 1 | 6 | 
 | CH 2 | 5 |
 | CH 3 | 4 | 

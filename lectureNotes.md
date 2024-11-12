@@ -494,7 +494,7 @@ Once attached you can control the giant servo motor as you would any servo
 motor in Arduino.
 
 #### todays-lecture
-### Thursday November 7
+### Tuesday November 12
 #### Today
 - Delay presentations to Thursday
 - nRF radio system
@@ -510,7 +510,10 @@ motor in Arduino.
 https://github.com/michaelshiloh/resourcesForClasses/blob/master/kicad/nRF_servo_Mega/documentation/nRF_servo_Mega_schematic.pdf
 
 ###### Transmitter
-https://github.com/michaelshiloh/resourcesForClasses/blob/master/kicad/nRFControlPanel/documentation/nRFControlPanel_schematic.pdf
+https://github.com/michaelshiloh/resourcesForClasses/blob/master/kicad/Arduino_Shield_RC_Controller_v2/documentation/Arduino_Shield_RC_Controller_v2_schematic.pdf
+
+- Add potentiometer
+- Add LCD
 
 ###### Code
 https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01/rf24PerformingRobotsTemplate_2024

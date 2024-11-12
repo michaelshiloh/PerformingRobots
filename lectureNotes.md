@@ -414,7 +414,6 @@ steps
 - Presentations: Ahsen, Avinash
 - Check homework
 
-#### todays-lecture
 ### Thursday November 7
 #### Today
 - Controlling the robot base
@@ -493,3 +492,25 @@ are familiar with) to your Arduino.
 
 Once attached you can control the giant servo motor as you would any servo
 motor in Arduino.
+
+#### todays-lecture
+### Thursday November 7
+#### Today
+- Delay presentations to Thursday
+- nRF radio system
+- Time permitting:
+    - Play walk-through
+    - Robot status
+    - Presentations
+    - Avinash makeup
+
+##### nRF radio system
+
+###### Receiver
+https://github.com/michaelshiloh/resourcesForClasses/blob/master/kicad/nRF_servo_Mega/documentation/nRF_servo_Mega_schematic.pdf
+
+###### Transmitter
+https://github.com/michaelshiloh/resourcesForClasses/blob/master/kicad/nRFControlPanel/documentation/nRFControlPanel_schematic.pdf
+
+###### Code
+https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01/rf24PerformingRobotsTemplate_2024

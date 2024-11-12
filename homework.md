@@ -426,7 +426,6 @@ On Thursday we will learn how to control the robots. To be prepared, make sure
 that all parts are sufficiently well attached to the robot that it can drive
 without causing any damage.
 
-##### todays-assignment
 ### Assignments Due Tuesday November 12
 1. If you have not finished getting your robot to move reliable under remote
    control, finish that.
@@ -449,3 +448,45 @@ Please take advantage of the staffed hours in the IM lab. We added weekend
 hours especially for you.
 
 As always, I am available to help. Reach out on Discord.
+
+##### todays-assignment
+### Assignments Due Thursday November 14
+
+##### 1 
+You need to make the following modification to the Music Maker Shield:
+
+- Close the three solder jumpers next to the ISP header by following
+  [these](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all#icsp-jumpers-leonardo-and-mega-679331)
+  instructions
+
+
+##### 2 
+Prepare and program the Arduino_Shield_RC_Controller_v2
+
+- Solder the potentiometer to the Arduino_Shield_RC_Controller_v2
+and cut the excess leads
+- Plug in the nRF24L01 radio module so that it extends away from the LCD
+- Connect the shield to your Arduino Uno
+- Program the rf24PerformingRobotsTemplate_2024.ino 
+    - Change the CUSTOM_ADDRESS_BYTE and CUSTOM_CHANNEL_NUMBER
+        as required for your team
+    - Comment sections in or out as necessary to be a **transmitter**
+    - Make sure you have the `Arduino Uno` selected in the `Board Type`
+    - Program the code and open the Serial Monitor
+    - Verify that you get the message `Radio OK state=0`
+
+##### 2 
+Prepare and program the Arduino_Shield_RC_Controller_v2
+
+- Plug in the nRF24L01 radio module so that it extends over the edge of the
+  board
+- Carefully plug in the Music Maker Shield, making sure that all the pins are
+  in the right places
+- Program the rf24PerformingRobotsTemplate_2024.ino 
+    - Change the CUSTOM_ADDRESS_BYTE and CUSTOM_CHANNEL_NUMBER
+        as required for your team
+    - Comment sections in or out as necessary to be a **receiver**
+    - Make sure you have the `Arduino Mega 2560` selected in the `Board Type`
+    - Program the code and open the Serial Monitor
+    - Verify that you get the message `I am a receiver`
+

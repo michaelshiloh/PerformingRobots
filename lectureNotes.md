@@ -493,16 +493,10 @@ are familiar with) to your Arduino.
 Once attached you can control the giant servo motor as you would any servo
 motor in Arduino.
 
-#### todays-lecture
 ### Tuesday November 12
 #### Today
 - Delay presentations to Thursday
 - nRF radio system
-- Time permitting:
-    - Play walk-through
-    - Robot status
-    - Presentations
-    - Avinash makeup
 
 ##### nRF radio system
 
@@ -517,3 +511,11 @@ https://github.com/michaelshiloh/resourcesForClasses/blob/master/kicad/Arduino_S
 
 ###### Code
 https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01/rf24PerformingRobotsTemplate_2024
+
+#### todays-lecture
+### Thursday November 14
+#### Today
+- Play walk-through
+- Robot status
+- Presentations
+- Avinash makeup

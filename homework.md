@@ -506,7 +506,7 @@ for being controlled reliably by the remote control transmitter
        wire. 
     1. Regular servo motors and NeoPixels will need
        (`+5V`) power at the screw terminals on the 
-        nRF Servo Mega Shield.
+        `nRF Servo Mega Shield`.
         1. Power will come from the large battery at the base of your robot.
             There are three power outlets on this battery. You are currently
             using the `12V` output for the drive motors (and also the giant
@@ -523,7 +523,8 @@ for being controlled reliably by the remote control transmitter
            as shown below:
 ![](media/usbA_4pin_screwTerminal_powerOnly.png)
 ![](media/usbA_5pin_screwTerminal.png)
-        1. **Your screw terminal may differ from the images above, so 
+        1. **Your screw terminal may differ slightly
+        from the images above, so 
         make sure to follow the labels on what you have in your hand**
         1. In the image on the left only the two necessary wires are shown. 
             In the
@@ -533,4 +534,5 @@ for being controlled reliably by the remote control transmitter
            correct terminal, as it there is an extra terminal at the end.
 1. Modify the code as necessary so that you can control the servo motor or
    NeoPixel from your `Arduino Shield RC Controller V2`
-1. Fix the play
+
+##### Fix the play

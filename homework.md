@@ -494,18 +494,18 @@ Prepare and program the Arduino_Shield_RC_Controller_v2
 ##### todays-assignment
 ### Assignments Due Tuesday November 19
 
-##### 1 Driving
+##### 1 Remote control of driving
 Fix whatever issues are preventing your robots from driving reliably **and**
 for being controlled reliably by the remote control transmitter
 
-##### 2 Servo motors and NeoPixels
+##### 2 Remote control of servo motors and/or NeoPixels
 1. Connect at least one servo motor or NeoPixel to the 
         nRF Servo Mega Shield.
     1. If you are using a giant servo motor, you need to disconnect the red
        (`+5V`) 
        wire. 
-    1. Provide 
-       (`+5V`) power to the screw terminals on the 
+    1. Regular servo motors and NeoPixels will need
+       (`+5V`) power at the screw terminals on the 
         nRF Servo Mega Shield.
         1. Power will come from the large battery at the base of your robot.
             There are three power outlets on this battery. You are currently
@@ -516,17 +516,21 @@ for being controlled reliably by the remote control transmitter
             servo motors (not giant) and NeoPixels.
         1. You will need a USB-A screw terminal adapter which I will put in
            the tipout bins behind the whiteboard. These adapters have
-           connections for 4 or 5 wires, but you only need two: `+V` and
-           `-V` as shown below:
+           screw terminals for 4 or 5 wires, but you only need two: 
+           `+V` (or `V+` or `+`)
+           and
+           `-V` (or `V-` or `-`)
+           as shown below:
 ![](media/usbA_4pin_screwTerminal_powerOnly.png)
 ![](media/usbA_5pin_screwTerminal.png)
-        1. In the upper image only the two necessary wires are shown. In the
-           lower image all 5 wires are shown, but you only need two, the red
-           and black wires. Pay attention not to put the red wire in the
-           terminal marked `shield`.
-
-
-
-
-radio control of servo/neopixel
-fix play
+        1. **Your screw terminal may differ from the images above, so 
+        make sure to follow the labels on what you have in your hand**
+        1. In the image on the left only the two necessary wires are shown. 
+            In the
+           image on the right 
+           all 5 wires are shown, but you only need two, the red
+           and black wires. Pay particular attention to put the red wire in the
+           correct terminal, as it there is an extra terminal at the end.
+1. Modify the code as necessary so that you can control the servo motor or
+   NeoPixel from your `Arduino Shield RC Controller V2`
+1. Fix the play

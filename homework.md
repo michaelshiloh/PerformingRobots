@@ -494,11 +494,13 @@ Prepare and program the Arduino_Shield_RC_Controller_v2
 ##### todays-assignment
 ### Assignments Due Tuesday November 19
 
-##### 1 Remote control of driving
+#### 1 Fix the play
+
+#### 2 Remote control of driving
 Fix whatever issues are preventing your robots from driving reliably **and**
 for being controlled reliably by the remote control transmitter
 
-##### 2 Remote control of servo motors and/or NeoPixels
+#### 3 Remote control of servo motors and/or NeoPixels
 1. Connect at least one servo motor or NeoPixel to the 
         nRF Servo Mega Shield.
     1. If you are using a giant servo motor, you need to disconnect the red
@@ -535,4 +537,3 @@ for being controlled reliably by the remote control transmitter
 1. Modify the code as necessary so that you can control the servo motor or
    NeoPixel from your `Arduino Shield RC Controller V2`
 
-##### Fix the play

@@ -512,10 +512,17 @@ https://github.com/michaelshiloh/resourcesForClasses/blob/master/kicad/Arduino_S
 ###### Code
 https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01/rf24PerformingRobotsTemplate_2024
 
-#### todays-lecture
 ### Thursday November 14
 #### Today
 - Play walk-through
 - Robot status
 - Presentations
 - Avinash makeup
+
+#### todays-lecture
+### Tuesday November 19
+#### Today
+- Demo remote control of servo motor and/or NeoPixel
+- Play walk-through
+- More batteries
+- Error reporting

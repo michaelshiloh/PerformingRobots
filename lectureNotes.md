@@ -519,10 +519,22 @@ https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSket
 - Presentations
 - Avinash makeup
 
-#### todays-lecture
 ### Tuesday November 19
 #### Today
 - Demo remote control of servo motor and/or NeoPixel
 - Play walk-through
-- More batteries
-- Error reporting
+
+#### todays-lecture
+### Tuesday November 19
+#### Today
+- Presentations: Javeria, Hind A
+- Music Maker Shield
+    - For homework next week
+- Robot status
+- Fix problems
+
+##### Music Maker Shield
+- Jumpers and cuts
+- Code
+- [Adafruit Music Maker Shield](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all)
+

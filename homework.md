@@ -606,3 +606,6 @@ say so on Discord and I can either help you out
 or offer alternatives.**
 
 **As always, I am available to help if you reach out.**
+
+**If you are unable to accomplish the assignments, and you didn't reach
+out to me, then your grade will reflect this**

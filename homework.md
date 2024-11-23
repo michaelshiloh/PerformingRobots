@@ -601,8 +601,8 @@ for being controlled reliably by the remote control transmitter
         and make them all controlled remotely by commands from
         Arduino_Shield_RC_Controller_v2
 
-* If something is preventing you from making progress,
+**If something is preventing you from making progress,
 say so on Discord and I can either help you out 
-or offer alternatives.
+or offer alternatives.**
 
-* As always, I am available to help if you reach out.
+**As always, I am available to help if you reach out.**

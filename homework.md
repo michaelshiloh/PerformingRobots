@@ -537,7 +537,7 @@ for being controlled reliably by the remote control transmitter
 
 
 ##### todays-assignment
-### Assignments Due Tuesday November 24
+### Assignments Due Tuesday November 26
 
 #### 1 Remote control of Music Maker Shield
 - Record at least two clips on the micro SD card. Give them proper names.

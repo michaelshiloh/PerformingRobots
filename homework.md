@@ -490,8 +490,6 @@ Prepare and program the Arduino_Shield_RC_Controller_v2
     - Verify that you get the message `I am a receiver`
 
 
-
-##### todays-assignment
 ### Assignments Due Tuesday November 19
 
 #### 1 Fix the play
@@ -537,3 +535,74 @@ for being controlled reliably by the remote control transmitter
 1. Modify the code as necessary so that you can control the servo motor or
    NeoPixel from your `Arduino Shield RC Controller V2`
 
+
+##### todays-assignment
+### Assignments Due Tuesday November 24
+
+#### 1 Remote control of Music Maker Shield
+- Record at least two clips on the micro SD card. Give them proper names.
+- Modify your code (based on rf24PerformingRobotsTemplate_2024.ino)
+  as necessary so that you can play each of those two sound clips by sending
+  different commands from your 
+        Arduino_Shield_RC_Controller_v2
+
+#### 2 Individual goals that I gave each team:
+- Pranav and Ahsen:
+    - Servo motors connected to 
+        nRF Servo Mega Shield
+        and controlled remotely by commands from
+        Arduino_Shield_RC_Controller_v2
+    - Laser cut and assemble the body
+    - NeoPixel eyes connected to
+        nRF Servo Mega Shield
+        and controlled remotely by commands from
+        Arduino_Shield_RC_Controller_v2
+    - Fabric tail attached to the wooden "arms" on the servo motors
+- Toomie and Sara:
+    - Attach salad bowl head to plywood 
+    (I will cut this for you on Sunday morning)
+    - Arms
+        connected to
+        nRF Servo Mega Shield
+        and controlled remotely by commands from
+        Arduino_Shield_RC_Controller_v2
+    - NeoPixels connected to
+        nRF Servo Mega Shield
+        and controlled remotely by commands from
+        Arduino_Shield_RC_Controller_v2
+    - New head strong enough to support the salad bowl brain
+- Hind and Javeria
+    - NeoPixels and Servos for the big arm and the little fan
+        connected to the
+        nRF Servo Mega Shield
+        and controlled remotely by commands from
+        Arduino_Shield_RC_Controller_v2
+- Linh and Luke
+    - I didn't get a chance to check in with you. Please make a list of what
+      remains to be done for your robot.
+- Hind and Rama
+    - Congratulations Hind on getting the belly pillow (or whatever you want
+      to call it) working!
+    - Connect the belly pillow
+        to the
+        nRF Servo Mega Shield
+        and make it controlled remotely by commands from
+        Arduino_Shield_RC_Controller_v2
+- Avinash and Vahagn
+    - Connect the NeoPixels to the 
+        nRF Servo Mega Shield
+        and make it controlled remotely by commands from
+        Arduino_Shield_RC_Controller_v2
+- Mbebo and Aaron
+    - Mount the Arduino Mega 
+    - Connect all the servo motors and the NeoPixels to the
+        nRF Servo Mega Shield
+        nRF Servo Mega Shield
+        and make them all controlled remotely by commands from
+        Arduino_Shield_RC_Controller_v2
+
+* If something is preventing you from making progress,
+say so on Discord and I can either help you out 
+or offer alternatives.
+
+* As always, I am available to help if you reach out.

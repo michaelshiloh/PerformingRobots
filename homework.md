@@ -536,7 +536,6 @@ for being controlled reliably by the remote control transmitter
    NeoPixel from your `Arduino Shield RC Controller V2`
 
 
-##### todays-assignment
 ### Assignments Due Tuesday November 26
 
 #### 1 Remote control of Music Maker Shield
@@ -609,3 +608,47 @@ or offer alternatives.**
 
 **If you are unable to accomplish the assignments, and you didn't reach
 out to me, then your grade will reflect this**
+
+##### todays-assignment
+### Assignments Due Thursday November 28
+
+#### 1 Everyone:
+Start making sound clips for your lines. I don't expect you to finish all
+of them by Thursday but I want you to get familiar with the process.
+If you are unsure of how to proceed ask Mbebo and Aaron (or me)
+
+1. Create 5 sound clips of your lines. You can either record a person speaking
+   (yourself or someone else) or use a text-to-speech voice generator of some
+   kind. Pay attention to the recording level so that the sound is clear and
+   undistorted when it comes out of the Marshall speaker. Speak slowly and
+   clearly.
+
+2. Add suitable `case` sections in your code so that you can trigger the sound
+   clips from your control panel
+
+#### 2 Individual goals:
+- Pranav and Ahsen:
+    - Control the tail from your control panel
+    - Dress up your robot
+- Toomie and Sara:
+    - Figure out why controlling both servos and NeoPixels
+    causes the transmission of messages to fail. Ask me for help, or try out
+    all those things I suggested.
+- Hind and Javeria
+    - Your robot is still just a skeleton I think. Give it a body. Can be
+      cardboard or fabric or whatever you want, but I want it to look more
+      finished.
+- Linh and Luke
+    - Your robot is still mostly a skeleton. Give it a body. Can be
+      cardboard or clothes or fabric or whatever you want, but I want it to
+      look more finished.
+- Hind and Rama
+    - Your robot is still mostly a skeleton. Give it a body. Can be
+      cardboard or clothes or fabric or whatever you want, but I want it to
+      look more finished.
+- Avinash and Vahagn
+    - Get the money gun controlled by the control panel
+    - Get the money gun mounted 
+    - Give your robot a body
+- Mbebo and Aaron
+    - Give your robot a body

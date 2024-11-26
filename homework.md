@@ -612,7 +612,7 @@ out to me, then your grade will reflect this**
 ##### todays-assignment
 ### Assignments Due Thursday November 28
 
-#### 1 Everyone:
+#### Assignments for everyone:
 Start making sound clips for your lines. I don't expect you to finish all
 of them by Thursday but I want you to get familiar with the process.
 If you are unsure of how to proceed ask Mbebo and Aaron (or me)
@@ -626,7 +626,7 @@ If you are unsure of how to proceed ask Mbebo and Aaron (or me)
 2. Add suitable `case` sections in your code so that you can trigger the sound
    clips from your control panel
 
-#### 2 Individual goals:
+#### Individual team assignments:
 - Pranav and Ahsen:
     - Control the tail from your control panel
     - Dress up your robot
@@ -650,5 +650,6 @@ If you are unsure of how to proceed ask Mbebo and Aaron (or me)
     - Get the money gun controlled by the control panel
     - Get the money gun mounted 
     - Give your robot a body
+    - I think there was something in the play script that you need to fix
 - Mbebo and Aaron
     - Give your robot a body

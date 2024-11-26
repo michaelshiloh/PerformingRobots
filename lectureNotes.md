@@ -524,7 +524,6 @@ https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSket
 - Demo remote control of servo motor and/or NeoPixel
 - Play walk-through
 
-#### todays-lecture
 ### Tuesday November 19
 #### Today
 - Presentations: Javeria, Hind A
@@ -538,3 +537,32 @@ https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSket
 - Code
 - [Adafruit Music Maker Shield](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all)
 
+
+#### todays-lecture
+### Tuesday November 26
+#### Today
+- How to request help
+- Robot status
+- Announcements
+- Rehearse
+
+##### How to request help
+- Post code on Github, or very short code snippets in Discord `properly
+  formatted`
+- Get rid of all unnecessary code
+- Clearly indicate what works and what doesn't
+- Instead of saying "it doesn't work" explain how it doesn't work
+- Explain what you've tried. Show that you've thought about the problem 
+- Swapping parts is a good way to isolate hardware problems
+
+##### Robot status
+What is left for each of you to do? Fill out my grading sheet.
+
+##### Announcements
+When you are not working:
+- Consolidate all your parts
+- Put away tools
+- Recycle
+- Throw out trash
+
+##### Rehearse

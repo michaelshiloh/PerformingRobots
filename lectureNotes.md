@@ -538,7 +538,6 @@ https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSket
 - [Adafruit Music Maker Shield](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all)
 
 
-#### todays-lecture
 ### Tuesday November 26
 #### Today
 - How to request help
@@ -566,3 +565,13 @@ When you are not working:
 - Throw out trash
 
 ##### Rehearse
+
+#### todays-lecture
+### Thursday November 28
+#### Today
+- Presentations: Rama, Vahagn
+- Demonstrate
+  [homework](https://github.com/michaelshiloh/PerformingRobots/blob/master/homework.md#todays-assignment)
+- Robot Status
+- Plan for next week and this weekend
+- Work time

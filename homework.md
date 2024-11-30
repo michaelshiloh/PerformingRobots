@@ -609,7 +609,6 @@ or offer alternatives.**
 **If you are unable to accomplish the assignments, and you didn't reach
 out to me, then your grade will reflect this**
 
-##### todays-assignment
 ### Assignments Due Thursday November 28
 
 #### Assignments for everyone:
@@ -650,6 +649,36 @@ If you are unsure of how to proceed ask Mbebo and Aaron (or me)
     - Get the money gun controlled by the control panel
     - Get the money gun mounted 
     - Give your robot a body
-    - I think there was something in the play script that you need to fix
 - Mbebo and Aaron
     - Give your robot a body
+
+##### todays-assignment
+### Assignments Due Thursday December 5
+
+#### Assignments for everyone:
+
+Your robot should be absolutely ready to go on stage and perform in the play.
+What this means is that all **necessary** functionality is present and in
+working condition:
+
+- Every single line from the script 
+    is present and can be triggered from the control panel
+- All sound effects
+    are present and can be triggered from the control panel
+- All servo motor actions
+    are present and can be triggered from the control panel
+- All NeoPixel actions
+    are present and can be triggered from the control panel
+- Any other accessories that are in the script
+    (e.g. puppets, money guns, etcc.)
+    are present and can be triggered from the control panel
+- All wires properly secured (e.g. with zipties)
+- All batteries properly secured
+- All batteries fully charged
+    - Large Talentcell battery on the base
+    - Anker battery for robot accessories
+    - Anker battery for the control panel
+    - Six AA batteries in the Radiolink RC4GS RC Transmitter 
+- **Absolutely no jumper wires!**
+- **Absolutely no solderless breadboard!**
+- Robot body or clothing sufficiently finished 

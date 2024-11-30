@@ -674,6 +674,12 @@ working condition:
     are present and can be triggered from the control panel
 - All wires properly secured (e.g. with zipties)
 - All batteries properly secured
+- All speakers properly secured
+- All bolts and screws fully tightened
+- All servo motor horns secured with screws into the center of the servo
+  shaft
+- All hubs (wheels and giant servo motor) secured with socket head screws
+    and fully tightened
 - All batteries fully charged
     - Large Talentcell battery on the base
     - Anker battery for robot accessories
@@ -682,3 +688,4 @@ working condition:
 - **Absolutely no jumper wires!**
 - **Absolutely no solderless breadboard!**
 - Robot body or clothing sufficiently finished 
+- Anything else that your robots need to perform the play

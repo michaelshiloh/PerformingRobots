@@ -566,7 +566,6 @@ When you are not working:
 
 ##### Rehearse
 
-#### todays-lecture
 ### Thursday November 28
 #### Today
 - Presentations: Rama, Vahagn
@@ -575,3 +574,32 @@ When you are not working:
 - Robot Status
 - Plan for next week and this weekend
 - Work time
+
+### Things to do
+- Green needs a body
+- Detective control panel not working
+- Butler missing a line
+- Plum 
+    - missing a line
+    - arms not working, arms not dressed
+    - needs all sound clips re-recorded for better sound quality
+
+- Get images for magazine, payroll, and any other images
+- Sound effects
+    - Everyone gasps
+    - Everyone screams
+    - Everyone "dramatic music"
+- Keep remotes on!
+- Print script
+- Charging batteries
+- Bring table and chair
+- Wadsworth servo pins
+
+### Rehearsal 3-5pm
+- Detective: Rama - no, Hind Y - yes
+- Peacock: Pranav - yes, Ahsen - no
+- Orchid: Aaron - ?, Mbebo - no
+- Plum: Sara - 3:30, Toomie - yes
+- Green: Avinash - 3:30 - Vahagn - yes
+- Wadsworth: Linh - no, Luke -no
+- Scarlet: Javeria - ?, Hind A - 3:30

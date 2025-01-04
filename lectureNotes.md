@@ -34,7 +34,7 @@ This is subject to change
 
 This document: Lecture Notes
 
-### Tuesday August 27
+### Tuesday August 27 Week 1
 
 #### Administration
 
@@ -117,7 +117,7 @@ void loop() {
 }
 ```
 
-### Tuesday September 3
+### Tuesday September 3 Week 2
 #### Today
 - Shields
 - Soldering
@@ -154,7 +154,7 @@ void loop() {
 - [Neopixels](https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels)
 
 
-### Tuesday September 10
+### Tuesday September 10 Week 3
 #### Today
 - Homework
 - Performance
@@ -206,7 +206,7 @@ Construction techniques
 - Holding down the circuits (Arduino, L298)
 - Holding down the battery
 
-### Tuesday September 17
+### Tuesday September 17 Week 4
 #### Today
 - Announcements
 - Presentations
@@ -247,7 +247,7 @@ Parts needed
 In addition, you will need to extend the wires on the motors, 
 and drill a hole in the wooden base for the wires to come through
 
-### Tuesday September 24
+### Tuesday September 24 Week 5
 #### Today
 - How to do research
 - Presentations
@@ -271,14 +271,14 @@ and drill a hole in the wooden base for the wires to come through
 #### Today
 - Finish robot bases
 
-### Tuesday October 1
+### Tuesday October 1 Week 6
 
 I am sick and won't be coming to campus. Please continue with your
 presentations. I want everyone to write down at least one question
 that comes out of each presentation today. Write the question in your journal
 with today's date.
 
-### Tuesday October 8
+### Tuesday October 8 Week 7
 #### Today
 - Presentations: Luke and Vahagn
 
@@ -310,7 +310,7 @@ Videos:
   [part 1](https://youtu.be/473tP4C34UU) and [part
   2](https://youtu.be/3yuinKMAYRI)
 
-### Tuesday October 22
+### Tuesday October 22 Week 8
 #### Today
 - Presentations: Aaron and Hind A
 - IM workshop
@@ -342,7 +342,7 @@ The first workshop in the IM lab Workshop Series is this Thursday!
 - Review your designs
 - servo motors for arms, hair
 
-### Tuesday October 29
+### Tuesday October 29 Week 9
 #### Today
 - Presentations: Javeria, Ahsen
 - State of your robot
@@ -409,7 +409,7 @@ steps
 - attaching motors
 - attaching to motors
 
-### Tuesday October 29
+### Tuesday November 5 Week 10
 #### Today
 - Presentations: Ahsen, Avinash
 - Check homework
@@ -493,7 +493,7 @@ are familiar with) to your Arduino.
 Once attached you can control the giant servo motor as you would any servo
 motor in Arduino.
 
-### Tuesday November 12
+### Tuesday November 12 Week 11
 #### Today
 - Delay presentations to Thursday
 - nRF radio system
@@ -519,12 +519,12 @@ https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSket
 - Presentations
 - Avinash makeup
 
-### Tuesday November 19
+### Tuesday November 19 Week 12
 #### Today
 - Demo remote control of servo motor and/or NeoPixel
 - Play walk-through
 
-### Tuesday November 19
+### Thursday November 21
 #### Today
 - Presentations: Javeria, Hind A
 - Music Maker Shield
@@ -538,7 +538,7 @@ https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSket
 - [Adafruit Music Maker Shield](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all)
 
 
-### Tuesday November 26
+### Tuesday November 26 Week 13
 #### Today
 - How to request help
 - Robot status
@@ -603,5 +603,3 @@ When you are not working:
 - Green: Avinash - 3:30 - Vahagn - yes
 - Wadsworth: Linh - no, Luke -no
 - Scarlet: Javeria - ?, Hind A - 3:30
-
-DONE

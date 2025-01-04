@@ -92,7 +92,7 @@ development are best learned by doing.
 
 This class has three components:
 
-1. Readings and discussion
+1. Readings, presentations, and discussions
 1. Skills
 1. Projects
 

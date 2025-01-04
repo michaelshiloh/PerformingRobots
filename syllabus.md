@@ -73,9 +73,8 @@ engagement and curiosity.
 
 | Upon successful completion of this course the student will be able to: | Linked to Program Learning Outcome (Level of Contribution - High/Medium/Low) |
 | ---------------------- | ---------------------- |
-| Work in a team to create a simple remote controlled robot for performance | PLO 8: High PLO 3: High| 
-| Maximize the expressive ability of a robot given its limitations | PLO 6:
-Medium |
+| Work in a team to create a simple remote controlled robot for performance | PLO 8: High, PLO 3: High| 
+| Maximize the expressive ability of a robot given its limitations | PLO 6: Medium |
 | Develop an understanding of the historical and contemporary use of robots in the arts |  PLO 1: Low |
 | Analyze and critique cultural, social, historical, ethical, and aesthetic discourse on robots | PLO 4: High |
 | Develop technical skills in programming, electronics, mechatronics, and debugging | PLO 5: High |

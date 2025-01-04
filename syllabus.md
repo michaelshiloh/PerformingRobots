@@ -4,27 +4,22 @@ Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
 ## New York University Abu Dhabi  
 ## Interactive Media Program
 ## Course title: Performing Robots
-Course number: IM-UH 2117  
 
-Credit Hours: 4     
-
-Prerequisites: None     
+* Course number: IM-UH 2117  
+* Credit Hours: 4     
+* Class location: C3-029 (IM Lab in the Art Center)
+* Prerequisites: None     
 
 Session: Fall 2024       
 
 Course website:
 [https://github.com/michaelshiloh/PerformingRobots](https://github.com/michaelshiloh/PerformingRobots)  
 
-Instructor: Michael Shiloh mshiloh@nyu.edu   
-Support staff: Stefania Avramidi sa8410@nyu.edu
-
-Office hours: Schedule an appointment [here](https://calendly.com/michaelshiloh/office_hours)
-
-Meeting times:    
-- 2:10-3:25 Tuesday
-- 2:10-4:50 Thursday
-
-Class location: C3-029 (IM Lab)
+* Professor: Michael Shiloh mshiloh@nyu.edu   
+* Meeting times:    
+	- 2:10-3:25 Tuesday
+	- 2:10-4:50 Thursday
+* Office hours: Schedule an appointment [here](https://calendly.com/michaelshiloh/office_hours)
 
 This is subject to change
 
@@ -74,21 +69,18 @@ finish with a public performance by the robots.
 You do not need to prove your brilliance, but do prove your intellectual
 engagement and curiosity.
 
-### Learning Outcomes: 
-When the course is finished, students will:
-* Develop a conceptual model for the role and significance of robots in
-daily life 
-* Develop a critical understanding of the historical and contemporary
-use of robots in the performing arts
-* Establish a basic understanding of electronics, programming,
-mechatronics, and simple robotics
-* Gain the ability to identify, compare, and contrast  examples
-of robotic interactivity, autonomy, and remote control
-* Gain the ability to conceptualize, design, construct,
-program, and debug a performing robot
-* Become empowered to produce a Minimum Viable Project
-(MVP) and adapt product dependencies (e.g. scripts) to
-changing abilities
+### Course Learning Outcomes (CLOs): 
+
+| Upon successful completion of this course the student will be able to: | Linked to Program Learning Outcome (Level of Contribution - High/Medium/Low) |
+| ---------------------- | ---------------------- |
+| Work in a team to create a simple remote controlled robot for performance | PLO 8: High PLO 3: High| 
+| Maximize the expressive ability of a robot given its limitations | PLO 6:
+Medium |
+| Develop an understanding of the historical and contemporary use of robots in the arts |  PLO 1: Low |
+| Analyze and critique cultural, social, historical, ethical, and aesthetic discourse on robots | PLO 4: High |
+| Develop technical skills in programming, electronics, mechatronics, and debugging | PLO 5: High |
+| Conceptualize and fabricate a robotic character | PLO 6: High |
+| Learn how to revise a plan based on unexpected developments in order to achieve a Minimum Viable Project (MVP) and meet a deadline | PLO 7: Medium |
 
 ### Teaching Methodology
 This is a production-based course that involves programming, electronics, and
@@ -389,4 +381,29 @@ and what sort of problems develop
 - Week 12: Fix problems, rehearse, fix problems
 - Week 13: Fix problems, rehearse, fix problems
 - Week 14: Perform at the IM End of Semester Showcase!
+
+
+### Appendix 1: Interactive Media Major Program Learning Outcomes (PLOs)
+
+Upon completion of the major in Interactive Media at NYU Abu Dhabi, all
+students are expected to have fulfilled the following:
+1. Research and Understanding: IM students will cultivate a substantive
+   understanding of the past, present, and future landscape of Interactive
+   Media.
+1. Analytical Thinking: IM students will be challenged to answer fundamental
+   questions relating to the field of Interactive Media.
+1. Conceptual Thinking: IM students will develop conceptual skills through the
+   use of computational and interactive media tools to create project-based
+   work and project oriented research.
+1. Critical Thinking: IM students will refine their critical thinking skills
+   by analyzing and critiquing work in cultural, social, historical, ethical,
+   and aesthetic contexts.
+1. Technical Implementation: IM students will cultivate technical skills with
+   contemporary media technologies to execute their coursework.
+1. Creative Processes: IM students will gain the ability to explore, innovate,
+   and realize creative ideas in multiple fields of inquiry and interest.
+1. Organization and Communication: IM students will develop professional
+   practices of delivering and sharing their work.
+1. Collaboration: IM Students will gain experience in collaboration through
+   active participation in group and team-based work.
 

@@ -28,7 +28,7 @@ Class location: C3-029 (IM Lab)
 
 This is subject to change
 
-### Assignments Due Thursday August 29
+### Assignments Due Thursday August 29 Week 1
 
 Email Assignment:
 
@@ -50,7 +50,7 @@ I want you to know the following:
     - How to wire up a switch and an LED on a solderless breadboard
     - How to use the `if ... else` construct
 
-### Assignments Due Tuesday September 3
+### Assignments Due Tuesday September 3 Week 2
 
 ##### Reading Assignments:
 

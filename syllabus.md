@@ -364,23 +364,34 @@ available in the hopes that others might benefit.
 This is likely to change as we see what sort of robots you choose to make
 and what sort of problems develop
 
-- Week 1: Arduino review, Github and Discord accounts
+- Week 1: Arduino review
+    Homework: Arduino review, Github and Discord accounts
 - Week 2: Motors with external power supplies
-- Week 3: Play theme, construction techniques
-- Week 4: Tool training
-- Week 5: Robot base, electronic fabrication rules, soldering
-- Week 6: Robot base due, determine play characters; presentations
-- Week 7: Advanced Arduino and motor control; presentations
-- Week 8: Remote control of robot base; presentations
-- Week 8: Robot features: "regular" servo motors, giant servo motors, Neo Pixels, Music Maker Shield; presentations
-- Week 9: Feature fabrication techniques, fix problems; presentations
-- Week 10: Remote control of robot features, fix problems; presentations
-- Week 11: Script complete; finish fabricating robots, fix problems;
-  presentations
-- Week 12: Fix problems, rehearse, fix problems
-- Week 13: Fix problems, rehearse, fix problems
+    Homework: motor control with switch, potentiometer
+- Week 3: Play theme, Music Maker Shield, NeoPixels
+    Homework: MMS, NP
+- Week 4: Common robot base, electronic fabrication rules, soldering
+    Homework: soldering, L298 interface board
+- Week 5: Tool Training
+    Homework: Common robot base 90% complete
+- Week 6: Finalize play outline and characters
+    Homework: choose team, character (sketch and description), 1 dialogue
+- Week 7: Remote control of robot base; presentations
+    Midterm: movement based personality 
+- Week 8: Unique robot features, servo motors, nRF servo shield
+    Homework: sketch and describe all features
+- Week 9: Fabrication techniques: cardboard, wood, aluminium
+    Homework: robot body 90%, prototype mechanical features
+- Week 10: nRF transmitter and receiver
+    Homework: Finish robot body and all features
+- Week 11: Remote control of robot features
+    Homework: Remote control all features and dialogue
+- Week 12: Finishing touches, rehearsals
+- Week 13: Rehearsals
 - Week 14: Perform at the IM End of Semester Showcase!
 
+* final project documentation
+* Panel
 
 ### Appendix 1: Interactive Media Major Program Learning Outcomes (PLOs)
 
@@ -406,3 +417,15 @@ students are expected to have fulfilled the following:
 1. Collaboration: IM Students will gain experience in collaboration through
    active participation in group and team-based work.
 
+
+
+QUESTIONS
+- how to describe presentations? or papers? or panels?
+
+PANELS
+- 4 presentations (so 7 panels)
+- each presents provocative paper
+- panels choose integrating theme
+- each panelist responsible for discussion questions for one other
+- my instructions detail critical component (literature review, points of
+  view, your thesis, note objections, defend it)

@@ -81,7 +81,7 @@ engagement and curiosity.
 | Conceptualize and fabricate a robotic character | PLO 6: High |
 | Learn how to revise a plan based on unexpected developments in order to achieve a Minimum Viable Project (MVP) and meet a deadline | PLO 7: Medium |
 
-The Program Learning Outcomes (PLOs) are described in [Appendix 1:  Interactive Media Major Program Learning Outcomes.](Appendix_1:_Interactive_Media_Major_Program_Learning_Outcomes_(PLOs))
+The Program Learning Outcomes (PLOs) are described in [Appendix 1:  Interactive Media Major Program Learning Outcomes.](#Appendix_1:_Interactive_Media_Major_Program_Learning_Outcomes_(PLOs))
 
 
 ### Teaching Methodology
@@ -110,7 +110,7 @@ as part of the Interactive Media End of Semester Showcase.
 ### Graded Activities
 
 
-| Percentage of final grade | Activity | Submission Date (week) | CLO |
+| Activity | Percentage of final grade | Submission Date (week) | CLO |
 | --- | --- | --- | --- |
 | Participation | 10 | Weekly | All |
 | Weekly assignment | 20 | Weekly | tba |
@@ -149,7 +149,7 @@ Rubric:
 - Arriving late by more than 10 minutes will count as an unexcused absence.
 - More than two unexcused absences will result in a final grade of F.
 - More than four excused absences will result in a final grade of F.
-- Absences due to holiday or vacation travel are unexcused asbsences.
+- Absences due to holiday or vacation travel will not be excused.
 
 #### Participation
 
@@ -159,10 +159,12 @@ Rubric:
   progress. What is equally important is that it provides you and your
   classmates the opportunity to learn from each other through the sharing of
   failures, successes, and insights on the work you are doing.
-- Students must present at the IM end of semester show.
+- Students must be present at the IM end of semester show.
 
 Rubric:
-- Level of participation on a scale of 1 to 10
+- Level of participation on a scale of 1 to 10, 
+    then prorated according to the
+  [Percentage of Final Grade](#Graded_Activities)
 
 #### Weekly assignment 
 
@@ -185,7 +187,9 @@ Rubric:
 
 Rubric:
 
-  Each weekly assignment is worth up to 2 points:
+  Each weekly assignment is worth up to 2 points,
+    then prorated according to the
+  [Percentage of Final Grade](#Graded_Activities)
 
 | Excellent (2 points) | Poor (1 point) | Incomplete (0 points) |
 | ---- | ---- | ---- | 
@@ -205,7 +209,9 @@ Rubric:
 
 Rubric:
 
-The midterm assignment receives a maximum of 5 points:
+The midterm assignment receives a maximum of 5 points,
+    then prorated according to the
+  [Percentage of Final Grade](#Graded_Activities)
 
 | Criteria | Excellent (5 points) | Very Good (4 points) | Good (3 points) | Marginal (2 points | Poor (1 point) | Incomplete (0 points | 
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
@@ -222,7 +228,9 @@ discussion on the presentation of one of the other panelists
 
 Rubric:
 
-The panel presentations receive a maximum of 10 points:
+The panel presentations receive a maximum of 10 points,
+    then prorated according to the
+  [Percentage of Final Grade](#Graded_Activities)
 
 | Criteria | Excellent (5 points) | Very Good (4 points) | Good (3 points) | Marginal (2 points | Poor (1 point) | Incomplete (0 points | 
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
@@ -239,7 +247,9 @@ will be determined in the last meeting of the class.
 
 Rubric:
 
-The final project receive a maximum of 20 points:
+The final project receive a maximum of 20 points,
+    then prorated according to the
+  [Percentage of Final Grade](#Graded_Activities)
 
 | Criteria | Excellent (5 points) | Very Good (4 points) | Good (3 points) | Marginal (2 points | Poor (1 point) | Incomplete (0 points | 
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
@@ -251,7 +261,7 @@ The final project receive a maximum of 20 points:
 
 #### Final Grade Calculation
 
-| Letter Grade | Minimum Percentate | 
+| Letter Grade | Minimum Percentage | 
 | --- | --- | 
 | A | 94 |
 | A- | 90 |
@@ -430,13 +440,3 @@ students are expected to have fulfilled the following:
    practices of delivering and sharing their work.
 1. Collaboration: IM Students will gain experience in collaboration through
    active participation in group and team-based work.
-
-
-
-RUBRICs
-
-
-| Criteria | Excellent (5 points) | Very Good (4 points) | Good (3 points) | Marginal (2 points | Poor (1 point) | Incomplete (0 points | Criterion Score |
-| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Assignment Completion minus 1pt for each day late | Assignment completed and submitted on time | Submitted one day late or has one or two minor areas that were not completed | Submitted up to two days late or has one major or more than two minor areas that were not completed | Submitted up to three days late or has major areas that were not completed | Submitted up to four days late or does not meet the requirements (e.g.  lack of code or physical implementation) | Entirely incomplete, not submitted, or submitted too late | Out of 5 |
-| Assignment Quality | All exercise criteria are fulfilled and work shows excellent level of effort and attention to detail.  | Assignment submitted but work is slightly incomplete or one or two of the following is/are done poorly: functionality, code clarity, unengaging interactivity, weak artistic concept, attention to aesthetics not evident.  | Assignment submitted but work is moderately incomplete or 3-5 of the following is/are done poorly: functionality, code clarity, unengaging interactivity, weak artistic concept, attention to aesthetics not evident.  | Assignment submitted but work is mostly incomplete, and many of the following is/are done poorly: functionality, code clarity, unengaging interactivity, weak artistic concept, attention to aesthetics not evident.  | Assignment submitted but work is very incomplete or most of the following is/are done poorly: functionality, code clarity, unengaging interactivity, weak artistic concept, attention to aesthetics not evident.  | Incomplete, not submitted, or submitted too late | /5 |

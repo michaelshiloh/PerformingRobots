@@ -81,8 +81,7 @@ engagement and curiosity.
 | Conceptualize and fabricate a robotic character | PLO 6: High |
 | Learn how to revise a plan based on unexpected developments in order to achieve a Minimum Viable Project (MVP) and meet a deadline | PLO 7: Medium |
 
-The Program Learning Outcomes (PLOs) are described in [Appendix 1:  Interactive Media Major Program Learning Outcomes.](#Appendix-1:-Interactive-Media-Major-Program-Learning-Outcomes-(PLOs))
-
+The Program Learning Outcomes (PLOs) are described in [Appendix 1:  Interactive Media Major Program Learning Outcomes.](#appendix-1-interactive-media-major-program-learning-outcomes-plos)
 
 ### Teaching Methodology
 

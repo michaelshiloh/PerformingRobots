@@ -100,7 +100,7 @@ This class has three components:
 
 
 | Percentage of final grade | Activity | Submission Date (week) | CLO |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | Attendance | 5 | Weekly | All |
 | Participation | 10 | Weekly | All |
 | Weekly assignment | 20 | Weekly | tba |

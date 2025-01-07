@@ -81,31 +81,41 @@ engagement and curiosity.
 | Conceptualize and fabricate a robotic character | PLO 6: High |
 | Learn how to revise a plan based on unexpected developments in order to achieve a Minimum Viable Project (MVP) and meet a deadline | PLO 7: Medium |
 
+The Program Learning Outcomes (PLOs) are described in [Appendix 1:  Interactive Media Major Program Learning Outcomes.](Appendix_1:_Interactive_Media_Major_Program_Learning_Outcomes_(PLOs))
+
+
 ### Teaching Methodology
-This is a production-based course that involves programming, electronics, and
-mechanisms work both inside and outside of the classroom.  Examples will
-presented and discussed throughout, and students will be required to write
-code, build circuits, build mechanisms, ask questions, and engage in both
-creative and technical discussion. The course embraces a process-oriented
-philosophy believing that programming, electronics, and mechatronics
-development are best learned by doing. 
 
-This class has three components:
+This is a production based course. Students will be learning primarily through
+hands-on experience and iterative experimentation. Classes will move quickly
+through each topic, first providing a theoretical foundation along with
+technical instruction, moving as quickly as possible to where students
+implement each topic themselves.
 
-1. Readings, presentations, and discussions
-1. Skills
-1. Projects
+Individual classes may
+consist of, but not be limited to, the following:
+lecture, discussion, examples, group work, 
+demonstrations, hands-on exercises
+and
+presentations. 
+
+Outside of the class, students will engage in both individual
+and group work.
+
+Students are required to 
+operate their robots during a performance
+as part of the Interactive Media End of Semester Showcase.
+
 
 ### Graded Activities
 
 
 | Percentage of final grade | Activity | Submission Date (week) | CLO |
 | --- | --- | --- | --- |
-| Attendance | 5 | Weekly | All |
 | Participation | 10 | Weekly | All |
 | Weekly assignment | 20 | Weekly | tba |
 | Midterm | 20 | Week 7 | tba |
-| Panel | 15 | na | tba |
+| Panel | 20 | na | tba |
 | Final project | 30 | Week 14 | tba |
 | Total | 100 | | |
 
@@ -117,12 +127,29 @@ need an extension please contact the professor in advance.
 
 #### Attendance
 
+This is an intense course.  You should be prepared to spend many hours working
+on your robot.  I expect your attendance, attention, and engagement throughout
+the semester.  If you do not feel that you can remain fully engaged in this
+course, consider dropping it.  Your attendance is demonstrated by showing up
+for every class on time. Your attention is demonstrated by not using phones or
+laptops or other distractions. Your engagement is demonstrated by taking
+notes, by asking questions, and by participating in discussions.
+
 - Attendance is mandatory. Every class builds off the preceding one so it is
   vital to be present and on time for every lesson.
-- Each unexcused absence results in a deduction of 1 point (= 1% of final
-  grade)
-- Two latenesses of more than 10 minutes will count as one unexcused absence.
+- I recognize that some absences are unavoidable.  If you know you are
+  going to be late or absent, please email me in advance. If you have an
+  emergency, let me know as soon as you can. To receive an excused absence,
+  you must ask in advance, and receive permission from me.
+- If you plan on not attending more than two meetings during the semester,
+  consider taking the course at some other time.
+
+Rubric:
+
+- Arriving late by more than 10 minutes will count as an unexcused absence.
 - More than two unexcused absences will result in a final grade of F.
+- More than four excused absences will result in a final grade of F.
+- Absences due to holiday or vacation travel are unexcused asbsences.
 
 #### Participation
 
@@ -166,16 +193,15 @@ Rubric:
 
 #### Midterm 
 
-- Working in teams of two, complete your robot base so that it can move forwards
-and backwards and can turn left and right, and do all of this at different
-speeds. Select a personality for your robot base and
-express it using only its ability to move.
-- Document this thoroughly in your Github repository in 
-a file called `midtermProject.md`. As you are working
-in teams, it is sufficient for the documentation to be in the repository of
-one of you, but the other person must still create 
-a file called `midtermProject.md` and in it provide a link to the 
-documentation in the other team member's repository.
+- Working in teams of two, complete your robot base so that it can move
+  forwards and backwards and can turn left and right, and do all of this at
+  different speeds. Select a personality for your robot base and express it
+  using only its ability to move.
+- Document this thoroughly in your Github repository in a file called
+  `midtermProject.md`. As you are working in teams, it is sufficient for the
+  documentation to be in the repository of one of you, but the other person
+  must still create a file called `midtermProject.md` and in it provide a link
+  to the documentation in the other team member's repository.
 
 Rubric:
 
@@ -187,13 +213,12 @@ The midterm assignment receives a maximum of 5 points:
 
 #### Panel presentations
 
-Each student will
-research a cultural, social, historical, ethical, or aesthetic topic in the
-field of robotics, and develop and defend a thesis with proper supporting
-evidence. Students will give their presentations in panels consisting
-of four students. Each panel works together to read and discuss each others'
-presentations, and each panelist will lead the class in a short discussion on
-the presentation of one of the other panelists
+Each student will research a cultural, social, historical, ethical, or
+aesthetic topic in the field of robotics, and develop and defend a thesis with
+proper supporting evidence. Students will give their presentations in panels
+consisting of four students. Each panel works together to read and discuss
+each others' presentations, and each panelist will lead the class in a short
+discussion on the presentation of one of the other panelists
 
 Rubric:
 
@@ -207,97 +232,49 @@ The panel presentations receive a maximum of 10 points:
 
 #### Final project 
 
+The final project is the robot that will perform in the 
+Interactive Media
+End of Semester Showcase. The final project grade 
+will be determined in the last meeting of the class.
 
-**Midterm and Final projects**
-- Functionality: 35%  
-The robot must function as you have described 
-- Construction: 30%  
-Your robot must be robust and well constructed. 
-For example, you must be able to move it
-around or bump into it without it falling apart. It must not be delicate.
-Any movement must have sufficient power to do so reliably.
-- Creative appearance 15%  
-Appearance should evidence experimentation and creativity, and
-be able to effectively express itself in the personality 
-of the character it represents in the performance
-- Intentional behavior: 20%  
-This is a course in performing robots, 
-and so your robot, as an actor, must be able to act in 
-an intentional, repeatable manner. By this I mean that 
-if the performance calls for a certain sequence of events, 
-your robot must be able to perform that sequence reliably.
+Rubric:
+
+The final project receive a maximum of 20 points:
+
+| Criteria | Excellent (5 points) | Very Good (4 points) | Good (3 points) | Marginal (2 points | Poor (1 point) | Incomplete (0 points | 
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| Concept and creativity | Robot shows excellent concept and creativity; the personality of the robot is evident in the design; creative use of standard components to give the robot a unique design | Very good concept and creativity; very good evidence of intentional design | Good concept and creativity; good evidence of intentional design, but some evidence of standard robotic tropes | Marginal concept and creativity; much evidence of standard robotic tropes, very few surprises; very little excitement | Almost no evidence of creativity | Incomplete |
+| Functionality | Excellent functionality; all features are implemented | Very good functionality; almost all all features are implemented | Good functionality; most features work as designed | Marginal; only those features necessary for the script are implemented | Poor functionality: many features unimplemented; some necessary features unimplemented | Incomplete |
+| Technical implementation | Excellent implementation; very high standard of construction, extremely highly reliable behavior, excellent layout allowing access for repair and modification | Very good functionality; high construction standard; very good reliability and layout | Good functionality; reliability, robustness, and ease of modification are quite good | Marginal; reliability and robustness are intermittent; construction in barely adequate; layout makes access possible but difficult | Poor implementation; robot is unreliable; construction is flimsy, layout makes access impossible or very difficult unimplemented | Incomplete |  
+| Appearance | Evidence of great attention to appearance; finish is refined; excellent use of construction materials such as fabrics, metal, etc.; painting or other decorations well implemented and contribute effectively to the personality of the robot |  Very good appearance; finish is very good, with evidence of very good attention to appearance; very good use of paint or other decorations |  Good appearance; good attention to detail; good use of paint, fabrics, and other decorations |  Robot is primarily functional with barely adequate but uninspiring appearance |  Very little evidence of consideration to appearance | Incomplete |
 
 
-### Course Assignments
+#### Final Grade Calculation
 
-This course consists of theoretical readings and discussions; technical
-training in electronics, programming, and mechatronics; designing,
-fabricating, and programming a performing robot; and putting on a final
-performance.
+| Letter Grade | Minimum Percentate | 
+| --- | --- | 
+| A | 94 |
+| A- | 90 |
+| B+ | 86 |
+| B | 83 |
+| B- | 80 |
+| C+ | 76 |
+| C | 73 |
+| C- | 70 |
+| D+ | 66 |
+| D | 63 |
+| F | 0 |
 
-This is a very hands-on class. Some lessons might be mostly instruction,
-some will be a combination of instruction and hands-on activity that
-demonstrates your mastery of the content. Towards the end of the semester
-you will spend much time in class demonstrating your robot 
-and engaging in constructive criticism of your classmates robots.
+#### Laptops, cellphones, tablets, watches, earphones, earbuds, etc.
 
+- During lecture, when classmates are presenting or we’re in the midst of a
+  class discussion, use of these items is not permitted. 
+- Notes should be taken using pen and paper unless you have discussed this
+  with me and received email approval.
+- If you have an emergency that requires you to answer your phone during
+  class, please tell me ahead of time.
 
-#### Student-Led Discussions:
-
-Throughout the semester there will be readings assigned to students
-to lead subsequent discussion regarding the readings (or videos).
-
-#### Final Project
-
-Details will be provided in class
-
-#### Attendance
-
-This is an intense course. 
-You should be prepared to spend many hours working on your robot.
-I expect your attendance, attention, and engagement throughout the semester. 
-If you do not feel that you can remain fully engaged in this course,
-consider dropping it.
-Your attention is demonstrated by not using phones or laptops or other
-distractions. Your engagement is demonstrated by taking notes, by asking
-questions, and by participating in discussions.
-
-Attendance in all classes is mandatory. 
-Be on time and ready to start work at the start of class.
-If you plan on not attending more than 2 sessions during the semester, 
-consider taking the course at some other time.
-
-Arriving more than ten minutes late to class counts as an unexcused absence.
-More than one unexcused absence will result in a 5-percentage point drop in
-your attendance grade per absence. **After four unexcused absences, you will
-fail the class.**
-
-I do recognize that some absences are unavoidable.
-If you know you are going to be late or absent, please email me in advance. If
-you have an emergency, let me know as soon as you can. To receive an excused
-absence, you must ask in advance, and receive permission from me.
-
-Absences due to holiday or vacation travel are unexcused asbsences.
-
-
-#### Laptops:
-
-Laptop use is fine if you are using your laptop to present in class, or if
-we’re in the middle of an exercise that makes use of it. Whenever classmates
-are presenting or we’re in the midst of a class discussion, please keep your
-laptop closed. The quality of the class depends in large part on your
-attention and active participation, so please respect that and close your lid.
-
-#### Mobile Phones:
-
-Do not use your phone in class unless it is part of the lesson.
-If you
-have an emergency that requires you to answer your phone during class, please
-tell me ahead of time.
-
-#### Supplemental Textbooks
-
-[Here](references.md#books)
+### Academic Policies and Resources
 
 #### Communicate
 
@@ -310,43 +287,73 @@ first step of reaching out to me.
 
 #### Academic Integrity
 
-As set forth in NYU Abu Dhabi's Academic Integrity Policy, the relationship
-between students and faculty at NYU Abu Dhabi is defined by a shared
-commitment to academic excellence and is grounded in an expectation of
-fairness, honesty, and respect, which are essential to maintaining the
-integrity of the community. Every student who enrolls and everyone who accepts
-an appointment as a member of the faculty or staff at NYU Abu Dhabi agrees to
-abide by the expectation of academic honesty.  The full policies and
+##### Academic Integrity
+
+At NYU Abu Dhabi, a commitment to excellence, fairness,
+honesty, and respect within and outside the classroom is essential to
+maintaining the integrity of our community. By accepting membership in this
+community, students, faculty, and staff take responsibility for demonstrating
+these values in their own conduct and for recognizing and supporting these
+values in others. In turn, these values create a campus climate that
+encourages the free exchange of ideas, promotes scholarly excellence through
+active and creative thought, and allows community members to achieve and be
+recognized for achieving their highest potential.
+
+Students should be aware that engaging in behaviors that violate the standards
+of academic integrity will be subject to review and may face the imposition of
+penalties in accordance with the procedures set out in the NYUAD policy. 
+
+The full policies and
 procedures relating to Academic Integrity may be found on the [NYUAD Student
 Portal](https://students.nyuad.nyu.edu/campus-life/student-policies/community-standards-policies/academic-integrity/)
 
-#### Online Journal
+##### NYU Moses Center for Student Accessibility
 
-Students must document all their work in their Github repository. This must
-include:
+New York University is committed to providing equal educational opportunity
+and participation for students with disabilities. The center works with NYU
+students to determine appropriate and reasonable accommodations that support
+equal access to a world-class education. Confidentiality is of the utmost
+importance. Disability-related information is never disclosed without student
+permission.
 
-* a well organized repository with helpful file and folder names
-* description of each assignment or project
-* discuss what you chose to do and why
-* document any resources/research/inspiration
-* all code, well structured and commented
-* schematics
-* drawings of mechanisms
-* highlight both successes and failures
 
-The purpose of the journal is threefold. First, it is a valuable way for you to communicate that you are keeping up with the work in the class and that you are grasping the material. I read the journals to see how you are doing. 
+Find further information at: 
+[https://students.nyuad.nyu.edu/student-affairs/student-persistence/students-withdisabilities/](https://students.nyuad.nyu.edu/student-affairs/student-persistence/students-withdisabilities/)
 
-Second, the journal is a way to document your work for your own use. You must
-update the journal each week with the work you have done for class. You should
-use the journal as an opportunity to write clearly write your thoughts,
-questions, and analysis based on the class assignments. The writing is
-expected to be well reasoned and grammatically correct. You should link to any
-relevant sources, and provide context, such as images, video or audio, when
-appropriate. 
+Contact: mosescsa@nyu.edu (this emails the center at NYU directly)
 
-Third, we all make extensive use of online resources generously created by
-others. By sharing our own work, we pay forward, making what we learned
-available in the hopes that others might benefit.
+nyuad.mosescenterliasion@nyu.edu (this emails the NYUAD team)
+
+##### Mental Health Resources
+
+As a university student, you may experience a range of issues that can
+interfere with your ability to perform academically or impact your daily
+functioning, such as: heightened stress; anxiety; difficulty concentrating;
+sleep disturbance; strained relationships; grief and loss; personal struggles.
+If you have any well-being or mental health concerns, please visit the
+Counseling Center on the ground floor of the campus center from 9am-5pm Sunday
+- Thursday, or schedule an appointment to meet with a counselor by calling:
++971 02-628-8100, or emailing: nyuad.healthcenter@nyu.edu. If you require
+mental health support outside of these hours, call NYU's Wellness Exchange
+hotline at +971 02-628- 5555, which is available 24 hours a day, 7 days a
+week. You can also utilize the Wellness Exchange mobile chat feature, details
+of which you can find on the student portal.
+
+##### Religious Accommodations
+
+NYU’s Policy on Academic Accommodations for Religious Holidays and
+Observances states that students may, without penalty, excuse themselves from
+academic obligations and otherwise receive a reasonable accommodation when
+required for religious and spiritual holidays and observances. You must notify
+me in advance of religious holidays or observances that might coincide with
+exams, assignments, or class times to schedule reasonable alternatives.
+Students may also contact religiousaccommodations@nyu.edu for assistance.
+
+### Other course information
+
+#### Supplemental Textbooks
+
+[Here](references.md#books)
 
 #### How to succeed in this course
 1. Arrive on time or a few minutes early
@@ -383,32 +390,22 @@ available in the hopes that others might benefit.
 This is likely to change as we see what sort of robots you choose to make
 and what sort of problems develop
 
-- Week 1: Arduino review
-    Homework: Arduino review, Github and Discord accounts
-- Week 2: Motors with external power supplies
-    Homework: motor control with switch, potentiometer
-- Week 3: Play theme, Music Maker Shield, NeoPixels
-    Homework: MMS, NP
-- Week 4: Common robot base, electronic fabrication rules, soldering
-    Homework: soldering, L298 interface board
-- Week 5: Tool Training
-    Homework: Common robot base 90% complete
-- Week 6: Finalize play outline and characters
-    Homework: choose team, character (sketch and description), 1 dialogue
-- Week 7: Remote control of robot base; presentations
-    Midterm: movement based personality 
-- Week 8: Unique robot features, servo motors, nRF servo shield
-    Homework: sketch and describe all features
-- Week 9: Fabrication techniques: cardboard, wood, aluminium
-    Homework: robot body 90%, prototype mechanical features
-- Week 10: nRF transmitter and receiver
-    Homework: Finish robot body and all features
-- Week 11: Remote control of robot features
-    Homework: Remote control all features and dialogue
-- Week 12: Finishing touches, rehearsals
-- Week 13: Rehearsals
-- Week 14: Perform at the IM End of Semester Showcase!
-
+| Week | Topic(s) | Homework |
+| --- | --- | --- |
+| Week 1 | Arduino review | Arduino review, Github and Discord accounts |
+| Week 2 | Motors with external power supplies | Motor control with switch, potentiometer |
+| Week 3 | Discuss play theme; Music Maker Shield, NeoPixels | Select play theme, Music Maker Shield, NeoPixels |
+| Week 4 | Common robot base, electronic fabrication rules, soldering | soldering, L298 interface board |
+| Week 5 | Tool Training | Common robot base 90% complete |
+| Week 6 | Finalize play outline and characters | choose team, character (sketch and description), 1 dialogue |
+| Week 7 | Remote control of robot base; presentations Midterm: movement based personality  |
+| Week 8 | Unique robot features, servo motors, nRF servo shield | sketch and describe all features |
+| Week 9 | Fabrication techniques: cardboard, wood, aluminium | robot body 90%, prototype mechanical features |
+| Week 10 | nRF transmitter and receiver | Finish robot body and all features
+|
+| Week 11 | Remote control of robot features | Remote control all features and dialogue |
+| Week 12 | Finishing touches, rehearsals | Week 13 | Rehearsals |
+| Week 14 | Perform at the IM End of Semester Showcase! |
 
 ### Appendix 1: Interactive Media Major Program Learning Outcomes (PLOs)
 

@@ -408,7 +408,7 @@ and what sort of problems develop
 | Week 4 | Common robot base, electronic fabrication rules, soldering | soldering, L298 interface board |
 | Week 5 | Tool Training | Common robot base 90% complete |
 | Week 6 | Finalize play outline and characters | choose team, character (sketch and description), 1 dialogue |
-| Week 7 | Remote control of robot base; presentations Midterm: movement based personality  |
+| Week 7 | Remote control of robot base; presentations Midterm | movement based personality  |
 | Week 8 | Unique robot features, servo motors, nRF servo shield | sketch and describe all features |
 | Week 9 | Fabrication techniques: cardboard, wood, aluminium | robot body 90%, prototype mechanical features |
 | Week 10 | nRF transmitter and receiver | Finish robot body and all features |

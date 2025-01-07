@@ -411,8 +411,7 @@ and what sort of problems develop
 | Week 7 | Remote control of robot base; presentations Midterm: movement based personality  |
 | Week 8 | Unique robot features, servo motors, nRF servo shield | sketch and describe all features |
 | Week 9 | Fabrication techniques: cardboard, wood, aluminium | robot body 90%, prototype mechanical features |
-| Week 10 | nRF transmitter and receiver | Finish robot body and all features
-|
+| Week 10 | nRF transmitter and receiver | Finish robot body and all features |
 | Week 11 | Remote control of robot features | Remote control all features and dialogue |
 | Week 12 | Finishing touches, rehearsals | Week 13 | Rehearsals |
 | Week 14 | Perform at the IM End of Semester Showcase! |

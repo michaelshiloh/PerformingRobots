@@ -96,22 +96,117 @@ This class has three components:
 1. Skills
 1. Projects
 
-### Grading
+### Graded Activities
 
-- **10%** Attendance  
-- **15%** Participation  
-- **10%** Journal  
-- **30%** Assignments  
-- **35%** Final Project    
 
-### Grading Rubric
+| Percentage of final grade | Activity | Submission Date (week) | CLO |
+| --- | --- | --- |
+| Attendance | 5 | Weekly | All |
+| Participation | 10 | Weekly | All |
+| Weekly assignment | 20 | Weekly | tba |
+| Midterm | 20 | Week 7 | tba |
+| Panel | 15 | na | tba |
+| Final project | 30 | Week 14 | tba |
+| Total | 100 | | |
 
-**Assignments**
+#### Due Dates
 
-- 30% Technical Operation
-- 30% Creativity
-- 30% Reliability 
-- 10% Above & beyond
+Work submitted up to five days late will receive a reduced grade. Work more
+than 5 days late will be accepted at the discretion of the professor. If you
+need an extension please contact the professor in advance.
+
+#### Attendance
+
+- Attendance is mandatory. Every class builds off the preceding one so it is
+  vital to be present and on time for every lesson.
+- Each unexcused absence results in a deduction of 1 point (= 1% of final
+  grade)
+- Two latenesses of more than 10 minutes will count as one unexcused absence.
+- More than two unexcused absences will result in a final grade of F.
+
+#### Participation
+
+- Engaging in class discussions and offering advice, input, feedback, etc
+  during class is a major part of your grade. Participating in class is
+  helpful for me to get to know you as an individual and keep track of your
+  progress. What is equally important is that it provides you and your
+  classmates the opportunity to learn from each other through the sharing of
+  failures, successes, and insights on the work you are doing.
+- Students must present at the IM end of semester show.
+
+Rubric:
+- Level of participation on a scale of 1 to 10
+
+#### Weekly assignment 
+
+- Weekly assignments consist primarily, but not exclusively, of steps in the
+  development and construction of your robots
+- Unless you have built many robots in the past, you are unlikely to have a
+  good sense of how long tasks should take. Weekly assignments help keep the
+  robot construction on track, alert me to difficulties, and break up the
+  project into manageable chunks.
+- Each week you are expected to report on your progress in your Github
+  repository journal. Each journal entry should include a description of the
+  assignment and how you addressed it. Include pictures, videos, and code
+  snippets, as appropriate. Include the sources of any information you found
+  useful such as code, schematics, explanations, etc.  Copying code or
+  techniques without attribution is plagiarism.  Few ideas come out of the
+  blue, and your readers can learn a lot from the sources from which you
+  learned and by which you were were inspired.  The writing is expected to be
+  well reasoned, grammatically correct, and written as if it were a paper
+  being turned in. 
+
+Rubric:
+
+  Each weekly assignment is worth up to 2 points:
+
+| Excellent (2 points) | Poor (1 point) | Incomplete (0 points) |
+| ---- | ---- | ---- | 
+| All parts of the assignment have been completed reliably and robustly; journal documentation is complete and well written | Most parts of the assignment have been completed and are mostly reliable and robost; documentation is mostly present and well written | Most parts of the assignment have been not been completed or are unreliable or not robust; journal entry is incomplete or absent |
+
+#### Midterm 
+
+- Working in teams of two, complete your robot base so that it can move forwards
+and backwards and can turn left and right, and do all of this at different
+speeds. Select a personality for your robot base and
+express it using only its ability to move.
+- Document this thoroughly in your Github repository in 
+a file called `midtermProject.md`. As you are working
+in teams, it is sufficient for the documentation to be in the repository of
+one of you, but the other person must still create 
+a file called `midtermProject.md` and in it provide a link to the 
+documentation in the other team member's repository.
+
+Rubric:
+
+The midterm assignment receives a maximum of 5 points:
+
+| Criteria | Excellent (5 points) | Very Good (4 points) | Good (3 points) | Marginal (2 points | Poor (1 point) | Incomplete (0 points | 
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| Assignment Quality | All exercise criteria are fulfilled and work shows excellent level of effort and attention to detail.  | Assignment is slightly incomplete or is not implemented to an extremely high standard; documentation is almost entirely complete or is complete but the writing quality does not rise to the level of excellent.  | Assignment is moderately complete or is implemented to a moderate standard; documentation is almost entirely complete or is complete but is only of a moderate quality | Assignment is marginally complete or is implemented to a marginal standard; documentation is marginally complete or is complete but is only of a marginal quality | Assignment is barely complete or is implemented to a very low standard; documentation is barely complete or is only of a poor quality | Hardly any required components are present or assignment was not submitted |
+
+#### Panel presentations
+
+Each student will
+research a cultural, social, historical, ethical, or aesthetic topic in the
+field of robotics, and develop and defend a thesis with proper supporting
+evidence. Students will give their presentations in panels consisting
+of four students. Each panel works together to read and discuss each others'
+presentations, and each panelist will lead the class in a short discussion on
+the presentation of one of the other panelists
+
+Rubric:
+
+The panel presentations receive a maximum of 10 points:
+
+| Criteria | Excellent (5 points) | Very Good (4 points) | Good (3 points) | Marginal (2 points | Poor (1 point) | Incomplete (0 points | 
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
+| Presentation Quality | Presentation is of high quality and shows evidence of excellent research; thesis is clearly articulated and is extremely well defended with supporting evidence | Presentation is of very good quality and shows evidence of very good research; thesis is very well articulated and defended with very good supporting evidence | Presentation is of good quality or shows evidence of good research; thesis is well articulated and defended with good supporting evidence | Presentation is of marginal quality or shows evidence of marginal research; thesis is marginally articulated and defended with marginal supporting evidence | Presentation is of poor quality or shows evidence of poor research; thesis is poorly articulated and defended with poor supporting evidence | Presentation is of very poor quality or doesn't show evidence of research; thesis is very poorly articulated and defended with very poor supporting evidence | Presentation is not made |
+| Discussion Quality | Discussion is of high quality and shows evidence of excellent understanding of and engagement with the presentation; Questions are thoughtful and insightful; panelist's replies are integrated into further questions | Discussion is of very good quality and shows evidence of very good understanding of and engagement with the presentation; Questions are thoughtful and insightful; panelist's replies are very well integrated into further questions | Discussion is of good quality and shows evidence of good understanding of and engagement with the presentation; Questions are mostly thoughtful and insightful; panelist's replies are well integrated into further questions | Discussion is of marginal quality and shows evidence of marginal understanding of and engagement with the presentation; Questions are marginally thoughtful and insightful; panelist's replies are not well integrated into further questions | Discussion is of poor quality and shows evidence of poor understanding of and engagement with the presentation; Questions are barely thoughtful and offer little to no insight; panelist's replies are barely integrated into further questions | No discussion |
+
+
+#### Final project 
+
 
 **Midterm and Final projects**
 - Functionality: 35%  
@@ -132,14 +227,6 @@ an intentional, repeatable manner. By this I mean that
 if the performance calls for a certain sequence of events, 
 your robot must be able to perform that sequence reliably.
 
-Student-Led Discussion:
-
-- 100% Engaged the class fully in critical discussion of the reading(s)
-
-Documentation Posts:
-
-- 100% Clear story told with pictures, text, code, video, sketches, etc.
-
 
 ### Course Assignments
 
@@ -154,56 +241,6 @@ demonstrates your mastery of the content. Towards the end of the semester
 you will spend much time in class demonstrating your robot 
 and engaging in constructive criticism of your classmates robots.
 
-All of your work must be documented in your Github repository. Instructions
-will be given in class.
-
-### Project documentation:
-
-You are expected to document your work on your Github repository.
-The purpose of
-this is twofold. First, it is a valuable way for you to communicate to
-me that you are keeping up with the work in the class. I read the site to see
-how you are doing. You are expected to document your progress each week in 
-detail, along with any other requested responses e.g. to readings, class
-discussions, or student presentations.
-Secondly, it is a way to document your work for your own use and that
-of others.
-
-You must update your repository weekly with the work you have done for class.
-
-Document your projects thoroughly as you go; don’t put it off until the end.
-Photos, video, drawings, schematics, and notes are all valuable forms of
-documentation. Explain the project at the beginning of your documentation, so
-that people who come to your site from outside this class can understand your
-work quickly.
-
-Use pictures, drawings, and videos liberally to explain your work. 
-Videos can be uploaded to Vimeo, Youtube, or another video
-hosting site and links provided in your Github documentation.
-
-Always cite the sources of any technical information such as code or
-schematics, the places you learned techniques from,
-and the inspirations of your ideas. Copying code or techniques without
-attribution is plagiarism.  Few ideas come out of the blue, and your readers
-can learn a lot from the sources from which you learned and by which you were
-were inspired. So be generous in sharing your sources.
-
-Good documentation should include a description and illustration of your
-project. You should include what it looks like, what it does, what the user or
-participant does in response. When it’s interactive, mention and show what the
-user does. Your explanation should give enough information that someone who’s
-never seen the project can understand it.
-
-You should also include a section describing how the project works, aimed at a
-more informed reader (your instructor, or next year’s classmates). Include a
-system diagram to make clear what the major components of the system are and
-how they communicate.
-
-The writing is expected to be well reasoned, grammatically correct, and
-written as if it were a paper being turned in. You should link to any relevant
-sources, and provide as much context as you can using images, video, audio, or
-other forms of expression. I’ll set you all up with an account the first day
-of class.
 
 #### Student-Led Discussions:
 
@@ -242,24 +279,6 @@ absence, you must ask in advance, and receive permission from me.
 
 Absences due to holiday or vacation travel are unexcused asbsences.
 
-
-#### Participation
-
-Engaging in the class discussion, and offering advice and input in the class
-is part of your grade. Participating in class discussions is helpful
-for me to get to know you as an individual and keep track of your progress,
-but most importantly, it provides you and your classmates with the opportunity
-to share failures, successes, and insights on the work you are doing.
-
-You are expected to show your work in class. This includes working projects 
-as well as failed assignments or things that didn’t work the way you expected.
-We often learn more from what didn't work than what did, so don't feel ashamed
-to share. Celebrate what you learned in the course of the failure.
-
-If you do not ask questions, I can only assume you understand the material
-completely. Asking questions about concepts you do not understand and showing
-work that did not function as expected is not a sign of failure, it is an
-opportunity to learn.
 
 #### Laptops:
 
@@ -390,8 +409,6 @@ and what sort of problems develop
 - Week 13: Rehearsals
 - Week 14: Perform at the IM End of Semester Showcase!
 
-* final project documentation
-* Panel
 
 ### Appendix 1: Interactive Media Major Program Learning Outcomes (PLOs)
 
@@ -418,20 +435,9 @@ students are expected to have fulfilled the following:
    active participation in group and team-based work.
 
 
-PANELS
-
-Research a cultural, social, historical, ethical, or aesthetic topic in the
-field of robotics, and develop and defend a thesis with proper supporting
-evidence.
-
-- 4 presentations (so 7 panels)
-- each presents 
-- Panelists choose integrating theme
-- each panelist responsible for discussion questions for one other
 
 RUBRICs
 
-Weekly Assignments Rubric
 
 | Criteria | Excellent (5 points) | Very Good (4 points) | Good (3 points) | Marginal (2 points | Poor (1 point) | Incomplete (0 points | Criterion Score |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |

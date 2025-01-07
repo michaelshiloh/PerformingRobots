@@ -81,7 +81,7 @@ engagement and curiosity.
 | Conceptualize and fabricate a robotic character | PLO 6: High |
 | Learn how to revise a plan based on unexpected developments in order to achieve a Minimum Viable Project (MVP) and meet a deadline | PLO 7: Medium |
 
-The Program Learning Outcomes (PLOs) are described in [Appendix 1:  Interactive Media Major Program Learning Outcomes.](#Appendix_1:_Interactive_Media_Major_Program_Learning_Outcomes_(PLOs))
+The Program Learning Outcomes (PLOs) are described in [Appendix 1:  Interactive Media Major Program Learning Outcomes.](#Appendix-1:-Interactive-Media-Major-Program-Learning-Outcomes-(PLOs))
 
 
 ### Teaching Methodology
@@ -164,7 +164,7 @@ Rubric:
 Rubric:
 - Level of participation on a scale of 1 to 10, 
     then prorated according to the
-  [Percentage of Final Grade](#Graded_Activities)
+  [Percentage of Final Grade](#Graded-Activities)
 
 #### Weekly assignment 
 
@@ -189,7 +189,7 @@ Rubric:
 
   Each weekly assignment is worth up to 2 points,
     then prorated according to the
-  [Percentage of Final Grade](#Graded_Activities)
+  [Percentage of Final Grade](#Graded-Activities)
 
 | Excellent (2 points) | Poor (1 point) | Incomplete (0 points) |
 | ---- | ---- | ---- | 
@@ -211,7 +211,7 @@ Rubric:
 
 The midterm assignment receives a maximum of 5 points,
     then prorated according to the
-  [Percentage of Final Grade](#Graded_Activities)
+  [Percentage of Final Grade](#Graded-Activities)
 
 | Criteria | Excellent (5 points) | Very Good (4 points) | Good (3 points) | Marginal (2 points | Poor (1 point) | Incomplete (0 points | 
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
@@ -230,7 +230,7 @@ Rubric:
 
 The panel presentations receive a maximum of 10 points,
     then prorated according to the
-  [Percentage of Final Grade](#Graded_Activities)
+  [Percentage of Final Grade](#Graded-Activities)
 
 | Criteria | Excellent (5 points) | Very Good (4 points) | Good (3 points) | Marginal (2 points | Poor (1 point) | Incomplete (0 points | 
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
@@ -249,7 +249,7 @@ Rubric:
 
 The final project receive a maximum of 20 points,
     then prorated according to the
-  [Percentage of Final Grade](#Graded_Activities)
+  [Percentage of Final Grade](#Graded-Activities)
 
 | Criteria | Excellent (5 points) | Very Good (4 points) | Good (3 points) | Marginal (2 points | Poor (1 point) | Incomplete (0 points | 
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 

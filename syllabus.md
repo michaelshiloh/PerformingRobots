@@ -439,8 +439,8 @@ and what sort of problems develop
 | Week 9 | Fabrication techniques: cardboard, wood, aluminium | robot body 90%, prototype mechanical features | 1, 2, 3, 4, 5 |
 | Week 10 | nRF transmitter and receiver | Finish robot body and all features | 1, 2, 3, 4, 5 |
 | Week 11 | Remote control of robot features | Remote control all features and dialogue | 1, 2, 3, 4, 5 |
-| Week 12 | Finishing touches, rehearsals | 1, 2, 3, 4, 5 |
-| Week 13 | Rehearsals | 1, 2, 3, 4, 5 |
+| Week 12 | Finishing touches, rehearsals | Complete any late assignmensts | 1, 2, 3, 4, 5 |
+| Week 13 | Rehearsals | Complete any late assignmensts | 1, 2, 3, 4, 5 |
 | Week 14 | Perform at the IM End of Semester Showcase! | na |
 
 ### Appendix 1: Interactive Media Major Program Learning Outcomes (PLOs)

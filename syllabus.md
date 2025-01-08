@@ -83,8 +83,7 @@ engagement and curiosity.
 | CLO number | Upon successful completion of this course the student will be able to: | Linked to Program Learning Outcome (Level of Contribution - High/Medium/Low) |
 | --- | ---------------------- | ---------------------- |
 | 1 | Work in a team to create a simple remote controlled robot for performance | PLO 8: High, PLO 3: High| 
-| 2 | Design a custom robot to express a unique personality using standard
-electronic components | |
+| 2 | Design a custom robot to express a unique personality using standard electronic components | PLO 3: High, PLO PLO 6: Medium|
 | 3 | Maximize the expressive ability of a robot given its limitations | PLO 6: Medium |
 | 5 | Analyze and critique cultural, social, historical, ethical, and aesthetic discourse on robots | PLO 4: High |
 | 6 | Develop technical skills in programming, electronics, mechatronics, and debugging | PLO 5: High |

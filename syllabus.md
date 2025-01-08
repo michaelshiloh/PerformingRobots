@@ -3,27 +3,32 @@ Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
 
 #### New York University Abu Dhabi  
 #### Interactive Media Program
-#### Course title: Performing Robots
 
-* Course number: IM-UH 2117  
-* Credit Hours: 4     
-* Class location: C3-029 (IM Lab in the Art Center)
-* Prerequisites: None     
+* Course Information
+    * Course Code and Number: IM-UH 2117  
+    * Course Title: Performing Robots
+    * Credit Hours: 4     
+    * This is a 14 week course consisting of fourteen 75 minute meetings and
+      fourteen 150 minute meetings
+    * Class location: C3-029 (IM Lab in the Art Center)
+    * Prerequisites: None     
+* This course counts toward the following NYUAD degree requirements:
+    * Majors > Interactive Media
+    * Majors > Interactive Media > Physical Computing 
+    * Minors > Interactive Media
+* Faculty Details
+    * Professor: Michael Shiloh mshiloh@nyu.edu   
+    * Office hours: Schedule an appointment [here](https://calendly.com/michaelshiloh/office_hours)
 
-Session: Fall 2024       
-
-Course website:
-[https://github.com/michaelshiloh/PerformingRobots](https://github.com/michaelshiloh/PerformingRobots)  
-
-* Professor: Michael Shiloh mshiloh@nyu.edu   
+* Session: Fall 2024       
 * Meeting times:    
 	- 2:10-3:25 Tuesday
 	- 2:10-4:50 Thursday
-* Office hours: Schedule an appointment [here](https://calendly.com/michaelshiloh/office_hours)
+* Instructional time requirements are met by the scheduled meeting times
 
-This is subject to change
-
-This file: syllabus
+* Course website: [https://github.com/michaelshiloh/PerformingRobots](https://github.com/michaelshiloh/PerformingRobots)  
+* This file: syllabus
+* This is subject to change
 
 #### Table of Contents
 - [Course Description](#course-description)
@@ -85,10 +90,10 @@ engagement and curiosity.
 | 1 | Work in a team to create a simple remote controlled robot for performance | PLO 8: High, PLO 3: High| 
 | 2 | Design a custom robot to express a unique personality using standard electronic components | PLO 3: High, PLO PLO 6: Medium|
 | 3 | Maximize the expressive ability of a robot given its limitations | PLO 6: Medium |
+| 8 | Learn how to revise a plan based on unexpected developments in order to achieve a Minimum Viable Project (MVP) and meet a deadline | PLO 7: Medium |
 | 5 | Analyze and critique cultural, social, historical, ethical, and aesthetic discourse on robots | PLO 4: High |
 | 6 | Develop technical skills in programming, electronics, mechatronics, and debugging | PLO 5: High |
 | 7 | Conceptualize and fabricate a robotic character | PLO 6: High |
-| 8 | Learn how to revise a plan based on unexpected developments in order to achieve a Minimum Viable Project (MVP) and meet a deadline | PLO 7: Medium |
 
 \* The Program Learning Outcomes (PLOs) are described in [Appendix 1: Interactive Media Major Program Learning Outcomes.](#appendix-1-interactive-media-major-program-learning-outcomes-plos)
 
@@ -108,7 +113,8 @@ and
 presentations. 
 
 Outside of the class, students will engage in both individual
-and group work.
+and group work. Group work will require coordinating with other 
+members of the group to schedule group meetings.
 
 Students are required to 
 operate their robots during a performance
@@ -173,6 +179,12 @@ Rubric:
 - Level of participation on a scale of 1 to 10, 
     then prorated according to the
   [Percentage of Final Grade](#Graded-Activities)
+
+| Performance Indicator | 10 | 8 | 3 | 0 |
+| --- | --- | --- | --- | --- |
+| Frequency of participation in class and in meetings | Frequently initiates contributions and offers to respond to questions posed in class; regularly raises questions in meetings | Occasionally initiates contributions and offers to respond to questions posed in class; occasionally raises questions in meetings | Rarely initiates contributions and offers to respond to questions posed in class; rarely raises questions in meetings | Does not initiate contributions and will only respond to direct questions posed to student; does not raise questions in meetings |
+| Quality of comments / questions | Comments always insightful and constructive; uses appropriate legal terminology; asks insightful questions that demonstrate student has done the reading and has actively listened to the presentation | Comments mostly insightful; mostly uses appropriate legal terminology; asks questions that demonstrate a good understanding of the material presented during the presentation | Comments are sometimes constructive; does not use appropriate legal terminology; comments too long or not always relevant to discussion | Comments are uninformative; does not use appropriate legal terminology; heavy reliance on general sentiment (“I don’t like the idea”, “sounds great”) |
+| Listening skills | Actively listens during meetings / presentations, including when other students speak; builds on comments of others | Mostly attentive when others present or pose questions; occasionally needs reminder from instructor to focus or comment | Often inattentive and needs reminder to focus in class; interrupts others or otherwise disrupts others who are speaking | Does not listen to others; speaks while others speak; detracts from discussion |
 
 #### Weekly assignment 
 

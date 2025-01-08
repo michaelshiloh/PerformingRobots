@@ -1,9 +1,9 @@
 Shortcut to [today's assignment](homework.md#todays-assignment)  
 Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
 
-## New York University Abu Dhabi  
-## Interactive Media Program
-## Course title: Performing Robots
+#### New York University Abu Dhabi  
+#### Interactive Media Program
+#### Course title: Performing Robots
 
 * Course number: IM-UH 2117  
 * Credit Hours: 4     
@@ -24,6 +24,15 @@ Course website:
 This is subject to change
 
 This file: syllabus
+
+#### Table of Contents
+- [Course Description](#course-description)
+- [Course Learning Outcomes (CLOs)](#course-learning-outcomes-clos) 
+- [Teaching Methodology](#teaching-methodology)
+- [Graded Activities](#graded-activities)
+- [Academic Policies and Resources](#academic-policies-and-resources)
+- [Other Course Information](#other-course-information)
+- [Appendix 1: Interactive Media Major Program Learning Outcomes.](#appendix-1-interactive-media-major-program-learning-outcomes-plos)
 
 ### Course Description
 
@@ -69,19 +78,20 @@ finish with a public performance by the robots.
 You do not need to prove your brilliance, but do prove your intellectual
 engagement and curiosity.
 
-### Course Learning Outcomes (CLOs): 
+### Course Learning Outcomes (CLOs) 
 
-| Upon successful completion of this course the student will be able to: | Linked to Program Learning Outcome (Level of Contribution - High/Medium/Low) |
-| ---------------------- | ---------------------- |
-| Work in a team to create a simple remote controlled robot for performance | PLO 8: High, PLO 3: High| 
-| Maximize the expressive ability of a robot given its limitations | PLO 6: Medium |
-| Develop an understanding of the historical and contemporary use of robots in the arts |  PLO 1: Low |
-| Analyze and critique cultural, social, historical, ethical, and aesthetic discourse on robots | PLO 4: High |
-| Develop technical skills in programming, electronics, mechatronics, and debugging | PLO 5: High |
-| Conceptualize and fabricate a robotic character | PLO 6: High |
-| Learn how to revise a plan based on unexpected developments in order to achieve a Minimum Viable Project (MVP) and meet a deadline | PLO 7: Medium |
+| CLO number | Upon successful completion of this course the student will be able to: | Linked to Program Learning Outcome (Level of Contribution - High/Medium/Low) |
+| --- | ---------------------- | ---------------------- |
+| 1 | Work in a team to create a simple remote controlled robot for performance | PLO 8: High, PLO 3: High| 
+| 2 | Design a custom robot to express a unique personality using standard
+electronic components | |
+| 3 | Maximize the expressive ability of a robot given its limitations | PLO 6: Medium |
+| 5 | Analyze and critique cultural, social, historical, ethical, and aesthetic discourse on robots | PLO 4: High |
+| 6 | Develop technical skills in programming, electronics, mechatronics, and debugging | PLO 5: High |
+| 7 | Conceptualize and fabricate a robotic character | PLO 6: High |
+| 8 | Learn how to revise a plan based on unexpected developments in order to achieve a Minimum Viable Project (MVP) and meet a deadline | PLO 7: Medium |
 
-The Program Learning Outcomes (PLOs) are described in [Appendix 1:  Interactive Media Major Program Learning Outcomes.](#appendix-1-interactive-media-major-program-learning-outcomes-plos)
+The Program Learning Outcomes (PLOs) are described in [Appendix 1: Interactive Media Major Program Learning Outcomes.](#appendix-1-interactive-media-major-program-learning-outcomes-plos)
 
 ### Teaching Methodology
 
@@ -111,11 +121,11 @@ as part of the Interactive Media End of Semester Showcase.
 
 | Activity | Percentage of final grade | Submission Date (week) | CLO |
 | --- | --- | --- | --- |
-| Participation | 10 | Weekly | All |
-| Weekly assignment | 20 | Weekly | tba |
-| Midterm | 20 | Week 7 | tba |
-| Panel | 20 | na | tba |
-| Final project | 30 | Week 14 | tba |
+| Participation | 10 | Weekly | 5 |
+| Weekly assignment | 20 | Weekly | all |
+| Midterm | 20 | Week 7 | 3, 7, 8 |
+| Panel | 20 | na | 4, 5 |
+| Final project | 30 | Week 14 | 1, 2, 3, 6, 7, 8 |
 | Total | 100 | | |
 
 #### Due Dates
@@ -358,7 +368,7 @@ me in advance of religious holidays or observances that might coincide with
 exams, assignments, or class times to schedule reasonable alternatives.
 Students may also contact religiousaccommodations@nyu.edu for assistance.
 
-### Other course information
+### Other Course Information
 
 #### Supplemental Textbooks
 

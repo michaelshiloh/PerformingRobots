@@ -80,7 +80,7 @@ engagement and curiosity.
 
 ### Course Learning Outcomes (CLOs) 
 
-| CLO number | Upon successful completion of this course the student will be able to: | Linked to Program Learning Outcome (Level of Contribution - High/Medium/Low) |
+| CLO number | Upon successful completion of this course the student will be able to: | Linked to Program Learning Outcome * (Level of Contribution - High/Medium/Low) |
 | --- | ---------------------- | ---------------------- |
 | 1 | Work in a team to create a simple remote controlled robot for performance | PLO 8: High, PLO 3: High| 
 | 2 | Design a custom robot to express a unique personality using standard electronic components | PLO 3: High, PLO PLO 6: Medium|
@@ -90,7 +90,7 @@ engagement and curiosity.
 | 7 | Conceptualize and fabricate a robotic character | PLO 6: High |
 | 8 | Learn how to revise a plan based on unexpected developments in order to achieve a Minimum Viable Project (MVP) and meet a deadline | PLO 7: Medium |
 
-The Program Learning Outcomes (PLOs) are described in [Appendix 1: Interactive Media Major Program Learning Outcomes.](#appendix-1-interactive-media-major-program-learning-outcomes-plos)
+\* The Program Learning Outcomes (PLOs) are described in [Appendix 1: Interactive Media Major Program Learning Outcomes.](#appendix-1-interactive-media-major-program-learning-outcomes-plos)
 
 ### Teaching Methodology
 

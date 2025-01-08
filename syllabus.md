@@ -422,7 +422,7 @@ and what sort of problems develop
 | --- | --- | --- | --- |
 | Week 1 | Arduino review | Arduino review, Github and Discord accounts | 4 |
 | Week 2 | Motors with external power supplies | Motor control with switch, potentiometer | 4 |
-| Week 3 | Discuss play theme; Music Maker Shield, NeoPixels | Select play theme, Music Maker Shield, NeoPixels | 1 |
+| Week 3 | Discuss play theme; Music Maker Shield, NeoPixels | Select play theme, Select presentation topics, Music Maker Shield, NeoPixels | 1 |
 | Week 4 | Common robot base, electronic fabrication rules, soldering | soldering, L298 interface board | 3, 4 |
 | Week 5 | Tool Training | Common robot base 90% complete | 3, 4 |
 | Week 6 | Finalize play outline and characters | choose team, character (sketch and description), 1 dialogue | 1 |

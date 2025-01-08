@@ -33,7 +33,6 @@ Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
 #### Table of Contents
 - [Course Description](#course-description)
 - [Course Learning Outcomes (CLOs)](#course-learning-outcomes-clos) 
-- [Teaching Methodology](#teaching-methodology)
 - [Teaching and Learning Methodologies](#teaching-and-learning-methodologies)
 - [Graded Activities](#graded-activities)
 - [Course Materials](#course-materials)
@@ -198,12 +197,25 @@ The midterm assignment receives a maximum of 5 points,
 
 #### Panel presentations
 
-Each student will research a cultural, social, historical, ethical, or
-aesthetic topic in the field of robotics, and develop and defend a thesis with
-proper supporting evidence. Students will give their presentations in panels
-consisting of four students. Each panel works together to read and discuss
-each others' presentations, and each panelist will lead the class in a short
-discussion on the presentation of one of the other panelists
+Each student will research two cultural, social, historical, ethical, technical,
+or aesthetic topics in the field of robotics, and develop and defend a thesis
+in each one with proper supporting evidence. 
+
+Students will give their presentations in
+panels consisting of four students. Each panel will work together to read and
+discuss each others' presentations, and each panelist will lead the class in a
+short discussion on the presentation of one of the other panelists. Panelists
+are responsible for coordinating amongst themselves meeting times to prepare.
+
+Each student is free to select their topics but must communicate their
+choices to me for approval by week 3.
+A spreadsheet
+will be provided for each student to 
+select the two dates for giving their 
+presentations and participating in the panel discussions
+on a "first-come, first-served" basis.
+
+Panels will take place during the short meeting of weeks 4-10.
 
 Rubric:
 
@@ -428,32 +440,38 @@ and what sort of problems develop
 #### How to succeed in this course
 1. Arrive on time or a few minutes early
 1. Attend every lesson unless you are sick
+1. If you miss a lesson, ask a classmate to fill you in on what you missed
 1. Silence all notifications on your laptop, phone, and watch
-1. Keep your watch and phone in your bag. Do not take them out during class.
 1. Bring a notebook to class and take notes during class
 1. Ask questions and participate in discussions and critique
 1. During in-class hands-on activities, work diligently. Once you have the
-   basic thing working, experiment with modifications.
+   basic thing working, experiment with modifications
 1. Start homework and projects early
+1. For any assignment or project, do the most difficult part first
 1. Document your work as you go along, writing directly in your journal. Take
-   photographs (it's ok to use your phone for this) and videos as appropriate.
+   photographs and videos as appropriate.
    Draw sketches in your notebook, photograph them, and add to your journal.
 1. Pay attention when things go wrong. Try to understand why. Ask questions,
-   do research on the internet.
+   do research on the internet. The ability to approach debugging with 
+   a logical and critical mind is a superpower.
 1. Aim to have your robot assignments done two days before they are due
 1. Expect things to take much longer than you think. Be pleasantly surprised
    when they don't. 
-   Feel free to tell me that I was wrong.
-1. Expect unexpected problems and failures
+   Feel free to tell me that I was wrong
+1. Expect unexpected problems and failures. Embrace the opportunity to learn
+   something new. 
 1. Expect things to not work when you think they should
+1. Beware of the word "should", such as "this shouldn't take too long" or
+   "this should work". Unless you've built many robots in the past, you have
+   no basis for making this judgement and you are probably wrong.
+1. Put serious effort into solving problems, but at the same time be ready to
+   change your design or plan to avoid the issue. Knowing when to abandon a
+   problem and instead to develop a workaround is another superpower.
 1. Reach out to me early and often. 
     I like it when students ask me questions.
     Don't be afraid of becoming a nuisance to me. 
     That is my responsibility, 
     and in all my years of teaching that has never happened.
-1. Beware of the word "should", such as "this shouldn't take too long" or
-   "this should work". Unless you've built many robots in the past, you have
-   no basis for making this judgement and you are probably wrong.
 
 ### Appendix 1: Interactive Media Major Program Learning Outcomes (PLOs)
 

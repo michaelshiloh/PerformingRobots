@@ -129,11 +129,11 @@ required.
 
 | Activity | Percentage of final grade | Submission Date (week) | CLO |
 | --- | --- | --- | --- |
-| Participation | 10 | Weekly | 5 |
-| Weekly assignment | 20 | Weekly | all |
-| Midterm | 20 | Week 7 | 3, 7, 8 |
-| Panel | 20 | na | 4, 5 |
-| Final project | 30 | Week 14 | 1, 2, 3, 6, 7, 8 |
+| Participation | 10 | Weekly | 6 |
+| Weekly assignment | 20 | Weekly | See [Schedule](#schedule)
+| Midterm | 20 | Week 7 | 1, 2, 3, 4 |
+| Panel | 20 | na | 6, 7 |
+| Final project | 30 | Week 14 | 1, 2, 3, 4, 5 |
 | Total | 100 | | |
 
 #### Due Dates
@@ -426,20 +426,20 @@ Students may also contact religiousaccommodations@nyu.edu for assistance.
 This is likely to change as we see what sort of robots you choose to make
 and what sort of problems develop
 
-| Week | Topic(s) | Homework |
+| Week | Topic(s) | Homework | CLOs Assessed |
 | --- | --- | --- |
-| Week 1 | Arduino review | Arduino review, Github and Discord accounts |
-| Week 2 | Motors with external power supplies | Motor control with switch, potentiometer |
-| Week 3 | Discuss play theme; Music Maker Shield, NeoPixels | Select play theme, Music Maker Shield, NeoPixels |
-| Week 4 | Common robot base, electronic fabrication rules, soldering | soldering, L298 interface board |
-| Week 5 | Tool Training | Common robot base 90% complete |
-| Week 6 | Finalize play outline and characters | choose team, character (sketch and description), 1 dialogue |
-| Week 7 | Remote control of robot base; presentations Midterm | movement based personality  |
-| Week 8 | Unique robot features, servo motors, nRF servo shield | sketch and describe all features |
-| Week 9 | Fabrication techniques: cardboard, wood, aluminium | robot body 90%, prototype mechanical features |
-| Week 10 | nRF transmitter and receiver | Finish robot body and all features |
-| Week 11 | Remote control of robot features | Remote control all features and dialogue |
-| Week 12 | Finishing touches, rehearsals | Week 13 | Rehearsals |
+| Week 1 | Arduino review | Arduino review, Github and Discord accounts | 4 |
+| Week 2 | Motors with external power supplies | Motor control with switch, potentiometer | 4 |
+| Week 3 | Discuss play theme; Music Maker Shield, NeoPixels | Select play theme, Music Maker Shield, NeoPixels | 1 |
+| Week 4 | Common robot base, electronic fabrication rules, soldering | soldering, L298 interface board | 3, 4 |
+| Week 5 | Tool Training | Common robot base 90% complete | 3, 4 |
+| Week 6 | Finalize play outline and characters | choose team, character (sketch and description), 1 dialogue | 1 |
+| Week 7 | Remote control of robot base; presentations Midterm | movement based personality  | 3, 4 |
+| Week 8 | Unique robot features, servo motors, nRF servo shield | sketch and describe all features | 1, 2, 3, 4 |
+| Week 9 | Fabrication techniques: cardboard, wood, aluminium | robot body 90%, prototype mechanical features | 1, 2, 3, 4, 5 |
+| Week 10 | nRF transmitter and receiver | Finish robot body and all features | 1, 2, 3, 4, 5 |
+| Week 11 | Remote control of robot features | Remote control all features and dialogue | 1, 2, 3, 4, 5 |
+| Week 12 | Finishing touches, rehearsals | Week 13 | Rehearsals | 1, 2, 3, 4, 5 |
 | Week 14 | Perform at the IM End of Semester Showcase! |
 
 ### Appendix 1: Interactive Media Major Program Learning Outcomes (PLOs)

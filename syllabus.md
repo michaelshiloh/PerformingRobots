@@ -427,7 +427,7 @@ This is likely to change as we see what sort of robots you choose to make
 and what sort of problems develop
 
 | Week | Topic(s) | Homework | CLOs Assessed |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | Week 1 | Arduino review | Arduino review, Github and Discord accounts | 4 |
 | Week 2 | Motors with external power supplies | Motor control with switch, potentiometer | 4 |
 | Week 3 | Discuss play theme; Music Maker Shield, NeoPixels | Select play theme, Music Maker Shield, NeoPixels | 1 |

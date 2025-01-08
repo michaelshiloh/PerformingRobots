@@ -87,13 +87,13 @@ engagement and curiosity.
 
 | CLO number | Upon successful completion of this course the student will be able to: | Linked to Program Learning Outcome * (Level of Contribution - High/Medium/Low) |
 | --- | ---------------------- | ---------------------- |
-| 1 | Work in a team to create a simple remote controlled robot for performance | PLO 8: High, PLO 3: High| 
-| 2 | Design a custom robot to express a unique personality using standard electronic components | PLO 3: High, PLO PLO 6: Medium|
+| 1 | Work in a team to conceptualize and fabricate a simple remote controlled robot for performance | PLO 8: High, PLO 3: High, PLO 5: High, PLO 6, Medium | 
+| 2 | Design robotic features to express a unique personality using standard electronic components | PLO 3: High, PLO PLO 6: Medium|
 | 3 | Maximize the expressive ability of a robot given its limitations | PLO 6: Medium |
-| 8 | Learn how to revise a plan based on unexpected developments in order to achieve a Minimum Viable Project (MVP) and meet a deadline | PLO 7: Medium |
-| 5 | Analyze and critique cultural, social, historical, ethical, and aesthetic discourse on robots | PLO 4: High |
-| 6 | Develop technical skills in programming, electronics, mechatronics, and debugging | PLO 5: High |
-| 7 | Conceptualize and fabricate a robotic character | PLO 6: High |
+| 4 | Develop technical skills in programming, electronics, mechatronics, and debugging | PLO 5: High, PLO 4: Medium |
+| 5 | Learn how to constantly monitor and revise a plan based on unexpected developments to deliver a Minimum Viable Project (MVP) on a deadline | PLO 4: Medium, PLO 7: Medium |
+| 6 | Analyze and critique cultural, social, historical, ethical, and aesthetic discourse on robots | PLO 1: High, PLO 4: High |
+| 7 | Research, articulate, and defend a position on a cultural, social, historical, ethical, or aesthetic topic in robotics | PLO 1: High, PLO 4: High |
 
 \* The Program Learning Outcomes (PLOs) are described in [Appendix 1: Interactive Media Major Program Learning Outcomes.](#appendix-1-interactive-media-major-program-learning-outcomes-plos)
 
@@ -120,6 +120,9 @@ Students are required to
 operate their robots during a performance
 as part of the Interactive Media End of Semester Showcase.
 
+All required course materials will be provided. Students may optionally
+elect to purchase additional accessories for their robot, but this is not
+required.
 
 ### Graded Activities
 
@@ -176,15 +179,15 @@ Rubric:
 - Students must be present at the IM end of semester show.
 
 Rubric:
-- Level of participation on a scale of 1 to 10, 
+- Level of participation on a scale of 0 to 3,
     then prorated according to the
   [Percentage of Final Grade](#Graded-Activities)
 
-| Performance Indicator | 10 | 8 | 3 | 0 |
+| Performance Indicator | 3 | 2 | 1 | 0 |
 | --- | --- | --- | --- | --- |
 | Frequency of participation in class and in meetings | Frequently initiates contributions and offers to respond to questions posed in class; regularly contributes to discussion or asks questions | Occasionally initiates contributions and offers to respond to questions posed in class; occasionally raises questions in meetings | Rarely initiates contributions and offers to respond to questions posed in class; rarely raises questions in meetings | Does not initiate contributions and will only respond to direct questions posed to student; does not raise questions in meetings |
 | Quality of comments / questions | Comments always insightful and constructive; asks insightful questions that demonstrate student has actively listened to the presentation and engaged with the material | Comments mostly insightful; asks questions that demonstrate good engagement with the material presented during the presentation | Comments are sometimes constructive; comments too long or not always relevant to discussion; comments have already been stated | Comments are uninformative; heavy reliance on general sentiment (“I don’t like the idea”, “sounds great”) |
-| Listening skills | Actively listens during meetings / presentations, including when other students speak; builds on comments of others | Mostly attentive when others present or pose questions; occasionally needs reminder from instructor to focus or comment | Often inattentive and needs reminder to focus in class; interrupts others or otherwise disrupts others who are speaking | Does not listen to others; speaks while others speak; detracts from discussion |
+| Listening skills | Actively listens during meetings / presentations, including when other students speak; builds on comments of others; never uses laptop inappropriately | Mostly attentive when others present or pose questions; occasionally needs reminder from instructor to focus or comment; was reminded once not to use laptop during presentations | Often inattentive and needs reminder to focus in class; interrupts others or otherwise disrupts others who are speaking; had to be reminded 2-3 in the semester not to use laptop during presentations | Does not listen to others; speaks while others speak; detracts from discussion; had to be reminded more than 4 times in the semester not to use laptop during presentations |
 
 #### Weekly assignment 
 
@@ -298,11 +301,14 @@ The final project receive a maximum of 20 points,
 #### Laptops, cellphones, tablets, watches, earphones, earbuds, etc.
 
 - During lecture, when classmates are presenting or we’re in the midst of a
-  class discussion, use of these items is not permitted. 
+  class discussion, use of these items is not permitted
+- Use of a laptop more than 4 times a semester during lecture, presentations, or
+  discussions will result in 0 points for participation
+  class discussion, use of these items is not permitted 
 - Notes should be taken using pen and paper unless you have discussed this
-  with me and received email approval.
+  with me and received email approval
 - If you have an emergency that requires you to answer your phone during
-  class, please tell me ahead of time.
+  class, please tell me ahead of time
 
 ### Academic Policies and Resources
 

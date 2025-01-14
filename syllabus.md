@@ -19,6 +19,7 @@ Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
 * Faculty Details
     * Professor: Michael Shiloh mshiloh@nyu.edu   
     * Office hours: Schedule an appointment [here](https://calendly.com/michaelshiloh/office_hours)
+    * Office phone number: 02-628-5185
 
 * Session: Fall 2024       
 * Meeting times:    
@@ -307,7 +308,7 @@ notes, by asking questions, and by participating in discussions.
 - I recognize that some absences are unavoidable.  If you know you are
   going to be late or absent, please email me in advance. If you have an
   emergency, let me know as soon as you can. To receive an excused absence,
-  you must ask in advance, and receive permission from me.
+  you must ask in advance, and receive written permission from me.
 - If you plan on not attending more than two meetings during the semester,
   consider taking the course at some other time.
 
@@ -320,13 +321,12 @@ Rubric:
 
 #### Laptops, cellphones, tablets, watches, earphones, earbuds, etc.
 
-- During lecture, when classmates are presenting or we’re in the midst of a
+- During lectures, when classmates are presenting or we’re in the midst of a
   class discussion, use of these items is not permitted
 - Use of a laptop more than 4 times a semester during lecture, presentations, or
   discussions will result in 0 points for participation
-  class discussion, use of these items is not permitted 
 - Notes should be taken using pen and paper unless you have discussed this
-  with me and received email approval
+  with me and received written approval
 - If you have an emergency that requires you to answer your phone during
   class, please tell me ahead of time
 
@@ -336,7 +336,8 @@ If you have any questions, would like extra help, or need further instruction,
 please reach out to me. You can communicate with me via email, sign up for
 office hours, or any time you see me.
 Please let me know if you have any concerns about the material or your
-progress in the course. I am very willing to help, but you have to take the
+progress in the course. I am very willing to help, 
+it is your responsibility to take the
 first step of reaching out to me.
 
 #### Academic Integrity
@@ -403,7 +404,7 @@ register as a client and to schedule an appointment, go to
 It is wise to schedule appointments well in
 advance because appointment slots fill up.
 
-##### Religious Accommodations
+#### Religious Accommodations
 
 NYU’s Policy on Academic Accommodations for Religious Holidays and
 Observances states that students may, without penalty, excuse themselves from
@@ -422,7 +423,7 @@ and what sort of problems develop
 | --- | --- | --- | --- |
 | Week 1 | Arduino review | Arduino review, Github and Discord accounts | 4 |
 | Week 2 | Motors with external power supplies | Motor control with switch, potentiometer | 4 |
-| Week 3 | Discuss play theme; Music Maker Shield, NeoPixels | Select play theme, Select presentation topics, Music Maker Shield, NeoPixels | 1 |
+| Week 3 | Discuss play theme; Music Maker Shield, NeoPixels | Select play theme, select presentation topics, Music Maker Shield, NeoPixels | 1 |
 | Week 4 | Common robot base, electronic fabrication rules, soldering | soldering, L298 interface board | 3, 4 |
 | Week 5 | Tool Training | Common robot base 90% complete | 3, 4 |
 | Week 6 | Finalize play outline and characters | choose team, character (sketch and description), 1 dialogue | 1 |

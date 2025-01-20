@@ -172,7 +172,7 @@ Rubric:
 
 | Excellent (2 points) | Poor (1 point) | Incomplete (0 points) |
 | ---- | ---- | ---- | 
-| All parts of the assignment have been completed reliably and robustly; journal documentation is complete and well written | Most parts of the assignment have been completed and are mostly reliable and robost; documentation is mostly present and well written | Most parts of the assignment have been not been completed or are unreliable or not robust; journal entry is incomplete or absent |
+| All parts of the assignment have been completed reliably and robustly; journal documentation is complete and well written | Most parts of the assignment have been completed and are mostly reliable and robust; documentation is mostly present and well written | Most parts of the assignment have been not been completed or are unreliable or not robust; journal entry is incomplete or absent |
 
 #### Midterm 
 
@@ -251,7 +251,7 @@ The final project receive a maximum of 20 points,
 
 #### Grade Distribution
 
-| Activity | Percentage of final grade | Submission Date (week) | CLO |
+| Activity | Percentage of final grade | Submission Date (week) | CLOs assessed |
 | --- | --- | --- | --- |
 | Participation | 10 | Weekly | 6 |
 | Weekly assignment | 20 | Weekly | See [Schedule](#schedule)

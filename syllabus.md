@@ -317,8 +317,6 @@ Rubric:
 - Arriving late by more than 10 minutes, either at the start of class or
   following a break, will count as an unexcused absence.
 - Each unexcused absence reduces your final grade by 5%.
-- You may have four excused absences with no penalty. After four excused
-  absences, each additional excused absence reduces your final grade by 3%.
 - Absences due to holiday travel or vacation travel will not be excused.
 
 #### Laptops, cellphones, tablets, watches, earphones, earbuds, etc.
@@ -386,8 +384,9 @@ interfere with your ability to perform academically or impact your daily
 functioning, such as: heightened stress; anxiety; difficulty concentrating;
 sleep disturbance; strained relationships; grief and loss; personal struggles.
 If you have any well-being or mental health concerns, please visit the
-Counseling Center on the ground floor of the campus center from 9am-5pm Sunday
-- Thursday, or schedule an appointment to meet with a counselor by calling:
+Counseling Center on the ground floor of the campus center 
+from 9am-5pm Sunday - Thursday, 
+or schedule an appointment to meet with a counselor by calling:
 +971 02-628-8100, or emailing: nyuad.healthcenter@nyu.edu. If you require
 mental health support outside of these hours, call NYU's Wellness Exchange
 hotline at +971 02-628- 5555, which is available 24 hours a day, 7 days a

@@ -10,6 +10,7 @@ Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
     * Credit Hours: 4     
     * This is a 14 week course consisting of fourteen 75 minute meetings and
       fourteen 150 minute meetings
+    * Instructional time requirements are met by the scheduled meeting times
     * Class location: C3-029 (IM Lab in the Art Center)
     * Prerequisites: None     
 * This course counts toward the following NYUAD degree requirements:
@@ -25,7 +26,6 @@ Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
 * Meeting times:    
 	- 2:10-3:25 Tuesday
 	- 2:10-4:50 Thursday
-* Instructional time requirements are met by the scheduled meeting times
 
 * Course website: [https://github.com/michaelshiloh/PerformingRobots](https://github.com/michaelshiloh/PerformingRobots)  
 * This file: syllabus
@@ -42,6 +42,30 @@ Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
 - [Appendix 1: Interactive Media Major Program Learning Outcomes.](#appendix-1-interactive-media-major-program-learning-outcomes-plos)
 
 ### Course Description
+
+#### Short (Albert) Version
+
+Intelligent robots living amongst ordinary people used to be a storyline
+relegated to the world of science-fiction.  However, from military
+organizations and manufacturing companies to mobile devices and maid services,
+the 21st century has witnessed a rapid adoption of automated machinery in both
+the private and public sector.  
+
+Assuming robotic technology continues to proliferate, what will it mean for us
+to live amongst robots? What will these robots look like and how will they
+behave? How can we meaningfully effect their development and impact?  We
+shouldn't expect that our future with robots will look or act very much like
+most science-fiction depictions.  As new technologies are developed, it tends
+to be artists who are the first to apply these technologies in surprising,
+unanticipated, and often enlightening fashions.
+
+Thus, in this course, students will explore the significance of robots through
+the context of art by learning about and building experimental robots for
+theatrical performance. We will define robots broadly and consider a wide
+range of machines, both autonomous and remote-controlled, for the purpose of
+creative expression and performance. 
+
+#### Expanded (Syllabus) Version
 
 Intelligent robots living amongst ordinary people used to be a storyline
 relegated to the world of science-fiction.  However, from military
@@ -253,8 +277,8 @@ The final project receive a maximum of 20 points,
 
 | Activity | Percentage of final grade | Submission Date (week) | CLOs assessed |
 | --- | --- | --- | --- |
-| Participation | 10 | Weekly | 6 |
-| Weekly assignment | 20 | Weekly | See [Schedule](#schedule)
+| Participation | 10 | Ongoing | 6 |
+| Weekly assignment | 20 | Ongoing | See [Schedule](#schedule)
 | Midterm | 20 | Week 7 | 1, 2, 3, 4 |
 | Panel | 20 | na | 6, 7 |
 | Final project | 30 | Week 14 | 1, 2, 3, 4, 5 |

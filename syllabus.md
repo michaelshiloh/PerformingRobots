@@ -288,17 +288,18 @@ The final project receive a maximum of 20 points,
 
 | Letter Grade | Minimum Percentage | 
 | --- | --- | 
-| A | 94 |
-| A- | 90 |
-| B+ | 86 |
-| B | 83 |
-| B- | 80 |
-| C+ | 76 |
-| C | 73 |
-| C- | 70 |
-| D+ | 66 |
-| D | 63 |
-| F | 0 |
+| A | 100 - 95 |
+| A- | 94 - 90 |
+| B+ | 89 - 87 |
+| B | 86 - 83 |
+| B- | 82 - 80 |
+| C+ | 79 - 77 |
+| C | 76 - 73 |
+| C- | 72 - 70 |
+| D+ | 69 - 67 |
+| D | 66 - 63 |
+| F | 62 - 0 |
+Scores will be rounded up at precisely .5, so 89.5 becomes 90 but 89.49 does not.
 
 ### Course Materials
 

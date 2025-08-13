@@ -216,7 +216,7 @@ The midterm assignment receives a maximum of 5 points,
     then prorated according to the
   [Grade Distribution](#grade-distribution)
 
-| Criteria | Excellent (5 points) | Very Good (4 points) | Good (3 points) | Marginal (2 points | Poor (1 point) | Incomplete (0 points | 
+| Criteria | Excellent (5 points) | Very Good (4 points) | Good (3 points) | Marginal (2 points) | Poor (1 point) | Incomplete (0 points) | 
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
 | Assignment Quality | All exercise criteria are fulfilled and work shows excellent level of effort and attention to detail.  | Assignment is slightly incomplete or is not implemented to an extremely high standard; documentation is almost entirely complete or is complete but the writing quality does not rise to the level of excellent.  | Assignment is moderately complete or is implemented to a moderate standard; documentation is almost entirely complete or is complete but is only of a moderate quality | Assignment is marginally complete or is implemented to a marginal standard; documentation is marginally complete or is complete but is only of a marginal quality | Assignment is barely complete or is implemented to a very low standard; documentation is barely complete or is only of a poor quality | Hardly any required components are present or assignment was not submitted |
 
@@ -306,9 +306,6 @@ Scores will be rounded up at precisely .5, so 89.5 becomes 90 but 89.49 does not
 All required course materials will be provided. Students may optionally
 elect to purchase additional accessories for their robot, but this is not
 required.
-
-A list of optional supplemental textbooks 
-may be found [here](references.md#books).
 
 ### Academic Policies and Resources
 

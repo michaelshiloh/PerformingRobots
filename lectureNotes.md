@@ -1,0 +1,132 @@
+Shortcut to [today's assignment](homework.md#todays-assignment)  
+Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
+
+#### New York University Abu Dhabi  
+#### Interactive Media Program
+
+* Course Information
+    * Course Code and Number: IM-UH 2117  
+    * Course Title: Performing Robots
+    * Credit Hours: 4     
+    * This is a 14 week course consisting of fourteen 75 minute meetings and
+      fourteen 150 minute meetings
+    * Instructional time requirements are met by the scheduled meeting times
+    * Class location: C3-029 (IM Lab in the Art Center)
+    * Prerequisites: IM-UH 1010 or INTM-SHU 101 Interaction Lab or IMNY-UT 101 Creative Computing or DM-UY 1133 Creative Coding
+* This course counts toward the following NYUAD degree requirements:
+    * Majors > Interactive Media
+    * Majors > Interactive Media > Physical Computing 
+    * Minors > Interactive Media
+* Faculty Details
+    * Professor: Michael Shiloh mshiloh@nyu.edu   
+    * Office hours: Schedule an appointment [here](https://calendly.com/michaelshiloh/office_hours)
+    * Office phone number: 02-628-5185
+
+* Session: Fall 2025       
+* Meeting times:    
+	- 3:20-4:35 Tuesday
+	- 3:20-6:00 Thursday
+
+* Course website: [https://github.com/michaelshiloh/PerformingRobots](https://github.com/michaelshiloh/PerformingRobots)  
+
+This document: Lecture Notes
+
+### Tuesday August 26 Week 1
+
+#### Administration
+- I'll be gone next week!
+
+#### In-class activity
+
+Download and install Arduino from [here](https://www.arduino.cc/en/software)
+
+#### What is this class about
+- What are robots?
+- What is performance?
+
+Introduction
+
+- Watch some videos
+	- [Welcome to Duloc](https://www.youtube.com/watch?v=X81AoBcVnaA)
+	- [Survival Research Labs](https://youtu.be/aZwkvM4BzN4?t=302)
+	- [Bot and Dolly](https://youtu.be/lX6JcybgDFo?t=132)
+	- [Oriza Hirata](https://youtu.be/CWnnqObk1qM)
+	- [Robotic Church](https://vimeo.com/114296519#t=120s)
+    - [This class in 2023](https://drive.google.com/file/d/1WoT0_J1sPGSjmjJODrpIFxpetJMYGRMR/view?usp=sharing)
+
+- What is this class about?
+- [weekly schedule](weeklySchedule.md)
+- [Syllabus](syllabus.md)
+
+**Be prepared to work hard in this class!**
+
+- If you have never built mechanisms, then the model that you have in your
+  head of how something should work will likely be very wrong. As a result,
+  what worked perfectly in your head in theory will be very likely to fail in
+  practice.
+- Expect to rebuild the same thing many times until it works. 
+- Even after you get things working, expect them to break as your robot moves
+  around
+- Expect that your estimates of how long something should take to be very
+  wrong
+- A robot is a complex system consisting of many different sub-systems.
+  While each sub-system might work perfectly by themselves, when they are
+  integrated into a single system unexpected interactions may (will) cause
+  unexpected problems.
+
+- Introductions
+	- What is your creative passion?
+	- What is your experience with theater?
+	- Have you built robots before?
+    - What experience do you have with construction and mechatronics?
+    - What experience do you have with hand and power tools?
+
+Homework
+- See shortcut above
+
+### Thursday August 28
+#### Today
+- Very quick review of Arduino
+- Very quick review of switch on solderless breadboard
+- L298 Motor Driver with external battery and large motor
+
+#### Lecture
+
+##### Very quick review of Arduino
+
+##### Very quick review of switch and LED on solderless breadboard
+- Use built-in pullup resistor for switch. This means switch pulls `HIGH`.
+
+##### L298 Motor Driver with external battery and large motor
+
+To control a large motor, 
+we need an intermediate device called a motor driver. Our
+particular motor driver is based on the L298. To find out how we use it, we
+simply Google "L298 Arduino".
+[Here](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)
+is the first thing that showed up for me. The point here is that many of the
+components we use are quite generic and there is a lot of information on using
+components with Arduino, but we can not follow the instructions blindly. We do need to understand how it works.
+
+Sample code, assuming you used these pins: 
+```
+void setup() {
+  // Pins 2 and 3 are connected to In1 and In2 respectively
+  // of the L298 motor driver
+  pinMode(2, OUTPUT);
+  pinMode(3, OUTPUT);
+}
+
+void loop() {
+  // make the motor turn in one direction
+  digitalWrite(2, LOW);
+  digitalWrite(3, HIGH);
+  delay(5000); // let it turn for 5 seconds
+
+  // now reverse direction
+  digitalWrite(2, HIGH);
+  digitalWrite(3, LOW);
+  delay(5000);
+}
+```
+

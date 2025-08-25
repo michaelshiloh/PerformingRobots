@@ -32,6 +32,14 @@ Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
 #### todays-assignment
 ### Assignments Due Thursday August 28 Week 1
 
+Outfit Assignment:
+- Next week you will probably get tool training. For this you need to dress
+  properly:
+  - Closed toed shoes
+  - No loose clothing (smocks can be provided)
+  - No necklaces or bracelets or other dangling jewelery
+  - Expect to get dusty (sawdust, metal shavings)
+
 Email Assignment:
 
 - Join Discord

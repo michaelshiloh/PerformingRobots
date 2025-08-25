@@ -62,7 +62,7 @@ Reading Assignment:
     - How to use an L298 H-bridge to control the direction and speed of a
       motor
 
-There are millions of resources on the web. Here is a short list or use your
+There are millions of resources on the web. Here is a short list or find your
 own:
 - Breadboard
     - Video: https://www.youtube.com/watch?v=6WReFkfrUIk
@@ -78,7 +78,8 @@ own:
         - https://www.youtube.com/watch?v=cmc-BPtkdAU
         - https://www.youtube.com/watch?v=JwpBn1mPGMc
         - https://www.youtube.com/watch?v=8bufqdXwCpY
-    - Text: https://arduinofactory.com/arduino-language-analog-pins-analogwrite-and-analogread/
+    - Text: 
+        - https://arduinofactory.com/arduino-language-analog-pins-analogwrite-and-analogread/
         - https://arduinofactory.com/arduino-language-digital-pins-digitalwrite-and-digitalread/
 - If… else
     - Video: https://www.youtube.com/watch?v=YktSocf2vSc

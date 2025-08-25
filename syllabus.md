@@ -12,7 +12,7 @@ Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
       fourteen 150 minute meetings
     * Instructional time requirements are met by the scheduled meeting times
     * Class location: C3-029 (IM Lab in the Art Center)
-    * Prerequisites: None     
+    * Prerequisites: IM-UH 1010 or INTM-SHU 101 Interaction Lab or IMNY-UT 101 Creative Computing or DM-UY 1133 Creative Coding
 * This course counts toward the following NYUAD degree requirements:
     * Majors > Interactive Media
     * Majors > Interactive Media > Physical Computing 
@@ -22,10 +22,10 @@ Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
     * Office hours: Schedule an appointment [here](https://calendly.com/michaelshiloh/office_hours)
     * Office phone number: 02-628-5185
 
-* Session: Fall 2024       
+* Session: Fall 2025       
 * Meeting times:    
-	- 2:10-3:25 Tuesday
-	- 2:10-4:50 Thursday
+	- 3:20-4:35 Tuesday
+	- 3:20-6:00 Thursday
 
 * Course website: [https://github.com/michaelshiloh/PerformingRobots](https://github.com/michaelshiloh/PerformingRobots)  
 * This file: syllabus

@@ -6,7 +6,7 @@ Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
 #### Interactive Media Program
 
 * Course Information
-    * Course Code and Number: IM-UH 2117  
+    * Course Code and Number: IM-UH 3117  
     * Course Title: Performing Robots
     * Credit Hours: 4     
     * This is a 14 week course consisting of fourteen 75 minute meetings and

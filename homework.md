@@ -33,7 +33,7 @@ Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
 ### Assignments Due Thursday August 28 Week 1
 
 Outfit Assignment:
-- Next week you will probably get tool training. For this you need to dress
+- Next week you will be doing tool training. For this you need to dress
   properly:
   - Closed toed shoes
   - No loose clothing (smocks can be provided)
@@ -43,10 +43,11 @@ Outfit Assignment:
 Email Assignment:
 
 - Join Discord
-- Create a Github account, if you do not have one
+- Create a Github account, if you do not have one. Instructions are
+  [here](https://github.com/michaelshiloh/resourcesForClasses#github-resources)
 - Create a repository called "performingrobots" in your Github account. 
 - Send me email with:
-    - A link to your github repository (*repository, not account!!!!*)
+    - A link to your github *repository* (not the account!!!!)
     - Discord screen name 
 
 Reading Assignment:

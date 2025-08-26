@@ -35,6 +35,7 @@ This document: Lecture Notes
 
 #### Administration
 - I'll be gone next week!
+- Apply to be a [Lab Assistant](https://app.joinhandshake.com/emp/jobs/10154995)
 
 #### In-class activity
 

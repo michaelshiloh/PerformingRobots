@@ -161,7 +161,8 @@ as part of the Interactive Media End of Semester Showcase.
 Rubric:
 - Level of participation on a scale of 0 to 3,
     then prorated according to the
-  [Grade Distribution](#grade-distribution)
+
+[Grade Distribution](#grade-distribution)
 
 | Performance Indicator | 3 | 2 | 1 | 0 |
 | --- | --- | --- | --- | --- |
@@ -191,8 +192,7 @@ Rubric:
 Rubric:
 
   Each weekly assignment is worth up to 2 points,
-    then prorated according to the
-  [Grade Distribution](#grade-distribution)
+    then prorated according to the [Grade Distribution](#grade-distribution)
 
 | Excellent (2 points) | Poor (1 point) | Incomplete (0 points) |
 | ---- | ---- | ---- | 
@@ -213,8 +213,7 @@ Rubric:
 Rubric:
 
 The midterm assignment receives a maximum of 5 points,
-    then prorated according to the
-  [Grade Distribution](#grade-distribution)
+    then prorated according to the [Grade Distribution](#grade-distribution)
 
 | Criteria | Excellent (5 points) | Very Good (4 points) | Good (3 points) | Marginal (2 points) | Poor (1 point) | Incomplete (0 points) | 
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 

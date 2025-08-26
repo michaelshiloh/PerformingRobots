@@ -22,6 +22,7 @@ Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
     * Professor: Michael Shiloh mshiloh@nyu.edu   
     * Office hours: Schedule an appointment [here](https://calendly.com/michaelshiloh/office_hours)
     * Office phone number: 02-628-5185
+    * Office location: C3-156
 
 * Session: Fall 2025       
 * Meeting times:    

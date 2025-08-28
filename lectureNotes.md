@@ -86,20 +86,24 @@ Introduction
 Homework
 - See shortcut above
 
+##### todays-lecture
 ### Thursday August 28
 #### Today
-- Very quick review of Arduino
-- Very quick review of switch on solderless breadboard
+- Arduino, solderless breadboard, switch
 - L298 Motor Driver with external battery and large motor
 
-#### Lecture
+#### Administration
+- I'll be gone next week!
+- Apply to be a [Lab Assistant](https://app.joinhandshake.com/emp/jobs/10154995)
+- One seat open in Communications Lab
 
-##### Very quick review of Arduino
 
-##### Very quick review of switch and LED on solderless breadboard
+#### Very quick review of Arduino
+
+#### Very quick review of switch and LED on solderless breadboard
 - Use built-in pullup resistor for switch. This means switch pulls `HIGH`.
 
-##### L298 Motor Driver with external battery and large motor
+#### L298 Motor Driver with external battery and large motor
 
 To control a large motor, 
 we need an intermediate device called a motor driver. Our
@@ -109,6 +113,15 @@ simply Google "L298 Arduino".
 is the first thing that showed up for me. The point here is that many of the
 components we use are quite generic and there is a lot of information on using
 components with Arduino, but we can not follow the instructions blindly. We do need to understand how it works.
+
+##### Code
+Before you look at the code here, think about the circuit.
+- `EN` needs to be `HIGH` in order to turn on the motor driver
+- IN1 and IN2 need to be opposite (if one is `HIGH` then the other should be
+  `LOW`) in order to make the motor turn
+- Can you think of how to do this? (Hint: you can do this with 4 lines of code
+  in `setup()` function and an empty `loop()` function)
+
 
 Sample code, assuming you used these pins: 
 ```

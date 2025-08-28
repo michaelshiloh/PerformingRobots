@@ -38,3 +38,5 @@ This file: Student Github Repositories and Discord account names
 - [Clara Juong](https://github.com/clara0424/performingrobots) - Discord Clara Juong
 - [Aysha Salma](https://github.com/as16715/performingrobots) - Discord Aysha Salma
 - [Mustafa Bakir](https://github.com/MustafaBakir0/performingrobots) - Discord A_7x
+- [Sudiksha Kalepu](https://github.com/sudikshakalepu/performingrobots) - Discord sudiksha
+- [Torico Chen](https://github.com/Torico-Chen/performingrobots) - Discord Torico-Chen

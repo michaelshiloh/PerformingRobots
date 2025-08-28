@@ -33,7 +33,14 @@ Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
 #### todays-assignment
 ### Assignments Due Thursday August 28 Week 1
 
+Bring to next class Assignment:
+
+- If you have a modern laptop with only USB-C ports, you will need a USB-C to
+  USB-A adapter, something like this: 
+![](media/USBC-USBA_adapter.jpg)
+
 Outfit Assignment:
+
 - Next week you will be doing tool training. For this you need to dress
   properly:
   - Closed toed shoes

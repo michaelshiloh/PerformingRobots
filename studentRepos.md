@@ -40,3 +40,6 @@ This file: Student Github Repositories and Discord account names
 - [Mustafa Bakir](https://github.com/MustafaBakir0/performingrobots) - Discord A_7x
 - [Sudiksha Kalepu](https://github.com/sudikshakalepu/performingrobots) - Discord sudiksha
 - [Torico Chen](https://github.com/Torico-Chen/performingrobots) - Discord Torico-Chen
+- [Joy Zheng](https://github.com/qiaoyinzheng/performingrobots) - Discord joy zheng
+- [Meera](https://github.com/meerak27/PerformingRobots) -Discord Meera Al Khazraji
+- [Ghadir](https://github.com/GhadirMadani/performingrobots) - Discord Ghadir Madani

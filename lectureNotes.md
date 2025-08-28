@@ -112,7 +112,13 @@ simply Google "L298 Arduino".
 [Here](https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/)
 is the first thing that showed up for me. The point here is that many of the
 components we use are quite generic and there is a lot of information on using
-components with Arduino, but we can not follow the instructions blindly. We do need to understand how it works.
+components with Arduino, but we can not follow the instructions blindly. We do
+need to understand how it works.
+
+**Warning** there is an error in the schematic under *Arduino and L298N Motor
+Driver*. Can you spot the problem? Hint: Look at the schematic under *Arduino
+Robot Car Control using L298N Motor Driver* and see if you can find the added
+connection that was missing.
 
 ##### Code
 Before you look at the code here, think about the circuit.

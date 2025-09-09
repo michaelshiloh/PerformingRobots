@@ -30,7 +30,6 @@ Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
 
 * Course website: [https://github.com/michaelshiloh/PerformingRobots](https://github.com/michaelshiloh/PerformingRobots)  
 
-#### todays-assignment
 ### Assignments Due Thursday August 28 Week 1
 
 Bring to next class Assignment:
@@ -100,3 +99,17 @@ own:
     - https://deepbluembedded.com/arduino-l298n-dc-motor-driver-interfacing-tutorial/
     - https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/
     - https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/
+
+#### todays-assignment
+### Assignments Due Thursday September 11
+1. Finish mounting the caster wheel and the two motors to your wooden
+   platform. You can use the tools in the IM lab whenever it is staffed,
+   either by Dustin or a lab assistant. 
+1.1. Be sure to clean up after yourselves.
+1.1. Obey safety protocols
+1.1.1. You must wear closed toed shoes and safety glasses
+1.1.1.  dress properly: hair tied back, no loose jewelery or clothes, etc.
+1. Since we will be doing a lot of fabrication in this class, I suggest that
+   you always dress appropriately.
+1. We need to start working on the play. Please bring to class **two**
+   concepts for plays.

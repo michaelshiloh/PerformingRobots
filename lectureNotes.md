@@ -157,7 +157,3 @@ void loop() {
 - Robot base: add H-bridge, Arduino
 - Hobby RC theory
 
-#### Administration
-- I'll be gone next week!
-- Apply to be a [Lab Assistant](https://app.joinhandshake.com/emp/jobs/10154995)
-- One seat open in Communications Lab

@@ -86,7 +86,6 @@ Introduction
 Homework
 - See shortcut above
 
-##### todays-lecture
 ### Thursday August 28
 #### Today
 - Arduino, solderless breadboard, switch
@@ -151,3 +150,14 @@ void loop() {
 }
 ```
 
+##### todays-lecture
+### Thursday September 11
+#### Today
+- Play theme and cast
+- Robot base: add H-bridge, Arduino
+- Hobby RC theory
+
+#### Administration
+- I'll be gone next week!
+- Apply to be a [Lab Assistant](https://app.joinhandshake.com/emp/jobs/10154995)
+- One seat open in Communications Lab

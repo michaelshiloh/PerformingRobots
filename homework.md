@@ -117,13 +117,13 @@ own:
 ### Assignments Due Tuesday September 16
 
 #### Play
-1. Create an outline of the play consisting of at least five scenes. for each
+Create an outline of the play consisting of at least five scenes. for each
    scene, describe the characters and summarize the scene: 
-1.1. Beginning scene (sort of an introduction)
-1.1. Intermediate scene A
-1.1. Intermediate scene B
-1.1. Intermediate scene C
-1.1. Final scene (wraps up any loose ends, closes the play)
+1. Beginning scene (sort of an introduction)
+1. Intermediate scene A
+1. Intermediate scene B
+1. Intermediate scene C
+1. Final scene (wraps up any loose ends, closes the play)
 
 #### Arduino
 1. Refresh your memory of how to use **arrays** in Arduino. Use any resource you
@@ -139,10 +139,12 @@ own:
    from a Hobby RC radio receiver
 
 #### Soldering
-Read the first two of
-[these](https://github.com/michaelshiloh/resourcesForClasses/tree/master?tab=readme-ov-file#soldering)
+Read the first two of the following
 guides on soldering, and watch the third video between 0:17 and 0:28 seconds.
-Play this over a few times and pay careful attention. Note how the solder
-sticks to the pin and the round pad on the circuit board. Note that only a
-little solder is used, so as not to create an unwanted connection (a *short
-circuit*) between two pins.
+Play the video over a few times and pay careful attention. 
+- Note how the solder **sticks to both the pin and the round pad on the
+  circuit board.**
+- Note that **only just enough solder is used**, so as not to create
+  an unwanted connection (a *short circuit*) between two pins.
+
+Soldering Resources [here](https://github.com/michaelshiloh/resourcesForClasses/tree/master?tab=readme-ov-file#soldering)

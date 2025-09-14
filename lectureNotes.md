@@ -155,6 +155,7 @@ void loop() {
 - Play theme and cast
 - Robot base: add H-bridge, Arduino
 - Hobby RC theory
+- Research presentations
 
 ##### todays-lecture
 ### Tuesday September 16

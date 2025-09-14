@@ -117,8 +117,9 @@ own:
 ### Assignments Due Tuesday September 16
 
 #### Play
-Create an outline of the play consisting of at least five scenes. for each
-   scene, describe the characters and summarize the scene: 
+Create an outline of the play consisting of at least five scenes. For each
+   scene, list the characters involved and summarize the scene. Typically, all
+   characters will be in the first and last scene: 
 1. Beginning scene (sort of an introduction)
 1. Intermediate scene A
 1. Intermediate scene B

@@ -150,10 +150,20 @@ void loop() {
 }
 ```
 
-##### todays-lecture
 ### Thursday September 11
 #### Today
 - Play theme and cast
 - Robot base: add H-bridge, Arduino
 - Hobby RC theory
+
+##### todays-lecture
+### Tuesday September 16
+#### Today
+- Soldering
+
+#### Soldering
+- Wire to wire (stranded-stranded)
+- Wire to board (stranded)
+- Stranded wire to Arduino pin
+- L298 interface board
 

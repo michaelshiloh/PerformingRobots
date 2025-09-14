@@ -100,7 +100,6 @@ own:
     - https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/
     - https://howtomechatronics.com/tutorials/arduino/arduino-dc-motor-control-tutorial-l298n-pwm-h-bridge/
 
-#### todays-assignment
 ### Assignments Due Thursday September 11
 1. Finish mounting the caster wheel and the two motors to your wooden
    platform. You can use the tools in the IM lab whenever it is staffed,
@@ -113,3 +112,37 @@ own:
    you always dress appropriately.
 1. We need to start working on the play. Please bring to class **two**
    concepts for plays.
+
+#### todays-assignment
+### Assignments Due Tuesday September 16
+
+#### Play
+1. Create an outline of the play consisting of at least five scenes. for each
+   scene, describe the characters and summarize the scene: 
+1.1. Beginning scene (sort of an introduction)
+1.1. Intermediate scene A
+1.1. Intermediate scene B
+1.1. Intermediate scene C
+1.1. Final scene (wraps up any loose ends, closes the play)
+
+#### Arduino
+1. Refresh your memory of how to use **arrays** in Arduino. Use any resource you
+   like, such as
+   [this](https://docs.arduino.cc/language-reference/en/variables/data-types/array/)
+   or
+   [this](https://docs.arduino.cc/built-in-examples/control-structures/Arrays/).
+   If you find a different resource that you find particularly useful, please
+   post it on our Discord channel.
+1. Read [this](https://ece353.engr.wisc.edu/firmware-basics/interrupts/) very basic introduction to **interrupts**. 
+1. Read [this](https://ryanboland.com/blog/reading-rc-receiver-values)
+   description of using the **EnableInterrupt** library to read the signals
+   from a Hobby RC radio receiver
+
+#### Soldering
+Read the first two of
+[these](https://github.com/michaelshiloh/resourcesForClasses/tree/master?tab=readme-ov-file#soldering)
+guides on soldering, and watch the third video between 0:17 and 0:28 seconds.
+Play this over a few times and pay careful attention. Note how the solder
+sticks to the pin and the round pad on the circuit board. Note that only a
+little solder is used, so as not to create an unwanted connection (a *short
+circuit*) between two pins.

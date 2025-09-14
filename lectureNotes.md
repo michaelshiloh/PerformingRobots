@@ -160,10 +160,15 @@ void loop() {
 ### Tuesday September 16
 #### Today
 - Soldering
+- Hobby RC
 
 #### Soldering
 - Wire to wire (stranded-stranded)
 - Wire to board (stranded)
-- Stranded wire to Arduino pin
+- Stranded wire to "jumper pin"
 - L298 interface board
 
+#### Hobby RC
+- Connect to Arduino using socket-socket jumpers
+- Test using
+  [code](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/hobbyRC/minimalMoreChannels/minimalMoreChannels.ino)

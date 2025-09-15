@@ -43,3 +43,4 @@ This file: Student Github Repositories and Discord account names
 - [Joy Zheng](https://github.com/qiaoyinzheng/performingrobots) - Discord joy zheng
 - [Meera](https://github.com/meerak27/PerformingRobots) -Discord Meera Al Khazraji
 - [Ghadir](https://github.com/GhadirMadani/performingrobots) - Discord Ghadir Madani
+- [Ali](https://github.com/alinoorisnerd/performingrobots) - Discord alinoor_777

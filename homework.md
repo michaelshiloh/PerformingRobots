@@ -153,6 +153,6 @@ Soldering Resources [here](https://github.com/michaelshiloh/resourcesForClasses/
 ### Assignments Due Thursday September 18
 1. Create an outline of the play 
 1. Before class, one person from each team should go to the Equipment Center
-   (near the Project Space) and check out the kit with the RC transmitter,
+   (near the Project Space) and check out the RadioLink RC4GS kit with the RC transmitter,
    receiver, batteries, and battery charger. 
 1. Dress appropriately for working in the IM fabrication area

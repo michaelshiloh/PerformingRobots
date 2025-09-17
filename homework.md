@@ -113,7 +113,6 @@ own:
 1. We need to start working on the play. Please bring to class **two**
    concepts for plays.
 
-#### todays-assignment
 ### Assignments Due Tuesday September 16
 
 #### Play
@@ -149,3 +148,11 @@ Play the video over a few times and pay careful attention.
   an unwanted connection (a *short circuit*) between two pins.
 
 Soldering Resources [here](https://github.com/michaelshiloh/resourcesForClasses/tree/master?tab=readme-ov-file#soldering)
+
+#### todays-assignment
+### Assignments Due Thursday September 18
+1. Create an outline of the play 
+1. Before class, one person from each team should go to the Equipment Center
+   (near the Project Space) and check out the kit with the RC transmitter,
+   receiver, batteries, and battery charger. 
+1. Dress appropriately for working in the IM fabrication area

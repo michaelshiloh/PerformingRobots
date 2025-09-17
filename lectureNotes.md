@@ -153,21 +153,32 @@ void loop() {
 ### Thursday September 11
 #### Today
 - Play theme and cast
+- Hobby RC concepts
+
+### Tuesday September 16
+#### Today
+Play feedback
+
+##### todays-lecture
+### Thursday September 18
+#### Today
+- Soldering
 - Robot base: add H-bridge, Arduino
 - Hobby RC theory
 - Research presentations
-
-##### todays-lecture
-### Tuesday September 16
-#### Today
-- Soldering
-- Hobby RC
 
 #### Soldering
 - Wire to wire (stranded-stranded)
 - Wire to board (stranded)
 - Stranded wire to "jumper pin"
 - L298 interface board
+- Extend the wires on the motors
+
+#### Robot base: add H-bridge, Arduino
+- Mounting the Arduino
+- Mounting the H-bridge
+- Mounting the battery
+- Wiring it all up
 
 #### Hobby RC
 - Connect to Arduino using socket-socket jumpers

@@ -163,6 +163,7 @@ Play feedback
 ### Thursday September 18
 #### Today
 - Soldering
+- IM Lab policies
 - Robot base: add H-bridge, Arduino
 - Hobby RC theory
 - Research presentations

@@ -167,6 +167,7 @@ Soldering Resources [here](https://github.com/michaelshiloh/resourcesForClasses/
   if you know how to use heat shrink tubing, you may insulate your solder joint
   with heat shrink tubing. If you are unsure, leave your wires exposed until I
   can inspect them (Monday or in class).
+- Charge all six of your AA batteries for the RadioLink RC4GS transmitter
 
 ### Assignments Due Tuesday September 30
 

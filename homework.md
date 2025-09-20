@@ -168,20 +168,25 @@ Soldering Resources [here](https://github.com/michaelshiloh/resourcesForClasses/
   with heat shrink tubing. If you are unsure, leave your wires exposed until I
   can inspect them (Monday or in class).
 
-### Assignments Due Tuesday September 23
+### Assignments Due Tuesday September 30
 
 In groups of two, choose two research topics on which you will give a
 presentation: 1) a team or individual creator (artist, designer, engineer) who
 creates robotic performers or performances and 2) a machine or device that is
-a robotic performer. 
+a robotic performer. You can define the word "robot" quite broadly, but it
+must have a physical presence and physically interact with the world outside
+of a computer screen.
 - Do not work with your robot partner
 - Choose a different group of two for each presentation
-- In-depth, serious research. Use the library. Guidelines to follow.
+- In-depth, serious research, analysis and critique are required. Your presentation must not
+  simply be a collection of facts. Use the library and the writing center. I
+  will provide more detailed guidelines.
 - You may find some inspiration in these
   [references](https://github.com/michaelshiloh/PerformingRobots/blob/master/references.md)
   or in these
   [resources](https://github.com/michaelshiloh/resourcesForClasses). 
 - Enter the names of your chose topics in
-  [this](https://docs.google.com/spreadsheets/d/1H67fPcgNpJAw_h9IF7Uh4UINfpykP3S3smrm_njblvk/edit?usp=sharing) list. If a topic is already
-  chosen, you must choose another. After your presentation, add a link.
+  [this](https://docs.google.com/spreadsheets/d/1H67fPcgNpJAw_h9IF7Uh4UINfpykP3S3smrm_njblvk/edit?usp=sharing)
+  list. If a topic is already chosen, you must choose another. After your
+  presentation, add a link.
 - Presentation can be of any form. 

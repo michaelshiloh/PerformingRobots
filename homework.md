@@ -1,5 +1,7 @@
 Shortcut to [today's assignment](homework.md#todays-assignment)  
 Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
+Shortcut to [play
+script](https://docs.google.com/document/d/1j0KADb83ufT4OnbhTfyRpN-7AbmNvH17S0KhKeWV_Zc/edit?tab=t.0)
 
 #### New York University Abu Dhabi  
 #### Interactive Media Program
@@ -149,10 +151,37 @@ Play the video over a few times and pay careful attention.
 
 Soldering Resources [here](https://github.com/michaelshiloh/resourcesForClasses/tree/master?tab=readme-ov-file#soldering)
 
-#### todays-assignment
 ### Assignments Due Thursday September 18
 1. Create an outline of the play 
 1. Before class, one person from each team should go to the Equipment Center
    (near the Project Space) and check out the RadioLink RC4GS kit with the RC transmitter,
    receiver, batteries, and battery charger. 
 1. Dress appropriately for working in the IM fabrication area
+
+#### todays-assignment
+### Assignments Due Tuesday September 23
+
+- Finish attaching the Arduino, L298 H-bridge, and battery to your robot base
+- Drill holes in based to allow the wires from the motors to come to the top
+- Extend the motor wires by soldering. If your soldering looks excellent, and
+  if you know how to use heat shrink tubing, you may insulate your solder joint
+  with heat shrink tubing. If you are unsure, leave your wires exposed until I
+  can inspect them (Monday or in class).
+
+### Assignments Due Tuesday September 23
+
+In groups of two, choose two research topics on which you will give a
+presentation: 1) a team or individual creator (artist, designer, engineer) who
+creates robotic performers or performances and 2) a machine or device that is
+a robotic performer. 
+- Do not work with your robot partner
+- Choose a different group of two for each presentation
+- In-depth, serious research. Use the library. Guidelines to follow.
+- You may find some inspiration in these
+  [references](https://github.com/michaelshiloh/PerformingRobots/blob/master/references.md)
+  or in these
+  [resources](https://github.com/michaelshiloh/resourcesForClasses). 
+- Enter the names of your chose topics in
+  [this](https://docs.google.com/spreadsheets/d/1H67fPcgNpJAw_h9IF7Uh4UINfpykP3S3smrm_njblvk/edit?usp=sharing) list. If a topic is already
+  chosen, you must choose another. After your presentation, add a link.
+- Presentation can be of any form. 

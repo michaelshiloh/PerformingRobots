@@ -188,7 +188,32 @@ Play feedback
 - Wire to board (stranded)
 - Pins and headers sockets
 
-##### L298 interface board and Arduino shield
+##### L298 Breakout Board to the Hobby RC and Motor Controller shield
+- Wire mapping
+- Header pins and sockets must be on the correct side
+- Header pins must be straight
+- Excellent soldering
+- No short circuits
+
+2. Connect the L298 Breakout Board to the Hobby RC and Motor Controller shield
+following the table below:
+
+| L298 Pin | Arduino Pin | Wire Color |
+| --- | --- | ----- |
+| EN1 | 9 | Yellow |
+| IN1 | 8 | Blue |
+| IN2 | 7 | Blue |
+| IN3 | 10 | Green |
+| IN4 | 12 | Green |
+| EN2 | 11 | White |
+| GND | GND | Black |
+
+Videos:
+- [Solder pins according to board](https://youtu.be/TmrvE1iV0zE)
+- [Soldering header socket to L298 Breakout Board](https://youtu.be/Eat3gU4fdVc)
+- Soldering wires between L298 Breakout Board and Hobby RC and Motor Controller Shield,
+  [part 1](https://youtu.be/473tP4C34UU) and [part
+  2](https://youtu.be/3yuinKMAYRI)
 
 ###### Robot base
 - Wiring it all up

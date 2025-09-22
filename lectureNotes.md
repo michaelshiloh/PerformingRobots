@@ -1,7 +1,7 @@
 Shortcut to [today's assignment](homework.md#todays-assignment)  
-Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
+Shortcut to [today's lecture](lectureNotes.md#todays-lecture)  
 Shortcut to [play
-script](https://docs.google.com/document/d/1j0KADb83ufT4OnbhTfyRpN-7AbmNvH17S0KhKeWV_Zc/edit?tab=t.0)
+script](https://docs.google.com/document/d/1j0KADb83ufT4OnbhTfyRpN-7AbmNvH17S0KhKeWV_Zc/edit?tab=t.0)  
 
 #### New York University Abu Dhabi  
 #### Interactive Media Program
@@ -89,7 +89,6 @@ Homework
 - See shortcut above
 
 ### Thursday August 28
-#### Today
 - Arduino, solderless breadboard, switch
 - L298 Motor Driver with external battery and large motor
 
@@ -153,37 +152,49 @@ void loop() {
 ```
 
 ### Thursday September 11
-#### Today
 - Play theme and cast
 - Hobby RC concepts
 
 ### Tuesday September 16
-#### Today
 Play feedback
 
-##### todays-lecture
 ### Thursday September 18
-#### Today
 - Soldering
 - IM Lab policies
 - Robot base: add H-bridge, Arduino
-- Hobby RC theory
-- Research presentations
 
 #### Soldering
 - Wire to wire (stranded-stranded)
-- Wire to board (stranded)
-- Stranded wire to "jumper pin"
-- L298 interface board
-- Extend the wires on the motors
 
 #### Robot base: add H-bridge, Arduino
 - Mounting the Arduino
 - Mounting the H-bridge
 - Mounting the battery
-- Wiring it all up
 
-#### Hobby RC
-- Connect to Arduino using socket-socket jumpers
+##### todays-lecture
+### Tuesday September 23
+- Homework
+- Soldering
+- L298 interface board and Arduino shield
+- Robot base
+- Remote control
+
+###### Homework
+- [Play](https://docs.google.com/document/d/1j0KADb83ufT4OnbhTfyRpN-7AbmNvH17S0KhKeWV_Zc/edit?tab=t.0) outline
+- [Research presentations](https://docs.google.com/spreadsheets/d/1H67fPcgNpJAw_h9IF7Uh4UINfpykP3S3smrm_njblvk/edit?usp=sharing)
+
+##### Soldering
+- Heat shrink tubing
+- Wire to board (stranded)
+- Pins and headers sockets
+
+##### L298 interface board and Arduino shield
+
+###### Robot base
+- Wiring it all up
+- Battery needs 5v cable
+
+##### Remote control
+- Pairing
 - Test using
   [code](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/hobbyRC/minimalMoreChannels/minimalMoreChannels.ino)

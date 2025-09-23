@@ -201,9 +201,61 @@ Information sessions:
 - Header pins must be straight
 - Excellent soldering
 - No short circuits
+Videos:
+- [Solder pins according to board](https://youtu.be/TmrvE1iV0zE)
+- [Soldering header socket to L298 Breakout Board](https://youtu.be/Eat3gU4fdVc)
+- Soldering wires between L298 Breakout Board and Hobby RC and Motor Controller Shield,
+  [part 1](https://youtu.be/473tP4C34UU) and [part
+  2](https://youtu.be/3yuinKMAYRI)
 
-2. Connect the L298 Breakout Board to the Hobby RC and Motor Controller shield
-following the table below:
+###### Robot base
+**Above all, make sure you are putting the correct components on the correct side
+of the board. If you have any doubts, post pictures and questions on Discord**
+
+Solder all the headers on the PCB labeled "Arduino Shield Hobby RC and Motor Control"
+
+1. Insert three of the 2x3 header sockets into your RC receiver. Make sure
+   they are all pressed down so that they are at the same height.
+2. Insert the header sockets (with the RC receiver) into the PCB. Make sure it
+   is on the top side.
+2. Solder the 18 pins of the 2x3 header sockets into place.
+3. Once the 2x3 header sockets are soldered in place, you can gently unplug
+   the RC receiver and put it aside while you work on the rest of the board
+4. Install the 4 Arduino feed through headers. You will need 1x with 6 pins,
+   1x with 10 pins, and 2x with 8 pins. Make sure that they are all the same
+   height.
+5. Solder **only one pin** of each feed through header, and then reheat the
+   solder (melt the solder) so that you can reposition the header. Make sure
+   that it is pushed flush against the board, and that it is straight. Repeat
+   for each feed through header.
+6. Once all feed through headers are flush and straight, proceed to solder the
+   rest of the pins
+
+Solder the header and the screw terminal on the PCB labeled "L298 Interface"
+
+1. Insert the two position screw terminal on the top of the PCB
+1. Make sure that the opening of the screw terminal is facing the right way.
+   Look at the example if you are unsure.
+1. Solder **only one pin** of the screw terminal, and then reheat the
+   solder (melt the solder) so that you can reposition the screw terminal. Make sure
+   that it is pushed flush against the board, and that it is straight. 
+1. Solder the other pin of the screw terminal
+1. Prepare a strip of header socket with 6 positions. Trim the rough edge as
+   necessary so that it will fit onto your L298 H-bridge.
+1. Insert the 6 position header socket on the **bottom** of the PCB
+1. Solder **only one pin** of the header socket, and then reheat the
+   solder (melt the solder) so that you can reposition the header. Make sure
+   that it is pushed flush against the board, and that it is straight. 
+
+Solder the wires between the "Arduino Shield Hobby RC and Motor Control"
+and the "L298 Interface" PCB.
+
+1. Make the wires at least 20cm longer than you need. You will probably need
+   to move things around. 
+2. Use a black wire for ground, and any other color (except for red and black)
+   for the other connections. Use different colors to make it easier for you
+   to keep track of things.
+
 
 | L298 Pin | Arduino Pin | Wire Color |
 | --- | --- | ----- |
@@ -215,15 +267,13 @@ following the table below:
 | EN2 | 11 | White |
 | GND | GND | Black |
 
-Videos:
-- [Solder pins according to board](https://youtu.be/TmrvE1iV0zE)
-- [Soldering header socket to L298 Breakout Board](https://youtu.be/Eat3gU4fdVc)
-- Soldering wires between L298 Breakout Board and Hobby RC and Motor Controller Shield,
-  [part 1](https://youtu.be/473tP4C34UU) and [part
-  2](https://youtu.be/3yuinKMAYRI)
+Finally, you can carefully plug the "Arduino Shield Hobby RC and Motor Control" shield
+on top of your Arduino, and carefully plug the "L298 Interface" board to your
+L298 H-bridge. This will make all connections except for two grounds: you will
+need one ground to the L298 H-bridge, and the other ground to the battery.
 
+Thursday
 ###### Robot base
-- Wiring it all up
 - Battery needs 5v cable
 
 ##### Remote control

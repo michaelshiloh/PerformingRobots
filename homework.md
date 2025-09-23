@@ -171,6 +171,14 @@ Soldering Resources [here](https://github.com/michaelshiloh/resourcesForClasses/
 
 ### Assignments Due Tuesday September 30
 
+#### Soldering
+
+Try to make some progress on the soldering work we discussed today. I have
+added
+more detailed notes in the lecture notes. I will try to add pictures too.
+Watch the videos first.
+
+#### Research topics
 In groups of two, choose two research topics on which you will give a
 presentation: 1) a team or individual creator (artist, designer, engineer) who
 creates robotic performers or performances and 2) a machine or device that is

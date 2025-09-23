@@ -173,11 +173,18 @@ Play feedback
 
 ##### todays-lecture
 ### Tuesday September 23
+- University Take Over the Museum
 - Homework
 - Soldering
 - L298 interface board and Arduino shield
 - Robot base
 - Remote control
+
+##### University Take Over the Museum
+Information sessions:
+- Tuesday - 23.09.2025 at 13:00
+- Friday - 26.09.2025 at 11:00
+  [link](https://teams.microsoft.com/v2/?meetingjoin=true#/l/meetup-join/19:meeting_ZDRkMjE5ZTktN2RmYi00ODNmLWE4NDAtZGM5ZWI5NGJiZWQw@thread.v2/0?context=%7b%22Tid%22%3a%2241216e3e-9c43-43e7-ab8f-f80f21828b9f%22%2c%22Oid%22%3a%223024d057-210a-4d30-be5c-8f160582b2bc%22%7d&anon=true&deeplinkId=7c4d7155-0f8d-4563-a1e6-074866249076)
 
 ###### Homework
 - [Play](https://docs.google.com/document/d/1j0KADb83ufT4OnbhTfyRpN-7AbmNvH17S0KhKeWV_Zc/edit?tab=t.0) outline

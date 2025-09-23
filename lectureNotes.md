@@ -224,6 +224,9 @@ Solder all the headers on the PCB labeled "Arduino Shield Hobby RC and Motor Con
 4. Install the 4 Arduino feed through headers. You will need 1x with 6 pins,
    1x with 10 pins, and 2x with 8 pins. Make sure that they are all the same
    height.
+1. **make sure all feed through headers are of the same length!**
+1. **make sure the feed through headers are on the correct side of the
+   board!**
 5. Solder **only one pin** of each feed through header, and then reheat the
    solder (melt the solder) so that you can reposition the header. Make sure
    that it is pushed flush against the board, and that it is straight. Repeat

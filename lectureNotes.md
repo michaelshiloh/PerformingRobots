@@ -210,7 +210,7 @@ Information sessions:
   [part 1](https://youtu.be/473tP4C34UU) and [part
   2](https://youtu.be/3yuinKMAYRI)
 
-###### Soldering wires between L298 Breakout Board and Hobby RC and Motor Controller Shield
+###### Headers and wires between L298 Breakout Board and Hobby RC and Motor Controller Shield
 
 Watch the above videos so you know what you are doing
 

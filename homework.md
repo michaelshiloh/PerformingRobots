@@ -158,7 +158,6 @@ Soldering Resources [here](https://github.com/michaelshiloh/resourcesForClasses/
    receiver, batteries, and battery charger. 
 1. Dress appropriately for working in the IM fabrication area
 
-#### todays-assignment
 ### Assignments Due Tuesday September 23
 
 - Finish attaching the Arduino, L298 H-bridge, and battery to your robot base
@@ -169,6 +168,7 @@ Soldering Resources [here](https://github.com/michaelshiloh/resourcesForClasses/
   can inspect them (Monday or in class).
 - Charge all six of your AA batteries for the RadioLink RC4GS transmitter
 
+#### todays-assignment
 ### Assignments Due Tuesday September 30
 
 #### Soldering

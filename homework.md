@@ -174,7 +174,8 @@ Soldering Resources [here](https://github.com/michaelshiloh/resourcesForClasses/
 
 Make some progress on the soldering work we discussed today. I have
 added
-more detailed notes in the lecture notes. I will try to add pictures too.
+more [detailed
+notes](https://github.com/michaelshiloh/PerformingRobots/blob/master/lectureNotes.md#soldering-wires-between-l298-breakout-board-and-hobby-rc-and-motor-controller-shield) in the lecture notes. I will try to add pictures too.
 Watch the videos first.
 
 ### Assignments Due Tuesday September 30

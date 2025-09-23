@@ -202,7 +202,8 @@ Information sessions:
 - Excellent soldering
 - No short circuits
 
-####### Videos:
+###### Videos
+
 - [Solder pins according to board](https://youtu.be/TmrvE1iV0zE)
 - [Soldering header socket to L298 Breakout Board](https://youtu.be/Eat3gU4fdVc)
 - Soldering wires between L298 Breakout Board and Hobby RC and Motor Controller Shield,

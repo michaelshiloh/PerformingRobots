@@ -277,13 +277,17 @@ and the "L298 Interface" PCB.
 Finally, you can carefully plug the "Arduino Shield Hobby RC and Motor Control" shield
 on top of your Arduino, and carefully plug the "L298 Interface" board to your
 L298 H-bridge. This will make all connections except for two grounds: you will
-need one ground to the L298 H-bridge, and the other ground to the battery.
+need one ground to the L298 H-bridge, and the other ground to the battery. 
 
-Thursday
+### Thursday September 25
+- Finish robot base
+- Add remote control
+
 ###### Robot base
 - Battery needs 5v cable
 
 ##### Remote control
+- Plug in the RC receiver. Make sure it's the right way.
 - Pairing
 - Test using
   [code](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/hobbyRC/minimalMoreChannels/minimalMoreChannels.ino)

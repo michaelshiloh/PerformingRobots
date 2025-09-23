@@ -208,7 +208,10 @@ Videos:
   [part 1](https://youtu.be/473tP4C34UU) and [part
   2](https://youtu.be/3yuinKMAYRI)
 
-###### Robot base
+###### Soldering wires between L298 Breakout Board and Hobby RC and Motor Controller Shield
+
+Watch the above videos so you know what you are doing
+
 **Above all, make sure you are putting the correct components on the correct side
 of the board. If you have any doubts, post pictures and questions on Discord**
 
@@ -224,7 +227,7 @@ Solder all the headers on the PCB labeled "Arduino Shield Hobby RC and Motor Con
 4. Install the 4 Arduino feed through headers. You will need 1x with 6 pins,
    1x with 10 pins, and 2x with 8 pins. Make sure that they are all the same
    height.
-1. **make sure all feed through headers are of the same length!**
+1. **make sure all feed through headers are of the same height!**
 1. **make sure the feed through headers are on the correct side of the
    board!**
 5. Solder **only one pin** of each feed through header, and then reheat the

@@ -169,15 +169,15 @@ Soldering Resources [here](https://github.com/michaelshiloh/resourcesForClasses/
 - Charge all six of your AA batteries for the RadioLink RC4GS transmitter
 
 #### todays-assignment
-### Assignments Due Tuesday September 30
-
+### Assignments Due Thursday September 25
 #### Soldering
 
-Try to make some progress on the soldering work we discussed today. I have
+Make some progress on the soldering work we discussed today. I have
 added
 more detailed notes in the lecture notes. I will try to add pictures too.
 Watch the videos first.
 
+### Assignments Due Tuesday September 30
 #### Research topics
 In groups of two, choose two research topics on which you will give a
 presentation: 1) a team or individual creator (artist, designer, engineer) who

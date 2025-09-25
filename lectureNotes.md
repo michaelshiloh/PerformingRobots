@@ -290,6 +290,7 @@ need one ground to the L298 H-bridge, and the other ground to the battery.
 
 ##### Remote control
 - Plug in the RC receiver. Make sure it's the right way.
-- Pairing
+- Read the section on pairing in the RC4GS [user
+  manual](https://www.radiolink.com.cn/rc4gs_manual)
 - Test using
   [code](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/hobbyRC/minimalMoreChannels/minimalMoreChannels.ino)

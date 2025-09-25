@@ -281,6 +281,7 @@ need one ground to the L298 H-bridge, and the other ground to the battery.
 
 ##### todays-lecture
 ### Thursday September 25
+- [Research presentations](https://docs.google.com/spreadsheets/d/1H67fPcgNpJAw_h9IF7Uh4UINfpykP3S3smrm_njblvk/edit?usp=sharing)
 - Finish robot base
 - Add remote control
 

@@ -171,7 +171,6 @@ Play feedback
 - Mounting the H-bridge
 - Mounting the battery
 
-##### todays-lecture
 ### Tuesday September 23
 - University Take Over the Museum
 - Homework
@@ -280,6 +279,7 @@ on top of your Arduino, and carefully plug the "L298 Interface" board to your
 L298 H-bridge. This will make all connections except for two grounds: you will
 need one ground to the L298 H-bridge, and the other ground to the battery. 
 
+##### todays-lecture
 ### Thursday September 25
 - Finish robot base
 - Add remote control

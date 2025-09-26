@@ -364,6 +364,12 @@ void leftMotorForward() {
     digitalWrite(LEFT_MOTOR_INA, LOW);
     digitalWrite(LEFT_MOTOR_INB, HIGH);
   }
+
+void leftMotorForwardWithSpeed(int speed) {
+    analogWrite(LEFT_MOTOR_EN, speed);
+    digitalWrite(LEFT_MOTOR_INA, LOW);
+    digitalWrite(LEFT_MOTOR_INB, HIGH);
+  }
 }
 
 //etc.

@@ -178,7 +178,27 @@ more [detailed
 notes](https://github.com/michaelshiloh/PerformingRobots/blob/master/lectureNotes.md#soldering-wires-between-l298-breakout-board-and-hobby-rc-and-motor-controller-shield) in the lecture notes. I will try to add pictures too.
 Watch the videos first.
 
+#### todays-assignment
 ### Assignments Due Tuesday September 30
+
+#### Robot base
+Finish your robot base. That includes:
+- All wiring
+- Pair your radio transmitter and receiver
+- Combine the code for controlling the motors with the code for reading the
+  radio signals. At the very least:
+  - Robot can move forwards and backwards by remote control at a fixed speed
+- Bonus:
+    - Add the ability to steer your robot i.e. to make turns
+    - Add the ability to vary the speed
+
+#### Research Presentations
+- Presentations will start on October 14 
+- Presentations will happen on Tuesdays
+- We will have three presentations per day
+- Select a date for your presentation on the 
+  [same](https://docs.google.com/spreadsheets/d/1H67fPcgNpJAw_h9IF7Uh4UINfpykP3S3smrm_njblvk/edit?usp=sharing) list
+
 #### Research topics
 In groups of two, choose two research topics on which you will give a
 presentation: 1) a team or individual creator (artist, designer, engineer) who
@@ -200,3 +220,4 @@ of a computer screen.
   list. If a topic is already chosen, you must choose another. After your
   presentation, add a link.
 - Presentation can be of any form. 
+

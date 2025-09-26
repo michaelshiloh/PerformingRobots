@@ -285,11 +285,23 @@ need one ground to the L298 H-bridge, and the other ground to the battery.
 - Finish robot base
 - Add remote control
 
-###### Robot base
-- Battery needs 5v cable
+###### Robot base power
+To provide power to the L298 H-bridge, you will need to wire the coax
+connector slightly differently than we did in week 1. 
+- The red wire from the corner of the L298 goes to the **+** terminal of the
+  coax connector
+- the **-** end of the coax connector goes to the **GND** connector on the
+  L298 Interface PCB. 
+- Another black wire goes from the **GND** connector on the L298 Interface PCB
+  to the middle of the three screw terminals on the L298 H-bridge:
+  ![](media/powerL298.png)
 
 ##### Remote control
-- Plug in the RC receiver. Make sure it's the right way.
+- Plug in the RC receiver. Make sure it's the right way. Pay attention to the
+  labels on the PCB and the tiny diagram on the RC receiver. It is in a small
+  red box and has a **+**, **-**, and a symbol that looks like a square wave.
+  The **+** corresponds to **5V**, the **-** corrensponds to **GND**, and the
+  square wave corresponds to **SIG**
 - Read the section on pairing in the RC4GS [user
   manual](https://www.radiolink.com.cn/rc4gs_manual)
 - Test using

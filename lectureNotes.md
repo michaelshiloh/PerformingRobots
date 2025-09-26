@@ -296,7 +296,7 @@ connector slightly differently than we did in week 1.
   to the middle of the three screw terminals on the L298 H-bridge:
   ![](media/powerL298.png)
 
-##### Remote control
+##### Hobby RC testing
 - Plug in the RC receiver. Make sure it's the right way. Pay attention to the
   labels on the PCB and the tiny diagram on the RC receiver. It is in a small
   red box and has a **+**, **-**, and a symbol that looks like a square wave.
@@ -306,3 +306,67 @@ connector slightly differently than we did in week 1.
   manual](https://www.radiolink.com.cn/rc4gs_manual)
 - Test using
   [code](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/hobbyRC/minimalMoreChannels/minimalMoreChannels.ino)
+
+##### Remote control of your robot
+You will need to combine and modify the code that we used to test the motors
+in week 1, along with the code above for testing the RC system.
+
+**Important**
+We used different pin numbers for the motor control, so you will need
+something like:
+
+```
+const int LEFT_MOTOR_EN = 9;
+const int LEFT_MOTOR_INA= 8;
+const int LEFT_MOTOR_INB= 7;
+
+const int RIGHT_MOTOR_EN = 11;
+const int RIGHT_MOTOR_IN1= 10;
+const int RIGHT_MOTOR_IN2= 12;
+
+void setup() {
+
+  pinMode(LEFT_MOTOR_EN , OUTPUT);
+  // do all pins
+
+  // set initial speed
+  analogWrite(RIGHT_MOTOR_EN, 180);  
+  // do other motor
+}
+
+// don't just copy this blindly; understand what I'm doing and
+// adapt to your needs
+void loop() {
+  rc_read_values();
+  if (rc_values[RC_CH4] > 1450 && rc_values[RC_CH4] << 1550) {
+    stop();
+  } else if (rc_values[RC_CH2] << 1450) {
+    forward)();
+  }
+
+  void stop() {
+    stopLeftMotor();
+    stopRightMotor();
+  }
+
+void stopLeftMotor(){
+    digitalWrite(LEFT_MOTOR_INA, LOW);
+    digitalWrite(LEFT_MOTOR_INB, LOW);
+    // or turn the speed to zero
+}
+
+  void forward() {
+    leftMotorForward();
+    rightMotorForward();
+}
+
+void leftMotorForward() {
+    digitalWrite(LEFT_MOTOR_INA, LOW);
+    digitalWrite(LEFT_MOTOR_INB, HIGH);
+  }
+}
+
+//etc.
+```
+
+and then later 

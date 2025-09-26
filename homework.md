@@ -168,7 +168,6 @@ Soldering Resources [here](https://github.com/michaelshiloh/resourcesForClasses/
   can inspect them (Monday or in class).
 - Charge all six of your AA batteries for the RadioLink RC4GS transmitter
 
-#### todays-assignment
 ### Assignments Due Thursday September 25
 #### Soldering
 

@@ -279,7 +279,6 @@ on top of your Arduino, and carefully plug the "L298 Interface" board to your
 L298 H-bridge. This will make all connections except for two grounds: you will
 need one ground to the L298 H-bridge, and the other ground to the battery. 
 
-##### todays-lecture
 ### Thursday September 25
 - [Research presentations](https://docs.google.com/spreadsheets/d/1H67fPcgNpJAw_h9IF7Uh4UINfpykP3S3smrm_njblvk/edit?usp=sharing)
 - Finish robot base
@@ -375,4 +374,48 @@ void leftMotorForwardWithSpeed(int speed) {
 //etc.
 ```
 
-and then later 
+
+##### todays-lecture
+### Tuesday September 30
+- Bases done
+- Bodies
+
+#### Fabrication
+- Considerations
+    - Repair and modifications
+    - Wires
+        - Routing
+        - Strain relief
+        - Color coding
+        - Labeling
+        - **No jumper wires**
+        - Alternatives to soldering
+        - Strain relief (again)
+        - Zip ties
+    - Clothing
+- Wood construction
+    - Body
+    - Frame
+- Cardboard construction
+    - Strength
+        - Braces
+        - Double
+        - Cross ply
+        - Wood
+    - Shapes
+        - Cubes
+        - Cylinders
+- Motion
+    - "Standard" servo motors (5V)
+        - Brackets
+    - "Giant" servo motors (12V)
+        - L brackets
+    - Supporting large objects (heads, bodies)
+- Neopixels (**5V only or they will all be destroyed**)
+    - Strain relief
+    - Soldering
+    
+Homework
+- Build body (height)
+- Journal
+- Presentations

@@ -192,7 +192,7 @@ Finish your robot base. That includes:
     - Add the ability to vary the speed
 
 #### Research Presentations
-- Presentations will start on October 14 
+- Presentations will start on October 7
 - Presentations will happen on Tuesdays
 - We will have three presentations per day
 - Select a date for your presentation on the 
@@ -207,9 +207,9 @@ must have a physical presence and physically interact with the world outside
 of a computer screen.
 - Do not work with your robot partner
 - Choose a different group of two for each presentation
-- In-depth, serious research, analysis and critique are required. Your presentation must not
-  simply be a collection of facts. Use the library and the writing center. I
-  will provide more detailed guidelines.
+- In-depth, serious research, analysis and critique are required. Your
+  presentation must not simply be a collection of facts. Use the library and
+  the writing center. I will provide more detailed guidelines.
 - You may find some inspiration in these
   [references](https://github.com/michaelshiloh/PerformingRobots/blob/master/references.md)
   or in these

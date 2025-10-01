@@ -2,6 +2,7 @@ Shortcut to [today's assignment](homework.md#todays-assignment)
 Shortcut to [today's lecture](lectureNotes.md#todays-lecture)  
 Shortcut to [play
 script](https://docs.google.com/document/d/1j0KADb83ufT4OnbhTfyRpN-7AbmNvH17S0KhKeWV_Zc/edit?tab=t.0)  
+Shortcut to [research presentations](https://docs.google.com/spreadsheets/d/1H67fPcgNpJAw_h9IF7Uh4UINfpykP3S3smrm_njblvk/edit?usp=sharing)
 
 #### New York University Abu Dhabi  
 #### Interactive Media Program
@@ -34,7 +35,7 @@ script](https://docs.google.com/document/d/1j0KADb83ufT4OnbhTfyRpN-7AbmNvH17S0Kh
 
 This file: Student Github Repositories and Discord account names
 
-- [Xinyu Fan](https://github.com/fanxinyusarah/performingrobots) - Discord Xinyu Fan
+- [Xinyu Fan (Sarah)](https://github.com/fanxinyusarah/performingrobots) - Discord Xinyu Fan
 - [Jiho Choi](https://github.com/jc11452/performingrobots.git) - Discord jiho
 - [Victor Alves Gomes Nadu](https://github.com/vicnadu/performingrobots) - Discord victornadu
 - [Clara Juong](https://github.com/clara0424/performingrobots) - Discord Clara Juong
@@ -46,3 +47,5 @@ This file: Student Github Repositories and Discord account names
 - [Meera](https://github.com/meerak27/PerformingRobots) -Discord Meera Al Khazraji
 - [Ghadir](https://github.com/GhadirMadani/performingrobots) - Discord Ghadir Madani
 - [Ali](https://github.com/alinoorisnerd/performingrobots) - Discord alinoor_777
+- [Hari](https://github.com/hj2342/performingrobots) - Discord Hariharan
+- [Mariam]() - Discord 

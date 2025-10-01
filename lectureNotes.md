@@ -376,7 +376,6 @@ void leftMotorForwardWithSpeed(int speed) {
 ```
 
 
-##### todays-lecture
 ### Tuesday September 30
 - Bases done
 - Bodies
@@ -407,19 +406,18 @@ void leftMotorForwardWithSpeed(int speed) {
         - Cubes
         - Cylinders
 
-** Thursday
+##### todays-lecture
+### Thursday October 2
+- Adding motion and lights to your robot
 
-- Motion
-    - "Standard" servo motors (5V)
-        - Brackets
-    - "Giant" servo motors (12V)
-        - L brackets
-    - Supporting large objects (heads, bodies)
-- Neopixels (**5V only or they will all be destroyed**)
-    - Strain relief
-    - Soldering
-    
-Homework
-- Build body (height)
-- Journal
-- Presentations
+#### Motion
+- "Standard" servo motors (5V)
+    - Brackets
+- "Giant" servo motors (12V)
+    - L brackets
+- Supporting large objects (heads, bodies)
+
+#### Neopixels (**5V only or they will all be destroyed**)
+- Strain relief
+- Soldering
+

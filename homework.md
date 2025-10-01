@@ -178,7 +178,6 @@ more [detailed
 notes](https://github.com/michaelshiloh/PerformingRobots/blob/master/lectureNotes.md#soldering-wires-between-l298-breakout-board-and-hobby-rc-and-motor-controller-shield) in the lecture notes. I will try to add pictures too.
 Watch the videos first.
 
-#### todays-assignment
 ### Assignments Due Tuesday September 30
 
 #### Robot base
@@ -193,7 +192,6 @@ Finish your robot base. That includes:
     - Add the ability to vary the speed
 
 #### Research Presentations
-- Presentations will start on October 7
 - Presentations will happen on Tuesdays
 - We will have three presentations per day
 - Select a date for your presentation on the 
@@ -221,3 +219,14 @@ of a computer screen.
   presentation, add a link.
 - Presentation can be of any form. 
 
+#### todays-assignment
+
+### Assignments Due Thursday October 2
+
+1. Build the basic frame of your robot body. It must be at least 1.5 meters
+   tall. It does not need to be detailed or have any limbs or additional
+   features. Contact me via Discord if you need any additional materials or
+   have questions.
+1. From now on you will document your work. Create a file in your Github
+   repository called `journal.md`. Create a dated entry and add some pictures
+   of you creating your robot body. 

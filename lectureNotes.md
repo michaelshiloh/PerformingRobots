@@ -408,6 +408,7 @@ void leftMotorForwardWithSpeed(int speed) {
 
 ##### todays-lecture
 ### Thursday October 2
+- Missing homework
 - Adding motion and lights to your robot
 
 #### Motion

@@ -409,6 +409,7 @@ void leftMotorForwardWithSpeed(int speed) {
 ##### todays-lecture
 ### Thursday October 2
 - Missing homework
+- Why are assignments not all listed in the syllabus?
 - Adding motion and lights to your robot
 
 #### Motion

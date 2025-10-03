@@ -219,7 +219,6 @@ of a computer screen.
   presentation, add a link.
 - Presentation can be of any form. 
 
-#### todays-assignment
 
 ### Assignments Due Thursday October 2
 
@@ -230,3 +229,26 @@ of a computer screen.
 1. From now on you will document your work. Create a file in your Github
    repository called `journal.md`. Create a dated entry and add some pictures
    of you creating your robot body. 
+
+#### todays-assignment
+### Assignments Due Tuesday October 7
+1. The torso of your robot should be substantially complete. What this means
+   exactly will vary for each one of you. I want to see the basic shape of your
+   robot. Heads and limbs (or other appendages) are not necessary.
+1. On Tuesday I would like to start attaching servo motors to your robots.
+   Therefore, I would like each robot to have one potential site for a servo
+   motor constructed and ready for a motor. This could be for an arm or other
+   appendage, or for hair or a cigar or whatever. The important thing is that
+   there is some wood ready to which to attach the servo motor bracket. 
+1. As always, document in your journal.md
+
+#### Notes
+- As requested, I have changed the presentation schedule so that we will start
+  on October 21 and end on November 18. There are three slots open, which
+  means that three groups have not added themselves to the schedule. Please
+  complete this.
+- Three groups (Mariam and Jiho, Ghadir and Aysha, Torico and Jiho) have not
+  yet chosen a topic. This was due on September 30 so you are late. Please
+  complete this.
+- I am available over the weekend if you need parts or assistance with your
+  robot, but only if you message me early enough. 

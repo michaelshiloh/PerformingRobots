@@ -406,7 +406,6 @@ void leftMotorForwardWithSpeed(int speed) {
         - Cubes
         - Cylinders
 
-##### todays-lecture
 ### Thursday October 2
 - Missing homework
 - Why are assignments not all listed in the syllabus?
@@ -418,6 +417,19 @@ void leftMotorForwardWithSpeed(int speed) {
 - "Giant" servo motors (12V)
     - L brackets
 - Supporting large objects (heads, bodies)
+
+##### todays-lecture
+### Tuesday October 7
+- Missing homework
+- Adding servo motors to your robot body
+- Neopixels
+
+#### Adding servo motors to your robot body
+- Brackets
+- Hardware
+- Servo extensions
+- Second Arduino
+- Second (or third) battery
 
 #### Neopixels (**5V only or they will all be destroyed**)
 - Strain relief

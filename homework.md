@@ -241,7 +241,7 @@ of a computer screen.
    motor constructed and ready for a motor. This could be for an arm or other
    appendage, or for hair or a cigar or whatever. The important thing is that
    there is some wood ready to which to attach the servo motor bracket. 
-1. As always, document in your journal.md
+1. As always, document your work in your journal.md
 
 #### Notes
 - As requested, I have changed the presentation schedule so that we will start

@@ -232,9 +232,10 @@ of a computer screen.
 
 #### todays-assignment
 ### Assignments Due Tuesday October 7
-1. The torso of your robot should be substantially complete. What this means
-   exactly will vary for each one of you. I want to see the basic shape of your
-   robot. Heads and limbs (or other appendages) are not necessary.
+1. The frame of the torso of your robot should be substantially complete. What
+   this means exactly will vary for each one of you. I want to see the basic
+   shape of your robot. Heads, limbs, or other appendages are not necessary.
+   Clothing or other visual treatment is not necessary.
 1. On Tuesday I would like to start attaching servo motors to your robots.
    Therefore, I would like each robot to have one potential site for a servo
    motor constructed and ready for a motor. This could be for an arm or other

@@ -230,7 +230,6 @@ of a computer screen.
    repository called `journal.md`. Create a dated entry and add some pictures
    of you creating your robot body. 
 
-#### todays-assignment
 ### Assignments Due Tuesday October 7
 1. The frame of the torso of your robot should be substantially complete. What
    this means exactly will vary for each one of you. I want to see the basic
@@ -253,3 +252,7 @@ of a computer screen.
   complete this.
 - I am available over the weekend if you need parts or assistance with your
   robot, but only if you message me early enough. 
+
+#### todays-assignment
+### Assignments Due Thursday October 9
+1. Each team should have one servo motor attached to the body of their robot.

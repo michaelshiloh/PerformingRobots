@@ -418,7 +418,6 @@ void leftMotorForwardWithSpeed(int speed) {
     - L brackets
 - Supporting large objects (heads, bodies)
 
-##### todays-lecture
 ### Tuesday October 7
 - Missing homework
 - Adding servo motors to your robot body
@@ -434,4 +433,28 @@ void leftMotorForwardWithSpeed(int speed) {
 #### Neopixels (**5V only or they will all be destroyed**)
 - Strain relief
 - Soldering
+
+##### todays-lecture
+### Thursday October 2
+- Controlling and powering your servo motor
+
+#### Controlling and powering your servo motor
+Your homework assignment that is due today
+is that each team should have one servo motor attached to the body of their robot.
+Today we will learn how to control and power it
+
+1. A new Arduino board: The [Arduino Mega
+   2560](https://docs.arduino.cc/hardware/mega-2560/)
+    1. Mounting your Arduino Mega
+        1. Bracket
+        1. Where to put it
+    1. Power for the Arduino Mega
+        1. Why not use the Arduino power bank?
+        1. Another powerbank
+1. Power for your servo motors
+    1. 5V power for "hobby" servo motors
+    1. 12V power for giant servo motors
+        1. How to provide 12V to more than one motor?
+1. How to conveniently control servos from Arduino Mega, yet power from
+   separate supply?
 

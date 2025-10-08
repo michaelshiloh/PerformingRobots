@@ -457,4 +457,4 @@ Today we will learn how to control and power it
         1. How to provide 12V to more than one motor?
 1. How to conveniently control servos from Arduino Mega, yet power from
    separate supply?
-
+![](media/nRFServo.jpg)

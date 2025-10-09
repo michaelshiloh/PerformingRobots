@@ -436,7 +436,12 @@ void leftMotorForwardWithSpeed(int speed) {
 
 ##### todays-lecture
 ### Thursday October 2
+- Midterm evaluation
+- Discord
 - Controlling and powering your servo motor
+
+#### Midterm evaluation
+- what will you get done by Thursday?
 
 #### Controlling and powering your servo motor
 Your homework assignment that is due today

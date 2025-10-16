@@ -259,11 +259,11 @@ of a computer screen.
 
 ### Guidelines for Research Presentations
 - Apply critical media concepts and context by analyzing and critiquing the work
-  in cultural, social, historical, ethical, and aesthetic contexts.)
-- Include original analysis and opinion
+  in cultural, social, historical, ethical, and aesthetic contexts.
+- Include **original** (this means that you wrote it) analysis and opinion
 - In the case of a team or individual creator (artist, designer, engineer,
   etc.), carefully research their entire body of work, and describe their 
-  ethos, thinking, and artistic positions.
+  ethos, thinking, motives, and artistic positions.
 - In the case of a machine, device, or project that is a robotic performer (where the
   word "robot" can be defined quite broadly)
     - Carefully research the goals,
@@ -272,7 +272,7 @@ of a computer screen.
     - Describe the critical and
   conceptual framing of the project.
     - Provide a formalized opinion (your own) about this work
-    - Describe this work was made
+    - Describe how this work was made
     - Describe  what technology was used
     - Describe how the technology informs the concept of the work
 - Your presentation must:

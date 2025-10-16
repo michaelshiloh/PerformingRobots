@@ -256,3 +256,47 @@ of a computer screen.
 #### todays-assignment
 ### Assignments Due Thursday October 9
 1. Each team should have one servo motor attached to the body of their robot.
+
+### Guidelines for Research Presentations
+- Apply critical media concepts and context by analyzing and critiquing the work
+  in cultural, social, historical, ethical, and aesthetic contexts.)
+- Include original analysis and opinion
+- In the case of a team or individual creator (artist, designer, engineer,
+  etc.), carefully research their entire body of work, and describe their 
+  ethos, thinking, and artistic positions.
+- In the case of a machine, device, or project that is a robotic performer (where the
+  word "robot" can be defined quite broadly)
+    - Carefully research the goals,
+  thinking, ethos, and artistic positions of the creator(s) and describe it
+  in the context of this particular device.  
+    - Describe the critical and
+  conceptual framing of the project.
+    - Provide a formalized opinion (your own) about this work
+    - Describe this work was made
+    - Describe  what technology was used
+    - Describe how the technology informs the concept of the work
+- Your presentation must:
+    - Be around 15 minutes with an additional 5 minutes for questions
+    - Be linked in
+      [this](https://docs.google.com/spreadsheets/d/1H67fPcgNpJAw_h9IF7Uh4UINfpykP3S3smrm_njblvk/edit?usp=sharing)
+      document, allowing everyone access
+    -  Include everyone's names
+    -  Have a title
+    -  Contain images, video or sound recording, or links to same, as
+       necessary and **relevant**
+    -  Be designed professionally:
+        - Communicates your idea effectively
+        - Considers aesthetics
+        - Doesn't repeat itself, or include pointless sentences that don't
+          convey any information
+        - Shows evidence of attention to detail (spelling, grammar,
+          consistency, formatting, etc.)
+    -  Concludes with key prompts for conversation. What questions do you have
+       having done this research? 
+- Review the
+  [Guidelines for a writing a Reading
+  Response](https://docs.google.com/document/d/1xj8PSNpghJoQFhTP8wPr7B1zJvqIOD_KqPtYluU3LXs/edit?usp=sharing)
+  and the [How to Read for
+  Writers](https://docs.google.com/document/d/1-FC6QJkknB4KRuUrrVPrvB2u_X4F-QYIK0SG9ieIs3s/edit?usp=sharing)
+  for more suggestions. Since these are aimed at readings responses, consider
+  how to apply this to your presentation.

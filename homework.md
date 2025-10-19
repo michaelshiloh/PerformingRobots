@@ -253,11 +253,12 @@ of a computer screen.
 - I am available over the weekend if you need parts or assistance with your
   robot, but only if you message me early enough. 
 
-#### todays-assignment
 ### Assignments Due Thursday October 9
 1. Each team should have one servo motor attached to the body of their robot.
 
-### Guidelines for Research Presentations
+#### todays-assignment
+### Research presentations start on Tuesday October 21
+#### Guidelines for Research Presentations
 - Apply critical media concepts and context by analyzing and critiquing the work
   in cultural, social, historical, ethical, and aesthetic contexts.
 - Include **original** (this means that you wrote it) analysis and opinion
@@ -301,7 +302,7 @@ of a computer screen.
   for more suggestions. Since these are aimed at readings responses, consider
   how to apply this to your presentation.
 
-#### Midterm evaluation Due Thursday October 23
+### Midterm evaluation Due Thursday October 23
 - Sarah and Torico:
     - Connect the body and base, which we believe is essential for testing
       the arms and cable routing.

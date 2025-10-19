@@ -441,39 +441,9 @@ void leftMotorForwardWithSpeed(int speed) {
 - Controlling and powering your servo motor
 
 #### Midterm evaluation
-For any technical assistance, problems, guidance, or for parts or tools,
-please use Discord
-- Sarah and Torico:
-    - Connect the body and base, which we believe is essential for testing
-      the arms and cable routing.
-    - Connect the head and body, focusing on the internal support
-      structure.
-    - Complete two arms and control both arms using two motors.
-- Ali and Hari
-    - finish the code for the arms + face servos ( 7 in total)
-    - LED eyes
-    - Close the back by attaching the cardboard cutout of the back with
-      styrofoam to fill the gap and give its structure and  some strength. 
-    - Attach the legs 
-    - Head: styrofoam ball to fit the space left on top of the robot face
-- Meera and Victor
-    - Lever attached and functioning
-    - Complete the full body of the robot 
-    - Redo the cutouts to get access to the wires
-    - Light on top of the robot 
-- Clara and Jiho
-    - attach lower body to the wheel base
-    - attach the lazy susan 
-    - build the upper body
-    - upper body controlled by the giant servo with Arduino and 12V power 
-- Sudiksha and Aysha 
-- Ghadir and Mustafa 
-- Mariam and Joy
-
-
-
-
-
+- For any technical assistance, problems, guidance, or for parts or tools, use
+  the class channel on Discord. I will not answer technical questions via
+  email or direct messages.
 
 #### Controlling and powering your servo motor
 Your homework assignment that is due today
@@ -495,3 +465,5 @@ Today we will learn how to control and power it
 1. How to conveniently control servos from Arduino Mega, yet power from
 separate supply?
 ![](media/nRFServo.jpg)
+1. [How to use the giant servo
+   motor](https://github.com/michaelshiloh/resourcesForClasses?tab=readme-ov-file#giant-servo-motors-resources)

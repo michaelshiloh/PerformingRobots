@@ -300,3 +300,31 @@ of a computer screen.
   Writers](https://docs.google.com/document/d/1-FC6QJkknB4KRuUrrVPrvB2u_X4F-QYIK0SG9ieIs3s/edit?usp=sharing)
   for more suggestions. Since these are aimed at readings responses, consider
   how to apply this to your presentation.
+
+#### Midterm evaluation Due Thursday October 23
+- Sarah and Torico:
+    - Connect the body and base, which we believe is essential for testing
+      the arms and cable routing.
+    - Connect the head and body, focusing on the internal support
+      structure.
+    - Complete two arms and control both arms using two motors.
+- Ali and Hari
+    - finish the code for the arms + face servos ( 7 in total)
+    - LED eyes
+    - Close the back by attaching the cardboard cutout of the back with
+      styrofoam to fill the gap and give its structure and  some strength. 
+    - Attach the legs 
+    - Head: styrofoam ball to fit the space left on top of the robot face
+- Meera and Victor
+    - Lever attached and functioning
+    - Complete the full body of the robot 
+    - Redo the cutouts to get access to the wires
+    - Light on top of the robot 
+- Clara and Jiho
+    - attach lower body to the wheel base
+    - attach the lazy susan and giant servo motor
+    - build the upper body
+    - upper body controlled by the giant servo with Arduino and 12V power 
+- Sudiksha and Aysha 
+- Ghadir and Mustafa 
+- Mariam and Joy

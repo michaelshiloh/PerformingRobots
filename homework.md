@@ -326,6 +326,8 @@ of a computer screen.
     - attach the lazy susan and giant servo motor
     - build the upper body
     - upper body controlled by the giant servo with Arduino and 12V power 
+- Mariam and Joy
+    - Install head motor
+    - All motors controlled by Arduino
 - Sudiksha and Aysha 
 - Ghadir and Mustafa 
-- Mariam and Joy

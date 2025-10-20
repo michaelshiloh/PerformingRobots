@@ -333,4 +333,6 @@ of a computer screen.
     - Hip platform
     - Arms attached, motorized and controllable by Arduino
     - Secure the body in place
+    - Attach and neck
+
 - Ghadir and Mustafa 

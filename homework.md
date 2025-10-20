@@ -330,4 +330,7 @@ of a computer screen.
     - Install head motor
     - All motors controlled by Arduino
 - Sudiksha and Aysha 
+    - Hip platform
+    - Arms attached, motorized and controllable by Arduino
+    - Secure the body in place
 - Ghadir and Mustafa 

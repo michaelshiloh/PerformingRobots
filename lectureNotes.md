@@ -470,6 +470,8 @@ separate supply?
 
 ##### todays-lecture
 ### Tuesday October 21
+- Midterm evaluation
+    - Journal
 - Class meets on Zoom (link in Brightspace)
 - Group presentations: 
     - Clara and Mariam	

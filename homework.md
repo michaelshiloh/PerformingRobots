@@ -317,10 +317,10 @@ of a computer screen.
     - Attach the legs 
     - Head: styrofoam ball to fit the space left on top of the robot face
 - Meera and Victor
-    - Lever attached and functioning
+    - Crank attached and functioning
     - Complete the full body of the robot 
     - Redo the cutouts to get access to the wires
-    - Light on top of the robot 
+    - Lights on top of the robot 
 - Clara and Jiho
     - attach lower body to the wheel base
     - attach the lazy susan and giant servo motor

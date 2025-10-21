@@ -434,7 +434,6 @@ void leftMotorForwardWithSpeed(int speed) {
 - Strain relief
 - Soldering
 
-##### todays-lecture
 ### Thursday October 2
 - Midterm evaluation
 - Discord
@@ -467,3 +466,12 @@ separate supply?
 ![](media/nRFServo.jpg)
 1. [How to use the giant servo
    motor](https://github.com/michaelshiloh/resourcesForClasses?tab=readme-ov-file#giant-servo-motors-resources)
+
+
+##### todays-lecture
+### Tuesday October 21
+- Class meets on Zoom (link in Brightspace)
+- Group presentations: 
+    - Clara and Mariam	
+    - Sudiksha and Ghadir	
+    - Aysha And Hari

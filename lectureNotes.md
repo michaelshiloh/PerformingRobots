@@ -468,7 +468,6 @@ separate supply?
    motor](https://github.com/michaelshiloh/resourcesForClasses?tab=readme-ov-file#giant-servo-motors-resources)
 
 
-##### todays-lecture
 ### Tuesday October 21
 - Midterm evaluation
     - Journal
@@ -477,3 +476,20 @@ separate supply?
     - Clara and Mariam	
     - Sudiksha and Ghadir	
     - Aysha And Hari
+
+##### todays-lecture
+### Thursday October 23
+- Lead a workshop!
+- Journal
+- Presentations for next week
+- Status
+
+#### Lead a workshop!
+![](media/IMSandbox_Poster.png)
+
+#### Journal
+- Example
+- Resize images using the last suggestion in [Github
+  Resources](https://github.com/michaelshiloh/resourcesForClasses?tab=readme-ov-file#github-resources)
+
+#### Status

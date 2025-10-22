@@ -482,7 +482,7 @@ separate supply?
 - Lead a workshop!
 - Journal
 - Presentations for next week
-- Status
+- Homework: status, what for next week
 
 #### Lead a workshop!
 ![](media/IMSandbox_Poster.png)
@@ -493,3 +493,7 @@ separate supply?
   Resources](https://github.com/michaelshiloh/resourcesForClasses?tab=readme-ov-file#github-resources)
 
 #### Status
+- What were you going to accomplish
+- What did you accomplish
+- What will you accomplish for next Thursday (type this directly into
+  homework.md)!

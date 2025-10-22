@@ -334,5 +334,7 @@ of a computer screen.
     - Arms attached, motorized and controllable by Arduino
     - Secure the body in place
     - Attach and neck
-
 - Ghadir and Mustafa 
+    - Two joint limb, with a shoulder and an elbow, both having giant servos.
+      We'll attach things like a liquor bottle and a cigar.
+    - Other arm will be gripper

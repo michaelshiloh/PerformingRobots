@@ -348,6 +348,7 @@ of a computer screen.
   (October 23)?
 - What will you accomplish for this Thursday October 30?
 - What features remain to be implemented?
+
 Examples of good journals are
 [this](https://github.com/hanoodd/Performing_Robots_Fall_24/blob/main/journal.md)
 or

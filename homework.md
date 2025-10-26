@@ -256,7 +256,6 @@ of a computer screen.
 ### Assignments Due Thursday October 9
 1. Each team should have one servo motor attached to the body of their robot.
 
-#### todays-assignment
 ### Research presentations start on Tuesday October 21
 #### Guidelines for Research Presentations
 - Apply critical media concepts and context by analyzing and critiquing the work
@@ -338,3 +337,17 @@ of a computer screen.
     - Two joint limb, with a shoulder and an elbow, both having giant servos.
       We'll attach things like a liquor bottle and a cigar.
     - Other arm will be gripper
+
+#### todays-assignment
+### Assignments Due Thursday October 30
+In your journals:
+- Compared to the list above, what did you accomplish for last Thursday
+  (October 23)?
+- What will you accomplish for this Thursday October 30?
+- What features remain to be implemented?
+Examples of good journals are
+[this](https://github.com/hanoodd/Performing_Robots_Fall_24/blob/main/journal.md)
+or
+[this](https://github.com/LinhTran263/performingrobots/blob/main/journal.md)
+although note that last year I did not ask them to write what they would
+accomplish each week

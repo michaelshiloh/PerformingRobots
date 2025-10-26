@@ -343,7 +343,7 @@ of a computer screen.
 1. Everyone should be using an [nRF_servo_Mega
    shield](https://github.com/michaelshiloh/PerformingRobots/blob/master/media/nRFServo.jpg). If you don't have one
    get one from me on Monday
-In your journals write the answers to the following questions:
+2. In your journals write the answers to the following questions:
 - Compared to the list above, what did you accomplish for last Thursday
   (October 23)?
 - What will you accomplish for this Thursday October 30?

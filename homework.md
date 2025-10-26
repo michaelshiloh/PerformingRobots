@@ -340,6 +340,9 @@ of a computer screen.
 
 #### todays-assignment
 ### Assignments Due Thursday October 30
+1. Everyone should be using an [nRF_servo_Mega
+   shield](https://github.com/michaelshiloh/PerformingRobots/blob/master/media/nRFServo.jpg). If you don't have one
+   get one from me on Monday
 In your journals write the answers to the following questions:
 - Compared to the list above, what did you accomplish for last Thursday
   (October 23)?

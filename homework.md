@@ -340,7 +340,7 @@ of a computer screen.
 
 #### todays-assignment
 ### Assignments Due Thursday October 30
-In your journals:
+In your journals write the answers to the following questions:
 - Compared to the list above, what did you accomplish for last Thursday
   (October 23)?
 - What will you accomplish for this Thursday October 30?

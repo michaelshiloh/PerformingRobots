@@ -493,26 +493,27 @@ separate supply?
 
 ##### todays-lecture
 ### Tuesday October 28
-- What to do when things don't work
+- Debugging
 - Plan for Thursday
 - Plan for next six weeks
 - Presentations
 
-#### What to do when things don't work
-- what to do with parts you suspect are bad
+#### Debugging
+Suggestions
+[here](https://github.com/michaelshiloh/resourcesForClasses?tab=readme-ov-file#debugging)
 
-Plan for Thursday
+#### Plan for Thursday
 - Remote Control via nRF remote control system
 - Music Maker Shield
 - NeoPixels
-- Start Practicing
+- Read through play
 
-Plan for next six weeks
+#### Plan for next six weeks
 - Oct 28, 30; Nov 4, 6; 11, 13; 18, 20; 25, 27; Dec 2, 4; 
 - Finish play
 - Rehearsals
 - What remains for your robot
-    - Identify features needed
+    - Identify remaining features (due Thursday)
     - Implement remaining features
     - Remote control for features
     - Sound clips

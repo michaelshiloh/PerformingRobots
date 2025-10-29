@@ -338,11 +338,10 @@ of a computer screen.
       We'll attach things like a liquor bottle and a cigar.
     - Other arm will be gripper
 
-#### todays-assignment
 ### Assignments Due Thursday October 30
 1. Everyone should be using an [nRF_servo_Mega
-   shield](https://github.com/michaelshiloh/PerformingRobots/blob/master/media/nRFServo.jpg). If you don't have one
-   get one from me on Monday
+   shield](https://github.com/michaelshiloh/PerformingRobots/blob/master/media/nRFServo.jpg).
+   If you don't have one get one from me on Monday
 2. In your journals write the answers to the following questions:
 - Compared to the list above, what did you accomplish for last Thursday
   (October 23)?
@@ -355,3 +354,10 @@ or
 [this](https://github.com/LinhTran263/performingrobots/blob/main/journal.md)
 although note that last year I did not ask them to write what they would
 accomplish each week
+
+#### todays-assignment
+### Assignments Due Thursday November 6
+2. In your journals write the answers to the following questions:
+- What did you accomplish for today November 6?
+- What features remain to be implemented?
+- What will you accomplish for next Thursday November 13?

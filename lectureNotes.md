@@ -491,10 +491,8 @@ separate supply?
 - Resize images using the last suggestion in [Github
   Resources](https://github.com/michaelshiloh/resourcesForClasses?tab=readme-ov-file#github-resources)
 
-##### todays-lecture
 ### Tuesday October 28
 - Debugging
-- Plan for Thursday
 - Plan for next six weeks
 - Presentations
 
@@ -502,11 +500,6 @@ separate supply?
 Suggestions
 [here](https://github.com/michaelshiloh/resourcesForClasses?tab=readme-ov-file#debugging)
 
-#### Plan for Thursday
-- Remote Control via nRF remote control system
-- Music Maker Shield
-- NeoPixels
-- Read through play
 
 #### Plan for next six weeks
 - Oct 28, 30; Nov 4, 6; 11, 13; 18, 20; 25, 27; Dec 2, 4; 
@@ -518,3 +511,10 @@ Suggestions
     - Remote control for features
     - Sound clips
     - Programming
+
+##### todays-lecture
+### Thursday October 31
+- Remote Control via nRF remote control system
+- Music Maker Shield
+- NeoPixels
+- Read through play

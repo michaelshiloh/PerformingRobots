@@ -356,6 +356,21 @@ although note that last year I did not ask them to write what they would
 accomplish each week
 
 #### todays-assignment
+### Assignments Due Tuesday November 4
+1. Read the [Adafruit Music Maker Shield
+   tutorial](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all)
+1. Read the [Adafruit NeoPixel
+   tutorial](https://learn.adafruit.com/adafruit-neopixel-uberguide?view=all)
+1. Get your transmitter and receiver talking to each other, using the code
+   from
+   [here](https://github.com/michaelshiloh/resourcesForClasses/blob/master/src/arduinoSketches/nRF24L01/rf24PerformingRobotsTemplate_2025/rf24PerformingRobotsTemplate_2025.ino).
+   Read the comments in the code. You will also need to install three
+   libraries:
+   -  RF24 library by TMRh20
+   - Adafruit NeoMatrix library (which should install the other NeoPixel
+     libraries)
+    - Adafruit VS1053 library
+
 ### Assignments Due Thursday November 6
 2. In your journals write the answers to the following questions:
 - What did you accomplish for today November 6?

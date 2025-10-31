@@ -515,6 +515,19 @@ Suggestions
 ##### todays-lecture
 ### Thursday October 31
 - Remote Control via nRF remote control system
-- Music Maker Shield
-- NeoPixels
+
+##### nRF radio system
+
+###### Receiver
+https://github.com/michaelshiloh/resourcesForClasses/blob/master/kicad/nRF_servo_Mega/documentation/nRF_servo_Mega_schematic.pdf
+
+###### Transmitter
+https://github.com/michaelshiloh/resourcesForClasses/blob/master/kicad/Arduino_Shield_RC_Controller_v2/documentation/Arduino_Shield_RC_Controller_v2_schematic.pdf
+
+###### Code
+https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01/rf24PerformingRobotsTemplate_2024
+
+
+### Tuesday November 4
+- Who did homework
 - Read through play

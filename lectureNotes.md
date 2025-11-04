@@ -529,10 +529,13 @@ https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSket
 
 ##### todays-lecture
 ### Tuesday November 4
-- Everyone should have their nRF radio system communicating. Did anyone not?
-    - Did you all remember to change your channel and address for your robot?
+- Everyone should have their nRF radio system communicating. 
+    - Did anyone not?
+        - Make list of those who did not
+    - Did you all remember to change the channel and address for your robot?
 - Did anyone use it to control anything?
 - Did anyone get the Music Maker Shield working?
+- Look at homework for Thursday
 - Presentations: 
     - Joy and Sarah	
     - Victor and Sudiksha	

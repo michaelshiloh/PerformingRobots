@@ -355,7 +355,6 @@ or
 although note that last year I did not ask them to write what they would
 accomplish each week
 
-#### todays-assignment
 ### Assignments Due Tuesday November 4
 1. Read the [Adafruit Music Maker Shield
    tutorial](https://learn.adafruit.com/adafruit-music-maker-shield-vs1053-mp3-wav-wave-ogg-vorbis-player?view=all)
@@ -371,8 +370,15 @@ accomplish each week
      libraries)
     - Adafruit VS1053 library
 
+#### todays-assignment
 ### Assignments Due Thursday November 6
+1. Use the nRF radio system to control at least one of your features
+1. Get the Music Maker Shield working
 2. In your journals write the answers to the following questions:
 - What did you accomplish for today November 6?
 - What features remain to be implemented?
-- What will you accomplish for next Thursday November 13?
+- What will you accomplish for next Thursday November 11?
+
+### Assignments Due Tuesday November 4
+1. Use the nRF radio system to control the Music Maker Shield for at least two
+   different sound clips

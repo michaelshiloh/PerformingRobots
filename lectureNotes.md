@@ -533,7 +533,7 @@ https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSket
     - Did anyone not?
         - Make list of those who did not
     - Did you all remember to change the channel and address for your robot?
-- Did anyone use it to control anything?
+    - Did anyone use it to control anything?
 - Did anyone get the Music Maker Shield working?
 - Look at homework for Thursday
 - Presentations: 

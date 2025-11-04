@@ -512,7 +512,6 @@ Suggestions
     - Sound clips
     - Programming
 
-##### todays-lecture
 ### Thursday October 31
 - Remote Control via nRF remote control system
 
@@ -525,9 +524,20 @@ https://github.com/michaelshiloh/resourcesForClasses/blob/master/kicad/nRF_servo
 https://github.com/michaelshiloh/resourcesForClasses/blob/master/kicad/Arduino_Shield_RC_Controller_v2/documentation/Arduino_Shield_RC_Controller_v2_schematic.pdf
 
 ###### Code
-https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01/rf24PerformingRobotsTemplate_2024
+https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01/rf24PerformingRobotsTemplate_2025
 
 
+##### todays-lecture
 ### Tuesday November 4
-- Who did homework
-- Read through play
+- Everyone should have their nRF radio system communicating. Did anyone not?
+    - Did you all remember to change your channel and address for your robot?
+- Did anyone use it to control anything?
+- Did anyone get the Music Maker Shield working?
+- Presentations: 
+    - Joy and Sarah	
+    - Victor and Sudiksha	
+    - Aysha and Ghadir
+
+### Thursday October 31
+- Run through play with robots moving, activate what you have, read the
+  script for any phrases not yet recorded

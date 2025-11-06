@@ -542,5 +542,82 @@ https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSket
     - Aysha and Ghadir
 
 ### Thursday October 31
+- Dubai Design Week
+- Tool warning
+- Presentation
+- Rehearsal
+
+#### Dubai Design Week
+We have organized a bus to go to [Dubai Design
+Week](https://www.dubaidesignweek.ae/) on Friday, November 7. The bus will
+leave the Welcome Center at 3pm , and will depart from Dubai around 9pm. If
+you would like to join us please fill out
+[this](https://docs.google.com/spreadsheets/d/107fhzmLHsjDApqTK2-YGruF37GBnNn6-3xcXkWqLEdI/edit?gid=0#gid=0)
+form. Space is limited, and once the bus fills we can not accept any further
+passengers.
+
+#### Tool warning
+
+#### Presentation
+- Joy and Sarah	
+
+#### Rehearsal
 - Run through play with robots moving, activate what you have, read the
   script for any phrases not yet recorded
+- Make note of areas in the script that need to be fixed
+- Make note of missing features
+
+Missing features:
+
+Sarah
+ We still need to decorate the entire robot, build the outer shell for the head and other components, and reinforce the joints and connections between the arms and shoulders to ensure stable movement.
+
+Jiho - old
+
+Victor *
+- Reel screen
+Document dispenser
+
+Clara *
+- Attach the motors to each of the elbows
+Make and attach the head & chest
+Build the hands and figure out the motors for it
+
+Aysha - no journal
+
+Mustafa
+- Next steps, we want to add the rotating head with expressions, 
+
+Sudiksha - no journal
+
+Torico
+- arduino mega (also the circuit board)
+- neck structure (servo+board cut)
+- Fix the middle column
+- Fix mega to the middle column
+- code+test servo!!!!!!!!
+
+Joy
+- no list
+
+Meera
+- no list
+
+Ghadir (?)
+- Shoulder, 2 servos, 
+- arms, one more servo, 
+- extended base, 
+- attached caster wheel to the back, 
+- start building head
+
+Ali
+- NeoPixels
+
+Hari
+- no list
+
+Mariam
+- Attach the servo motors to the ears 
+- attach the ears to the head
+- Code ear movement
+- Code eyes with the neopixels

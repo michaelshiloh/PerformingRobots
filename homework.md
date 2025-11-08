@@ -388,7 +388,10 @@ Our walk through on Thursday was pretty sad.
 I think that only one of you was able to play any sound clip (who was that?)
 and I don't remember that any of you were able to control any of your features
 using the nRF radio system. If I am wrong please correct me. So you all have a
-lot of catching up to do:
+lot of catching up to do.
+
+Let me also remind you that homework is due at the **beginning** of class, not
+at the end. 
 
 1. Catch up with the homework that was due last Thursday November 6 
    and Tuesday November 4 (see above) 

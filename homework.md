@@ -370,7 +370,6 @@ accomplish each week
      libraries)
     - Adafruit VS1053 library
 
-#### todays-assignment
 ### Assignments Due Thursday November 6
 1. Use the nRF radio system to control at least one of your features
 1. Get the Music Maker Shield working
@@ -382,3 +381,27 @@ accomplish each week
 ### Assignments Due Tuesday November 4
 1. Use the nRF radio system to control the Music Maker Shield for at least two
    different sound clips
+
+#### todays-assignment
+### Assignments Due Tuesday November 11
+I think that only one of you was able to play any sound clip (who was that?)
+and I don't remember that any of you were able to control any of your features
+using the nRF radio system. If I was wrong please correct me.
+
+1. Catch up with the homework that was due last Thursday November 6 
+   and Tuesday November 4 (see above) 
+1. Charge all of your batteries. I have installed two outlet strips behind the
+   white board for charging robot batteries:
+1.1. Six AA batteries in the hobby RC transmitter
+1.1. One big Talentcell battery on your robot base 
+1.1. Two Anker batteries: One for the Arduino Uno on the base and another for
+the Arduino Mega controlling the robot features. Ask me if you do not have them.
+1. Put your names on anything that is not attached to the robot:
+1.1. Six AA batteries in the hobby RC transmitter
+1.1. Two Anker batteries
+1.1. Hobby RC transmitter
+1.1. nRF radio system transmitter
+1.1. Talentcell battery charger (it's the one that says 12.6V)
+1.1. Amplifier
+1. Make sure that your robot can still drive! Last Thursday only one robot was
+   able to drive (who was that?)

@@ -544,7 +544,7 @@ https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSket
 ### Thursday October 31
 - Dubai Design Week
 - Tool warning
-- Presentation
+- Presentation (Joy and Sarah)
 - Rehearsal
 
 #### Dubai Design Week
@@ -569,41 +569,41 @@ passengers.
 
 Missing features:
 
-Sarah
- We still need to decorate the entire robot, build the outer shell for the head and other components, and reinforce the joints and connections between the arms and shoulders to ensure stable movement.
 
-Jiho - old
 
+Meera
+- does have list
 Victor *
 - Reel screen
-Document dispenser
+- Document dispenser
+- fix balance
 
 Clara *
+Jiho - not updated in a long time
 - Attach the motors to each of the elbows
-Make and attach the head & chest
-Build the hands and figure out the motors for it
+- Make and attach the head & chest
+- Build the hands and figure out the motors for it
+- charge batteries
 
 Aysha - no journal
-
-Mustafa
-- Next steps, we want to add the rotating head with expressions, 
-
 Sudiksha - no journal
+- fix driving
 
 Torico
+Sarah
+ We still need to decorate the entire robot, build the outer shell for the head and other components, and reinforce the joints and connections between the arms and shoulders to ensure stable movement.
 - arduino mega (also the circuit board)
 - neck structure (servo+board cut)
 - Fix the middle column
 - Fix mega to the middle column
 - code+test servo!!!!!!!!
+- music maker shield
 
-Joy
-- no list
 
-Meera
-- no list
 
-Ghadir (?)
+Mustafa
+Ghadir
+- Next steps, we want to add the rotating head with expressions, 
 - Shoulder, 2 servos, 
 - arms, one more servo, 
 - extended base, 
@@ -611,13 +611,16 @@ Ghadir (?)
 - start building head
 
 Ali
-- NeoPixels
-
 Hari
 - no list
+- NeoPixels
 
+
+Joy
+- no list
 Mariam
 - Attach the servo motors to the ears 
 - attach the ears to the head
 - Code ear movement
 - Code eyes with the neopixels
+- mms

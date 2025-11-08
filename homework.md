@@ -399,11 +399,11 @@ lot of catching up to do:
     1.1. Two Anker batteries: One for the Arduino Uno on the base and another for
 the Arduino Mega controlling the robot features. Ask me if you do not have them.
 1. Put your names on anything that is not attached to the robot:
-    1.1. Six AA batteries in the hobby RC transmitter
-    1.1. Two Anker batteries
-    1.1. Hobby RC transmitter
-    1.1. nRF radio system transmitter
-    1.1. Talentcell battery charger (it's the one that says 12.6V)
-    1.1. Amplifier
+	1.1. Six AA batteries in the hobby RC transmitter
+	1.1. Two Anker batteries
+	1.1. Hobby RC transmitter
+	1.1. nRF radio system transmitter
+	1.1. Talentcell battery charger (it's the one that says 12.6V)
+	1.1. Amplifier
 1. Make sure that your robot can still drive! Last Thursday only one robot was
    able to drive (who was that?)

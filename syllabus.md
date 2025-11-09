@@ -3,7 +3,6 @@ Shortcut to [today's lecture](lectureNotes.md#todays-lecture)
 Shortcut to [play
 script](https://docs.google.com/document/d/1j0KADb83ufT4OnbhTfyRpN-7AbmNvH17S0KhKeWV_Zc/edit?tab=t.0)  
 Shortcut to [research presentations](https://docs.google.com/spreadsheets/d/1H67fPcgNpJAw_h9IF7Uh4UINfpykP3S3smrm_njblvk/edit?usp=sharing)
-Shortcut to [research presentations](https://docs.google.com/spreadsheets/d/1H67fPcgNpJAw_h9IF7Uh4UINfpykP3S3smrm_njblvk/edit?usp=sharing)
 
 #### New York University Abu Dhabi  
 #### Interactive Media Program

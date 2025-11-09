@@ -410,3 +410,4 @@ the Arduino Mega controlling the robot features. Ask me if you do not have them.
 	1. Amplifier
 1. Make sure that your robot can still drive! Last Thursday only one robot was
    able to drive (who was that?)
+1. Make progress implementing necessary features (added Sunday)

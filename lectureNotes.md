@@ -527,7 +527,6 @@ https://github.com/michaelshiloh/resourcesForClasses/blob/master/kicad/Arduino_S
 https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSketches/nRF24L01/rf24PerformingRobotsTemplate_2025
 
 
-##### todays-lecture
 ### Tuesday November 4
 - Everyone should have their nRF radio system communicating. 
     - Did anyone not?
@@ -541,7 +540,7 @@ https://github.com/michaelshiloh/resourcesForClasses/tree/master/src/arduinoSket
     - Victor and Sudiksha	
     - Aysha and Ghadir
 
-### Thursday October 31
+### Thursday November 6
 - Dubai Design Week
 - Tool warning
 - Presentation (Joy and Sarah)
@@ -569,8 +568,6 @@ passengers.
 
 Missing features:
 
-
-
 Meera
 - does have list
 Victor *
@@ -591,7 +588,9 @@ Sudiksha - no journal
 
 Torico
 Sarah
- We still need to decorate the entire robot, build the outer shell for the head and other components, and reinforce the joints and connections between the arms and shoulders to ensure stable movement.
+- We still need to decorate the entire robot, build the outer shell for the
+  head and other components, and reinforce the joints and connections between
+  the arms and shoulders to ensure stable movement.
 - arduino mega (also the circuit board)
 - neck structure (servo+board cut)
 - Fix the middle column
@@ -624,3 +623,25 @@ Mariam
 - Code ear movement
 - Code eyes with the neopixels
 - mms
+
+##### todays-lecture
+### Tuesday November 11
+- Homework
+- Calendar
+- Presentations
+
+#### Homework
+Who completed:
+- nRF system to control at least one feature
+- nRF system to control MMS 2 sound clips
+- All batteries charged
+- Names on all items
+- Robot can drive
+
+#### Calendar
+11,13; 18,20; 25,27; 2,4; 9
+
+#### Presentations
+Ali, Mustafa	
+Hari, Torico	
+Joy, Meera

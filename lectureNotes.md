@@ -645,3 +645,17 @@ Who completed:
 Ali, Mustafa	
 Hari, Torico	
 Joy, Meera
+
+
+### Thursday November 13
+- Homework
+- Clean up
+- Rehearsal
+
+#### Homework
+Who completed:
+- nRF system to control at least one feature
+- nRF system to control MMS 2 sound clips
+- All batteries charged
+- Names on all items
+- Robot can drive

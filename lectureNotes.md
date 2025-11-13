@@ -649,6 +649,8 @@ Joy, Meera
 
 ### Thursday November 13
 - Homework
+- Robot status
+- Weekend hours
 - Clean up
 - Rehearsal
 
@@ -659,3 +661,10 @@ Who completed:
 - All batteries charged
 - Names on all items
 - Robot can drive
+
+#### Robot status
+- Clara/Jihi - control panel
+- Sudiksha/Aysha - driving
+- Joy/Mariam - extra caster
+
+#### Weekend hours

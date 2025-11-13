@@ -41,7 +41,7 @@ Welcome to Performing Robots. All class material can be found here.
 
 [Homework](homework.md) 
 
-Student Github [repositories](studentRepositories.md)
+Student Github [repositories](studentRepos.md)
 
 Student [presentations](studentPresentations.md)
 

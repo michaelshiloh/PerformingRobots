@@ -673,23 +673,83 @@ Who completed:
 - Robot status
 - Calendar
 - Plan
+- Rehearsal
 
 - What is left for each robot
 - What is your schedule for finishing it
 
 #### Robot status
-- Meera Victor 
 - Clara Jiho 
-- Aysha Sudiksha 
+    - hands
+    - sound clips
+    - clothing
+    - paint hands and face
+    - wire management
 - Torico Sarah
-- Mustafa Ghadir
-- Ali Hari
+    - cases
+    - sound clips
+    - clothing
+    - paint hands and face
+    - wire management
 - Joy Mariam
+    - attach head
+    - cases
+    - ears
+    - eye
+    - sprites
+    - cases
+    - sound clips
+    - clothing
+    - paint hands and face
+    - wire management
+- Meera Victor 
+    - audio issue
+    - decoration
+    - drum
+    - faster motor
+    - wire management
+- Aysha Sudiksha 
+    - attach music shield
+    - fix one motor only goes in one direction
+    - cigar
+    - neopixel ring on cigar
+    - fix nRF intermittence
+    - sound clips
+    - cases
+    - wire management
+- Mustafa Ghadir
+    - sound clips
+    - other arm
+    - arm attachments
+    - casters too low
+    - paint
+    - clothing
+    - wire management
+- Ali Hari
+    - glue back and front to robot
+    - 3D arms
+    - cases
+    - hands
+    - clothing
+    - wire management
 
 #### Calendar
 18,20 (21,22,23)
-25,27 (28,29,30)
-2,4 (5,6,7)
+Friday: Sudiksha, Ghadir
+Saturday: Clara Jiho
+Sunday: sudiksha, aysha (am) Ghadir
+Ali
+25,27 (28,29,30) x,x
+x,4 (5,6,7)
 9
 
-#### Plan
+#### Rehearsal
+
+Some observations from the rehearsal
+- add stage movement instructions to the script
+- practice driving
+- everyone drive trigger F/W and L/R steering wheel
+- add hand movements and/or LED activity when you talk
+- party being spoken to somehow needs to indicate that they are being spoken
+  to
+- need to practice looking at script and controlling at the same time

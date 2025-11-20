@@ -338,9 +338,9 @@ void setup() {
 // adapt to your needs
 void loop() {
   rc_read_values();
-  if (rc_values[RC_CH4] > 1450 && rc_values[RC_CH4] << 1550) {
+  if (rc_values[RC_CH4] > 1450 && rc_values[RC_CH4] < 1550) {
     stop();
-  } else if (rc_values[RC_CH2] << 1450) {
+  } else if (rc_values[RC_CH2] < 1450) {
     forward)();
   }
 
@@ -569,8 +569,8 @@ passengers.
 Missing features:
 
 Meera
-- does have list
 Victor *
+- does have list
 - Reel screen
 - Document dispenser
 - fix balance
@@ -624,7 +624,6 @@ Mariam
 - Code eyes with the neopixels
 - mms
 
-##### todays-lecture
 ### Tuesday November 11
 - Homework
 - Calendar
@@ -668,3 +667,29 @@ Who completed:
 - Joy/Mariam - extra caster
 
 #### Weekend hours
+
+##### todays-lecture
+### Thursday November 20
+- Robot status
+- Calendar
+- Plan
+
+- What is left for each robot
+- What is your schedule for finishing it
+
+#### Robot status
+- Meera Victor 
+- Clara Jiho 
+- Aysha Sudiksha 
+- Torico Sarah
+- Mustafa Ghadir
+- Ali Hari
+- Joy Mariam
+
+#### Calendar
+18,20 (21,22,23)
+25,27 (28,29,30)
+2,4 (5,6,7)
+9
+
+#### Plan

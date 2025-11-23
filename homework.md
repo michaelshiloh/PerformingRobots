@@ -382,7 +382,6 @@ accomplish each week
 1. Use the nRF radio system to control the Music Maker Shield for at least two
    different sound clips
 
-#### todays-assignment
 ### Assignments Due Tuesday November 11
 Our walk through on Thursday was pretty sad. 
 I think that only one of you was able to play any sound clip (who was that?)
@@ -411,3 +410,17 @@ the Arduino Mega controlling the robot features. Ask me if you do not have them.
 1. Make sure that your robot can still drive! Last Thursday only one robot was
    able to drive (who was that?)
 1. Make progress implementing necessary features (added Sunday)
+
+#### todays-assignment
+### Assignments Due Tuesday November 25
+We are now 15 days away from our performance. In the 9 years that I've taught
+this class, we have never been so far behind. What went wrong? Here is what I
+want from you on Tuesday:
+
+Last Thursday we made a list of the
+[status](https://github.com/michaelshiloh/PerformingRobots/blob/master/lectureNotes.md#robot-status)
+of each robot. 
+* I want each of you to make a schedule showing how you 
+will have each of these problems solved
+by Friday November 28 which is already
+ridiculously late

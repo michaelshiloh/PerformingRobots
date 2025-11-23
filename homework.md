@@ -422,5 +422,6 @@ Last Thursday we made a list of the
 of each robot. 
 * I want each of you to make a schedule showing how you 
 will have each of these problems solved
-by Friday November 28 which is already
+by **Friday November 28** which is already
 ridiculously late
+* Put this schedule in your journal so that I can inspect it

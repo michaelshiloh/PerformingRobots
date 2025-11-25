@@ -678,61 +678,6 @@ Who completed:
 - What is left for each robot
 - What is your schedule for finishing it
 
-#### Robot status
-- Clara Jiho 
-    - hands
-    - sound clips
-    - clothing
-    - paint hands and face
-    - wire management
-- Torico Sarah
-    - cases
-    - sound clips
-    - clothing
-    - paint hands and face
-    - wire management
-- Joy Mariam
-    - attach head
-    - cases
-    - ears
-    - eye
-    - sprites
-    - cases
-    - sound clips
-    - clothing
-    - paint hands and face
-    - wire management
-- Meera Victor 
-    - audio issue
-    - decoration
-    - drum
-    - faster motor
-    - wire management
-- Aysha Sudiksha 
-    - attach music shield
-    - fix one motor only goes in one direction
-    - cigar
-    - neopixel ring on cigar
-    - fix nRF intermittence
-    - sound clips
-    - cases
-    - wire management
-- Mustafa Ghadir
-    - sound clips
-    - other arm
-    - arm attachments
-    - casters too low
-    - paint
-    - clothing
-    - wire management
-- Ali Hari
-    - glue back and front to robot
-    - 3D arms
-    - cases
-    - hands
-    - clothing
-    - wire management
-
 #### Calendar
 18,20 (21,22,23)
 Friday: Sudiksha, Ghadir
@@ -753,3 +698,99 @@ Some observations from the rehearsal
 - party being spoken to somehow needs to indicate that they are being spoken
   to
 - need to practice looking at script and controlling at the same time
+
+#### Robot status
+- Clara Jiho 
+    - hands
+    - re-attach arms
+    - sound clips - done
+    - clothing - have plan
+    - paint hands and face - have plan
+- Torico Sarah
+    - cases - will be done by saturday
+    - sound clips - done
+    - clothing - will do monday or tuesday
+    - paint hands and face - Monday or Tuesday
+- Joy Mariam
+    - attach head - done by thursday
+    - ears - done
+    - eye - done
+    - sprites- done
+    - sound clips - done
+    - clothing - this weekend
+    - paint hands and face - done
+- Meera Victor 
+    - audio issue - untested
+    - decoration - today
+    - drum - done
+    - faster motor - thursday
+- Aysha Sudiksha 
+    - attach music shield - done
+    - fix one motor only goes in one direction - done
+    - cigar - today
+    - neopixel ring on cigar - done
+    - fix nRF intermittence - mysteriously vanished
+    - sound clips - done
+    - cases - need to calibrate angles
+    - speaker has static - thursday
+    - stuffing body - over the break
+    - painting the face - over the break
+- Mustafa Ghadir
+    - other arm - by the end of this weekend
+    - arm attachments  - by the end of this weekend
+    - casters too low - done
+    - paint - by the end of this weekend
+    - clothing: pants and stuffing
+    - visit costume shop - by the end of Friday (in case it's closed on the
+      weekend)
+    - NeoPixel strips - end of the weekend
+- Ali Hari
+    - adapt and glue back and front to robot - wednesday
+    - 3D arms - today
+    - cases - done
+    - hands - today
+    - clothing - done
+
+HOMEWORK by thursday
+- read through script 
+- modify if you want
+- be done by Thursday class time
+- finish sound clips and case statements by saturday
+- Reserve studio 45 for Thursday rehearsal (MS)
+- look at script and add robot placement as necessary (MS)
+
+
+THURSDAY
+- script is finished by class time
+- rehearse full play although possibly reading some sound clips
+- wire management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kj

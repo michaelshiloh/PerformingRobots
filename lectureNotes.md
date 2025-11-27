@@ -723,35 +723,23 @@ THURSDAY
 
 #### Robot status
 - Clara Jiho 
-    - hands
-    - re-attach arms
-    - sound clips - done
-    - clothing - have plan
-    - paint hands and face - have plan
+    - clothing - thursday night
+    - paint hands - thursday night
+    - face - not done
+    - hands - not done
 - Torico Sarah
-    - cases - will be done by saturday
-    - sound clips - done
+    - sound clips
+    - LED strips - 
     - clothing - will do monday or tuesday
     - paint hands and face - Monday or Tuesday
 - Joy Mariam
     - attach head - done by thursday
-    - ears - done
-    - eye - done
-    - sprites- done
-    - sound clips - done
     - clothing - this weekend
-    - paint hands and face - done
 - Meera Victor 
-    - audio issue - untested
     - decoration - today
-    - drum - done
     - faster motor - thursday
 - Aysha Sudiksha 
-    - attach music shield - done
-    - fix one motor only goes in one direction - done
     - cigar - today
-    - neopixel ring on cigar - done
-    - fix nRF intermittence - mysteriously vanished
     - sound clips - done
     - cases - need to calibrate angles
     - speaker has static - thursday
@@ -760,15 +748,13 @@ THURSDAY
 - Mustafa Ghadir
     - other arm - by the end of this weekend
     - arm attachments  - by the end of this weekend
-    - casters too low - done
     - paint - by the end of this weekend
     - clothing: pants and stuffing
     - visit costume shop - by the end of Friday (in case it's closed on the
       weekend)
     - NeoPixel strips - end of the weekend
 - Ali Hari
-    - adapt and glue back and front to robot - wednesday
-    - 3D arms - today
-    - cases - done
-    - hands - today
+    - adapt and glue back and front to robot - 
+    - 3D arms - 
+    - gloves in hands hands - 
     - clothing - done

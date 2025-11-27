@@ -668,7 +668,6 @@ Who completed:
 
 #### Weekend hours
 
-##### todays-lecture
 ### Thursday November 20
 - Robot status
 - Calendar
@@ -698,6 +697,29 @@ Some observations from the rehearsal
 - party being spoken to somehow needs to indicate that they are being spoken
   to
 - need to practice looking at script and controlling at the same time
+
+HOMEWORK by thursday
+- read through script 
+- modify if you want
+- be done by Thursday class time
+- finish sound clips and case statements by saturday
+- Reserve studio 45 for Thursday rehearsal (MS)
+- look at script and add robot placement as necessary (MS)
+
+
+THURSDAY
+- script is finished by class time
+- rehearse full play although possibly reading some sound clips
+- wire management
+
+##### todays-lecture
+### Thursday November 27
+- Update robot status
+- Tools
+- Course Evaluations
+- Rehearse full play although possibly reading some sound clips
+- Wire management
+
 
 #### Robot status
 - Clara Jiho 
@@ -750,47 +772,3 @@ Some observations from the rehearsal
     - cases - done
     - hands - today
     - clothing - done
-
-HOMEWORK by thursday
-- read through script 
-- modify if you want
-- be done by Thursday class time
-- finish sound clips and case statements by saturday
-- Reserve studio 45 for Thursday rehearsal (MS)
-- look at script and add robot placement as necessary (MS)
-
-
-THURSDAY
-- script is finished by class time
-- rehearse full play although possibly reading some sound clips
-- wire management
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-kj

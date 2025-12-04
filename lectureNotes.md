@@ -712,7 +712,6 @@ THURSDAY
 - rehearse full play although possibly reading some sound clips
 - wire management
 
-##### todays-lecture
 ### Thursday November 27
 - Update robot status
 - Tools
@@ -720,6 +719,30 @@ THURSDAY
 - Rehearse full play although possibly reading some sound clips
 - Wire management
 
+##### todays-lecture
+### Thursday December 04
+- Update robot status
+- Announcements
+- Next week plans
+- Homework
+- Wire management
+- Rehearse full play 
+
+##### Announcements
+- Tools - Yay Joy!
+- Course Evaluations - Yay!
+
+##### Next week plans
+- Plan for Monday
+- Plan for Tuesday
+
+##### Homework
+- Charge all batteries
+- Code in Github
+
+##### Wire management
+
+##### Rehearse full play although possibly reading some sound clips
 
 #### Robot status
 - Clara Jiho 

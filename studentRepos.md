@@ -48,4 +48,6 @@ This file: Student Github Repositories and Discord account names
 - [Ghadir](https://github.com/GhadirMadani/performingrobots) - Discord Ghadir Madani
 - [Ali](https://github.com/alinoorisnerd/performingrobots) - Discord alinoor_777
 - [Hari](https://github.com/hj2342/performingrobots) - Discord Hariharan
+- [Hari and Ali
+  code](https://github.com/hj2342/Performing_Robots_Walter-White.git)
 - [Mariam](https://github.com/MariamAlKhoori/) - Discord mariamalkhoori

@@ -719,7 +719,6 @@ THURSDAY
 - Rehearse full play although possibly reading some sound clips
 - Wire management
 
-##### todays-lecture
 ### Thursday December 04
 - Update robot status
 - Announcements
@@ -731,10 +730,6 @@ THURSDAY
 ##### Announcements
 - Tools - Yay Joy!
 - Course Evaluations - Yay!
-
-##### Next week plans
-- Plan for Monday
-- Plan for Tuesday
 
 ##### Homework
 - Charge all batteries
@@ -781,3 +776,25 @@ THURSDAY
     - 3D arms - 
     - gloves in hands hands - 
     - clothing - done
+
+
+##### todays-lecture
+### Plan for week 14
+#### Plan for Monday
+- 3:30-6 first Monday rehearsal in the Black Box
+- 6-7 dinner break for Art Center crew; we can remain in theatre
+- 7-9 second Monday rehearsal
+- After rehearsal: **charge all batteries**
+#### Plan for Tuesday
+- 3-4:45 first Tuesday rehearsal
+- 4:45 
+    - Fresh batteries in speaker
+    - Test speakers
+    - Turn everything off including speakers
+- 5 showcase starts
+- 7:45 be in theatre ready for performance
+- 8pm turn on everything
+#### Plan for Wednesday
+- I will move all your boxes up to my office for restocking all the parts
+  you have in them. If you have any personal belongings please remove
+  them.

@@ -793,7 +793,7 @@ THURSDAY
     - Turn everything off including speakers
 - 5 showcase starts
 - 7:45 be in theatre ready for performance
-- 8pm turn on everything
+- 7:50 turn on everything
 #### Plan for Wednesday
 - I will move all your boxes up to my office for restocking all the parts
   you have in them. If you have any personal belongings please remove

@@ -784,6 +784,7 @@ THURSDAY
 - 3:30-6 first Monday rehearsal in the Black Box
 - 6-7 dinner break for Art Center crew; we can remain in theatre
 - 7-9 second Monday rehearsal
+- 9pm return all tools and unused items to their places
 - After rehearsal: **charge all batteries**
 #### Plan for Tuesday
 - 3-4:45 first Tuesday rehearsal
@@ -794,6 +795,9 @@ THURSDAY
 - 5 showcase starts
 - 7:45 be in theatre ready for performance
 - 7:50 turn on everything
+- after show
+    - Move all robots to (location TBA)
+
 #### Plan for Wednesday
 - I will move all your boxes up to my office for restocking all the parts
   you have in them. If you have any personal belongings please remove
